@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/rezept/0247_thailaendischer-phla-nuea/",
+        "title": "Thailändischer Phla Nuea",
+        "summary": "Rindleischsalat mit viel Zitronengras",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0247/phla_nuea.jpg",
+        "tags": "thailändisch rind salat zitronengras",
+        "date": "05.10.2020"
+    }
+        
+    , 
+    {   
         "url": "/mittagspause/fotos/2020/10/02/",
         "title": "Hackfleisch Curry mit Ramen",
         "summary": "Heute in der Mittagspause",
