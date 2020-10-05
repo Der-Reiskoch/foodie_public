@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>münchen on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/munchen/</link>
+    <description>Recent content in münchen on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 13 Apr 2019 05:31:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/munchen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Restaurant Bamyan Narges</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/restaurant-bamyan-narges/</link>
+      <pubDate>Sat, 13 Apr 2019 05:31:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/restaurant-bamyan-narges/</guid>
+      <description>Sehr gute afghanische Küche in München</description>
+    </item>
+    
+  </channel>
+</rss>

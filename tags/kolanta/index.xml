@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kolanta on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/kolanta/</link>
+    <description>Recent content in kolanta on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 31 Jan 2019 07:04:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/kolanta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lanta Meeting Point in Klong Khong</title>
+      <link>https://foodie.yamwoonsen.de/reisen/lanta-meeting-point-in-klong-khong/</link>
+      <pubDate>Thu, 31 Jan 2019 07:04:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/reisen/lanta-meeting-point-in-klong-khong/</guid>
+      <description>Von Mama Oy lecker bekocht</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Three Sisters in Klong Khong</title>
+      <link>https://foodie.yamwoonsen.de/reisen/restaurant-three-sisters-in-klong-khong/</link>
+      <pubDate>Mon, 28 Jan 2019 06:55:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/reisen/restaurant-three-sisters-in-klong-khong/</guid>
+      <description>Unser Thai Menü zu Silvester</description>
+    </item>
+    
+  </channel>
+</rss>

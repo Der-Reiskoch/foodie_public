@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suchen und Finden on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/suchen/</link>
+    <description>Recent content in Suchen und Finden on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 01 Aug 2020 16:24:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/suchen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zufall</title>
+      <link>https://foodie.yamwoonsen.de/suchen/zufall/</link>
+      <pubDate>Sat, 01 Aug 2020 16:24:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/suchen/zufall/</guid>
+      <description>Zufälliger Beitrag</description>
+    </item>
+    
+    <item>
+      <title>Aktuell</title>
+      <link>https://foodie.yamwoonsen.de/suchen/aktuell/</link>
+      <pubDate>Mon, 27 Jul 2020 01:24:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/suchen/aktuell/</guid>
+      <description>Verlinkung zum letzten Beitrag</description>
+    </item>
+    
+    <item>
+      <title>Übersicht nach Landesküchen</title>
+      <link>https://foodie.yamwoonsen.de/suchen/uebersicht-nach-landeskuechen/</link>
+      <pubDate>Sat, 25 Jul 2020 01:24:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/suchen/uebersicht-nach-landeskuechen/</guid>
+      <description>Meine Beiträge sortiert nach Ländern</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sesam on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/sesam/</link>
+    <description>Recent content in sesam on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 12 Apr 2018 06:49:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/sesam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Koreanischer Broccoli mit Sesam</title>
+      <link>https://foodie.yamwoonsen.de/rezept/koreanischer-broccoli-mit-sesam/</link>
+      <pubDate>Thu, 12 Apr 2018 06:49:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/koreanischer-broccoli-mit-sesam/</guid>
+      <description>Eine schnelle, leckere Beilage</description>
+    </item>
+    
+    <item>
+      <title>Japanischer Schwarzwurzelsalat</title>
+      <link>https://foodie.yamwoonsen.de/nachgekocht/japanischer-schwarzwurzelsalat/</link>
+      <pubDate>Thu, 20 Jul 2017 10:01:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/nachgekocht/japanischer-schwarzwurzelsalat/</guid>
+      <description>Ein sehr schneller Salat</description>
+    </item>
+    
+    <item>
+      <title>Japanischer Gurkensalat mit Sesam</title>
+      <link>https://foodie.yamwoonsen.de/rezept/japanischer-gurkensalat-mit-sesam/</link>
+      <pubDate>Thu, 29 Jan 2015 06:58:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/japanischer-gurkensalat-mit-sesam/</guid>
+      <description>schnell und lecker</description>
+    </item>
+    
+  </channel>
+</rss>

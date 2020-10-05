@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dip on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/dip/</link>
+    <description>Recent content in dip on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 17 Sep 2020 00:13:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/dip/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thailändischer Auberginen Dip</title>
+      <link>https://foodie.yamwoonsen.de/rezept/thailaendischer-auberginen-dip/</link>
+      <pubDate>Thu, 17 Sep 2020 00:13:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/thailaendischer-auberginen-dip/</guid>
+      <description>Nach dem Rezept von Phayao</description>
+    </item>
+    
+    <item>
+      <title>Thailändische Nam Jim Seafood</title>
+      <link>https://foodie.yamwoonsen.de/rezept/thailaendische-nam-jim-seafood/</link>
+      <pubDate>Fri, 03 Jul 2020 18:12:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/thailaendische-nam-jim-seafood/</guid>
+      <description>Der klassische Dip zu allem aus dem Meer</description>
+    </item>
+    
+    <item>
+      <title>Thailändische Nam Jim Jaew</title>
+      <link>https://foodie.yamwoonsen.de/rezept/thailaendische-nam-jim-jaew/</link>
+      <pubDate>Fri, 19 Jun 2020 07:54:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/thailaendische-nam-jim-jaew/</guid>
+      <description>Der klassische Dip zu getrocknetem Fleisch</description>
+    </item>
+    
+    <item>
+      <title>Selbstgemachte Chipotle Salsa</title>
+      <link>https://foodie.yamwoonsen.de/rezept/selbstgemachte-chipotle-salsa/</link>
+      <pubDate>Thu, 20 Dec 2018 06:42:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/selbstgemachte-chipotle-salsa/</guid>
+      <description>Rauchig und scharf</description>
+    </item>
+    
+    <item>
+      <title>Selbstgemachte Salsa Roja</title>
+      <link>https://foodie.yamwoonsen.de/rezept/selbstgemachte-salsa-roja/</link>
+      <pubDate>Sat, 19 Nov 2011 05:50:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/selbstgemachte-salsa-roja/</guid>
+      <description>Rote Salsa Sauce</description>
+    </item>
+    
+  </channel>
+</rss>

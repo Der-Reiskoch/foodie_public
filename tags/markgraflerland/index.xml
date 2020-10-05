@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markgräflerland on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/markgraflerland/</link>
+    <description>Recent content in markgräflerland on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 22 Jun 2020 08:39:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/markgraflerland/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leckere Markgräfler Scharwaie</title>
+      <link>https://foodie.yamwoonsen.de/rezept/original-markgrafler-scharwaie/</link>
+      <pubDate>Mon, 22 Jun 2020 08:39:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/original-markgrafler-scharwaie/</guid>
+      <description>Passt perfekt zu Wein</description>
+    </item>
+    
+    <item>
+      <title>Feuerbacher Steingässle</title>
+      <link>https://foodie.yamwoonsen.de/fluessiges/feuerbacher-steingassle/</link>
+      <pubDate>Sun, 27 Sep 2015 10:33:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/fluessiges/feuerbacher-steingassle/</guid>
+      <description>Von der Bezirkskellerei Markgräflerland</description>
+    </item>
+    
+    <item>
+      <title>Markgräfler Grumbieresalat</title>
+      <link>https://foodie.yamwoonsen.de/rezept/markgrafler-grumbieresalat/</link>
+      <pubDate>Mon, 30 Jul 2012 10:18:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/markgrafler-grumbieresalat/</guid>
+      <description>Kartoffelsalat mit Löwenzahn</description>
+    </item>
+    
+  </channel>
+</rss>

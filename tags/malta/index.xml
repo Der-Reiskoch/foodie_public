@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>malta on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/malta/</link>
+    <description>Recent content in malta on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 28 Sep 2017 07:06:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/malta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Urlaubsmitbringsel von Malta</title>
+      <link>https://foodie.yamwoonsen.de/dies-und-das/urlaubsmitbringsel-von-malta/</link>
+      <pubDate>Thu, 28 Sep 2017 07:06:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/dies-und-das/urlaubsmitbringsel-von-malta/</guid>
+      <description>Meersalz und Kochbuch</description>
+    </item>
+    
+    <item>
+      <title>Leckeres Essen auf Malta</title>
+      <link>https://foodie.yamwoonsen.de/reisen/leckeres-essen-auf-malta/</link>
+      <pubDate>Wed, 27 Sep 2017 06:40:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/reisen/leckeres-essen-auf-malta/</guid>
+      <description>Fisch, Meeresfrüchte und Kaninchen</description>
+    </item>
+    
+  </channel>
+</rss>

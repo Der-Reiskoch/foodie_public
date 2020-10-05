@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>köln on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/koln/</link>
+    <description>Recent content in köln on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 05 Dec 2018 06:02:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/koln/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Restaurant Great Wall in Köln</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/restaurant-great-wall-in-koln/</link>
+      <pubDate>Wed, 05 Dec 2018 06:02:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/restaurant-great-wall-in-koln/</guid>
+      <description>Außergewöhnliche chinesische Gerichte</description>
+    </item>
+    
+  </channel>
+</rss>

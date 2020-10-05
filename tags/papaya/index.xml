@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>papaya on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/papaya/</link>
+    <description>Recent content in papaya on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 07 Aug 2017 09:34:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/papaya/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grünes Curry und Som Tam Isaan</title>
+      <link>https://foodie.yamwoonsen.de/nachgekocht/grunes-curry-und-som-tam-isaan/</link>
+      <pubDate>Mon, 07 Aug 2017 09:34:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/nachgekocht/grunes-curry-und-som-tam-isaan/</guid>
+      <description>Zwei Klassiker an einem Abend</description>
+    </item>
+    
+    <item>
+      <title>Som Tam als Pok-Pok-Event</title>
+      <link>https://foodie.yamwoonsen.de/dies-und-das/som-tam-als-pok-pok-event/</link>
+      <pubDate>Sat, 22 Apr 2017 11:22:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/dies-und-das/som-tam-als-pok-pok-event/</guid>
+      <description>Thailändischer Papaya Salat</description>
+    </item>
+    
+    <item>
+      <title>Thailändischer Som Tam</title>
+      <link>https://foodie.yamwoonsen.de/rezept/thailaendischer-som-tam/</link>
+      <pubDate>Mon, 30 Jul 2012 08:44:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/thailaendischer-som-tam/</guid>
+      <description>Papaya Salat nach Tuks Originalrezept</description>
+    </item>
+    
+    <item>
+      <title>Papaya mit deftiger Füllung</title>
+      <link>https://foodie.yamwoonsen.de/rezept/deftig-gefullte-papaya/</link>
+      <pubDate>Thu, 12 Apr 2012 07:41:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/deftig-gefullte-papaya/</guid>
+      <description>Einfach mal ganz anders</description>
+    </item>
+    
+  </channel>
+</rss>

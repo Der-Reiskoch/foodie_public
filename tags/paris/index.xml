@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paris on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/paris/</link>
+    <description>Recent content in paris on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 24 May 2017 05:16:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/paris/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Das japanische Viertel in Paris</title>
+      <link>https://foodie.yamwoonsen.de/reisen/das-japanische-viertel-in-paris/</link>
+      <pubDate>Wed, 24 May 2017 05:16:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/reisen/das-japanische-viertel-in-paris/</guid>
+      <description>Rund um die Rue Saint-Anne</description>
+    </item>
+    
+    <item>
+      <title>Ein Dorayaki aus der Pâtisserie Tomo</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/ein-dorayaki-aus-der-patisserie-tomo/</link>
+      <pubDate>Tue, 23 May 2017 06:30:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/ein-dorayaki-aus-der-patisserie-tomo/</guid>
+      <description>Ein japanisches Dessert in Paris</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Japonais Hokkaido</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/restaurant-japonais-hokkaido/</link>
+      <pubDate>Sun, 21 May 2017 10:11:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/restaurant-japonais-hokkaido/</guid>
+      <description>Ramen im japanischen Viertel von Paris</description>
+    </item>
+    
+    <item>
+      <title>Le Bar à Huîtres: Haute-Mer Restaurant</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/le-bar-a-huitres-haute-mer-restaurant/</link>
+      <pubDate>Sat, 20 May 2017 08:27:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/le-bar-a-huitres-haute-mer-restaurant/</guid>
+      <description>Und plötzlich am Meer</description>
+    </item>
+    
+  </channel>
+</rss>

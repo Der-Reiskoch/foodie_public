@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kokosmilch on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/kokosmilch/</link>
+    <description>Recent content in kokosmilch on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 05 May 2019 09:45:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/kokosmilch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laksa Lemak aus Malaysia</title>
+      <link>https://foodie.yamwoonsen.de/nachgekocht/laksa-lemak-aus-malaysia/</link>
+      <pubDate>Sun, 05 May 2019 09:45:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/nachgekocht/laksa-lemak-aus-malaysia/</guid>
+      <description>Suppe mit Kokosmilch und Garnelen</description>
+    </item>
+    
+    <item>
+      <title>Gewinnpaket von Asia Street Food</title>
+      <link>https://foodie.yamwoonsen.de/dies-und-das/gewinnpaket-von-asia-street-food/</link>
+      <pubDate>Sun, 16 Aug 2015 07:07:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/dies-und-das/gewinnpaket-von-asia-street-food/</guid>
+      <description>Reis und Kokos</description>
+    </item>
+    
+    <item>
+      <title>Kokos-Suppe mit Karotten und Ingwer</title>
+      <link>https://foodie.yamwoonsen.de/rezept/kokos-suppe-mit-karotten-und-ingwer/</link>
+      <pubDate>Wed, 18 Dec 2013 08:33:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/kokos-suppe-mit-karotten-und-ingwer/</guid>
+      <description>Lecker fruchtig und cremig</description>
+    </item>
+    
+  </channel>
+</rss>

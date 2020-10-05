@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>laos on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/laos/</link>
+    <description>Recent content in laos on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 31 Aug 2014 07:22:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/laos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laotisches Kare Stir Fry mit Shrimps</title>
+      <link>https://foodie.yamwoonsen.de/nachgekocht/laotisches-kare-stir-fry-mit-shrimps/</link>
+      <pubDate>Sun, 31 Aug 2014 07:22:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/nachgekocht/laotisches-kare-stir-fry-mit-shrimps/</guid>
+      <description>Ein leckeres Pfannencurry</description>
+    </item>
+    
+    <item>
+      <title>Laotisches Curry mit Shrimps</title>
+      <link>https://foodie.yamwoonsen.de/nachgekocht/laotisches-curry-mit-shrimps/</link>
+      <pubDate>Sat, 30 Aug 2014 01:45:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/nachgekocht/laotisches-curry-mit-shrimps/</guid>
+      <description>Mit selbstgemachter Currypaste</description>
+    </item>
+    
+  </channel>
+</rss>

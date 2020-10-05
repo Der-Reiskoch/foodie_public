@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speck on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/speck/</link>
+    <description>Recent content in speck on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 17 Apr 2020 06:12:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/speck/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Italienische Pasta Carbonara</title>
+      <link>https://foodie.yamwoonsen.de/rezept/italienische-pasta-carbonara/</link>
+      <pubDate>Fri, 17 Apr 2020 06:12:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/italienische-pasta-carbonara/</guid>
+      <description>So einfach und doch so lecker</description>
+    </item>
+    
+  </channel>
+</rss>

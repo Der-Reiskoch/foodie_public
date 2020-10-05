@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pasta on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/pasta/</link>
+    <description>Recent content in pasta on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 17 Apr 2020 06:12:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Italienische Pasta Carbonara</title>
+      <link>https://foodie.yamwoonsen.de/rezept/italienische-pasta-carbonara/</link>
+      <pubDate>Fri, 17 Apr 2020 06:12:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/italienische-pasta-carbonara/</guid>
+      <description>So einfach und doch so lecker</description>
+    </item>
+    
+    <item>
+      <title>Mittagstisch im Ristorante Borsalino</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/mittagstisch-im-ristorante-borsalino/</link>
+      <pubDate>Tue, 28 Jan 2020 10:48:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/mittagstisch-im-ristorante-borsalino/</guid>
+      <description>Solide italienische Gerichte zum kleinen Preis</description>
+    </item>
+    
+    <item>
+      <title>Ristorante La Dolce Vita in Durlach</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/ristorante-la-dolce-vita-in-durlach/</link>
+      <pubDate>Thu, 23 Jan 2020 08:11:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/ristorante-la-dolce-vita-in-durlach/</guid>
+      <description>Gute italienische Küche in der Altstadt</description>
+    </item>
+    
+    <item>
+      <title>Pasta con colatura di alici</title>
+      <link>https://foodie.yamwoonsen.de/rezept/pasta-con-colatura-di-alici/</link>
+      <pubDate>Tue, 18 Dec 2018 05:46:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/pasta-con-colatura-di-alici/</guid>
+      <description>Simpel aber so lecker</description>
+    </item>
+    
+    <item>
+      <title>Ristorante Tropea in der Südstadt</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/ristorante-tropea-in-der-sudstadt/</link>
+      <pubDate>Sun, 12 Aug 2018 09:55:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/ristorante-tropea-in-der-sudstadt/</guid>
+      <description>Endlich ein guter Italiener in Laufweite</description>
+    </item>
+    
+    <item>
+      <title>Pasta alla Butterworthese</title>
+      <link>https://foodie.yamwoonsen.de/rezept/pasta-alla-butterworthese/</link>
+      <pubDate>Wed, 31 Aug 2016 10:01:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/pasta-alla-butterworthese/</guid>
+      <description>Bolognese trifft malaysisches Curry</description>
+    </item>
+    
+    <item>
+      <title>Pasta mit Pesto und geriebenem Säumerkäse</title>
+      <link>https://foodie.yamwoonsen.de/rezept/pasta-mit-pesto-und-geriebenem-saumerkase/</link>
+      <pubDate>Wed, 08 Feb 2012 07:22:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/pasta-mit-pesto-und-geriebenem-saumerkase/</guid>
+      <description>Schnell und lecker</description>
+    </item>
+    
+  </channel>
+</rss>

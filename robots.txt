@@ -1,0 +1,20 @@
+User-agent: *
+
+Disallow: /aktuell/
+Disallow: /datenschutz/
+Disallow: /feed/
+Disallow: /fotoalbum/
+Disallow: /impressum/
+Disallow: /karlsmag/
+Disallow: /karten/
+Disallow: /tags/
+Disallow: /mittagspause/fotos/
+Disallow: /speisekarten/
+Disallow: /tags/
+Disallow: /thaifood/fotos/
+Disallow: /thaipause/fotos/
+Disallow: /zufall/
+Disallow: /zufallsrezept/
+Disallow: /zutaten/a-z/
+
+Sitemap: https://foodie.yamwoonsen.de/sitemap.xml

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maronen on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/maronen/</link>
+    <description>Recent content in maronen on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 13 Oct 2019 08:49:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/maronen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gaeng Panaeng Fak Tong Gao Lad</title>
+      <link>https://foodie.yamwoonsen.de/rezept/gaeng-panaeng-fak-tong-gao-lad/</link>
+      <pubDate>Sun, 13 Oct 2019 08:49:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/gaeng-panaeng-fak-tong-gao-lad/</guid>
+      <description>Thai Curry mit Kürbis und Käschte</description>
+    </item>
+    
+    <item>
+      <title>Kerala Chicken Curry mit Kürbis</title>
+      <link>https://foodie.yamwoonsen.de/rezept/kerala-chicken-curry-mit-kurbis/</link>
+      <pubDate>Sun, 14 Oct 2018 10:14:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/kerala-chicken-curry-mit-kurbis/</guid>
+      <description>Südindisches Gericht mit herbstlichen Zutaten</description>
+    </item>
+    
+    <item>
+      <title>Chinesische Maronen mit Auberginen</title>
+      <link>https://foodie.yamwoonsen.de/rezept/chinesische-maronen-mit-auberginen/</link>
+      <pubDate>Fri, 06 Oct 2017 06:45:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/chinesische-maronen-mit-auberginen/</guid>
+      <description>Ein herbstliches Pfannengericht</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>israel on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/israel/</link>
+    <description>Recent content in israel on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 20 Jan 2015 07:51:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/israel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Orientalisches Buffet</title>
+      <link>https://foodie.yamwoonsen.de/nachgekocht/orientalisches-buffet/</link>
+      <pubDate>Tue, 20 Jan 2015 07:51:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/nachgekocht/orientalisches-buffet/</guid>
+      <description>Frei nach Yotam Ottolenghi</description>
+    </item>
+    
+    <item>
+      <title>Weine von meiner Reise nach Israel</title>
+      <link>https://foodie.yamwoonsen.de/fluessiges/weine-von-meiner-reise-nach-israel/</link>
+      <pubDate>Tue, 05 Mar 2013 10:11:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/fluessiges/weine-von-meiner-reise-nach-israel/</guid>
+      <description>Flüssige Souveniers</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Dr. Shakshouka in Jaffa</title>
+      <link>https://foodie.yamwoonsen.de/reisen/restaurant-dr-shakshouka-in-jaffa/</link>
+      <pubDate>Sat, 29 Dec 2012 04:52:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/reisen/restaurant-dr-shakshouka-in-jaffa/</guid>
+      <description>Ein sehr gutes Restaurant mit syrischer Küche</description>
+    </item>
+    
+  </channel>
+</rss>

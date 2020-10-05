@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>minze on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/minze/</link>
+    <description>Recent content in minze on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 23 Jul 2017 11:07:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/minze/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syrisches Tabakh Ruhu</title>
+      <link>https://foodie.yamwoonsen.de/nachgekocht/syrisches-tabakh-ruhu/</link>
+      <pubDate>Sun, 23 Jul 2017 11:07:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/nachgekocht/syrisches-tabakh-ruhu/</guid>
+      <description>Kalbsfleisch mit Gemüse</description>
+    </item>
+    
+    <item>
+      <title>Thailändischer Larb Plaa Salmon</title>
+      <link>https://foodie.yamwoonsen.de/nachgekocht/thailaendischer-larb-plaa-salmon/</link>
+      <pubDate>Sun, 02 Oct 2016 08:11:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/nachgekocht/thailaendischer-larb-plaa-salmon/</guid>
+      <description>Auch Lachs geht als Salat</description>
+    </item>
+    
+    <item>
+      <title>Thailändischer Larb Plaa</title>
+      <link>https://foodie.yamwoonsen.de/rezept/thailaendischer-larb-plaa/</link>
+      <pubDate>Mon, 02 May 2016 07:01:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/thailaendischer-larb-plaa/</guid>
+      <description>Salat aus gehacktem Fisch</description>
+    </item>
+    
+    <item>
+      <title>Hackfleisch-Pfanne mit Hummus</title>
+      <link>https://foodie.yamwoonsen.de/rezept/hackfleisch-pfanne-mit-hummus/</link>
+      <pubDate>Mon, 18 Apr 2016 09:21:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/hackfleisch-pfanne-mit-hummus/</guid>
+      <description>Orientalisch angehaucht</description>
+    </item>
+    
+    <item>
+      <title>Salat aus Wassermelone und Käse</title>
+      <link>https://foodie.yamwoonsen.de/rezept/salat-aus-wassermelone-und-kase/</link>
+      <pubDate>Thu, 18 Jun 2015 07:18:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/salat-aus-wassermelone-und-kase/</guid>
+      <description>Ein erfrischender Sommertraum</description>
+    </item>
+    
+  </channel>
+</rss>

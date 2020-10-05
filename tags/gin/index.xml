@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gin on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/gin/</link>
+    <description>Recent content in gin on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 19 Jun 2015 09:14:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/gin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Marder Gin und Tonic Monaco</title>
+      <link>https://foodie.yamwoonsen.de/fluessiges/marder-gin-und-tonic-monaco/</link>
+      <pubDate>Fri, 19 Jun 2015 09:14:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/fluessiges/marder-gin-und-tonic-monaco/</guid>
+      <description>Ein schönes Paar</description>
+    </item>
+    
+    <item>
+      <title>Der Le Mans 24 Cocktail</title>
+      <link>https://foodie.yamwoonsen.de/fluessiges/der-le-mans-24-cocktail/</link>
+      <pubDate>Tue, 08 Jul 2014 07:01:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/fluessiges/der-le-mans-24-cocktail/</guid>
+      <description>Gin mit Zitrone und Sekt</description>
+    </item>
+    
+    <item>
+      <title>Monkey 47 Schwarzwald Dry Gin</title>
+      <link>https://foodie.yamwoonsen.de/fluessiges/monkey-47-schwarzwald-dry-gin/</link>
+      <pubDate>Tue, 05 Mar 2013 09:58:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/fluessiges/monkey-47-schwarzwald-dry-gin/</guid>
+      <description>Der Wunder-Gin aus dem Schwarzwald</description>
+    </item>
+    
+  </channel>
+</rss>

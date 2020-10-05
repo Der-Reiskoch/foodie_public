@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biergarten on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/biergarten/</link>
+    <description>Recent content in biergarten on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 06 Jul 2019 07:55:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/biergarten/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tasca do José in Karlsruhe</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/tasca-do-jose-in-karlsruhe/</link>
+      <pubDate>Sat, 06 Jul 2019 07:55:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/tasca-do-jose-in-karlsruhe/</guid>
+      <description>Kurzurlaub in Portugal</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Fünf in Karlsruhe</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/restaurant-fuenf-in-karlsruhe/</link>
+      <pubDate>Thu, 27 Jun 2019 07:09:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/restaurant-fuenf-in-karlsruhe/</guid>
+      <description>Slowfood in der Nordstadt</description>
+    </item>
+    
+  </channel>
+</rss>

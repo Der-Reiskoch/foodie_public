@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kokosnuss on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/kokosnuss/</link>
+    <description>Recent content in kokosnuss on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 16 Jul 2018 23:10:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/kokosnuss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Moo Grob Nam Ma Prao</title>
+      <link>https://foodie.yamwoonsen.de/rezept/moo-grob-nam-ma-prao/</link>
+      <pubDate>Mon, 16 Jul 2018 23:10:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/moo-grob-nam-ma-prao/</guid>
+      <description>Knuspriger Schweinebauch in Kokosmilch</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abholservice on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/abholservice/</link>
+    <description>Recent content in abholservice on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 13 Jun 2020 09:02:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/abholservice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Abholservice des Restaurant Garbo</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/abholservice-des-restaurant-garbo/</link>
+      <pubDate>Sat, 13 Jun 2020 09:02:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/abholservice-des-restaurant-garbo/</guid>
+      <description>Gutbürgerliche Küche aus Eggenstein</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Kesselhaus@Home</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/restaurant-kesselhaushome/</link>
+      <pubDate>Sun, 29 Mar 2020 07:48:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/restaurant-kesselhaushome/</guid>
+      <description>Wir Foodies bleiben Zuhause</description>
+    </item>
+    
+  </channel>
+</rss>

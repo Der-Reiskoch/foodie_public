@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mango on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/mango/</link>
+    <description>Recent content in mango on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 06 Apr 2020 06:23:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/mango/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thailändischer Som Tam Mamuang</title>
+      <link>https://foodie.yamwoonsen.de/rezept/thailaendischer-som-tam-mamuang/</link>
+      <pubDate>Mon, 06 Apr 2020 06:23:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/thailaendischer-som-tam-mamuang/</guid>
+      <description>Salat aus halbreifer Mango</description>
+    </item>
+    
+    <item>
+      <title>Mango-Tomaten-Salat aus Tansania</title>
+      <link>https://foodie.yamwoonsen.de/rezept/mango-tomaten-salat-aus-tansania/</link>
+      <pubDate>Tue, 01 Nov 2016 07:49:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/mango-tomaten-salat-aus-tansania/</guid>
+      <description>Schneller Salat mit wenigen Zutaten</description>
+    </item>
+    
+  </channel>
+</rss>

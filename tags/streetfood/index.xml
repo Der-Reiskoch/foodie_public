@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>streetfood on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/streetfood/</link>
+    <description>Recent content in streetfood on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 11 Sep 2016 09:22:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/streetfood/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Foodtruck Convention in Karlsruhe</title>
+      <link>https://foodie.yamwoonsen.de/dies-und-das/foodtruck-convention-in-karlsruhe/</link>
+      <pubDate>Sun, 11 Sep 2016 09:22:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/dies-und-das/foodtruck-convention-in-karlsruhe/</guid>
+      <description>Auf ein Curry vor dem Schloss</description>
+    </item>
+    
+  </channel>
+</rss>

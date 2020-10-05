@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Übersicht meiner Karten on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/karten/</link>
+    <description>Recent content in Übersicht meiner Karten on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/karten/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asialäden in Karlsruhe</title>
+      <link>https://foodie.yamwoonsen.de/karten/einkaufen/asialaeden-karlsruhe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/karten/einkaufen/asialaeden-karlsruhe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restaurant Karte für Karlsruhe</title>
+      <link>https://foodie.yamwoonsen.de/karten/restaurants/karlsruhe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/karten/restaurants/karlsruhe/</guid>
+      <description>Wo man gut Essen gehen kann</description>
+    </item>
+    
+  </channel>
+</rss>

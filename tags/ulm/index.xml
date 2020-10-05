@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ulm on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/ulm/</link>
+    <description>Recent content in ulm on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 11 Sep 2016 08:30:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/ulm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Urban Monk Bier aus Ulm</title>
+      <link>https://foodie.yamwoonsen.de/fluessiges/urban-monk-bier-aus-ulm/</link>
+      <pubDate>Sun, 11 Sep 2016 08:30:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/fluessiges/urban-monk-bier-aus-ulm/</guid>
+      <description>Ein leckeres Craftbeer</description>
+    </item>
+    
+  </channel>
+</rss>

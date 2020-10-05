@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Info on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/info/</link>
+    <description>Recent content in Info on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 07 Jul 2016 14:24:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Über mich und meinen Blog</title>
+      <link>https://foodie.yamwoonsen.de/info/ueber-mich/</link>
+      <pubDate>Thu, 07 Jul 2016 14:24:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/info/ueber-mich/</guid>
+      <description>Wer steckt hinter foodie.yamwoonsen.de?</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://foodie.yamwoonsen.de/info/impressum/</link>
+      <pubDate>Thu, 07 Jul 2016 14:00:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/info/impressum/</guid>
+      <description>foodie.yamwoonsen.de</description>
+    </item>
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://foodie.yamwoonsen.de/info/datenschutz/</link>
+      <pubDate>Thu, 07 Jul 2016 13:00:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/info/datenschutz/</guid>
+      <description>foodie.yamwoonsen.de</description>
+    </item>
+    
+  </channel>
+</rss>

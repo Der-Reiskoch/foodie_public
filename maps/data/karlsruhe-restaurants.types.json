@@ -1,0 +1,26 @@
+{
+    "africa":{
+       "label":"africa",
+       "color":"#cccc00"
+    },
+    "asia":{
+       "label":"asia",
+       "color":"#4B2971"
+    },
+    "burger":{
+       "label":"burger",
+       "color":"#ff3322"
+    },
+    "german":{
+       "label":"german",
+       "color":"#ff9900"
+    },
+    "india":{
+       "label":"india",
+       "color":"#BB2971"
+    },
+    "mediterran":{
+       "label":"mediterran",
+       "color":"#9933cc"
+    }
+ }

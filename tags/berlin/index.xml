@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>berlin on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/berlin/</link>
+    <description>Recent content in berlin on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 04 Mar 2020 06:38:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sichuan Restaurant Tianfu in Berlin</title>
+      <link>https://foodie.yamwoonsen.de/restaurants/sichuan-restaurant-tianfu-in-berlin/</link>
+      <pubDate>Wed, 04 Mar 2020 06:38:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/restaurants/sichuan-restaurant-tianfu-in-berlin/</guid>
+      <description>Hervorragende Szechuan Küche in der Hauptstadt</description>
+    </item>
+    
+    <item>
+      <title>Leckeres Essen auf der Thaiwiese</title>
+      <link>https://foodie.yamwoonsen.de/dies-und-das/leckeres-essen-auf-der-thaiwiese/</link>
+      <pubDate>Tue, 09 May 2017 06:19:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/dies-und-das/leckeres-essen-auf-der-thaiwiese/</guid>
+      <description>Streetfood wie in Bangkok</description>
+    </item>
+    
+    <item>
+      <title>Besuch auf der Thaiwiese in Berlin</title>
+      <link>https://foodie.yamwoonsen.de/dies-und-das/besuch-auf-der-thaiwiese-in-berlin/</link>
+      <pubDate>Sun, 07 May 2017 09:24:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/dies-und-das/besuch-auf-der-thaiwiese-in-berlin/</guid>
+      <description>Wie ein Kurzurlaub in Thailand</description>
+    </item>
+    
+  </channel>
+</rss>

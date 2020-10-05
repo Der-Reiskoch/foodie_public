@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>garnelen on foodie.yamwoonsen.de</title>
+    <link>https://foodie.yamwoonsen.de/tags/garnelen/</link>
+    <description>Recent content in garnelen on foodie.yamwoonsen.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 12 Feb 2020 05:41:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://foodie.yamwoonsen.de/tags/garnelen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sadau Nam Plaa Waan Goong Sod</title>
+      <link>https://foodie.yamwoonsen.de/rezept/sadau-nam-plaa-waan-goong-sod/</link>
+      <pubDate>Wed, 12 Feb 2020 05:41:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/sadau-nam-plaa-waan-goong-sod/</guid>
+      <description>Garnelensnack mit Zweigen vom Niem Baum</description>
+    </item>
+    
+    <item>
+      <title>Thailändischer Yam Sadau Goong Sod</title>
+      <link>https://foodie.yamwoonsen.de/rezept/thailaendischer-yam-sadau-goong-sod/</link>
+      <pubDate>Tue, 28 Jan 2020 10:24:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/thailaendischer-yam-sadau-goong-sod/</guid>
+      <description>Eine ungewohnte Geschmacksexplosion</description>
+    </item>
+    
+    <item>
+      <title>Goong Pad Nam Prik Horapa</title>
+      <link>https://foodie.yamwoonsen.de/rezept/goong-pad-nam-prik-horapa/</link>
+      <pubDate>Thu, 16 Jan 2020 11:13:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/goong-pad-nam-prik-horapa/</guid>
+      <description>Garnelen in Chilipaste mit süßem Basilikum</description>
+    </item>
+    
+  </channel>
+</rss>
