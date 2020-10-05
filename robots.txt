@@ -1,15 +1,15 @@
 User-agent: *
 
 Disallow: /aktuell/
-Disallow: /datenschutz/
 Disallow: /feed/
 Disallow: /fotoalbum/
-Disallow: /impressum/
+Disallow: /info/datenschutz/
+Disallow: /info/impressum/
 Disallow: /karlsmag/
 Disallow: /karten/
-Disallow: /tags/
 Disallow: /mittagspause/fotos/
 Disallow: /speisekarten/
+Disallow: /suchen/
 Disallow: /tags/
 Disallow: /thaifood/fotos/
 Disallow: /thaipause/fotos/
