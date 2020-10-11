@@ -6,10 +6,37 @@
     <description>Recent content in Tags on foodie.yamwoonsen.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 06 Oct 2020 06:09:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2020 14:24:09 +0200</lastBuildDate>
     
 	<atom:link href="https://foodie.yamwoonsen.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>geflügel</title>
+      <link>https://foodie.yamwoonsen.de/tags/geflugel/</link>
+      <pubDate>Sun, 11 Oct 2020 14:24:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/tags/geflugel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pilze</title>
+      <link>https://foodie.yamwoonsen.de/tags/pilze/</link>
+      <pubDate>Sun, 11 Oct 2020 14:24:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/tags/pilze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thailändisch</title>
+      <link>https://foodie.yamwoonsen.de/tags/thailandisch/</link>
+      <pubDate>Sun, 11 Oct 2020 14:24:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/tags/thailandisch/</guid>
+      <description>Andere Landesküchen</description>
+    </item>
     
     <item>
       <title>rind</title>
@@ -27,15 +54,6 @@
       
       <guid>https://foodie.yamwoonsen.de/tags/salat/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Thailändisch</title>
-      <link>https://foodie.yamwoonsen.de/tags/thailandisch/</link>
-      <pubDate>Tue, 06 Oct 2020 06:09:00 +0200</pubDate>
-      
-      <guid>https://foodie.yamwoonsen.de/tags/thailandisch/</guid>
-      <description>Andere Landesküchen</description>
     </item>
     
     <item>
@@ -93,20 +111,29 @@
     </item>
     
     <item>
-      <title>hackfleisch</title>
-      <link>https://foodie.yamwoonsen.de/tags/hackfleisch/</link>
-      <pubDate>Thu, 24 Sep 2020 07:50:00 +0200</pubDate>
+      <title>meeresfrüchte</title>
+      <link>https://foodie.yamwoonsen.de/tags/meeresfruchte/</link>
+      <pubDate>Sat, 26 Sep 2020 12:23:09 +0200</pubDate>
       
-      <guid>https://foodie.yamwoonsen.de/tags/hackfleisch/</guid>
+      <guid>https://foodie.yamwoonsen.de/tags/meeresfruchte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nudeln</title>
       <link>https://foodie.yamwoonsen.de/tags/nudeln/</link>
-      <pubDate>Thu, 24 Sep 2020 07:50:00 +0200</pubDate>
+      <pubDate>Sat, 26 Sep 2020 12:23:09 +0200</pubDate>
       
       <guid>https://foodie.yamwoonsen.de/tags/nudeln/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackfleisch</title>
+      <link>https://foodie.yamwoonsen.de/tags/hackfleisch/</link>
+      <pubDate>Thu, 24 Sep 2020 07:50:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/tags/hackfleisch/</guid>
       <description></description>
     </item>
     
@@ -174,6 +201,15 @@
     </item>
     
     <item>
+      <title>hacklfeisch</title>
+      <link>https://foodie.yamwoonsen.de/tags/hacklfeisch/</link>
+      <pubDate>Sun, 06 Sep 2020 18:24:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/tags/hacklfeisch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>huhn</title>
       <link>https://foodie.yamwoonsen.de/tags/huhn/</link>
       <pubDate>Wed, 02 Sep 2020 06:13:00 +0200</pubDate>
@@ -210,15 +246,6 @@
     </item>
     
     <item>
-      <title>meeresfrüchte</title>
-      <link>https://foodie.yamwoonsen.de/tags/meeresfruchte/</link>
-      <pubDate>Sat, 08 Aug 2020 07:23:00 +0200</pubDate>
-      
-      <guid>https://foodie.yamwoonsen.de/tags/meeresfruchte/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>teigtaschen</title>
       <link>https://foodie.yamwoonsen.de/tags/teigtaschen/</link>
       <pubDate>Tue, 04 Aug 2020 07:48:00 +0200</pubDate>
@@ -237,15 +264,6 @@
     </item>
     
     <item>
-      <title>geflügel</title>
-      <link>https://foodie.yamwoonsen.de/tags/geflugel/</link>
-      <pubDate>Fri, 24 Jul 2020 20:15:00 +0200</pubDate>
-      
-      <guid>https://foodie.yamwoonsen.de/tags/geflugel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ingwer</title>
       <link>https://foodie.yamwoonsen.de/tags/ingwer/</link>
       <pubDate>Tue, 14 Jul 2020 05:02:00 +0200</pubDate>
@@ -260,15 +278,6 @@
       <pubDate>Sun, 12 Jul 2020 08:44:00 +0200</pubDate>
       
       <guid>https://foodie.yamwoonsen.de/tags/bohnen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pilze</title>
-      <link>https://foodie.yamwoonsen.de/tags/pilze/</link>
-      <pubDate>Sun, 12 Jul 2020 08:44:00 +0200</pubDate>
-      
-      <guid>https://foodie.yamwoonsen.de/tags/pilze/</guid>
       <description></description>
     </item>
     

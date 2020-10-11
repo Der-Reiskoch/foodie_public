@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/nachgekocht/thailaendisches-gai-pad-khing/",
+        "title": "Thailändisches Gai Pad Khing",
+        "summary": "Schnelles Pfannengericht mit viel Ingwer",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0395/gai_pad_khing.jpg",
+        "tags": "thailändisch geflügel pilze",
+        "date": "11.10.2020"
+    }
+        
+    , 
+    {   
         "url": "/rezept/thailaendischer-phla-nuea/",
         "title": "Thailändischer Phla Nuea",
         "summary": "Rindleischsalat mit viel Zitronengras",
@@ -128,6 +138,16 @@
         "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0122/moo_sawan.jpg",
         "tags": "thailändisch schwein getrocknet",
         "date": "29.09.2020"
+    }
+        
+    , 
+    {   
+        "url": "/nachgekocht/goong-ob-woon-sen-nach-maureena/",
+        "title": "Goong Ob Woon Sen nach Maureena",
+        "summary": "Eines meines liebsten Thai Gerichte",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0335/goong_ob_woonsen.jpg",
+        "tags": "thailändisch nudeln meeresfrüchte",
+        "date": "26.09.2020"
     }
         
     , 
@@ -238,6 +258,16 @@
         "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0606/messerschublade.jpg",
         "tags": "messer",
         "date": "08.09.2020"
+    }
+        
+    , 
+    {   
+        "url": "/nachgekocht/thailaendisches-pad-kra-pao-thaad/",
+        "title": "Thailändisches Pad Kra Pao Thaad",
+        "summary": "Eine leckere Platte mit zwei Gerichten",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0276/pad_kra_pao_thaad.jpg",
+        "tags": "thailändisch hacklfeisch geflügel",
+        "date": "06.09.2020"
     }
         
     , 
@@ -4722,7 +4752,7 @@
         
     , 
     {   
-        "url": "/dies-und-das/dies-und-das/kleines-koreanisches-bbq/",
+        "url": "/dies-und-das/kleines-koreanisches-bb/",
         "title": "Kleines koreanisches BBQ",
         "summary": "Den Hotpot mal koreanisch bestückt",
         "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0597/koreanisches_bbq.jpg",
@@ -4862,7 +4892,7 @@
         
     , 
     {   
-        "url": "/fluessiges/fluessiges/welde-jahrgangs-und-jubilaumsbiere/",
+        "url": "/fluessiges/welde-jahrgangs-und-jubilaumsbiere/",
         "title": "Welde Jahrgangs- und Jubiläumsbiere",
         "summary": "Besondere Biere aus der Kurpfalz",
         "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0390/jahrgangsbier_no_9.jpg",
@@ -5078,6 +5108,16 @@
         "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0575/einkaeufe.jpg",
         "tags": "düsseldorf japanisch koreanisch",
         "date": "30.01.2018"
+    }
+        
+    , 
+    {   
+        "url": "/rezept/koreanisches-mabo-tofu/",
+        "title": "Koreanisches Mabo Tofu",
+        "summary": "Mit einer Fertigpaste aus Düsseldorf",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0389/koreanisches_mabo_tofu.jpg",
+        "tags": "aubergine koreanisch tofu vegetarisch",
+        "date": "23.01.2018"
     }
         
     , 
@@ -6502,7 +6542,7 @@
         
     , 
     {   
-        "url": "/mittagspause/mittagspause/kraftige-suppe-mit-ei/",
+        "url": "/mittagspause/kraftige-suppe-mit-ei/",
         "title": "Eine sehr kräftige Suppe mit Ei",
         "summary": "Dreifach gekocht hält besser",
         "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0458/kraeftige_suppe.jpg",
@@ -10062,7 +10102,7 @@
         
     , 
     {   
-        "url": "/fluessiges/weine-von-meiner-reise-nach-georgien/",
+        "url": "/fluessiges/weine-von-meiner-reise-nach-georgie/",
         "title": "Tolle Weine aus Georgien",
         "summary": "Flüssige Andenken an meine Reise",
         "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0087/georgische_weine.jpg",
