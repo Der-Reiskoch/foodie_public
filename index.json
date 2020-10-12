@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/rezept/herbstliches-massaman-curry/",
+        "title": "Herbstliches Massaman Curry",
+        "summary": "Gaeng Massaman Fak Tong Gao Lad",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0408/herbstliches_massaman_curry.jpg",
+        "tags": "thailändisch curry rind kürbis maronen",
+        "date": "12.10.2020"
+    }
+        
+    , 
+    {   
         "url": "/nachgekocht/thailaendisches-gai-pad-khing/",
         "title": "Thailändisches Gai Pad Khing",
         "summary": "Schnelles Pfannengericht mit viel Ingwer",
@@ -7886,7 +7896,7 @@
         "title": "Urlaubserinnerungen an Thailand",
         "summary": "Eine Hommage an die Thai Küche",
         "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0322/salate.jpg",
-        "tags": "reisen thailand",
+        "tags": "reisen thailand thailändisch",
         "date": "26.01.2016"
     }
         
@@ -7945,7 +7955,7 @@
         "url": "/reisen/verschiedene-burmesische-curries/",
         "title": "Verschiedene burmesische Curries",
         "summary": "Ganz anders als in Indien oder Thailand",
-        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0317/huhn-gemuese-curry.jpg",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0317/chicken-curry.jpg",
         "tags": "burmesisch curry myanmar reisen",
         "date": "17.01.2016"
     }
