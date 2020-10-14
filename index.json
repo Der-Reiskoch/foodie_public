@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/rezept/wasserspinat-sichuan-art/",
+        "title": "Wasserspinat Sichuan Art",
+        "summary": "Ein schnelles chinesisches Gericht",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0120/wasserspinat_sichuan_art.jpg",
+        "tags": "chinesisch wasserspinat vegetarisch vegan",
+        "date": "14.10.2020"
+    }
+        
+    , 
+    {   
         "url": "/mittagspause/fotos/2020/10/14/",
         "title": "Bunte Curry Nudelsuppe",
         "summary": "Heute in der Mittagspause",
