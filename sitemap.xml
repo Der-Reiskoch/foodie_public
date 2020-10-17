@@ -812,11 +812,6 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/suchen/rezept-a-z/</loc>
-    <lastmod>2020-07-27T01:24:09+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/07/26/</loc>
     <lastmod>2020-07-26T01:24:09+02:00</lastmod>
   </url>
@@ -10223,6 +10218,10 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/karten/restaurants/karlsruhe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/suchen/rezept-a-z/</loc>
   </url>
   
   <url>
