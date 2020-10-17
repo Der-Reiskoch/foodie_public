@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/rezept/thailaendischer_yam_hed/",
+        "title": "Thailändischer Yam Hed",
+        "summary": "Schneller Salat mit Pilzen",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0784/yam_hed.jpg",
+        "tags": "thailändisch salat pilze",
+        "date": "17.10.2020"
+    }
+        
+    , 
+    {   
         "url": "/mittagspause/fotos/2020/10/15/",
         "title": "Udon Nudeln mit Spiegelei",
         "summary": "Heute in der Mittagspause",
