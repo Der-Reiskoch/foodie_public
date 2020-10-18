@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/nachgekocht/thailaendische-fruehlingsrollen/",
+        "title": "Thailändische Frühlingsrollen",
+        "summary": "Das erste Mal selbstgemacht",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0786/thailaendische_fruhlingsrollen.jpg",
+        "tags": "thailändisch fingerfood hackfleisch teigtaschen",
+        "date": "18.10.2020"
+    }
+        
+    , 
+    {   
         "url": "/rezept/thailaendischer_yam_hed/",
         "title": "Thailändischer Yam Hed",
         "summary": "Schneller Salat mit Pilzen",
