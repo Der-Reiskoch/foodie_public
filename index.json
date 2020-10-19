@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/rezept/gebratenes-rindfleisch-mit-pak-choy/",
+        "title": "Gebratenes Rindfleisch mit Pak Choy",
+        "summary": "Ein schnelles chinesisches Wokgericht",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0246/chinesisches_rindfleisch_mit_pak_choy.jpg",
+        "tags": "chinesisch rind pakchoy",
+        "date": "19.10.2020"
+    }
+        
+    , 
+    {   
         "url": "/nachgekocht/thailaendische-fruehlingsrollen/",
         "title": "Thailändische Frühlingsrollen",
         "summary": "Das erste Mal selbstgemacht",
