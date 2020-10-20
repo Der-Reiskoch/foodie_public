@@ -4,49 +4,55 @@ var groups = {};
 var openBubbles = [];
 var boundingGroup = new H.map.Group();
 var HereHelper = (function() {
-
-    /**
-     * init the map
-     * @param {*} appId 
-     * @param {*} code 
-     * @param {*} options
-     * @param {*} venueTypes 
-     * @param {*} venues 
-     */
-
-    function initMap(appId, code, options, venueTypes, venues) {
+    
+    function initMap(apikey, options, venueTypes, venues, mapContainerId) {
         
         var platform = new H.service.Platform({
-            'app_id': appId,
-            'app_code': code,
+            'apikey': apikey,
             'useCIT': true,
             'useHTTPS': true
         });
-    
+
         var defaultLayers = platform.createDefaultLayers();
-    
+
+        // Instantiate (and display) a map object:
         var map = new H.Map(
             document.getElementById('mapContainer'),
-            defaultLayers.normal.map,
+            defaultLayers.vector.normal.map,
+            {
+            zoom: 10,
+            center: { lat: 52.5, lng: 13.4 }
+            });
+
+
+    
+        //var defaultLayers = platform.createDefaultLayers();
+    
+        /*var map = new H.Map(
+            document.getElementById(mapContainerId),
+            defaultLayers.raster.normal.map,
             options
-        );
+        );*/
 
-        var ui = H.ui.UI.createDefault(map, defaultLayers, 'de-DE');
-        var mapSettings = ui.getControl('mapsettings');
-        mapSettings.setAlignment('top-left');
+        /*var mapSettings = new H.ui.MapSettingsControl({
+            alignment: 'top-right',
+            baseLayers: [{
+            label: 'Normal map',
+            layer: maptypes.raster.normal.map
+            }]
+          });
+          ui.addControl('mapsettings', mapSettings);*/
 
-        var mapEvents = new H.mapevents.MapEvents(map);
-        var behavior = new H.mapevents.Behavior(mapEvents);
 
-        var geocoder = platform.getGeocodingService();
+        // var geocoder = platform.getGeocodingService();
 
-        HereHelper.findMissingCoordsForVenues(geocoder, venueTypes, venues);
+        // HereHelper.findMissingCoordsForVenues(geocoder, venueTypes, venues);
 
-        HereHelper.plotVenues(map, ui, venueTypes, venues);
+        // HereHelper.plotVenues(map, ui, venueTypes, venues);
 
-        HereHelper.addMapEventListener(map, ui);
+        // HereHelper.addMapEventListener(map, ui);
 
-        HereHelper.restrictMapToBoundingGroup(map,ui);
+        // HereHelper.restrictMapToBoundingGroup(map,ui);
 
     }
 
