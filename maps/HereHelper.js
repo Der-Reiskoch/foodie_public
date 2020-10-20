@@ -4,11 +4,11 @@ var groups = {};
 var openBubbles = [];
 var boundingGroup = new H.map.Group();
 var HereHelper = (function() {
-    
-    function initMap(apikey, options, venueTypes, venues, mapContainerId) {
+
+    function initMap(options, venueTypes, venues, mapContainerId) {
         
         var platform = new H.service.Platform({
-            'apikey': apikey,
+            'apikey': "Xdz-lrFBQkFJA4t70ESpMS38gkbM_D29SXvH_ut8Uvw",
             'useCIT': true,
             'useHTTPS': true
         });
