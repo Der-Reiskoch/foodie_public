@@ -8,9 +8,7 @@ var HereHelper = (function() {
     function initMap(options, venueTypes, venues, mapContainerId) {
         
         var platform = new H.service.Platform({
-            'apikey': "Xdz-lrFBQkFJA4t70ESpMS38gkbM_D29SXvH_ut8Uvw",
-            'useCIT': true,
-            'useHTTPS': true
+            'apikey': 'Xdz-lrFBQkFJA4t70ESpMS38gkbM_D29SXvH_ut8Uvw'
         });
 
         var defaultLayers = platform.createDefaultLayers();
