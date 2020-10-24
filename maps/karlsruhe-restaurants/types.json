@@ -1,0 +1,32 @@
+{
+    "africa":{
+       "label":"Afrikanisch",
+       "color":"#A38862",  
+       "icon": "restaurant"
+    },
+    "asia":{
+       "label":"Asiatisch",
+       "color":"#9acd32",
+       "icon": "restaurant"
+    },
+    "burger":{
+       "label":"Burger",
+       "color":"#ff3322",
+       "icon": "restaurant"
+    },
+    "german":{
+       "label":"Gutbürgerlich",
+       "color":"#ff9900",
+       "icon": "restaurant"
+    },
+    "india":{
+       "label":"Indisch",
+       "color":"#BB2971",
+       "icon": "restaurant"
+    },
+    "mediterran":{
+       "label":"Mediterran",
+       "color":"#9933cc",
+       "icon": "restaurant"
+    }
+ }
