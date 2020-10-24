@@ -1,7 +1,7 @@
 'use strict';
 
 (function iifeMenu(document, window, undefined) {
-	var menuBtn = document.querySelector('.menu__btn');
+	var menuBtn = document.querySelector('.menu__btn-title');
 	var	menu = document.querySelector('.menu__list');
 
 	function toggleMenu() {

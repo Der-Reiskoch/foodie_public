@@ -14,6 +14,7 @@
 
 .logo__text, 
 .menu__link,
+.menu__btn-title,
 .widget__title, 
 .widget-taglist__link, 
 .tags__item  {
@@ -63,13 +64,60 @@
 
 }
 
+@media screen and (max-width: 768px) {
+    .logo {
+        display: none;
+    }
 
-@media screen and (max-width: 568px) {
-    .logo__title {
-        font-size: 24px;
-        font-size: 1.2rem;
+    .primary {
+        margin-top: 60px;
+    }
+
+    .menu__btn {
+        position: fixed;
+        background-color: #9acd32;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        font-weight: bold;  
+        z-index: 10000;
+    }
+
+    .menu__btn-burger {
+        width: 25px;
+        height: 3px;
+        background-color: #ffffff;
+        margin: 5px 0;
+    }
+
+    .menu__btn-logo {
+        margin-right: 20px;
+    }
+
+    .menu__btn--active, .menu__btn-logo a {
+        color: #ffffff !important;
+    }
+
+    .menu__list {
+        position: fixed !important;
+        height: 700px;
+        margin-top: 40px;
+        padding-left: 5px;
+        background-color: #9acd32;
+        z-index: 10001;
     }
 }
+
+@media screen and (max-height: 666px) {
+
+    .menu__item {
+        padding: 2px 0px;
+        margin: 2px 0px;
+        height: 35px;
+    }
+}
+
 
 .post__thumbnail {
     max-width: 600px;
