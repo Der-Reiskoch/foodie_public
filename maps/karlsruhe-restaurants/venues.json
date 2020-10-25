@@ -481,19 +481,6 @@
           "lng":"8.40033"
        },
        {
-          "uid":"66",
-          "map":"de-ka",
-          "type":"german",
-          "pinColor":"#ff9900",
-          "name":"Brauhaus Kühler Krug",
-          "entryId":"606",
-          "imageName":"",
-          "website":null,
-          "address":"Wilhelm-Baur-Straße 3a, 76135 Karlsruhe, Deutschland",
-          "lat":"49.0042",
-          "lng":"8.36868"
-       },
-       {
           "uid":"75",
           "map":"de-ka",
           "type":"german",
