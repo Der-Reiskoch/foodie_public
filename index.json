@@ -10962,6 +10962,16 @@
         
     , 
     {   
+        "url": "/inspirationen/buecher/orient/",
+        "title": "Orient: Das Kochbuch",
+        "summary": "Meine liebsten Kochbücher",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/orient.jpg",
+        "tags": "orientalisch persisch",
+        "date": "01.01.0001"
+    }
+        
+    , 
+    {   
         "url": "/inspirationen/buecher/ostafrikanisch-kochen/",
         "title": "Ostafrikanisch Kochen",
         "summary": "Meine liebsten Kochbücher",

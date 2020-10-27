@@ -1,7 +1,7 @@
 'use strict';
 
 (function iifeMenu(document, window, undefined) {
-	var menuBtn = document.querySelector('.menu__btn-title');
+	var menuBtn = document.querySelector('.menu__btn');
 	var	menu = document.querySelector('.menu__list');
 
 	function toggleMenu() {
@@ -20,6 +20,7 @@
 
 	if (menuBtn && menu) {
 		menuBtn.addEventListener('click', toggleMenu, false);
+
 		menu.addEventListener('transitionend', removeMenuTransition, false);
 	}
 }(document, window));
