@@ -127,14 +127,49 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/10/24/</loc>
-    <lastmod>2020-10-24T20:24:09+02:00</lastmod>
+    <loc>https://foodie.yamwoonsen.de/</loc>
+    <lastmod>2020-10-28T06:07:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/</loc>
-    <lastmod>2020-10-23T20:03:09+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://foodie.yamwoonsen.de/tags/hackfleisch/</loc>
+    <lastmod>2020-10-28T06:07:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/iranisch/</loc>
+    <lastmod>2020-10-28T06:07:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/nachgekocht/iranisches-kado-polo/</loc>
+    <lastmod>2020-10-28T06:07:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/kurbis/</loc>
+    <lastmod>2020-10-28T06:07:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/nachgekocht/</loc>
+    <lastmod>2020-10-28T06:07:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/reis/</loc>
+    <lastmod>2020-10-28T06:07:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/</loc>
+    <lastmod>2020-10-28T06:07:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/10/24/</loc>
+    <lastmod>2020-10-24T20:24:09+02:00</lastmod>
   </url>
   
   <url>
@@ -228,22 +263,7 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/tags/</loc>
-    <lastmod>2020-10-20T05:47:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foodie.yamwoonsen.de/tags/fingerfood/</loc>
-    <lastmod>2020-10-18T10:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/hackfleisch/</loc>
-    <lastmod>2020-10-18T10:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/nachgekocht/</loc>
     <lastmod>2020-10-18T10:23:00+02:00</lastmod>
   </url>
   
@@ -324,11 +344,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/rezept/herbstliches-massaman-curry/</loc>
-    <lastmod>2020-10-12T05:22:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/kurbis/</loc>
     <lastmod>2020-10-12T05:22:00+02:00</lastmod>
   </url>
   
@@ -1904,11 +1919,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/rezept/mexikanischer-chipotle-reis/</loc>
-    <lastmod>2020-04-09T11:16:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/reis/</loc>
     <lastmod>2020-04-09T11:16:00+02:00</lastmod>
   </url>
   

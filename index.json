@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/nachgekocht/iranisches-kado-polo/",
+        "title": "Iranisches Kado Polo",
+        "summary": "Reis mit Kürbis und Hackbällchen",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0817/kuerbis_mit_reis.jpg",
+        "tags": "reis kürbis hackfleisch iranisch",
+        "date": "28.10.2020"
+    }
+        
+    , 
+    {   
         "url": "/mittagspause/fotos/2020/10/22/",
         "title": "Palabok mit Gulasch",
         "summary": "Heute in der Mittagspause",
