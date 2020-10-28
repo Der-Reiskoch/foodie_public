@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/restaurants/restaurant-china-bao-im-passagehof/",
+        "title": "Restaurant China Bao (geschlossen)",
+        "summary": "Dampfnudeln, Teigtaschen und mehr",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0774/bao_mit_chili_sosse.jpg",
+        "tags": "chinesisch karlsruhe geschlossen",
+        "date": "28.10.2020"
+    }
+        
+    , 
+    {   
         "url": "/nachgekocht/iranisches-kado-polo/",
         "title": "Iranisches Kado Polo",
         "summary": "Reis mit Kürbis und Hackbällchen",
@@ -2788,16 +2798,6 @@
         "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0766/mit_reis_und_aubergine.jpg",
         "tags": "chinesisch schwein",
         "date": "25.06.2019"
-    }
-        
-    , 
-    {   
-        "url": "/restaurants/restaurant-china-bao-im-passagehof/",
-        "title": "Restaurant China Bao im Passagehof",
-        "summary": "Dampfnudeln, Teigtaschen und mehr",
-        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0774/bao_mit_chili_sosse.jpg",
-        "tags": "chinesisch karlsruhe",
-        "date": "21.06.2019"
     }
         
     , 

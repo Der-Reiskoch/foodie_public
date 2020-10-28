@@ -128,8 +128,38 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/</loc>
-    <lastmod>2020-10-28T06:07:00+02:00</lastmod>
+    <lastmod>2020-10-28T10:39:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/chinesisch/</loc>
+    <lastmod>2020-10-28T10:39:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/geschlossen/</loc>
+    <lastmod>2020-10-28T10:39:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/karlsruhe/</loc>
+    <lastmod>2020-10-28T10:39:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/restaurants/restaurant-china-bao-im-passagehof/</loc>
+    <lastmod>2020-10-28T10:39:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/restaurants/</loc>
+    <lastmod>2020-10-28T10:39:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/</loc>
+    <lastmod>2020-10-28T10:39:00+02:00</lastmod>
   </url>
   
   <url>
@@ -159,11 +189,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/tags/reis/</loc>
-    <lastmod>2020-10-28T06:07:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/</loc>
     <lastmod>2020-10-28T06:07:00+02:00</lastmod>
   </url>
   
@@ -240,11 +265,6 @@
   <url>
     <loc>https://foodie.yamwoonsen.de/thaipause/fotos/2020/10/20/</loc>
     <lastmod>2020-10-20T12:50:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/chinesisch/</loc>
-    <lastmod>2020-10-20T05:47:00+02:00</lastmod>
   </url>
   
   <url>
@@ -550,16 +570,6 @@
   <url>
     <loc>https://foodie.yamwoonsen.de/tags/tomaten/</loc>
     <lastmod>2020-09-13T06:13:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/karlsruhe/</loc>
-    <lastmod>2020-09-12T06:36:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/restaurants/</loc>
-    <lastmod>2020-09-12T06:36:00+02:00</lastmod>
   </url>
   
   <url>
@@ -3163,11 +3173,6 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/tags/geschlossen/</loc>
-    <lastmod>2019-10-09T06:13:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foodie.yamwoonsen.de/tags/grotzingen/</loc>
     <lastmod>2019-10-09T06:13:00+02:00</lastmod>
   </url>
@@ -3790,11 +3795,6 @@
   <url>
     <loc>https://foodie.yamwoonsen.de/fotoalbum/2019/06/22/</loc>
     <lastmod>2019-06-22T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/restaurants/restaurant-china-bao-im-passagehof/</loc>
-    <lastmod>2019-06-21T10:39:00+02:00</lastmod>
   </url>
   
   <url>
