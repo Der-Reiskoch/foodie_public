@@ -6,7 +6,7 @@
     <description>Recent content on foodie.yamwoonsen.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 29 Oct 2020 20:03:09 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://foodie.yamwoonsen.de/index.xml" rel="self" type="application/rss+xml" />
     
@@ -288,6 +288,15 @@
       
       <guid>https://foodie.yamwoonsen.de/fotoalbum/2011/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+    </item>
+    
+    <item>
+      <title>Udon Suppe mit Gemüse</title>
+      <link>https://foodie.yamwoonsen.de/mittagspause/fotos/2020/10/30/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/mittagspause/fotos/2020/10/30/</guid>
+      <description>Heute in der Mittagspause</description>
     </item>
     
     <item>
@@ -15187,12 +15196,21 @@
     </item>
     
     <item>
+      <title>Asialäden in Düsseldorf</title>
+      <link>https://foodie.yamwoonsen.de/karten/einkaufen/asialaeden-duesseldorf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/karten/einkaufen/asialaeden-duesseldorf/</guid>
+      <description>Wo kann man asiatische Lebensmittel einkaufen</description>
+    </item>
+    
+    <item>
       <title>Asialäden in Karlsruhe</title>
       <link>https://foodie.yamwoonsen.de/karten/einkaufen/asialaeden-karlsruhe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://foodie.yamwoonsen.de/karten/einkaufen/asialaeden-karlsruhe/</guid>
-      <description>Wo kauft man asiatische Lebensmittel</description>
+      <description>Wo kann man asiatische Lebensmittel einkaufen</description>
     </item>
     
     <item>
@@ -15660,6 +15678,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://foodie.yamwoonsen.de/karten/restaurants/karlsruhe/</guid>
+      <description>Wo man gut Essen gehen kann</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Karte für Paris</title>
+      <link>https://foodie.yamwoonsen.de/karten/restaurants/paris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/karten/restaurants/paris/</guid>
       <description>Wo man gut Essen gehen kann</description>
     </item>
     

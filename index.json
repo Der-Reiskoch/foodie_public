@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/mittagspause/fotos/2020/10/30/",
+        "title": "Udon Suppe mit Gemüse",
+        "summary": "Heute in der Mittagspause",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201030_udon_suppe_mit_gemuese.jpg",
+        "tags": null,
+        "date": "30.10.2020"
+    }
+        
+    , 
+    {   
         "url": "/restaurants/restaurant-china-bao-im-passagehof/",
         "title": "Restaurant China Bao (geschlossen)",
         "summary": "Dampfnudeln, Teigtaschen und mehr",
