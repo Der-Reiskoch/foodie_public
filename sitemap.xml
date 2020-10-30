@@ -128,8 +128,23 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/</loc>
-    <lastmod>2020-10-28T10:39:00+02:00</lastmod>
+    <lastmod>2020-10-29T20:03:09+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/fotoalbum/</loc>
+    <lastmod>2020-10-29T20:03:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/fotoalbum/2020/</loc>
+    <lastmod>2020-10-29T20:03:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/fotoalbum/2020/10/29/</loc>
+    <lastmod>2020-10-29T20:03:09+02:00</lastmod>
   </url>
   
   <url>
@@ -215,16 +230,6 @@
   <url>
     <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/10/24/</loc>
     <lastmod>2020-10-24T20:24:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/fotoalbum/</loc>
-    <lastmod>2020-10-23T20:03:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/fotoalbum/2020/</loc>
-    <lastmod>2020-10-23T20:03:09+02:00</lastmod>
   </url>
   
   <url>
@@ -2828,7 +2833,7 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/dies-und-das/xiong-di-asia-supermarkt-in-karlsruhe/</loc>
+    <loc>https://foodie.yamwoonsen.de/zutaten/xiong-di-asia-supermarkt-in-karlsruhe/</loc>
     <lastmod>2019-12-04T08:02:00+02:00</lastmod>
   </url>
   
@@ -2898,7 +2903,7 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/dies-und-das/go-asia-supermarkt-in-karlsruhe/</loc>
+    <loc>https://foodie.yamwoonsen.de/zutaten/go-asia-supermarkt-in-karlsruhe/</loc>
     <lastmod>2019-11-24T11:34:00+02:00</lastmod>
   </url>
   
@@ -5753,7 +5758,7 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/dies-und-das/asialaeden-in-karlsruhe/</loc>
+    <loc>https://foodie.yamwoonsen.de/zutaten/asialaeden-in-karlsruhe/</loc>
     <lastmod>2018-03-17T09:05:00+02:00</lastmod>
   </url>
   
@@ -6128,7 +6133,7 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/dies-und-das/shoppen-im-japanischen-viertel-in-dusseldorf/</loc>
+    <loc>https://foodie.yamwoonsen.de/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf/</loc>
     <lastmod>2017-12-18T06:42:00+02:00</lastmod>
   </url>
   
@@ -10290,7 +10295,15 @@
   </url>
   
   <url>
+    <loc>https://foodie.yamwoonsen.de/karten/restaurants/helsinki/</loc>
+  </url>
+  
+  <url>
     <loc>https://foodie.yamwoonsen.de/karten/restaurants/karlsruhe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/karten/restaurants/strasbourg/</loc>
   </url>
   
   <url>

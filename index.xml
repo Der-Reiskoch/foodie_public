@@ -6,7 +6,7 @@
     <description>Recent content on foodie.yamwoonsen.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 28 Oct 2020 10:39:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2020 20:03:09 +0200</lastBuildDate>
     
 	<atom:link href="https://foodie.yamwoonsen.de/index.xml" rel="self" type="application/rss+xml" />
     
@@ -287,6 +287,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://foodie.yamwoonsen.de/fotoalbum/2011/</guid>
+      <description>Foodie&amp;rsquo;s Fotoalbum</description>
+    </item>
+    
+    <item>
+      <title>Selbstgemachte Gemüsesuppe</title>
+      <link>https://foodie.yamwoonsen.de/fotoalbum/2020/10/29/</link>
+      <pubDate>Thu, 29 Oct 2020 20:03:09 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/fotoalbum/2020/10/29/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
     </item>
     
@@ -3847,10 +3856,10 @@
     
     <item>
       <title>Xiong Di Asia Supermarkt in Karlsruhe</title>
-      <link>https://foodie.yamwoonsen.de/dies-und-das/xiong-di-asia-supermarkt-in-karlsruhe/</link>
+      <link>https://foodie.yamwoonsen.de/zutaten/xiong-di-asia-supermarkt-in-karlsruhe/</link>
       <pubDate>Wed, 04 Dec 2019 08:02:00 +0200</pubDate>
       
-      <guid>https://foodie.yamwoonsen.de/dies-und-das/xiong-di-asia-supermarkt-in-karlsruhe/</guid>
+      <guid>https://foodie.yamwoonsen.de/zutaten/xiong-di-asia-supermarkt-in-karlsruhe/</guid>
       <description>Chinesisch Einkaufen am Kronenplatz</description>
     </item>
     
@@ -3937,10 +3946,10 @@
     
     <item>
       <title>Go Asia Supermarkt in Karlsruhe</title>
-      <link>https://foodie.yamwoonsen.de/dies-und-das/go-asia-supermarkt-in-karlsruhe/</link>
+      <link>https://foodie.yamwoonsen.de/zutaten/go-asia-supermarkt-in-karlsruhe/</link>
       <pubDate>Sun, 24 Nov 2019 11:34:00 +0200</pubDate>
       
-      <guid>https://foodie.yamwoonsen.de/dies-und-das/go-asia-supermarkt-in-karlsruhe/</guid>
+      <guid>https://foodie.yamwoonsen.de/zutaten/go-asia-supermarkt-in-karlsruhe/</guid>
       <description>Ein neuer riesiger Asia Markt</description>
     </item>
     
@@ -8410,10 +8419,10 @@
     
     <item>
       <title>Asialäden in Karlsruhe</title>
-      <link>https://foodie.yamwoonsen.de/dies-und-das/asialaeden-in-karlsruhe/</link>
+      <link>https://foodie.yamwoonsen.de/zutaten/asialaeden-in-karlsruhe/</link>
       <pubDate>Sat, 17 Mar 2018 09:05:00 +0200</pubDate>
       
-      <guid>https://foodie.yamwoonsen.de/dies-und-das/asialaeden-in-karlsruhe/</guid>
+      <guid>https://foodie.yamwoonsen.de/zutaten/asialaeden-in-karlsruhe/</guid>
       <description>Wo man asiatische Zutaten her bekommt</description>
     </item>
     
@@ -9013,10 +9022,10 @@
     
     <item>
       <title>Shoppen im japanischen Viertel in Düsseldorf</title>
-      <link>https://foodie.yamwoonsen.de/dies-und-das/shoppen-im-japanischen-viertel-in-dusseldorf/</link>
+      <link>https://foodie.yamwoonsen.de/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf/</link>
       <pubDate>Mon, 18 Dec 2017 06:42:00 +0200</pubDate>
       
-      <guid>https://foodie.yamwoonsen.de/dies-und-das/shoppen-im-japanischen-viertel-in-dusseldorf/</guid>
+      <guid>https://foodie.yamwoonsen.de/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf/</guid>
       <description>Eine ausgedehnte Einkaufstour</description>
     </item>
     
@@ -15637,11 +15646,29 @@
     </item>
     
     <item>
+      <title>Restaurant Karte für Helsinki</title>
+      <link>https://foodie.yamwoonsen.de/karten/restaurants/helsinki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/karten/restaurants/helsinki/</guid>
+      <description>Wo man gut Essen gehen kann</description>
+    </item>
+    
+    <item>
       <title>Restaurant Karte für Karlsruhe</title>
       <link>https://foodie.yamwoonsen.de/karten/restaurants/karlsruhe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://foodie.yamwoonsen.de/karten/restaurants/karlsruhe/</guid>
+      <description>Wo man gut Essen gehen kann</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Karte für Strasbourg</title>
+      <link>https://foodie.yamwoonsen.de/karten/restaurants/strasbourg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/karten/restaurants/strasbourg/</guid>
       <description>Wo man gut Essen gehen kann</description>
     </item>
     
