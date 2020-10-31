@@ -602,7 +602,17 @@
           "address":"Adlerstraße 34, 76133 Karlsruhe, Deutschland",
           "lat":"49.0076",
           "lng":"8.40754"
-       }
+       },
+       {
+         "uid":"940",
+         "name":"Mühlburger Schnitzelburg",
+         "url":"/restaurants/muehlburger-schnitzelburg/",
+         "imageName":"",
+         "website":null,
+         "address":"Am Mühlburger Bahnhof 16, 76189 Karlsruhe, Deutschland",
+         "lat":"49.01911",
+         "lng":"8.34970"
+      }
     ],
     "india":[
        {

@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/restaurants/muehlburger-schnitzelburg/",
+        "title": "Mühlburger Schnitzelburg",
+        "summary": "Gigantische Portionen, aber lecker",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0940/manuels_cordon_bleu.jpg",
+        "tags": "foodiegruppe karlsruhe schnitzel abholservice",
+        "date": "31.10.2020"
+    }
+        
+    , 
+    {   
         "url": "/mittagspause/fotos/2020/10/30/",
         "title": "Udon Suppe mit Gemüse",
         "summary": "Heute in der Mittagspause",
