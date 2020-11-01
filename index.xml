@@ -6,7 +6,7 @@
     <description>Recent content on foodie.yamwoonsen.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 31 Oct 2020 09:02:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 07:55:00 +0200</lastBuildDate>
     
 	<atom:link href="https://foodie.yamwoonsen.de/index.xml" rel="self" type="application/rss+xml" />
     
@@ -291,6 +291,15 @@
     </item>
     
     <item>
+      <title>Thailändischer Yam Talee</title>
+      <link>https://foodie.yamwoonsen.de/rezept/thailaendischer-yam-talee/</link>
+      <pubDate>Sun, 01 Nov 2020 07:55:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/rezept/thailaendischer-yam-talee/</guid>
+      <description>Schneller Salat mit Meeresfrüchten</description>
+    </item>
+    
+    <item>
       <title>Mühlburger Schnitzelburg</title>
       <link>https://foodie.yamwoonsen.de/restaurants/muehlburger-schnitzelburg/</link>
       <pubDate>Sat, 31 Oct 2020 09:02:00 +0200</pubDate>
@@ -418,10 +427,10 @@
     
     <item>
       <title>Thailändischer Yam Hed</title>
-      <link>https://foodie.yamwoonsen.de/rezept/thailaendischer_yam_hed/</link>
+      <link>https://foodie.yamwoonsen.de/rezept/thailaendischer-yam-hed/</link>
       <pubDate>Sat, 17 Oct 2020 07:00:00 +0200</pubDate>
       
-      <guid>https://foodie.yamwoonsen.de/rezept/thailaendischer_yam_hed/</guid>
+      <guid>https://foodie.yamwoonsen.de/rezept/thailaendischer-yam-hed/</guid>
       <description>Schneller Salat mit Pilzen</description>
     </item>
     

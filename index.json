@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/rezept/thailaendischer-yam-talee/",
+        "title": "Thailändischer Yam Talee",
+        "summary": "Schneller Salat mit Meeresfrüchten",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0772/yam_talee.jpg",
+        "tags": "thailändisch salat meeresfrüchte",
+        "date": "01.11.2020"
+    }
+        
+    , 
+    {   
         "url": "/restaurants/muehlburger-schnitzelburg/",
         "title": "Mühlburger Schnitzelburg",
         "summary": "Gigantische Portionen, aber lecker",
@@ -162,7 +172,7 @@
         
     , 
     {   
-        "url": "/rezept/thailaendischer_yam_hed/",
+        "url": "/rezept/thailaendischer-yam-hed/",
         "title": "Thailändischer Yam Hed",
         "summary": "Schneller Salat mit Pilzen",
         "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0784/yam_hed.jpg",

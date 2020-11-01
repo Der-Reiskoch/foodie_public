@@ -128,8 +128,38 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/</loc>
-    <lastmod>2020-10-31T09:02:00+02:00</lastmod>
+    <lastmod>2020-11-01T07:55:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/meeresfruchte/</loc>
+    <lastmod>2020-11-01T07:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/rezept/</loc>
+    <lastmod>2020-11-01T07:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/salat/</loc>
+    <lastmod>2020-11-01T07:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/</loc>
+    <lastmod>2020-11-01T07:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/thailandisch/</loc>
+    <lastmod>2020-11-01T07:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/rezept/thailaendischer-yam-talee/</loc>
+    <lastmod>2020-11-01T07:55:00+02:00</lastmod>
   </url>
   
   <url>
@@ -159,11 +189,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/tags/schnitzel/</loc>
-    <lastmod>2020-10-31T09:02:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/</loc>
     <lastmod>2020-10-31T09:02:00+02:00</lastmod>
   </url>
   
@@ -303,11 +328,6 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/rezept/</loc>
-    <lastmod>2020-10-20T05:47:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foodie.yamwoonsen.de/tags/pakchoy/</loc>
     <lastmod>2020-10-20T05:47:00+02:00</lastmod>
   </url>
@@ -328,11 +348,6 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/tags/thailandisch/</loc>
-    <lastmod>2020-10-18T10:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foodie.yamwoonsen.de/nachgekocht/thailaendische-fruehlingsrollen/</loc>
     <lastmod>2020-10-18T10:23:00+02:00</lastmod>
   </url>
@@ -343,12 +358,7 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/tags/salat/</loc>
-    <lastmod>2020-10-17T07:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/rezept/thailaendischer_yam_hed/</loc>
+    <loc>https://foodie.yamwoonsen.de/rezept/thailaendischer-yam-hed/</loc>
     <lastmod>2020-10-17T07:00:00+02:00</lastmod>
   </url>
   
@@ -509,11 +519,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/nachgekocht/goong-ob-woon-sen-nach-maureena/</loc>
-    <lastmod>2020-09-26T12:23:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/meeresfruchte/</loc>
     <lastmod>2020-09-26T12:23:09+02:00</lastmod>
   </url>
   
