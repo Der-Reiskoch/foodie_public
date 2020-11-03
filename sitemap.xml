@@ -127,14 +127,39 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/11/02/</loc>
-    <lastmod>2020-11-02T19:24:09+02:00</lastmod>
+    <loc>https://foodie.yamwoonsen.de/</loc>
+    <lastmod>2020-11-03T06:28:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/</loc>
-    <lastmod>2020-11-02T12:50:09+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://foodie.yamwoonsen.de/tags/koreanisch/</loc>
+    <lastmod>2020-11-03T06:28:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/rezept/koreanische-kkaennip-bokkeum/</loc>
+    <lastmod>2020-11-03T06:28:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/rezept/</loc>
+    <lastmod>2020-11-03T06:28:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/</loc>
+    <lastmod>2020-11-03T06:28:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/vegetarisch/</loc>
+    <lastmod>2020-11-03T06:28:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/11/02/</loc>
+    <lastmod>2020-11-02T19:24:09+02:00</lastmod>
   </url>
   
   <url>
@@ -183,17 +208,7 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/rezept/</loc>
-    <lastmod>2020-11-01T07:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foodie.yamwoonsen.de/tags/salat/</loc>
-    <lastmod>2020-11-01T07:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/</loc>
     <lastmod>2020-11-01T07:55:00+02:00</lastmod>
   </url>
   
@@ -394,11 +409,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/tags/vegan/</loc>
-    <lastmod>2020-10-14T07:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/vegetarisch/</loc>
     <lastmod>2020-10-14T07:00:00+02:00</lastmod>
   </url>
   
@@ -1135,11 +1145,6 @@
   <url>
     <loc>https://foodie.yamwoonsen.de/rezept/thailaendischer-nuea-toon/</loc>
     <lastmod>2020-06-30T06:41:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/koreanisch/</loc>
-    <lastmod>2020-06-29T09:07:00+02:00</lastmod>
   </url>
   
   <url>

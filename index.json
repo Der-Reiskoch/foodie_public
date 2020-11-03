@@ -82,6 +82,16 @@
         
     , 
     {   
+        "url": "/rezept/koreanische-kkaennip-bokkeum/",
+        "title": "Koreanische Kkaennip Bokkeum",
+        "summary": "Gebratene Perillablätter als Beilage",
+        "image": "https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0943/kkaennip_bokkeum.jpg",
+        "tags": "koreanisch vegetarisch",
+        "date": "03.11.2020"
+    }
+        
+    , 
+    {   
         "url": "/rezept/thailaendischer-yam-talee/",
         "title": "Thailändischer Yam Talee",
         "summary": "Schneller Salat mit Meeresfrüchten",
