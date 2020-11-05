@@ -57,12 +57,12 @@
     </item>
     
     <item>
-      <title>Asia Street Food</title>
-      <link>https://foodie.yamwoonsen.de/inspirationen/blogs/asia-street-food/</link>
+      <title>Curry (Kochbuch)</title>
+      <link>https://foodie.yamwoonsen.de/inspirationen/buecher/curry-kochbuch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://foodie.yamwoonsen.de/inspirationen/blogs/asia-street-food/</guid>
-      <description>Meine liebsten Blogs</description>
+      <guid>https://foodie.yamwoonsen.de/inspirationen/buecher/curry-kochbuch/</guid>
+      <description>Meine liebsten Kochbücher</description>
     </item>
     
     <item>
@@ -75,21 +75,21 @@
     </item>
     
     <item>
-      <title>Curry (Kochbuch)</title>
-      <link>https://foodie.yamwoonsen.de/inspirationen/buecher/curry-kochbuch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://foodie.yamwoonsen.de/inspirationen/buecher/curry-kochbuch/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
       <title>Das große Buch der asiatischen Küche</title>
       <link>https://foodie.yamwoonsen.de/inspirationen/buecher/das-grosse-buch-der-asiatischen-kueche/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://foodie.yamwoonsen.de/inspirationen/buecher/das-grosse-buch-der-asiatischen-kueche/</guid>
       <description>Meine liebsten Kochbücher</description>
+    </item>
+    
+    <item>
+      <title>Asia Street Food</title>
+      <link>https://foodie.yamwoonsen.de/inspirationen/blogs/asia-street-food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/inspirationen/blogs/asia-street-food/</guid>
+      <description>Meine liebsten Blogs</description>
     </item>
     
   </channel>

@@ -283,15 +283,6 @@
     
     <item>
       <title>Asia Street Food</title>
-      <link>https://foodie.yamwoonsen.de/inspirationen/blogs/asia-street-food/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://foodie.yamwoonsen.de/inspirationen/blogs/asia-street-food/</guid>
-      <description>Meine liebsten Blogs</description>
-    </item>
-    
-    <item>
-      <title>Asia Street Food</title>
       <link>https://foodie.yamwoonsen.de/inspirationen/buecher/asia-street-food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -306,6 +297,15 @@
       
       <guid>https://foodie.yamwoonsen.de/inspirationen/buecher/das-grosse-buch-der-asiatischen-kueche/</guid>
       <description>Meine liebsten Kochbücher</description>
+    </item>
+    
+    <item>
+      <title>Asia Street Food</title>
+      <link>https://foodie.yamwoonsen.de/inspirationen/blogs/asia-street-food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/inspirationen/blogs/asia-street-food/</guid>
+      <description>Meine liebsten Blogs</description>
     </item>
     
   </channel>
