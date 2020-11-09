@@ -128,8 +128,33 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/</loc>
-    <lastmod>2020-11-08T09:09:00+02:00</lastmod>
+    <lastmod>2020-11-09T07:06:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/italienisch/</loc>
+    <lastmod>2020-11-09T07:06:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/kalb/</loc>
+    <lastmod>2020-11-09T07:06:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/nachgekocht/</loc>
+    <lastmod>2020-11-09T07:06:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/nachgekocht/0946-saltimbocca-mit-waldpilzrisotto/</loc>
+    <lastmod>2020-11-09T07:06:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/</loc>
+    <lastmod>2020-11-09T07:06:00+02:00</lastmod>
   </url>
   
   <url>
@@ -149,11 +174,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/rezept/</loc>
-    <lastmod>2020-11-08T09:09:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/</loc>
     <lastmod>2020-11-08T09:09:00+02:00</lastmod>
   </url>
   
@@ -354,11 +374,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/tags/kurbis/</loc>
-    <lastmod>2020-10-28T06:07:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/nachgekocht/</loc>
     <lastmod>2020-10-28T06:07:00+02:00</lastmod>
   </url>
   
@@ -1925,11 +1940,6 @@
   <url>
     <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/04/18/</loc>
     <lastmod>2020-04-18T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/italienisch/</loc>
-    <lastmod>2020-04-17T06:12:00+02:00</lastmod>
   </url>
   
   <url>
@@ -4894,11 +4904,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/rezept/daging-masak-marah-aus-malaysia/</loc>
-    <lastmod>2018-11-15T06:21:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/kalb/</loc>
     <lastmod>2018-11-15T06:21:00+02:00</lastmod>
   </url>
   
