@@ -128,8 +128,38 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/</loc>
-    <lastmod>2020-11-12T06:44:00+02:00</lastmod>
+    <lastmod>2020-11-14T09:30:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/curry/</loc>
+    <lastmod>2020-11-14T09:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/laotisch/</loc>
+    <lastmod>2020-11-14T09:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/rezept/laotisches-gang-keo-moo/</loc>
+    <lastmod>2020-11-14T09:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/rezept/</loc>
+    <lastmod>2020-11-14T09:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/schwein/</loc>
+    <lastmod>2020-11-14T09:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/</loc>
+    <lastmod>2020-11-14T09:30:00+02:00</lastmod>
   </url>
   
   <url>
@@ -149,11 +179,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/tags/gutburgerlich/</loc>
-    <lastmod>2020-11-12T06:44:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/</loc>
     <lastmod>2020-11-12T06:44:00+02:00</lastmod>
   </url>
   
@@ -189,11 +214,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/tags/koreanisch/</loc>
-    <lastmod>2020-11-08T09:09:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/rezept/</loc>
     <lastmod>2020-11-08T09:09:00+02:00</lastmod>
   </url>
   
@@ -508,11 +528,6 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/tags/curry/</loc>
-    <lastmod>2020-10-12T05:22:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foodie.yamwoonsen.de/rezept/herbstliches-massaman-curry/</loc>
     <lastmod>2020-10-12T05:22:00+02:00</lastmod>
   </url>
@@ -604,11 +619,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/tags/getrocknet/</loc>
-    <lastmod>2020-09-29T07:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/schwein/</loc>
     <lastmod>2020-09-29T07:00:00+02:00</lastmod>
   </url>
   
@@ -2720,11 +2730,6 @@
   <url>
     <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/2020/01/07/</loc>
     <lastmod>2020-01-07T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/laotisch/</loc>
-    <lastmod>2020-01-06T10:14:00+02:00</lastmod>
   </url>
   
   <url>
