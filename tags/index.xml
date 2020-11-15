@@ -6,10 +6,19 @@
     <description>Recent content in Tags on foodie.yamwoonsen.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 14 Nov 2020 09:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 04:23:00 +0200</lastBuildDate>
     
 	<atom:link href="https://foodie.yamwoonsen.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>thailand</title>
+      <link>https://foodie.yamwoonsen.de/tags/thailand/</link>
+      <pubDate>Sun, 15 Nov 2020 04:23:00 +0200</pubDate>
+      
+      <guid>https://foodie.yamwoonsen.de/tags/thailand/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>curry</title>
@@ -1448,15 +1457,6 @@
       <pubDate>Tue, 02 Apr 2019 06:07:00 +0200</pubDate>
       
       <guid>https://foodie.yamwoonsen.de/tags/banane/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thailand</title>
-      <link>https://foodie.yamwoonsen.de/tags/thailand/</link>
-      <pubDate>Mon, 18 Mar 2019 10:11:00 +0200</pubDate>
-      
-      <guid>https://foodie.yamwoonsen.de/tags/thailand/</guid>
       <description></description>
     </item>
     
