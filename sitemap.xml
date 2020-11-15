@@ -128,8 +128,43 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/</loc>
-    <lastmod>2020-11-15T04:23:00+02:00</lastmod>
+    <lastmod>2020-11-15T20:23:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/curry/</loc>
+    <lastmod>2020-11-15T20:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/geflugel/</loc>
+    <lastmod>2020-11-15T20:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/kurbis/</loc>
+    <lastmod>2020-11-15T20:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/nachgekocht/</loc>
+    <lastmod>2020-11-15T20:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/</loc>
+    <lastmod>2020-11-15T20:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/thailandisch/</loc>
+    <lastmod>2020-11-15T20:23:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/nachgekocht/thailaendisches-gaeng-phed-fak-tong/</loc>
+    <lastmod>2020-11-15T20:23:00+02:00</lastmod>
   </url>
   
   <url>
@@ -139,11 +174,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/dies-und-das/thaifood_love_story/</loc>
-    <lastmod>2020-11-15T04:23:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/</loc>
     <lastmod>2020-11-15T04:23:00+02:00</lastmod>
   </url>
   
@@ -160,11 +190,6 @@
   <url>
     <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/11/14/</loc>
     <lastmod>2020-11-14T16:24:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/curry/</loc>
-    <lastmod>2020-11-14T09:30:00+02:00</lastmod>
   </url>
   
   <url>
@@ -209,11 +234,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/tags/kalb/</loc>
-    <lastmod>2020-11-09T07:06:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/nachgekocht/</loc>
     <lastmod>2020-11-09T07:06:00+02:00</lastmod>
   </url>
   
@@ -274,11 +294,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/tags/pilze/</loc>
-    <lastmod>2020-11-05T18:33:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/thailandisch/</loc>
     <lastmod>2020-11-05T18:33:00+02:00</lastmod>
   </url>
   
@@ -433,11 +448,6 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/tags/kurbis/</loc>
-    <lastmod>2020-10-28T06:07:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foodie.yamwoonsen.de/tags/reis/</loc>
     <lastmod>2020-10-28T06:07:00+02:00</lastmod>
   </url>
@@ -555,11 +565,6 @@
   <url>
     <loc>https://foodie.yamwoonsen.de/tags/maronen/</loc>
     <lastmod>2020-10-12T05:22:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/geflugel/</loc>
-    <lastmod>2020-10-11T14:24:09+02:00</lastmod>
   </url>
   
   <url>
