@@ -5,11 +5,7 @@
     <link>https://foodie.yamwoonsen.de/fotos/</link>
     <description>Recent content in Meine Foodie Fotoalben on foodie.yamwoonsen.de</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
-    
-	<atom:link href="https://foodie.yamwoonsen.de/fotos/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>de-de</language><atom:link href="https://foodie.yamwoonsen.de/fotos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thailändisches Gericht des Tages</title>
       <link>https://foodie.yamwoonsen.de/thaifood/</link>
