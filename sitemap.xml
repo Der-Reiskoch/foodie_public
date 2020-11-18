@@ -127,14 +127,34 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/11/16/</loc>
-    <lastmod>2020-11-16T19:24:09+02:00</lastmod>
+    <loc>https://foodie.yamwoonsen.de/</loc>
+    <lastmod>2020-11-17T19:24:09+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/</loc>
-    <lastmod>2020-11-15T20:23:00+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://foodie.yamwoonsen.de/thaipause/</loc>
+    <lastmod>2020-11-17T19:24:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/thaipause/fotos/2020/</loc>
+    <lastmod>2020-11-17T19:24:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/thaipause/fotos/</loc>
+    <lastmod>2020-11-17T19:24:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/thaipause/fotos/2020/11/17/</loc>
+    <lastmod>2020-11-17T19:24:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/11/16/</loc>
+    <lastmod>2020-11-16T19:24:09+02:00</lastmod>
   </url>
   
   <url>
@@ -264,21 +284,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/thaipause/fotos/2020/11/06/</loc>
-    <lastmod>2020-11-06T16:50:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/thaipause/</loc>
-    <lastmod>2020-11-06T16:50:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/thaipause/fotos/2020/</loc>
-    <lastmod>2020-11-06T16:50:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/thaipause/fotos/</loc>
     <lastmod>2020-11-06T16:50:09+02:00</lastmod>
   </url>
   
