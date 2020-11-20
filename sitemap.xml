@@ -128,8 +128,28 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/</loc>
-    <lastmod>2020-11-20T05:55:00+02:00</lastmod>
+    <lastmod>2020-11-20T12:00:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/2020/11/20/</loc>
+    <lastmod>2020-11-20T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/mittagspause/</loc>
+    <lastmod>2020-11-20T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/</loc>
+    <lastmod>2020-11-20T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/2020/</loc>
+    <lastmod>2020-11-20T12:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -158,22 +178,7 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/mittagspause/</loc>
-    <lastmod>2020-11-19T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/</loc>
-    <lastmod>2020-11-19T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/2020/11/19/</loc>
-    <lastmod>2020-11-19T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/2020/</loc>
     <lastmod>2020-11-19T12:00:00+02:00</lastmod>
   </url>
   
