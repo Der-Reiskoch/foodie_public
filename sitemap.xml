@@ -128,8 +128,38 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/</loc>
-    <lastmod>2020-11-20T12:00:00+02:00</lastmod>
+    <lastmod>2020-11-22T07:30:00+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/curry/</loc>
+    <lastmod>2020-11-22T07:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/fisch/</loc>
+    <lastmod>2020-11-22T07:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/rezept/0950_fish-head-curry-aus-singapur/</loc>
+    <lastmod>2020-11-22T07:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/malaysisch/</loc>
+    <lastmod>2020-11-22T07:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/rezept/</loc>
+    <lastmod>2020-11-22T07:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/tags/</loc>
+    <lastmod>2020-11-22T07:30:00+02:00</lastmod>
   </url>
   
   <url>
@@ -158,22 +188,12 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/rezept/</loc>
-    <lastmod>2020-11-20T05:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foodie.yamwoonsen.de/tags/rind/</loc>
     <lastmod>2020-11-20T05:55:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://foodie.yamwoonsen.de/tags/salat/</loc>
-    <lastmod>2020-11-20T05:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/</loc>
     <lastmod>2020-11-20T05:55:00+02:00</lastmod>
   </url>
   
@@ -210,11 +230,6 @@
   <url>
     <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/11/16/</loc>
     <lastmod>2020-11-16T19:24:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/curry/</loc>
-    <lastmod>2020-11-15T20:23:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1228,11 +1243,6 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/tags/fisch/</loc>
-    <lastmod>2020-07-04T09:44:09+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://foodie.yamwoonsen.de/tags/lachs/</loc>
     <lastmod>2020-07-04T09:44:09+02:00</lastmod>
   </url>
@@ -1825,11 +1835,6 @@
   <url>
     <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/05/10/</loc>
     <lastmod>2020-05-10T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/tags/malaysisch/</loc>
-    <lastmod>2020-05-09T12:16:00+02:00</lastmod>
   </url>
   
   <url>
