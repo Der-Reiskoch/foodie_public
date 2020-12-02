@@ -127,14 +127,29 @@
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/thaifood/fotos/2020/11/30/</loc>
-    <lastmod>2020-11-30T19:24:09+02:00</lastmod>
+    <loc>https://foodie.yamwoonsen.de/</loc>
+    <lastmod>2020-12-02T13:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://foodie.yamwoonsen.de/</loc>
-    <lastmod>2020-11-29T06:21:00+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://foodie.yamwoonsen.de/mittagspause/</loc>
+    <lastmod>2020-12-02T13:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/</loc>
+    <lastmod>2020-12-02T13:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/2020/</loc>
+    <lastmod>2020-12-02T13:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/2020/12/02/</loc>
+    <lastmod>2020-12-02T13:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -259,21 +274,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/2020/11/20/</loc>
-    <lastmod>2020-11-20T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/mittagspause/</loc>
-    <lastmod>2020-11-20T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/</loc>
-    <lastmod>2020-11-20T12:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/mittagspause/fotos/2020/</loc>
     <lastmod>2020-11-20T12:00:00+02:00</lastmod>
   </url>
   
@@ -10505,10 +10505,6 @@
   
   <url>
     <loc>https://foodie.yamwoonsen.de/inspirationen/buecher/roemer-kochbuch/</loc>
-  </url>
-  
-  <url>
-    <loc>https://foodie.yamwoonsen.de/inspirationen/blogs/serious-eats/</loc>
   </url>
   
   <url>
