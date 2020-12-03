@@ -17,4 +17,4 @@ Disallow: /zufall/
 Disallow: /zufallsrezept/
 Disallow: /zutaten/a-z/
 
-Sitemap: https://foodie.yamwoonsen.de/sitemap.xml
+Sitemap: https://der.reisko.ch/sitemap.xml
