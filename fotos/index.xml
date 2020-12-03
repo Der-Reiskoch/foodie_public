@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meine Foodie Fotoalben on Der Reiskoch</title>
-    <link>https://foodie.yamwoonsen.de/fotos/</link>
+    <link>https://der.reisko.ch/fotos/</link>
     <description>Recent content in Meine Foodie Fotoalben on Der Reiskoch</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://foodie.yamwoonsen.de/fotos/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language><atom:link href="https://der.reisko.ch/fotos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thailändisches Gericht des Tages</title>
-      <link>https://foodie.yamwoonsen.de/thaifood/</link>
+      <link>https://der.reisko.ch/thaifood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://foodie.yamwoonsen.de/thaifood/</guid>
+      <guid>https://der.reisko.ch/thaifood/</guid>
       <description>Leckeres Thai Food ohne Rezept</description>
     </item>
     
     <item>
       <title>Foodie&#39;s aktuelles Fotoalbum</title>
-      <link>https://foodie.yamwoonsen.de/fotoalbum/</link>
+      <link>https://der.reisko.ch/fotoalbum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://foodie.yamwoonsen.de/fotoalbum/</guid>
+      <guid>https://der.reisko.ch/fotoalbum/</guid>
       <description>Schnappschüsse von leckerem Essen</description>
     </item>
     
     <item>
       <title>Schnelle Thai Küche in der Mittagspause</title>
-      <link>https://foodie.yamwoonsen.de/thaipause/</link>
+      <link>https://der.reisko.ch/thaipause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://foodie.yamwoonsen.de/thaipause/</guid>
+      <guid>https://der.reisko.ch/thaipause/</guid>
       <description>Was wir so im und um den Wok zaubern</description>
     </item>
     
     <item>
       <title>Kochen in der Mittagspause</title>
-      <link>https://foodie.yamwoonsen.de/mittagspause/fotos/</link>
+      <link>https://der.reisko.ch/mittagspause/fotos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://foodie.yamwoonsen.de/mittagspause/fotos/</guid>
+      <guid>https://der.reisko.ch/mittagspause/fotos/</guid>
       <description>Was es bei mir so bei der Arbeit gibt</description>
     </item>
     
