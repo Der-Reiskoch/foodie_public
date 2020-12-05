@@ -170,6 +170,9 @@
 		<div class="content post__content clearfix">		
 			<p>Du wirst zu einem externen Link weitergeleitet&hellip;</p>
 <script>
+
+    var gotoUrl = '/';
+
     var isValidReferrer = true;
     if (document.referrer !== undefined) {
         var referrer = document.referrer; 
@@ -182,8 +185,6 @@
         }
     }
 
-    console.log('isValidReferrer');
-   
     if (isValidReferrer) {
         const queryString = window.location.search;
         const urlParams = new URLSearchParams(queryString);
@@ -191,13 +192,14 @@
     
         if (url !== undefined && url !== null && url.length > 0) {
             window.title = "Link zu " + url;
-            setTimeout(function() { window.location = url; }, 500);
-        } else {
-            
+            gotoUrl = url;
         }
-    } else {    
-        
-    }
+    } 
+
+    setTimeout(function() { window.location = gotoUrl; }, 500);
+
+
+
 </script>
 
 		</div>

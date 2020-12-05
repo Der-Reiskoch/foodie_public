@@ -6,6 +6,7 @@ Disallow: /fotoalbum/
 Disallow: /info/datenschutz/
 Disallow: /info/impressum/
 Disallow: /karlsmag/
+Disallow: /link/
 Disallow: /karten/
 Disallow: /mittagspause/fotos/
 Disallow: /speisekarten/
