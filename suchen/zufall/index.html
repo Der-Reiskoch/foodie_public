@@ -176,7 +176,7 @@
 
 <script type="text/javascript">
 
-window.onload = function() {
+function loadRamdom() {
 
     fetch('/index.json', {
         method: 'get'
@@ -200,6 +200,10 @@ window.onload = function() {
         }
     )
 }
+
+loadRamdom();
+
+
 </script>
 
 
