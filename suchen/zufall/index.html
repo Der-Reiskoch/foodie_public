@@ -15,7 +15,7 @@
 		<meta itemprop="name" content="Zufall">
 <meta itemprop="datePublished" content="2020-08-01T16:24:09+02:00" />
 <meta itemprop="dateModified" content="2020-08-01T16:24:09+02:00" />
-<meta itemprop="wordCount" content="49">
+<meta itemprop="wordCount" content="43">
 
 
 <meta itemprop="keywords" content="" />
@@ -178,10 +178,6 @@
 
 window.onload = function() {
 
-
-    searchInput = document.getElementById('search-input')
-    searchResults = document.getElementById('search-results')
-
     fetch('/index.json', {
         method: 'get'
     }).then(
@@ -203,9 +199,6 @@ window.onload = function() {
             
         }
     )
-
-
-
 }
 </script>
 
