@@ -13,7 +13,7 @@
 <meta property="og:url" content="https://der.reisko.ch/link/" />
 		<meta itemprop="name" content="Weiterleitung zu externem Link">
 
-<meta itemprop="wordCount" content="95">
+<meta itemprop="wordCount" content="90">
 
 
 <meta itemprop="keywords" content="" />
@@ -181,6 +181,8 @@
             }
         }
     }
+
+    console.log('isValidReferrer');
    
     if (isValidReferrer) {
         const queryString = window.location.search;
@@ -191,10 +193,10 @@
             window.title = "Link zu " + url;
             setTimeout(function() { window.location = url; }, 500);
         } else {
-            window.location = '/';
+            
         }
     } else {    
-        window.location = '/';
+        
     }
 </script>
 
