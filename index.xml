@@ -6,7 +6,7 @@
     <description>Recent content on Der Reiskoch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 04 Dec 2020 13:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Dec 2020 20:03:09 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bücher</title>
       <link>https://der.reisko.ch/inspirationen/buecher/</link>
@@ -283,6 +283,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://der.reisko.ch/fotoalbum/2011/</guid>
+      <description>Foodie&amp;rsquo;s Fotoalbum</description>
+    </item>
+    
+    <item>
+      <title>Doenjang Jjigae und Bulgogi</title>
+      <link>https://der.reisko.ch/fotoalbum/2020/12/05/</link>
+      <pubDate>Sat, 05 Dec 2020 20:03:09 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/fotoalbum/2020/12/05/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
     </item>
     
