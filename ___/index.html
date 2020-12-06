@@ -10,7 +10,7 @@
 		<meta property="og:title" content="Weiterleitung zu externem Link" />
 <meta property="og:description" content="Du verlässt meinen Blog" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://der.reisko.ch/link/" />
+<meta property="og:url" content="https://der.reisko.ch/___/" />
 		<meta itemprop="name" content="Weiterleitung zu externem Link">
 
 <meta itemprop="wordCount" content="90">
@@ -188,7 +188,7 @@
     if (isValidReferrer) {
         const queryString = window.location.search;
         const urlParams = new URLSearchParams(queryString);
-        const url = urlParams.get('url');
+        const url = urlParams.get('___');
     
         if (url !== undefined && url !== null && url.length > 0) {
             window.title = "Link zu " + url;
