@@ -15,7 +15,7 @@
 
 		<meta itemprop="name" content="Kochbuch Adventskalender 2020">
 
-<meta itemprop="wordCount" content="590">
+<meta itemprop="wordCount" content="581">
 <meta itemprop="image" content="https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/kochbuecher.jpg">
 
 <meta itemprop="keywords" content="" />
@@ -195,7 +195,7 @@ input {
 .grid-1 {
   display: grid;
   width: 96%;
-  max-width: 900px;
+  max-width: 1020px;
   margin: 2% auto;
   
   grid-template-columns: repeat(2, 1fr);
@@ -400,10 +400,6 @@ label {
   height: 120px;
 }
 
-.front {
-    background-color: #ffffff;
-}
-
 .door {
   width: 100%;
   transform-style: preserve-3d;
@@ -433,7 +429,6 @@ label {
   }
 
   .door .back {
-      background-size: contain;
       background-position: center center;
       background-repeat: no-repeat;
       background-color: #2e313d;
@@ -449,11 +444,11 @@ label {
     transform: rotateY(180deg);
   }
 
-  :checked + .door + .front {
+  :checked + .door > .front {
     opacity: 0;
   }
 
-  :checked + .door + .back {
+  :checked + door > .back {
     opacity: 100%;
   }
 </style>
