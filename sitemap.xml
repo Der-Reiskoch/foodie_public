@@ -139,12 +139,27 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/bohnen/</loc>
-    <lastmod>2020-12-08T05:31:00+02:00</lastmod>
+    <loc>https://der.reisko.ch/</loc>
+    <lastmod>2020-12-08T20:03:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/</loc>
+    <loc>https://der.reisko.ch/fotoalbum/</loc>
+    <lastmod>2020-12-08T20:03:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/fotoalbum/2020/</loc>
+    <lastmod>2020-12-08T20:03:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/fotoalbum/2020/12/08/</loc>
+    <lastmod>2020-12-08T20:03:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/bohnen/</loc>
     <lastmod>2020-12-08T05:31:00+02:00</lastmod>
   </url>
   
@@ -205,16 +220,6 @@
   
   <url>
     <loc>https://der.reisko.ch/fotoalbum/2020/12/05/</loc>
-    <lastmod>2020-12-05T20:03:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/fotoalbum/</loc>
-    <lastmod>2020-12-05T20:03:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/fotoalbum/2020/</loc>
     <lastmod>2020-12-05T20:03:09+02:00</lastmod>
   </url>
   
