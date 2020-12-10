@@ -15,7 +15,7 @@
 
 		<meta itemprop="name" content="Kochbuch Adventskalender 2020">
 
-<meta itemprop="wordCount" content="586">
+<meta itemprop="wordCount" content="610">
 <meta itemprop="image" content="https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/kochbuecher.jpg">
 
 <meta itemprop="keywords" content="" />
@@ -295,7 +295,7 @@ input {
     grid-area: d10;
   }
   .day-10 .back {
-    background: url(https://via.placeholder.com/600x600/2e313d/ffffff/?text=?);
+    background: url(https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/harumis_japanische_kueche.jpg);
   }
   .day-11 {
     grid-area: d11;
@@ -391,8 +391,8 @@ input {
 
 label {
   perspective: 1000px;
-  transform-style: preserve-3d;
   cursor: pointer;
+  transform-style: preserve-3d;
 
   display: flex;
   min-height: 100%;
@@ -431,7 +431,25 @@ label {
     font-size: 2em;
     font-weight: bold;
     text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+@-moz-document url-prefix() {
+ 
+  .door div {
+    backface-visibility: visible;
   }
+
+  .door .back {
+    opacity: 0%;
+  }
+
+  :checked + .door .back {
+    opacity: 100%;
+  }
+
+}
+
+
 
   .door .back {
       background-position: center center;
@@ -543,7 +561,7 @@ label {
   </div>
   <div class='day-9'>
     <label>
-      <input type='checkbox'>
+      <input type='checkbox' checked="true">
         <div class='door'>
           <div class='front'>9</div>
           <a href="/inspirationen/buecher/fadi-kocht-syrisch/"><div class='back'></div></a>
@@ -556,7 +574,7 @@ label {
       <input type='checkbox'>
         <div class='door'>
           <div class='front'>10</div>
-          <div class='back'></div>
+          <a href="/inspirationen/buecher/harumis-japanische-kueche/"><div class='back'></div></a>
         </div>
       </input>
     </label>
