@@ -6,14 +6,32 @@
     <description>Recent content in Tags on Der Reiskoch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 11 Dec 2020 06:06:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Dec 2020 06:47:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aubergine</title>
+      <link>https://der.reisko.ch/tags/aubergine/</link>
+      <pubDate>Fri, 11 Dec 2020 06:47:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/tags/aubergine/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Japanisch</title>
       <link>https://der.reisko.ch/tags/japanisch/</link>
-      <pubDate>Fri, 11 Dec 2020 06:06:00 +0200</pubDate>
+      <pubDate>Fri, 11 Dec 2020 06:47:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/tags/japanisch/</guid>
       <description>Andere Landesküchen</description>
+    </item>
+    
+    <item>
+      <title>vegetarisch</title>
+      <link>https://der.reisko.ch/tags/vegetarisch/</link>
+      <pubDate>Fri, 11 Dec 2020 06:47:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/tags/vegetarisch/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -287,15 +305,6 @@
     </item>
     
     <item>
-      <title>vegetarisch</title>
-      <link>https://der.reisko.ch/tags/vegetarisch/</link>
-      <pubDate>Thu, 05 Nov 2020 18:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/tags/vegetarisch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>abholservice</title>
       <link>https://der.reisko.ch/tags/abholservice/</link>
       <pubDate>Sat, 31 Oct 2020 09:02:00 +0200</pubDate>
@@ -418,15 +427,6 @@
       <pubDate>Sat, 26 Sep 2020 12:23:09 +0200</pubDate>
       
       <guid>https://der.reisko.ch/tags/nudeln/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aubergine</title>
-      <link>https://der.reisko.ch/tags/aubergine/</link>
-      <pubDate>Thu, 17 Sep 2020 00:13:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/tags/aubergine/</guid>
       <description></description>
     </item>
     
