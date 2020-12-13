@@ -140,7 +140,37 @@
   
   <url>
     <loc>https://der.reisko.ch/</loc>
-    <lastmod>2020-12-12T19:03:09+02:00</lastmod>
+    <lastmod>2020-12-13T10:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/glasnudeln/</loc>
+    <lastmod>2020-12-13T10:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/koreanisch/</loc>
+    <lastmod>2020-12-13T10:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/rezept/koreanisches-bulgogi-im-dolsot/</loc>
+    <lastmod>2020-12-13T10:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/rezept/</loc>
+    <lastmod>2020-12-13T10:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/rind/</loc>
+    <lastmod>2020-12-13T10:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/</loc>
+    <lastmod>2020-12-13T10:14:00+02:00</lastmod>
   </url>
   
   <url>
@@ -169,11 +199,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/koreanisch/</loc>
-    <lastmod>2020-12-11T06:06:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/tags/lieferservice/</loc>
     <lastmod>2020-12-11T06:06:00+02:00</lastmod>
   </url>
@@ -185,11 +210,6 @@
   
   <url>
     <loc>https://der.reisko.ch/restaurants/</loc>
-    <lastmod>2020-12-11T06:06:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/</loc>
     <lastmod>2020-12-11T06:06:00+02:00</lastmod>
   </url>
   
@@ -215,11 +235,6 @@
   
   <url>
     <loc>https://der.reisko.ch/tags/laotisch/</loc>
-    <lastmod>2020-12-10T05:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/rezept/</loc>
     <lastmod>2020-12-10T05:14:00+02:00</lastmod>
   </url>
   
@@ -430,11 +445,6 @@
   
   <url>
     <loc>https://der.reisko.ch/rezept/entrecote-mit-buntem-salat/</loc>
-    <lastmod>2020-11-20T05:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/rind/</loc>
     <lastmod>2020-11-20T05:55:00+02:00</lastmod>
   </url>
   
@@ -859,11 +869,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/nudeln/</loc>
-    <lastmod>2020-09-26T12:23:09+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/thaifood/fotos/2020/09/25/</loc>
     <lastmod>2020-09-25T18:24:09+02:00</lastmod>
   </url>
@@ -875,6 +880,11 @@
   
   <url>
     <loc>https://der.reisko.ch/rezept/chinesische-ma-yi-shang-shu/</loc>
+    <lastmod>2020-09-24T07:50:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/nudeln/</loc>
     <lastmod>2020-09-24T07:50:00+02:00</lastmod>
   </url>
   
