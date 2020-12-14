@@ -6,7 +6,7 @@
     <description>Recent content on Der Reiskoch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 13 Dec 2020 10:14:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Dec 2020 20:03:09 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Das Buch &#34;Asia Street Bowls&#34;</title>
       <link>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</link>
@@ -310,6 +310,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://der.reisko.ch/fotoalbum/2011/</guid>
+      <description>Foodie&amp;rsquo;s Fotoalbum</description>
+    </item>
+    
+    <item>
+      <title>Karē Raisu und Dwaejigogi Bulgogi</title>
+      <link>https://der.reisko.ch/fotoalbum/2020/12/13/</link>
+      <pubDate>Sun, 13 Dec 2020 20:03:09 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/fotoalbum/2020/12/13/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
     </item>
     
@@ -15983,7 +15992,7 @@
     </item>
     
     <item>
-      <title>Hot Thai Kitchen</title>
+      <title>Hot Thai Kitchen von Pailin</title>
       <link>https://der.reisko.ch/inspirationen/blogs/hot-thai-kitchen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16037,7 +16046,7 @@
     </item>
     
     <item>
-      <title>Lanna Food</title>
+      <title>Lanna Food Sammlung aus Chiang Mai</title>
       <link>https://der.reisko.ch/inspirationen/blogs/lanna-food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16055,21 +16064,21 @@
     </item>
     
     <item>
+      <title>Maureenas YouTube Channel &#34;Moriginal Thai&#34;</title>
+      <link>https://der.reisko.ch/inspirationen/blogs/moriginal-thai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://der.reisko.ch/inspirationen/blogs/moriginal-thai/</guid>
+      <description>Meine liebsten Blogs</description>
+    </item>
+    
+    <item>
       <title>Mekong Food</title>
       <link>https://der.reisko.ch/inspirationen/buecher/mekong-food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://der.reisko.ch/inspirationen/buecher/mekong-food/</guid>
       <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>Moriginal Thai</title>
-      <link>https://der.reisko.ch/inspirationen/blogs/moriginal-thai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/blogs/moriginal-thai/</guid>
-      <description>Meine liebsten Blogs</description>
     </item>
     
     <item>
@@ -16091,15 +16100,6 @@
     </item>
     
     <item>
-      <title>Ottolenghi</title>
-      <link>https://der.reisko.ch/inspirationen/blogs/ottolenghi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/blogs/ottolenghi/</guid>
-      <description>Meine liebsten Blogs</description>
-    </item>
-    
-    <item>
       <title>Pok Pok von Andy Ricker</title>
       <link>https://der.reisko.ch/inspirationen/buecher/pok-pok/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16118,7 +16118,7 @@
     </item>
     
     <item>
-      <title>Reisehappen</title>
+      <title>Reisehappen: Travel- und Foodblog</title>
       <link>https://der.reisko.ch/inspirationen/blogs/reisehappen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16181,7 +16181,7 @@
     </item>
     
     <item>
-      <title>RyuKoch.com</title>
+      <title>RyuKoch: Alles über Korea und Japan</title>
       <link>https://der.reisko.ch/inspirationen/blogs/ryukoch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16295,6 +16295,15 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/yemek/</guid>
       <description>Meine liebsten Kochbücher</description>
+    </item>
+    
+    <item>
+      <title>Yotam Ottolenghis Website</title>
+      <link>https://der.reisko.ch/inspirationen/blogs/ottolenghi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://der.reisko.ch/inspirationen/blogs/ottolenghi/</guid>
+      <description>Meine liebsten Blogs</description>
     </item>
     
   </channel>
