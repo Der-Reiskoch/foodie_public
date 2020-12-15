@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>Alle Inhalte meines Blogs</title>
+      <link>https://der.reisko.ch/suchen/alle_inhalte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://der.reisko.ch/suchen/alle_inhalte/</guid>
+      <description>Liste des kompletten Inhaltes</description>
+    </item>
+    
+    <item>
       <title>Rezepte von A bis Z</title>
       <link>https://der.reisko.ch/suchen/rezept-a-z/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
