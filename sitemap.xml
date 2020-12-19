@@ -1409,12 +1409,12 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/zutaten/</loc>
+    <loc>https://der.reisko.ch/zutaten/zutatenliste-von-a-bis-z/</loc>
     <lastmod>2020-07-07T23:28:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/zutaten/zutatenliste-von-a-bis-z/</loc>
+    <loc>https://der.reisko.ch/zutaten/</loc>
     <lastmod>2020-07-07T23:28:09+02:00</lastmod>
   </url>
   
@@ -10498,10 +10498,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/inspirationen/buecher/das-japan-kochbuch/</loc>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/inspirationen/buecher/das-kulinarische-manifest/</loc>
   </url>
   
@@ -10527,6 +10523,10 @@
   
   <url>
     <loc>https://der.reisko.ch/inspirationen/buecher/indische-currys/</loc>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/inspirationen/buecher/das-japan-kochbuch/</loc>
   </url>
   
   <url>
