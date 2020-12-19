@@ -6,7 +6,7 @@
     <description>Recent content on Der Reiskoch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 13 Dec 2020 20:03:09 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Dec 2020 13:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Das Buch &#34;Asia Street Bowls&#34;</title>
       <link>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</link>
@@ -314,6 +314,60 @@
     </item>
     
     <item>
+      <title>Sichuan Kartoffeltopf</title>
+      <link>https://der.reisko.ch/mittagspause/fotos/2020/12/17/</link>
+      <pubDate>Thu, 17 Dec 2020 13:00:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/mittagspause/fotos/2020/12/17/</guid>
+      <description>Heute in der Mittagspause</description>
+    </item>
+    
+    <item>
+      <title>Goong Ob Woon Sen im Dolsot</title>
+      <link>https://der.reisko.ch/dies-und-das/goong-ob-woonsen-im-dolsot/</link>
+      <pubDate>Thu, 17 Dec 2020 06:21:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/dies-und-das/goong-ob-woonsen-im-dolsot/</guid>
+      <description>Ein geglücktes Koch Experiment</description>
+    </item>
+    
+    <item>
+      <title>Kochbuch Adventskalender 2020</title>
+      <link>https://der.reisko.ch/adventskalender/</link>
+      <pubDate>Thu, 17 Dec 2020 05:21:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/adventskalender/</guid>
+      <description>Aus meinem Bücherregal</description>
+    </item>
+    
+    <item>
+      <title>Schneller Yam Talee</title>
+      <link>https://der.reisko.ch/thaifood/fotos/2020/12/16/</link>
+      <pubDate>Wed, 16 Dec 2020 19:24:09 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/thaifood/fotos/2020/12/16/</guid>
+      <description>Thailändisches Gericht des Tages</description>
+    </item>
+    
+    <item>
+      <title>Soba Nudelsuppe</title>
+      <link>https://der.reisko.ch/mittagspause/fotos/2020/12/15/</link>
+      <pubDate>Tue, 15 Dec 2020 13:00:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/mittagspause/fotos/2020/12/15/</guid>
+      <description>Heute in der Mittagspause</description>
+    </item>
+    
+    <item>
+      <title>Thailändische Singapore Cookies</title>
+      <link>https://der.reisko.ch/nachgekocht/thailaendische_singapore_cookies/</link>
+      <pubDate>Tue, 15 Dec 2020 06:24:09 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/nachgekocht/thailaendische_singapore_cookies/</guid>
+      <description>Leckere Kekse aus Thailand</description>
+    </item>
+    
+    <item>
       <title>Karē Raisu und Dwaejigogi Bulgogi</title>
       <link>https://der.reisko.ch/fotoalbum/2020/12/13/</link>
       <pubDate>Sun, 13 Dec 2020 20:03:09 +0200</pubDate>
@@ -347,15 +401,6 @@
       
       <guid>https://der.reisko.ch/restaurants/lieferservice-des-fashion-asia-grills/</guid>
       <description>Sushi beim Foodietreffen</description>
-    </item>
-    
-    <item>
-      <title>Kochbuch Adventskalender 2020</title>
-      <link>https://der.reisko.ch/adventskalender/</link>
-      <pubDate>Fri, 11 Dec 2020 05:21:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/adventskalender/</guid>
-      <description>Aus meinem Bücherregal</description>
     </item>
     
     <item>
@@ -15650,7 +15695,16 @@
     </item>
     
     <item>
-      <title>Asia Street Food</title>
+      <title>Alle Inhalte meines Blogs</title>
+      <link>https://der.reisko.ch/suchen/alle_inhalte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://der.reisko.ch/suchen/alle_inhalte/</guid>
+      <description>Liste des kompletten Inhaltes</description>
+    </item>
+    
+    <item>
+      <title>Asia Street Food - Der Blog</title>
       <link>https://der.reisko.ch/inspirationen/blogs/asia-street-food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -15965,6 +16019,15 @@
     </item>
     
     <item>
+      <title>Eating Thai Food von Mark Wiens</title>
+      <link>https://der.reisko.ch/inspirationen/blogs/eating-thai-food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://der.reisko.ch/inspirationen/blogs/eating-thai-food/</guid>
+      <description>Meine liebsten Blogs</description>
+    </item>
+    
+    <item>
       <title>Einfaches, aber leckeres Risi-Bisi</title>
       <link>https://der.reisko.ch/mittagspause/fotos/2016/10/04/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16055,15 +16118,6 @@
     </item>
     
     <item>
-      <title>Mark Wien&#39;s Eating Thai Food</title>
-      <link>https://der.reisko.ch/inspirationen/blogs/eating-thai-food/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/blogs/eating-thai-food/</guid>
-      <description>Meine liebsten Blogs</description>
-    </item>
-    
-    <item>
       <title>Maureenas YouTube Channel &#34;Moriginal Thai&#34;</title>
       <link>https://der.reisko.ch/inspirationen/blogs/moriginal-thai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -16073,7 +16127,7 @@
     </item>
     
     <item>
-      <title>Mekong Food</title>
+      <title>Mekong Food von Michael Langoth</title>
       <link>https://der.reisko.ch/inspirationen/buecher/mekong-food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16109,7 +16163,7 @@
     </item>
     
     <item>
-      <title>Ramen Kochbuch</title>
+      <title>Ramen Kochbuch: Basics &amp; Rezepte</title>
       <link>https://der.reisko.ch/inspirationen/buecher/ramen-kochbuch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16235,7 +16289,7 @@
     </item>
     
     <item>
-      <title>Thaifoodmaster</title>
+      <title>Thaifoodmaster von Hanuman Aspler</title>
       <link>https://der.reisko.ch/inspirationen/blogs/thaifoodmaster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16244,7 +16298,7 @@
     </item>
     
     <item>
-      <title>Thaifreun.de</title>
+      <title>Thaifreun.de von Lung Priau</title>
       <link>https://der.reisko.ch/inspirationen/blogs/thaifreun_de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dies und Das on Der Reiskoch</title>
+    <title>Dies und das rund ums Essen on Der Reiskoch</title>
     <link>https://der.reisko.ch/dies-und-das/</link>
-    <description>Recent content in Dies und Das on Der Reiskoch</description>
+    <description>Recent content in Dies und das rund ums Essen on Der Reiskoch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 29 Nov 2020 06:21:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/dies-und-das/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Dec 2020 06:21:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/dies-und-das/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goong Ob Woon Sen im Dolsot</title>
+      <link>https://der.reisko.ch/dies-und-das/goong-ob-woonsen-im-dolsot/</link>
+      <pubDate>Thu, 17 Dec 2020 06:21:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/dies-und-das/goong-ob-woonsen-im-dolsot/</guid>
+      <description>Ein geglücktes Koch Experiment</description>
+    </item>
+    
     <item>
       <title>Moo Grob und Plaa Muek Abend</title>
       <link>https://der.reisko.ch/dies-und-das/moo_grob-und-plaa-muek-abend/</link>
