@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{THE_REQUEST} ^GET\ /rezepte/
+RewriteRule ^rezept/(.*) /rezepte/$1 [L,R=301]

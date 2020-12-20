@@ -12,6 +12,7 @@ Disallow: /mittagspause/fotos/
 Disallow: /speisekarten/
 Disallow: /suchen/
 Disallow: /tags/
+Disallow: /categories/
 Disallow: /thaifood/fotos/
 Disallow: /thaipause/fotos/
 Disallow: /zufall/

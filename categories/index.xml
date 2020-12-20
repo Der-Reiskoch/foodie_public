@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Der Reiskoch</title>
+    <link>https://der.reisko.ch/categories/</link>
+    <description>Recent content in Categories on Der Reiskoch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 13 Dec 2020 10:14:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rezepte</title>
+      <link>https://der.reisko.ch/categories/rezepte/</link>
+      <pubDate>Sun, 13 Dec 2020 10:14:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/categories/rezepte/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
