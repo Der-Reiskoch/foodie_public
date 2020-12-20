@@ -3,11 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://der.reisko.ch/restaurants/</loc>
+    <lastmod>2020-12-11T06:06:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/categories/restaurants/</loc>
+    <lastmod>2020-12-11T06:06:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</loc>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/inspirationen/buecher/</loc>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/categories/inspirationen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/inspirationen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/suchen/restaurants-a-z/</loc>
   </url>
   
   <url>
@@ -168,6 +190,16 @@
   </url>
   
   <url>
+    <loc>https://der.reisko.ch/categories/</loc>
+    <lastmod>2020-12-17T06:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/categories/dies-das/</loc>
+    <lastmod>2020-12-17T06:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/dies-und-das/</loc>
     <lastmod>2020-12-17T06:21:00+02:00</lastmod>
   </url>
@@ -195,6 +227,11 @@
   <url>
     <loc>https://der.reisko.ch/tags/thailandisch/</loc>
     <lastmod>2020-12-17T06:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/categories/blogevents/</loc>
+    <lastmod>2020-12-17T05:21:00+02:00</lastmod>
   </url>
   
   <url>
@@ -248,11 +285,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/categories/</loc>
-    <lastmod>2020-12-13T10:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/tags/koreanisch/</loc>
     <lastmod>2020-12-13T10:14:00+02:00</lastmod>
   </url>
@@ -299,11 +331,6 @@
   
   <url>
     <loc>https://der.reisko.ch/restaurants/lieferservice-des-fashion-asia-grills/</loc>
-    <lastmod>2020-12-11T06:06:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/restaurants/</loc>
     <lastmod>2020-12-11T06:06:00+02:00</lastmod>
   </url>
   
@@ -5063,11 +5090,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/japan/</loc>
-    <lastmod>2018-12-07T06:20:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/restaurants/restaurant-maruyasu-sushi-in-dusseldorf/</loc>
     <lastmod>2018-12-07T06:20:00+02:00</lastmod>
   </url>
@@ -5100,6 +5122,11 @@
   <url>
     <loc>https://der.reisko.ch/rezepte/mediterraner-salat-mit-granatapfel/</loc>
     <lastmod>2018-11-27T06:57:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/categories/dies-da/</loc>
+    <lastmod>2018-11-25T09:46:00+02:00</lastmod>
   </url>
   
   <url>
@@ -5244,6 +5271,11 @@
   
   <url>
     <loc>https://der.reisko.ch/tools/eichhornchen-reisloffel-aus-japan/</loc>
+    <lastmod>2018-10-28T10:27:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/japan/</loc>
     <lastmod>2018-10-28T10:27:00+02:00</lastmod>
   </url>
   
@@ -10544,10 +10576,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/categories/inspirationen/</loc>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/inspirationen/buecher/das-japan-kochbuch/</loc>
   </url>
   
@@ -10577,10 +10605,6 @@
   
   <url>
     <loc>https://der.reisko.ch/fotos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/inspirationen/</loc>
   </url>
   
   <url>
