@@ -171,16 +171,61 @@
   
   <url>
     <loc>https://der.reisko.ch/categories/</loc>
-    <lastmod>2020-12-20T05:21:00+02:00</lastmod>
+    <lastmod>2020-12-21T06:14:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/categories/blogevents/</loc>
-    <lastmod>2020-12-20T05:21:00+02:00</lastmod>
+    <loc>https://der.reisko.ch/tags/curry/</loc>
+    <lastmod>2020-12-21T06:14:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/</loc>
+    <lastmod>2020-12-21T06:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/hackfleisch/</loc>
+    <lastmod>2020-12-21T06:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/japanisch/</loc>
+    <lastmod>2020-12-21T06:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/rezepte/japanisches-keema-curry/</loc>
+    <lastmod>2020-12-21T06:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/karotten/</loc>
+    <lastmod>2020-12-21T06:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/kartoffeln/</loc>
+    <lastmod>2020-12-21T06:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/rezepte/</loc>
+    <lastmod>2020-12-21T06:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/categories/rezepte/</loc>
+    <lastmod>2020-12-21T06:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/</loc>
+    <lastmod>2020-12-21T06:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/categories/blogevents/</loc>
     <lastmod>2020-12-20T05:21:00+02:00</lastmod>
   </url>
   
@@ -231,11 +276,6 @@
   
   <url>
     <loc>https://der.reisko.ch/tags/meeresfruchte/</loc>
-    <lastmod>2020-12-17T06:21:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/</loc>
     <lastmod>2020-12-17T06:21:00+02:00</lastmod>
   </url>
   
@@ -300,16 +340,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/rezepte/</loc>
-    <lastmod>2020-12-13T10:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/categories/rezepte/</loc>
-    <lastmod>2020-12-13T10:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/tags/rind/</loc>
     <lastmod>2020-12-13T10:14:00+02:00</lastmod>
   </url>
@@ -317,11 +347,6 @@
   <url>
     <loc>https://der.reisko.ch/fotoalbum/2020/12/12/</loc>
     <lastmod>2020-12-12T19:03:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/japanisch/</loc>
-    <lastmod>2020-12-11T06:06:00+02:00</lastmod>
   </url>
   
   <url>
@@ -490,18 +515,8 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/hackfleisch/</loc>
-    <lastmod>2020-11-26T04:08:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/nachgekocht/hackfleisch-in-karamellsosse/</loc>
     <lastmod>2020-11-26T04:08:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/curry/</loc>
-    <lastmod>2020-11-22T07:30:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1815,11 +1830,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/kartoffeln/</loc>
-    <lastmod>2020-06-02T06:42:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/dies-und-das/massaman-curry-mit-riesenkartoffeln/</loc>
     <lastmod>2020-06-02T06:42:00+02:00</lastmod>
   </url>
@@ -2191,11 +2201,6 @@
   
   <url>
     <loc>https://der.reisko.ch/tags/karibisch/</loc>
-    <lastmod>2020-04-25T07:19:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/karotten/</loc>
     <lastmod>2020-04-25T07:19:00+02:00</lastmod>
   </url>
   

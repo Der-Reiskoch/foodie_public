@@ -6,7 +6,7 @@
     <description>Recent content in Blog Inhalte nach Kategorien on Der Reiskoch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 20 Dec 2020 05:21:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Dec 2020 06:14:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inspirationen</title>
       <link>https://der.reisko.ch/categories/inspirationen/</link>
@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Rezepte</title>
+      <link>https://der.reisko.ch/categories/rezepte/</link>
+      <pubDate>Mon, 21 Dec 2020 06:14:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/categories/rezepte/</guid>
+      <description>Übersicht über meine Rezeptsammlung, die in den letzten Jahren ganz schön gewachsen ist.</description>
+    </item>
+    
+    <item>
       <title>Blogevents</title>
       <link>https://der.reisko.ch/categories/blogevents/</link>
       <pubDate>Sun, 20 Dec 2020 05:21:00 +0200</pubDate>
@@ -41,15 +50,6 @@
       
       <guid>https://der.reisko.ch/categories/dies-das/</guid>
       <description>Alle Beiträge rund ums Kochen und Essen die sich sonst nirgendwo einordnen lassen.</description>
-    </item>
-    
-    <item>
-      <title>Rezepte</title>
-      <link>https://der.reisko.ch/categories/rezepte/</link>
-      <pubDate>Sun, 13 Dec 2020 10:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/categories/rezepte/</guid>
-      <description>Übersicht über meine Rezeptsammlung, die in den letzten Jahren ganz schön gewachsen ist.</description>
     </item>
     
     <item>
