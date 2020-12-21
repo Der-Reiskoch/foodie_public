@@ -1,3 +1,5 @@
 RewriteEngine on
-RewriteCond %{THE_REQUEST} ^GET\ /rezepte/
+RewriteCond %{THE_REQUEST} ^GET\ /rezept/
 RewriteRule ^rezept/(.*) /rezepte/$1 [L,R=301]
+RewriteCond %{THE_REQUEST} ^GET\ /tools/
+RewriteRule ^tools/(.*) /utensilien/$1 [L,R=301]
