@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://der.reisko.ch/categories/inspirationen/</loc>
+    <lastmod>2020-12-20T05:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/restaurants/</loc>
     <lastmod>2020-12-11T06:06:00+02:00</lastmod>
   </url>
@@ -18,10 +23,6 @@
   
   <url>
     <loc>https://der.reisko.ch/inspirationen/buecher/</loc>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/categories/inspirationen/</loc>
   </url>
   
   <url>
@@ -46,6 +47,10 @@
   
   <url>
     <loc>https://der.reisko.ch/inspirationen/buecher/basic-thai/</loc>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/inspirationen/dokus/</loc>
   </url>
   
   <url>
@@ -165,8 +170,23 @@
   </url>
   
   <url>
+    <loc>https://der.reisko.ch/categories/</loc>
+    <lastmod>2020-12-20T05:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/categories/blogevents/</loc>
+    <lastmod>2020-12-20T05:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/</loc>
-    <lastmod>2020-12-17T13:00:00+02:00</lastmod>
+    <lastmod>2020-12-20T05:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/adventskalender/</loc>
+    <lastmod>2020-12-20T05:21:00+02:00</lastmod>
   </url>
   
   <url>
@@ -187,11 +207,6 @@
   <url>
     <loc>https://der.reisko.ch/mittagspause/fotos/2020/12/17/</loc>
     <lastmod>2020-12-17T13:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/categories/</loc>
-    <lastmod>2020-12-17T06:21:00+02:00</lastmod>
   </url>
   
   <url>
@@ -227,16 +242,6 @@
   <url>
     <loc>https://der.reisko.ch/tags/thailandisch/</loc>
     <lastmod>2020-12-17T06:21:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/categories/blogevents/</loc>
-    <lastmod>2020-12-17T05:21:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/adventskalender/</loc>
-    <lastmod>2020-12-17T05:21:00+02:00</lastmod>
   </url>
   
   <url>
@@ -10528,7 +10533,7 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/inspirationen/blogs/eating-thailand/</loc>
+    <loc>https://der.reisko.ch/inspirationen/dokus/eating-thailand/</loc>
   </url>
   
   <url>
@@ -10676,6 +10681,10 @@
   </url>
   
   <url>
+    <loc>https://der.reisko.ch/inspirationen/dokus/</loc>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/inspirationen/buecher/thai-food/</loc>
   </url>
   
@@ -10729,6 +10738,10 @@
   
   <url>
     <loc>https://der.reisko.ch/inspirationen/blogs/the-woks-of-life/</loc>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/inspirationen/dokus/unterwegs-mit-david-thompson/</loc>
   </url>
   
   <url>

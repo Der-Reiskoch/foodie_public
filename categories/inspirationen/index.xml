@@ -5,7 +5,8 @@
     <link>https://der.reisko.ch/categories/inspirationen/</link>
     <description>Recent content in Inspirationen on Der Reiskoch</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://der.reisko.ch/categories/inspirationen/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language>
+    <lastBuildDate>Sun, 20 Dec 2020 05:21:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/categories/inspirationen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Das Buch &#34;Asia Street Bowls&#34;</title>
       <link>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</link>
@@ -43,6 +44,15 @@
     </item>
     
     <item>
+      <title>Kochbuch Adventskalender 2020</title>
+      <link>https://der.reisko.ch/adventskalender/</link>
+      <pubDate>Sun, 20 Dec 2020 05:21:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/adventskalender/</guid>
+      <description>Aus meinem Bücherregal</description>
+    </item>
+    
+    <item>
       <title>Asia Street Food - Der Blog</title>
       <link>https://der.reisko.ch/inspirationen/blogs/asia-street-food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -53,11 +63,11 @@
     
     <item>
       <title>Chef McDang&#39;s Eating Thailand</title>
-      <link>https://der.reisko.ch/inspirationen/blogs/eating-thailand/</link>
+      <link>https://der.reisko.ch/inspirationen/dokus/eating-thailand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://der.reisko.ch/inspirationen/blogs/eating-thailand/</guid>
-      <description>Meine liebsten Blogs</description>
+      <guid>https://der.reisko.ch/inspirationen/dokus/eating-thailand/</guid>
+      <description>Dokus und Serien</description>
     </item>
     
     <item>
@@ -355,6 +365,15 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/the-woks-of-life/</guid>
       <description>Meine liebsten Blogs</description>
+    </item>
+    
+    <item>
+      <title>Unterwegs mit David Thompson</title>
+      <link>https://der.reisko.ch/inspirationen/dokus/unterwegs-mit-david-thompson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://der.reisko.ch/inspirationen/dokus/unterwegs-mit-david-thompson/</guid>
+      <description>Dokus und Serien</description>
     </item>
     
     <item>
