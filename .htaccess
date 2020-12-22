@@ -21,4 +21,10 @@ RewriteRule ^stichwort/(.*) /tags/$1 [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /stichwort
 RewriteRule ^stichwort /tags/ [L,R=301]
 
+RewriteCond %{THE_REQUEST} ^GET\ /fluessiges/
+RewriteRule ^fluessiges/(.*) /getranke/$1 [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /fluessiges
+RewriteRule ^fluessiges /getranke/ [L,R=301]
+
 ErrorDocument 404 /404.html
