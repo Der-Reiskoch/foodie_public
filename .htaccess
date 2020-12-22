@@ -5,6 +5,9 @@ RewriteRule ^rezept/(.*) /rezepte/$1 [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /tools/
 RewriteRule ^tools/(.*) /utensilien/$1 [L,R=301]
 
+RewriteCond %{THE_REQUEST} ^GET\ /categories
+RewriteRule ^categories /tags/ [L,R=301]
+
 RewriteCond %{THE_REQUEST} ^GET\ /categories/
 RewriteRule ^categories/(.*) /tags/$1 [L,R=301]
 
