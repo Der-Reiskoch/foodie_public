@@ -14,4 +14,7 @@ RewriteRule ^categories /tags/ [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /stichwort/thailand
 RewriteRule ^/stichwort/thailand /tags/thailandisch/ [L,R=301]
 
+RewriteCond %{THE_REQUEST} ^GET\ /stichwort/
+RewriteRule ^stichwort/(.*) /tags/$1 [L,R=301]
+
 ErrorDocument 404 /404.html
