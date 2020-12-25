@@ -481,19 +481,19 @@
         ).then(
             res => {
                 idx = lunr(function() {
-                    this.ref('url')
-                    this.field('title', { boost: 20 })
-                    this.field('summary', { boost: 10 } )
-                    this.field('tags')
+                    this.ref('u')
+                    this.field('t', { boost: 20 })
+                    this.field('s', { boost: 10 } )
+                    this.field('ts')
     
                     res.forEach(function(doc) {
                         this.add(doc)
-                        documents[doc.url] = {
-                            'title': doc.title,
-                            'summary': doc.summary,
-                            'date': doc.date,
-                            'tags': doc.tags,
-                            'image': doc.image,
+                        documents[doc.u] = {
+                            'title': doc.t,
+                            'summary': doc.s,
+                            'date': doc.d,
+                            'tags': doc.t,
+                            'image': doc.i,
                         }
                     }, this)
                 })
