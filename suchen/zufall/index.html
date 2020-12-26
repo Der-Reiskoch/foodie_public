@@ -17,7 +17,7 @@
 		<meta itemprop="name" content="Zufall">
 <meta itemprop="datePublished" content="2020-08-01T16:24:09+02:00" />
 <meta itemprop="dateModified" content="2020-08-01T16:24:09+02:00" />
-<meta itemprop="wordCount" content="43">
+<meta itemprop="wordCount" content="8">
 
 
 <meta itemprop="keywords" content="" />
@@ -176,40 +176,15 @@
 		<div class="content post__content clearfix">		
 			<p>Ein zufälliger Beitrag wir berechnet und geladen.</p>
 
+
+
+
+<script src="https://der.reisko.ch/js/random.min.ee51cab5dd1c814ccec94498b0096723aadc079b788cc0fdc793435dbb8697e9.js"></script>
+
+
 <script type="text/javascript">
-
-function loadRamdomItem() {
-
-    fetch('/index.json', {
-        method: 'get'
-    }).then(
-        res => res.json()
-    ).then(
-        res => {
-            var maxIndex = res.length - 1;    
-            var radomIndex = Math.floor(Math.random() * maxIndex) + 1;
-            
-            if (radomIndex <= maxIndex) {
-                var randomItem = res[radomIndex];
-                if (randomItem) {
-                    window.location.href = randomItem.u;
-                }
-            }
-        }
-    ).catch(
-        err => {
-            
-        }
-    )
-}
-
-loadRamdomItem();
-
-
+    loadRamdomItem();
 </script>
-
-
-
 
 		</div>
 	</article>

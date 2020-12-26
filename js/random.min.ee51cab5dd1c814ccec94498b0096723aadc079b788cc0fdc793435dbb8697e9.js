@@ -1,0 +1,1 @@
+function loadRamdomItem(){fetch('/index.json',{method:'get'}).then(res=>res.json()).then(res=>{var maxIndex=res.length-1;var radomIndex=Math.floor(Math.random()*maxIndex)+1;if(radomIndex<=maxIndex){var randomItem=res[radomIndex];if(randomItem){window.location.href=randomItem.u;}}}).catch(err=>{})}
