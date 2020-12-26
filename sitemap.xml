@@ -24,10 +24,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/suchen/rezept-a-z/</loc>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</loc>
   </url>
   
@@ -49,14 +45,22 @@
   
   <url>
     <loc>https://der.reisko.ch/fotoalbum/2020/</loc>
+    <lastmod>2020-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/mittagspause/fotos/2020/</loc>
+    <lastmod>2020-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/thaifood/fotos/2020/</loc>
+    <lastmod>2020-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/thaipause/fotos/2020/</loc>
+    <lastmod>2020-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -64,23 +68,43 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/thaipause/fotos/2020/</loc>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/fotoalbum/2019/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/mittagspause/fotos/2019/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/thaifood/fotos/2019/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/thaipause/fotos/2019/</loc>
+    <lastmod>2019-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/fotoalbum/2018/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/mittagspause/fotos/2018/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/thaifood/fotos/2018/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/thaipause/fotos/2018/</loc>
+    <lastmod>2018-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -88,27 +112,23 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/fotoalbum/2018/</loc>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/mittagspause/fotos/2018/</loc>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/thaifood/fotos/2018/</loc>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/thaipause/fotos/2018/</loc>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/fotoalbum/2017/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/mittagspause/fotos/2017/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/thaifood/fotos/2017/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/thaipause/fotos/2017/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -116,15 +136,18 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/thaifood/fotos/2017/</loc>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/thaipause/fotos/2017/</loc>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/fotoalbum/2016/</loc>
+    <lastmod>2016-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/mittagspause/fotos/2016/</loc>
+    <lastmod>2016-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/thaifood/fotos/2016/</loc>
+    <lastmod>2016-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -132,31 +155,28 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/mittagspause/fotos/2016/</loc>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/thaifood/fotos/2016/</loc>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/fotoalbum/2015/</loc>
+    <lastmod>2015-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/fotoalbum/2014/</loc>
+    <lastmod>2014-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/fotoalbum/2013/</loc>
+    <lastmod>2013-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/fotoalbum/2012/</loc>
+    <lastmod>2012-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/fotoalbum/2011/</loc>
+    <lastmod>2011-01-01T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -772,6 +792,11 @@
   <url>
     <loc>https://der.reisko.ch/restaurants/restaurant-china-bao-im-passagehof/</loc>
     <lastmod>2020-10-28T10:39:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/rezepte/a-z/</loc>
+    <lastmod>2020-10-28T08:59:00+02:00</lastmod>
   </url>
   
   <url>
@@ -3040,6 +3065,11 @@
   </url>
   
   <url>
+    <loc>https://der.reisko.ch/thaifood/</loc>
+    <lastmod>2020-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/fotoalbum/2019/</loc>
     <lastmod>2019-12-30T00:00:00+02:00</lastmod>
   </url>
@@ -4116,11 +4146,6 @@
   
   <url>
     <loc>https://der.reisko.ch/thaifood/ueber-dieses-album/</loc>
-    <lastmod>2019-06-29T06:04:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/thaifood/</loc>
     <lastmod>2019-06-29T06:04:00+02:00</lastmod>
   </url>
   

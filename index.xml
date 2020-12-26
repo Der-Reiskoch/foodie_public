@@ -35,15 +35,6 @@
     </item>
     
     <item>
-      <title>Rezepte von A bis Z</title>
-      <link>https://der.reisko.ch/suchen/rezept-a-z/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/suchen/rezept-a-z/</guid>
-      <description>Alphabetische Liste meiner Rezepte</description>
-    </item>
-    
-    <item>
       <title>Das Buch &#34;Asia Street Food&#34;</title>
       <link>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -91,7 +82,7 @@
     <item>
       <title>Fotoalbum 2020</title>
       <link>https://der.reisko.ch/fotoalbum/2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/fotoalbum/2020/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
@@ -100,7 +91,7 @@
     <item>
       <title>Mittagspause 2020</title>
       <link>https://der.reisko.ch/mittagspause/fotos/2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/</guid>
       <description>Heute in der Mittagspause</description>
@@ -109,10 +100,19 @@
     <item>
       <title>Thaifood 2020</title>
       <link>https://der.reisko.ch/thaifood/fotos/2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/thaifood/fotos/2020/</guid>
       <description>Thailändisches Gericht des Tages</description>
+    </item>
+    
+    <item>
+      <title>Thaipause 2020</title>
+      <link>https://der.reisko.ch/thaipause/fotos/2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/thaipause/fotos/2020/</guid>
+      <description>Thaifood in der Mittagspause</description>
     </item>
     
     <item>
@@ -125,18 +125,9 @@
     </item>
     
     <item>
-      <title>Thaipause 2020</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
       <title>Fotoalbum 2019</title>
       <link>https://der.reisko.ch/fotoalbum/2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/fotoalbum/2019/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
@@ -145,7 +136,7 @@
     <item>
       <title>Mittagspause 2019</title>
       <link>https://der.reisko.ch/mittagspause/fotos/2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2019/</guid>
       <description>Heute in der Mittagspause</description>
@@ -154,7 +145,7 @@
     <item>
       <title>Thaifood 2019</title>
       <link>https://der.reisko.ch/thaifood/fotos/2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/thaifood/fotos/2019/</guid>
       <description>Thailändisches Gericht des Tages</description>
@@ -163,9 +154,45 @@
     <item>
       <title>Thaipause 2019</title>
       <link>https://der.reisko.ch/thaipause/fotos/2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/thaipause/fotos/2019/</guid>
+      <description>Thaifood in der Mittagspause</description>
+    </item>
+    
+    <item>
+      <title>Fotoalbum 2018</title>
+      <link>https://der.reisko.ch/fotoalbum/2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/fotoalbum/2018/</guid>
+      <description>Foodie&amp;rsquo;s Fotoalbum</description>
+    </item>
+    
+    <item>
+      <title>Mittagspause 2018</title>
+      <link>https://der.reisko.ch/mittagspause/fotos/2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/mittagspause/fotos/2018/</guid>
+      <description>Heute in der Mittagspause</description>
+    </item>
+    
+    <item>
+      <title>Thaifood 2018</title>
+      <link>https://der.reisko.ch/thaifood/fotos/2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/thaifood/fotos/2018/</guid>
+      <description>Thailändisches Gericht des Tages</description>
+    </item>
+    
+    <item>
+      <title>Thaipause 2018</title>
+      <link>https://der.reisko.ch/thaipause/fotos/2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/thaipause/fotos/2018/</guid>
       <description>Thaifood in der Mittagspause</description>
     </item>
     
@@ -179,45 +206,9 @@
     </item>
     
     <item>
-      <title>Fotoalbum 2018</title>
-      <link>https://der.reisko.ch/fotoalbum/2018/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2018/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Mittagspause 2018</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2018/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2018/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Thaifood 2018</title>
-      <link>https://der.reisko.ch/thaifood/fotos/2018/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/thaifood/fotos/2018/</guid>
-      <description>Thailändisches Gericht des Tages</description>
-    </item>
-    
-    <item>
-      <title>Thaipause 2018</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2018/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2018/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
       <title>Fotoalbum 2017</title>
       <link>https://der.reisko.ch/fotoalbum/2017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/fotoalbum/2017/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
@@ -226,10 +217,28 @@
     <item>
       <title>Mittagspause 2017</title>
       <link>https://der.reisko.ch/mittagspause/fotos/2017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2017/</guid>
       <description>Heute in der Mittagspause</description>
+    </item>
+    
+    <item>
+      <title>Thaifood 2017</title>
+      <link>https://der.reisko.ch/thaifood/fotos/2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/thaifood/fotos/2017/</guid>
+      <description>Thailändisches Gericht des Tages</description>
+    </item>
+    
+    <item>
+      <title>Thaipause 2017</title>
+      <link>https://der.reisko.ch/thaipause/fotos/2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/thaipause/fotos/2017/</guid>
+      <description>Thaifood in der Mittagspause</description>
     </item>
     
     <item>
@@ -242,30 +251,30 @@
     </item>
     
     <item>
-      <title>Thaifood 2017</title>
-      <link>https://der.reisko.ch/thaifood/fotos/2017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/thaifood/fotos/2017/</guid>
-      <description>Thailändisches Gericht des Tages</description>
-    </item>
-    
-    <item>
-      <title>Thaipause 2017</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2017/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
       <title>Fotoalbum 2016</title>
       <link>https://der.reisko.ch/fotoalbum/2016/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/fotoalbum/2016/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+    </item>
+    
+    <item>
+      <title>Mittagspause 2016</title>
+      <link>https://der.reisko.ch/mittagspause/fotos/2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/mittagspause/fotos/2016/</guid>
+      <description>Heute in der Mittagspause</description>
+    </item>
+    
+    <item>
+      <title>Thaifood 2016</title>
+      <link>https://der.reisko.ch/thaifood/fotos/2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/thaifood/fotos/2016/</guid>
+      <description>Thailändisches Gericht des Tages</description>
     </item>
     
     <item>
@@ -278,27 +287,9 @@
     </item>
     
     <item>
-      <title>Mittagspause 2016</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2016/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2016/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Thaifood 2016</title>
-      <link>https://der.reisko.ch/thaifood/fotos/2016/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/thaifood/fotos/2016/</guid>
-      <description>Thailändisches Gericht des Tages</description>
-    </item>
-    
-    <item>
       <title>Fotoalbum 2015</title>
       <link>https://der.reisko.ch/fotoalbum/2015/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/fotoalbum/2015/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
@@ -307,7 +298,7 @@
     <item>
       <title>Fotoalbum 2014</title>
       <link>https://der.reisko.ch/fotoalbum/2014/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/fotoalbum/2014/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
@@ -316,7 +307,7 @@
     <item>
       <title>Fotoalbum 2013</title>
       <link>https://der.reisko.ch/fotoalbum/2013/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/fotoalbum/2013/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
@@ -325,7 +316,7 @@
     <item>
       <title>Fotoalbum 2012</title>
       <link>https://der.reisko.ch/fotoalbum/2012/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/fotoalbum/2012/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
@@ -334,7 +325,7 @@
     <item>
       <title>Fotoalbum 2011</title>
       <link>https://der.reisko.ch/fotoalbum/2011/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
       
       <guid>https://der.reisko.ch/fotoalbum/2011/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
@@ -941,6 +932,15 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-china-bao-im-passagehof/</guid>
       <description>Dampfnudeln, Teigtaschen und mehr</description>
+    </item>
+    
+    <item>
+      <title>Rezepte von A bis Z</title>
+      <link>https://der.reisko.ch/rezepte/a-z/</link>
+      <pubDate>Wed, 28 Oct 2020 08:59:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/rezepte/a-z/</guid>
+      <description>Alphabetische Liste meiner Rezepte</description>
     </item>
     
     <item>
