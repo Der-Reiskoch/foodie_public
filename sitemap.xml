@@ -20,10 +20,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/suchen/restaurants-a-z/</loc>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</loc>
   </url>
   
@@ -897,6 +893,11 @@
   <url>
     <loc>https://der.reisko.ch/thaifood/fotos/2020/10/13/</loc>
     <lastmod>2020-10-13T21:24:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/restaurants/a-z/</loc>
+    <lastmod>2020-10-13T09:02:00+02:00</lastmod>
   </url>
   
   <url>

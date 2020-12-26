@@ -26,15 +26,6 @@
     </item>
     
     <item>
-      <title>Restaurants von A bis Z</title>
-      <link>https://der.reisko.ch/suchen/restaurants-a-z/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/suchen/restaurants-a-z/</guid>
-      <description>Alphabetische Liste der Restaurants</description>
-    </item>
-    
-    <item>
       <title>Das Buch &#34;Asia Street Food&#34;</title>
       <link>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -935,7 +926,7 @@
     </item>
     
     <item>
-      <title>Rezepte von A bis Z</title>
+      <title>Alle Rezepte von A bis Z</title>
       <link>https://der.reisko.ch/rezepte/a-z/</link>
       <pubDate>Wed, 28 Oct 2020 08:59:00 +0200</pubDate>
       
@@ -1085,6 +1076,15 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2020/10/13/</guid>
       <description>Thailändisches Gericht des Tages</description>
+    </item>
+    
+    <item>
+      <title>Restaurants von A bis Z</title>
+      <link>https://der.reisko.ch/restaurants/a-z/</link>
+      <pubDate>Tue, 13 Oct 2020 09:02:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/restaurants/a-z/</guid>
+      <description>Alphabetische Liste der Restaurants</description>
     </item>
     
     <item>
