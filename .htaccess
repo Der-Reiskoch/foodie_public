@@ -1,4 +1,7 @@
 RewriteEngine on
+
+RewriteRule ^([0-9]+)/(.*) /alt/?e=$1
+
 RewriteCond %{THE_REQUEST} ^GET\ /rezept/
 RewriteRule ^rezept/(.*) /rezepte/$1 [L,R=301]
 

@@ -1,5 +1,6 @@
 User-agent: *
 
+Disallow: /alt/
 Disallow: /aktuell/
 Disallow: /feed/
 Disallow: /fotoalbum/
