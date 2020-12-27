@@ -1,10 +1,11 @@
 RewriteEngine on
 
-RewriteRule ^([0-9]+) /alt/$1
-
-
 RewriteCond %{REQUEST_URI} ^GET\ ([0-9]{0,3})
-RewriteRule ^([0-9]{0,3})(.*) /alt/?e=$1 [L,R=301]
+RewriteRule ^([0-9]{0,3}) /alt/?e=$1 [L,R=301]
+
+# coming from https://ryukoch.com/de/blog/asiatische-food-blogs-auf-deutsch/
+RewriteCond %{THE_REQUEST} ^GET\ /stichwort/thailand
+RewriteRule ^/stichwort/thailand /tags/thailandisch/ [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /rezept/
 RewriteRule ^rezept/(.*) /rezepte/$1 [L,R=301]
@@ -20,10 +21,6 @@ RewriteRule ^categories/(.*) /tags/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /categories
 RewriteRule ^categories /tags/ [L,R=301]
-
-# coming from https://ryukoch.com/de/blog/asiatische-food-blogs-auf-deutsch/
-RewriteCond %{THE_REQUEST} ^GET\ /stichwort/thailand
-RewriteRule ^/stichwort/thailand /tags/thailandisch/ [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /stichwort/
 RewriteRule ^stichwort/(.*) /tags/$1 [L,R=301]
