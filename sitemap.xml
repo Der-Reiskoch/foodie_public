@@ -177,7 +177,32 @@
   
   <url>
     <loc>https://der.reisko.ch/</loc>
-    <lastmod>2020-12-26T20:03:09+02:00</lastmod>
+    <lastmod>2020-12-27T10:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/rezepte/</loc>
+    <lastmod>2020-12-27T10:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/mexikanisch/</loc>
+    <lastmod>2020-12-27T10:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/rezepte/mexikanische-guacamole/</loc>
+    <lastmod>2020-12-27T10:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/</loc>
+    <lastmod>2020-12-27T10:14:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/vegetarisch/</loc>
+    <lastmod>2020-12-27T10:14:00+02:00</lastmod>
   </url>
   
   <url>
@@ -261,17 +286,7 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/rezepte/</loc>
-    <lastmod>2020-12-22T05:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/tags/suppe/</loc>
-    <lastmod>2020-12-22T05:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/</loc>
     <lastmod>2020-12-22T05:14:00+02:00</lastmod>
   </url>
   
@@ -697,11 +712,6 @@
   
   <url>
     <loc>https://der.reisko.ch/rezepte/thailaendisches-hed-phad-met-ma-muang/</loc>
-    <lastmod>2020-11-05T18:33:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/vegetarisch/</loc>
     <lastmod>2020-11-05T18:33:00+02:00</lastmod>
   </url>
   
@@ -2358,11 +2368,6 @@
   <url>
     <loc>https://der.reisko.ch/fotoalbum/2020/04/10/</loc>
     <lastmod>2020-04-10T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/mexikanisch/</loc>
-    <lastmod>2020-04-09T11:16:00+02:00</lastmod>
   </url>
   
   <url>
