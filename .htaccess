@@ -1,6 +1,10 @@
 RewriteEngine on
 
-RewriteRule ^([0-9]+) /alt/?e=$1
+RewriteRule ^([0-9]+) /alt/$1
+
+
+RewriteCond %{REQUEST_URI} ^GET\ ([0-9]{0,3})
+RewriteRule ^([0-9]{0,3})(.*) /alt/?e=$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /rezept/
 RewriteRule ^rezept/(.*) /rezepte/$1 [L,R=301]
@@ -27,7 +31,7 @@ RewriteRule ^stichwort/(.*) /tags/$1 [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /stichwort
 RewriteRule ^stichwort /tags/ [L,R=301]
 
-RewriteCond %{THE_REQUEST} ^GET\ /fluessiges/
+RewriteCond %{THE_REQUEST} ^GET\ /fluessiges/t
 RewriteRule ^fluessiges/(.*) /getranke/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /fluessiges
