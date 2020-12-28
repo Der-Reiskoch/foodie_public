@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gegrillt on Der Reiskoch</title>
+    <link>https://der.reisko.ch/tags/gegrillt/</link>
+    <description>Recent content in gegrillt on Der Reiskoch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 28 Dec 2020 06:04:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/gegrillt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tortillas nach Al-Pastor Art</title>
+      <link>https://der.reisko.ch/rezepte/tortillas-nach-al-pastor-art/</link>
+      <pubDate>Mon, 28 Dec 2020 06:04:00 +0200</pubDate>
+      
+      <guid>https://der.reisko.ch/rezepte/tortillas-nach-al-pastor-art/</guid>
+      <description>Mexikanisch auf der MooVita</description>
+    </item>
+    
+  </channel>
+</rss>
