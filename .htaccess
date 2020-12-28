@@ -33,4 +33,4 @@ RewriteRule ^fluessiges/(.*) /getranke/$1 [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /fluessiges
 RewriteRule ^fluessiges /getranke/ [L,R=301]
 
-ErrorDocument 404 /404.html
+ErrorDocument 404 /error404.html
