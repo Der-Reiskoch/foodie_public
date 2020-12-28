@@ -18,7 +18,7 @@ RewriteCond %{THE_REQUEST} ^GET\ /categories
 RewriteRule ^categories /tags/ [L,R=301]
 
 # coming from https://ryukoch.com/de/blog/asiatische-food-blogs-auf-deutsch/
-RewriteCond %{HTTP_REFERER} !^https://ryukoch.com [NC]
+RewriteCond %{HTTP_REFERER} ^(.*)\.ryukoch\.(.*) [NC]
 RewriteCond %{REQUEST} ^GET\ /stichwort/thailand
 RewriteRule ^/stichwort/thailand /tags/thailandisch/ [L,R=301]
 
