@@ -1,7 +1,7 @@
 User-agent: *
 
 Disallow: /alt/
-Disallow: /error/
+Disallow: /nicht-gefunden/
 Disallow: /aktuell/
 Disallow: /feed/
 Disallow: /fotoalbum/
