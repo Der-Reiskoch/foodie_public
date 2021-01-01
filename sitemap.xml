@@ -176,13 +176,53 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/thaifood/fotos/2020/12/30/</loc>
-    <lastmod>2020-12-30T19:24:09+02:00</lastmod>
+    <loc>https://der.reisko.ch/</loc>
+    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/</loc>
-    <lastmod>2020-12-30T05:30:00+02:00</lastmod>
+    <loc>https://der.reisko.ch/tags/grillen/</loc>
+    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/hotpot/</loc>
+    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/nachgekocht/</loc>
+    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/rind/</loc>
+    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/schwein/</loc>
+    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/</loc>
+    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/thailandisch/</loc>
+    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/nachgekocht/thailaendisches-moo-kata-mit-tipps/</loc>
+    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/thaifood/fotos/2020/12/30/</loc>
+    <lastmod>2020-12-30T19:24:09+02:00</lastmod>
   </url>
   
   <url>
@@ -192,16 +232,6 @@
   
   <url>
     <loc>https://der.reisko.ch/rezepte/</loc>
-    <lastmod>2020-12-30T05:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/</loc>
-    <lastmod>2020-12-30T05:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/thailandisch/</loc>
     <lastmod>2020-12-30T05:30:00+02:00</lastmod>
   </url>
   
@@ -431,11 +461,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/nachgekocht/</loc>
-    <lastmod>2020-12-15T06:24:09+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/nachgekocht/thailaendische_singapore_cookies/</loc>
     <lastmod>2020-12-15T06:24:09+02:00</lastmod>
   </url>
@@ -452,11 +477,6 @@
   
   <url>
     <loc>https://der.reisko.ch/rezepte/koreanisches-bulgogi-im-dolsot/</loc>
-    <lastmod>2020-12-13T10:14:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/rind/</loc>
     <lastmod>2020-12-13T10:14:00+02:00</lastmod>
   </url>
   
@@ -592,11 +612,6 @@
   
   <url>
     <loc>https://der.reisko.ch/tags/salat/</loc>
-    <lastmod>2020-11-29T06:21:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/schwein/</loc>
     <lastmod>2020-11-29T06:21:00+02:00</lastmod>
   </url>
   
@@ -2366,6 +2381,11 @@
   </url>
   
   <url>
+    <loc>https://der.reisko.ch/rezepte/0971_thailaendisches-pad-see-ew-nuea/</loc>
+    <lastmod>2020-04-14T06:33:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/mittagspause/fotos/2020/04/14/</loc>
     <lastmod>2020-04-14T00:00:00+02:00</lastmod>
   </url>
@@ -2612,11 +2632,6 @@
   
   <url>
     <loc>https://der.reisko.ch/tags/bbq/</loc>
-    <lastmod>2020-03-15T10:08:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/hotpot/</loc>
     <lastmod>2020-03-15T10:08:00+02:00</lastmod>
   </url>
   
@@ -4197,11 +4212,6 @@
   
   <url>
     <loc>https://der.reisko.ch/dies-und-das/gegrillte-tapas-auf-der-moovita/</loc>
-    <lastmod>2019-06-28T07:03:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/grillen/</loc>
     <lastmod>2019-06-28T07:03:00+02:00</lastmod>
   </url>
   
