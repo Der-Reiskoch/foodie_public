@@ -177,7 +177,42 @@
   
   <url>
     <loc>https://der.reisko.ch/</loc>
-    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
+    <lastmod>2021-01-02T06:33:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/eier/</loc>
+    <lastmod>2021-01-02T06:33:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/rezepte/</loc>
+    <lastmod>2021-01-02T06:33:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/nudeln/</loc>
+    <lastmod>2021-01-02T06:33:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/schwein/</loc>
+    <lastmod>2021-01-02T06:33:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/</loc>
+    <lastmod>2021-01-02T06:33:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/thailandisch/</loc>
+    <lastmod>2021-01-02T06:33:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/rezepte/thailaendisches-pad-see-ew-moo/</loc>
+    <lastmod>2021-01-02T06:33:00+02:00</lastmod>
   </url>
   
   <url>
@@ -201,21 +236,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/schwein/</loc>
-    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/</loc>
-    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/thailandisch/</loc>
-    <lastmod>2021-01-01T06:41:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/nachgekocht/thailaendisches-moo-kata-mit-tipps/</loc>
     <lastmod>2021-01-01T06:41:00+02:00</lastmod>
   </url>
@@ -227,11 +247,6 @@
   
   <url>
     <loc>https://der.reisko.ch/tags/meeresfruchte/</loc>
-    <lastmod>2020-12-30T05:30:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/rezepte/</loc>
     <lastmod>2020-12-30T05:30:00+02:00</lastmod>
   </url>
   
@@ -1102,11 +1117,6 @@
   
   <url>
     <loc>https://der.reisko.ch/rezepte/chinesische-ma-yi-shang-shu/</loc>
-    <lastmod>2020-09-24T07:50:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/nudeln/</loc>
     <lastmod>2020-09-24T07:50:00+02:00</lastmod>
   </url>
   
@@ -2051,11 +2061,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/eier/</loc>
-    <lastmod>2020-05-22T09:41:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/tags/historisch/</loc>
     <lastmod>2020-05-22T09:41:00+02:00</lastmod>
   </url>
@@ -2386,7 +2391,7 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/rezepte/thailaendisches-pad-see-ew-nuea/</loc>
+    <loc>https://der.reisko.ch/rezepte/gefaktes-pad-see-ew-nuea/</loc>
     <lastmod>2020-04-14T06:33:00+02:00</lastmod>
   </url>
   
