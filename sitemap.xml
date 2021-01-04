@@ -44,6 +44,11 @@
   </url>
   
   <url>
+    <loc>https://der.reisko.ch/thaifood/fotos/2021/</loc>
+    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/fotoalbum/2020/</loc>
     <lastmod>2020-01-01T00:00:00+02:00</lastmod>
   </url>
@@ -232,6 +237,16 @@
   <url>
     <loc>https://der.reisko.ch/tags/rind/</loc>
     <lastmod>2021-01-03T05:41:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/thaifood/fotos/2021/01/03/</loc>
+    <lastmod>2021-01-03T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/thaifood/</loc>
+    <lastmod>2021-01-03T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -3141,11 +3156,6 @@
   
   <url>
     <loc>https://der.reisko.ch/fotoalbum/2020/01/01/</loc>
-    <lastmod>2020-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/thaifood/</loc>
     <lastmod>2020-01-01T00:00:00+02:00</lastmod>
   </url>
   
