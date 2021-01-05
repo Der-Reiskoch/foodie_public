@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de-de">
+  <title>Der Reiskoch</title>
+  <id>https://der.reisko.ch/</id>
+  <author>
+    <name>Der Reiskoch</name>
+    <uri>https://der.reisko.ch/</uri>
+  </author>
+  <generator>Hugo</generator>
+  <updated>2021-01-05T16:27:24Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://der.reisko.ch/feed.atom" hreflang="de-de"/>
+  <link rel="alternate" type="text/html" href="https://der.reisko.ch/" hreflang="de-de"/>
+  <link rel="alternate" type="application/rss+xml" href="https://der.reisko.ch/index.xml" hreflang="de-de"/>
+  <link rel="alternate" type="application/json" href="https://der.reisko.ch/index.json" hreflang="de-de"/>
+  <entry>
+    <title>Fotoalbum 2021</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/fotoalbum/2021/</id>
+    <updated>2020-12-31T22:00:00Z</updated>
+    <published>2020-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thaifood 2021</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/thaifood/fotos/2021/</id>
+    <updated>2020-12-31T22:00:00Z</updated>
+    <published>2020-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Fotoalbum 2020</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/fotoalbum/2020/</id>
+    <updated>2019-12-31T22:00:00Z</updated>
+    <published>2019-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Mittagspause 2020</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/mittagspause/fotos/2020/</id>
+    <updated>2019-12-31T22:00:00Z</updated>
+    <published>2019-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thaifood 2020</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/thaifood/fotos/2020/</id>
+    <updated>2019-12-31T22:00:00Z</updated>
+    <published>2019-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thaipause 2020</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/thaipause/fotos/2020/</id>
+    <updated>2019-12-31T22:00:00Z</updated>
+    <published>2019-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Fotoalbum 2019</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/fotoalbum/2019/</id>
+    <updated>2018-12-31T22:00:00Z</updated>
+    <published>2018-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Mittagspause 2019</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/mittagspause/fotos/2019/</id>
+    <updated>2018-12-31T22:00:00Z</updated>
+    <published>2018-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thaifood 2019</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/thaifood/fotos/2019/</id>
+    <updated>2018-12-31T22:00:00Z</updated>
+    <published>2018-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thaipause 2019</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/thaipause/fotos/2019/</id>
+    <updated>2018-12-31T22:00:00Z</updated>
+    <published>2018-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Fotoalbum 2018</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/fotoalbum/2018/</id>
+    <updated>2017-12-31T22:00:00Z</updated>
+    <published>2017-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Mittagspause 2018</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/mittagspause/fotos/2018/</id>
+    <updated>2017-12-31T22:00:00Z</updated>
+    <published>2017-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thaifood 2018</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/thaifood/fotos/2018/</id>
+    <updated>2017-12-31T22:00:00Z</updated>
+    <published>2017-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thaipause 2018</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/thaipause/fotos/2018/</id>
+    <updated>2017-12-31T22:00:00Z</updated>
+    <published>2017-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Fotoalbum 2017</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/fotoalbum/2017/</id>
+    <updated>2016-12-31T22:00:00Z</updated>
+    <published>2016-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Mittagspause 2017</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/mittagspause/fotos/2017/</id>
+    <updated>2016-12-31T22:00:00Z</updated>
+    <published>2016-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thaifood 2017</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/thaifood/fotos/2017/</id>
+    <updated>2016-12-31T22:00:00Z</updated>
+    <published>2016-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Thaipause 2017</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/thaipause/fotos/2017/</id>
+    <updated>2016-12-31T22:00:00Z</updated>
+    <published>2016-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Fotoalbum 2016</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/fotoalbum/2016/</id>
+    <updated>2015-12-31T22:00:00Z</updated>
+    <published>2015-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Mittagspause 2016</title>
+    <author>
+      <name>Der Reiskoch</name>
+      <uri>https://der.reiskoch.de</uri>
+    </author>
+    <id>https://der.reisko.ch/mittagspause/fotos/2016/</id>
+    <updated>2015-12-31T22:00:00Z</updated>
+    <published>2015-12-31T22:00:00Z</published>
+    <content type="html">&lt;p&gt;&lt;a href=&#34;/thaifood/&#34;&gt;Thaifood&lt;/a&gt; | &lt;a href=&#34;/fotoalbum/&#34;&gt;Fotoalbum&lt;/a&gt; | &lt;a href=&#34;/thaipause/&#34;&gt;Thaipause&lt;/a&gt; | &lt;a href=&#34;/mittagspause/fotos/&#34;&gt;Mittagspause&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>
