@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>okras on Der Reiskoch</title>
+    <title>okras auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/okras/</link>
-    <description>Recent content in okras on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in okras  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 20 Jul 2016 06:52:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/okras/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/scharfes-karibisches-stew-mit-ofenkartoffeln/</guid>
       <description>Jamaikanischer Eintopf mit Rind und Okras</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0375/teller.jpg</url>
+        <title>Scharfes Karibisches Stew mit Ofenkartoffeln</title>
+        <link>https://der.reisko.ch/rezepte/scharfes-karibisches-stew-mit-ofenkartoffeln/</link>
+        </image>
     </item>
     
   </channel>

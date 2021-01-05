@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>salat on Der Reiskoch</title>
+    <title>salat auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/salat/</link>
-    <description>Recent content in salat on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in salat  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 29 Nov 2020 06:21:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/salat/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/moo_grob-und-plaa-muek-abend/</guid>
       <description>Drei leckere Thai Gerichte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0941/zweimal_moo_grob_und_plaa_muek.jpg</url>
+        <title>Moo Grob und Plaa Muek Abend</title>
+        <link>https://der.reisko.ch/dies-und-das/moo_grob-und-plaa-muek-abend/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/entrecote-mit-buntem-salat/</guid>
       <description>Perfekte Steaks mit Vitaminen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0945/entrcote_mit_buntem_salat.jpg</url>
+        <title>Entrecôtes mit buntem Salat</title>
+        <link>https://der.reisko.ch/rezepte/entrecote-mit-buntem-salat/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-talee/</guid>
       <description>Schneller Salat mit Meeresfrüchten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0772/yam_talee.jpg</url>
+        <title>Thailändischer Yam Talee</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-talee/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-hed/</guid>
       <description>Schneller Salat mit Pilzen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0784/yam_hed.jpg</url>
+        <title>Thailändischer Yam Hed</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-hed/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-phla-nuea/</guid>
       <description>Rindleischsalat mit viel Zitronengras</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0247/phla_nuea.jpg</url>
+        <title>Thailändischer Phla Nuea</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-phla-nuea/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-tomaten-salat/</guid>
       <description>Tam Makhuea Thet</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0938/thai_tomatensalat.jpg</url>
+        <title>Thailändischer Tomatensalat</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-tomaten-salat/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-moo-ob/</guid>
       <description>In der schnellen Variante</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0932/yum_moo_ob.jpg</url>
+        <title>Thailändischer Yam Moo Ob</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-moo-ob/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-mara-goong/</guid>
       <description>Salat mit Bittergurke und Garnelen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0905/yam_mara_goong.jpg</url>
+        <title>Thailändischer Yam Mara Goong</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-mara-goong/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-som-tam-mamuang/</guid>
       <description>Salat aus halbreifer Mango</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0876/som_tam_mamuang.jpg</url>
+        <title>Thailändischer Som Tam Mamuang</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-som-tam-mamuang/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-tam-khanun/</guid>
       <description>Pikanter Salat mit junger Jackfruit</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0867/tam_khanun.jpg</url>
+        <title>Thailändischer Tam Khanun</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-tam-khanun/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-sadau-goong-sod/</guid>
       <description>Eine ungewohnte Geschmacksexplosion</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0857/yam_sadau_goong_sod.jpg</url>
+        <title>Thailändischer Yam Sadau Goong Sod</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-sadau-goong-sod/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-phla-plaa-salmon/</guid>
       <description>Salat mit Lachs und Kräutern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0831/teller.jpg</url>
+        <title>Thailändischer Phla Plaa Salmon</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-phla-plaa-salmon/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-ped/</guid>
       <description>Salat mit gegrillter Ente</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0830/schuessel.jpg</url>
+        <title>Thailändischer Nam Tok Ped</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-ped/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-vegetarischer-larb/</guid>
       <description>Noch ein Thai Koch Experiment</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0006/vegetarischer_larb.jpg</url>
+        <title>Thailändischer vegetarischer Larb</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-vegetarischer-larb/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/salat-aus-gegrillten-auberginen/</guid>
       <description>Mein Lieblingsgemüse in einer neuen Variante</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0726/vietnamesischer_auberginen_salat.jpg</url>
+        <title>Salat aus gegrillten Auberginen</title>
+        <link>https://der.reisko.ch/rezepte/salat-aus-gegrillten-auberginen/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hahnchensalat-mit-zitronengras/</guid>
       <description>Nach Art eines thailändischen Phla Gai</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0777/salat_und_sosse.jpg</url>
+        <title>Hähnchensalat mit Zitronengras</title>
+        <link>https://der.reisko.ch/rezepte/hahnchensalat-mit-zitronengras/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/vietnamesischer-ga-tron-mam/</guid>
       <description>Salat mit Huhn und Rau Răm</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0755/ga_tron_mam.jpg</url>
+        <title>Vietnamesischer Gà Trộn Mắm</title>
+        <link>https://der.reisko.ch/rezepte/vietnamesischer-ga-tron-mam/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/vietnamesischer-pomelo-salat/</guid>
       <description>Scharfe Zitrusfrucht trifft Geflügel</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0720/salat_auf_dem_teller.jpg</url>
+        <title>Vietnamesischer Pomelosalat</title>
+        <link>https://der.reisko.ch/rezepte/vietnamesischer-pomelo-salat/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/vietnamesischer-salat-mit-huhn/</guid>
       <description>Eine Variation mit Petersilienwurzeln</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0719/vietnamesischer_salat_mit_huhn.jpg</url>
+        <title>Vietnamesischer Salat mit Huhn</title>
+        <link>https://der.reisko.ch/rezepte/vietnamesischer-salat-mit-huhn/</link>
+        </image>
     </item>
     
     <item>
@@ -185,564 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-som-o/</guid>
       <description>Scharfer Pomelo Salat mit Garnelen</description>
-    </item>
-    
-    <item>
-      <title>Fischis Yam Plaa Muek</title>
-      <link>https://der.reisko.ch/rezepte/fischis-yam-plaa-muek/</link>
-      <pubDate>Tue, 25 Dec 2018 11:07:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/fischis-yam-plaa-muek/</guid>
-      <description>Eine Variation des Tintenfischsalats</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Lauch Som Tam</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-lauch-som-tam/</link>
-      <pubDate>Thu, 13 Dec 2018 06:38:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-lauch-som-tam/</guid>
-      <description>Ein Salat Experiment</description>
-    </item>
-    
-    <item>
-      <title>Mediterraner Salat mit Granatapfel</title>
-      <link>https://der.reisko.ch/rezepte/mediterraner-salat-mit-granatapfel/</link>
-      <pubDate>Tue, 27 Nov 2018 06:57:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/mediterraner-salat-mit-granatapfel/</guid>
-      <description>Rezept inklusive Trick für eine saubere Küche</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Plaa Muek</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-plaa-muek/</link>
-      <pubDate>Mon, 13 Aug 2018 06:29:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-plaa-muek/</guid>
-      <description>Salat mit gebratenem Tintenfisch</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Nuea</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-nuea/</link>
-      <pubDate>Tue, 07 Aug 2018 11:08:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-nuea/</guid>
-      <description>Salat mit gebratenem Rumpsteak</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Makeua Yao</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-makeua-yao/</link>
-      <pubDate>Mon, 30 Jul 2018 09:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-makeua-yao/</guid>
-      <description>Salat aus frittierten Auberginen</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Plaa</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-plaa/</link>
-      <pubDate>Sun, 29 Jul 2018 10:28:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-plaa/</guid>
-      <description>Salat aus gebratenen Fisch</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Gai</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-gai/</link>
-      <pubDate>Tue, 24 Jul 2018 10:09:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-gai/</guid>
-      <description>Salat aus gebratener Pute</description>
-    </item>
-    
-    <item>
-      <title>Snacks im Phono in der Oststadt</title>
-      <link>https://der.reisko.ch/restaurants/snacks-im-phono-in-der-oststadt/</link>
-      <pubDate>Tue, 10 Jul 2018 09:28:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/snacks-im-phono-in-der-oststadt/</guid>
-      <description>Bier, Musik und kleine Snacks</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Moo Yor</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-moo-yor/</link>
-      <pubDate>Sun, 08 Jul 2018 08:24:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-moo-yor/</guid>
-      <description>Wurstsalat auf thailändische Art</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Larb Nuea​ Lug Wua</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-larb-nuea-lug-wua/</link>
-      <pubDate>Sat, 07 Jul 2018 08:16:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-larb-nuea-lug-wua/</guid>
-      <description>Scharfer Salat aus Kalbfleisch</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Khai Khon</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-khai-khon/</link>
-      <pubDate>Fri, 15 Jun 2018 06:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-khai-khon/</guid>
-      <description>Eine schneller Rührei Salat</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Khai Dao</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-khai-dao/</link>
-      <pubDate>Tue, 05 Jun 2018 05:57:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-khai-dao/</guid>
-      <description>Salat aus gebratenen Eiern</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Mama</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-mama/</link>
-      <pubDate>Sat, 18 Nov 2017 09:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-mama/</guid>
-      <description>Scharfer Salat aus Instant-Nudeln</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Nam Tok Moo Yang</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-moo-yang/</link>
-      <pubDate>Mon, 30 Oct 2017 06:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-moo-yang/</guid>
-      <description>Gegrillter Schweinenacken als Salat</description>
-    </item>
-    
-    <item>
-      <title>Straßburger Wurstsalat</title>
-      <link>https://der.reisko.ch/rezepte/strassburger-wurstsalat/</link>
-      <pubDate>Wed, 30 Aug 2017 06:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/strassburger-wurstsalat/</guid>
-      <description>Sommerliches Abendessen</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Schwarzwurzelsalat</title>
-      <link>https://der.reisko.ch/nachgekocht/japanischer-schwarzwurzelsalat/</link>
-      <pubDate>Thu, 20 Jul 2017 10:01:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/japanischer-schwarzwurzelsalat/</guid>
-      <description>Ein sehr schneller Salat</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Larb Plaa Tuna</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa-tuna/</link>
-      <pubDate>Sun, 18 Jun 2017 08:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa-tuna/</guid>
-      <description>Fischsalat frisch aus der Larbhackerei</description>
-    </item>
-    
-    <item>
-      <title>Som Tam als Pok-Pok-Event</title>
-      <link>https://der.reisko.ch/dies-und-das/som-tam-als-pok-pok-event/</link>
-      <pubDate>Sat, 22 Apr 2017 11:22:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/som-tam-als-pok-pok-event/</guid>
-      <description>Thailändischer Papaya Salat</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Som Tam Galam Pom</title>
-      <link>https://der.reisko.ch/dies-und-das/thailaendischer-som-tam-galam-pom/</link>
-      <pubDate>Sun, 12 Feb 2017 10:32:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/thailaendischer-som-tam-galam-pom/</guid>
-      <description>Eine neue Alternative aus Kohlrabi</description>
-    </item>
-    
-    <item>
-      <title>Yam Woon Sen Moo Jöraman</title>
-      <link>https://der.reisko.ch/rezepte/yam-woon-sen-moo-joraman/</link>
-      <pubDate>Tue, 06 Dec 2016 06:36:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/yam-woon-sen-moo-joraman/</guid>
-      <description>Eine thai-deutsche Salatfusion aus der Tüte</description>
-    </item>
-    
-    <item>
-      <title>Garnelen-Salat mit Tomaten und Parmesan</title>
-      <link>https://der.reisko.ch/rezepte/garnelensalat-mit-tomaten-und-parmesan/</link>
-      <pubDate>Tue, 29 Nov 2016 06:43:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/garnelensalat-mit-tomaten-und-parmesan/</guid>
-      <description>Ein schneller, leckerer Salat</description>
-    </item>
-    
-    <item>
-      <title>Kichererbsensalat mit Pastırma</title>
-      <link>https://der.reisko.ch/rezepte/kichererbsensalat-mit-pastirma/</link>
-      <pubDate>Sun, 20 Nov 2016 10:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kichererbsensalat-mit-pastirma/</guid>
-      <description>Ein türkisches Salat Experiment</description>
-    </item>
-    
-    <item>
-      <title>Jubiläums Yam Woon Sen</title>
-      <link>https://der.reisko.ch/dies-und-das/jubilaums-yam-woon-sen/</link>
-      <pubDate>Sat, 05 Nov 2016 11:02:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/jubilaums-yam-woon-sen/</guid>
-      <description>Zum fünfjährigen Bloggeburtstag</description>
-    </item>
-    
-    <item>
-      <title>Burmesischer Pomelosalat</title>
-      <link>https://der.reisko.ch/rezepte/burmesischer-pomelosalat/</link>
-      <pubDate>Fri, 21 Oct 2016 07:02:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/burmesischer-pomelosalat/</guid>
-      <description>Fruchtiger Salat aus Myanmar</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Nam Tok Nuea</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-nuea/</link>
-      <pubDate>Mon, 17 Oct 2016 07:43:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-nuea/</guid>
-      <description>Waterfall Beef Salad</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Larb Nuea aus der Tüte</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-larb-nuea-aus-der-tute/</link>
-      <pubDate>Sat, 01 Oct 2016 09:29:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-larb-nuea-aus-der-tute/</guid>
-      <description>Wenn es mal schnell gehen muss</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Rindfleischsalat</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-rindfleischsalat/</link>
-      <pubDate>Sun, 03 Jul 2016 10:28:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-rindfleischsalat/</guid>
-      <description>Noch eine Salat Variation aus Japan</description>
-    </item>
-    
-    <item>
-      <title>Reissalat mit Chorizo und Bratpaprika</title>
-      <link>https://der.reisko.ch/rezepte/reissalat-mit-chorizo-und-bratpaprika/</link>
-      <pubDate>Tue, 28 Jun 2016 08:59:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/reissalat-mit-chorizo-und-bratpaprika/</guid>
-      <description>Spanische Zutaten mal anders</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Auberginensalat nach Harumi</title>
-      <link>https://der.reisko.ch/nachgekocht/japanischer-auberginensalat-nach-harumi/</link>
-      <pubDate>Sun, 26 Jun 2016 07:37:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/japanischer-auberginensalat-nach-harumi/</guid>
-      <description>Aubergine in dicker Sesamsoße</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Salat aus Champignons</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-salat-aus-champignons/</link>
-      <pubDate>Fri, 17 Jun 2016 07:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-salat-aus-champignons/</guid>
-      <description>Einfach und superschnell zubereitet</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Khua Kling Salat</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-khua-kling-salat/</link>
-      <pubDate>Sun, 05 Jun 2016 08:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-khua-kling-salat/</guid>
-      <description>Ein Experiment aus der Tüte</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Salat Dreierlei</title>
-      <link>https://der.reisko.ch/dies-und-das/japanisches-salat-dreierlei/</link>
-      <pubDate>Sat, 04 Jun 2016 10:13:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/japanisches-salat-dreierlei/</guid>
-      <description>Das Ergebnis eines planlosen Kochabends</description>
-    </item>
-    
-    <item>
-      <title>Fischis Thai-Style Linsensalat</title>
-      <link>https://der.reisko.ch/rezepte/fischis-thai-style-linsensalat/</link>
-      <pubDate>Tue, 17 May 2016 08:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/fischis-thai-style-linsensalat/</guid>
-      <description>Wilder Fusion Salat mit Larb-Einflüssen</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Spargelsalat</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-spargelsalat/</link>
-      <pubDate>Thu, 05 May 2016 08:56:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-spargelsalat/</guid>
-      <description>Grüner Spargel im japanischen Stil</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Larb Plaa</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa/</link>
-      <pubDate>Mon, 02 May 2016 07:01:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa/</guid>
-      <description>Salat aus gehacktem Fisch</description>
-    </item>
-    
-    <item>
-      <title>Forelle in Salbei-Olivenöl mit Salat</title>
-      <link>https://der.reisko.ch/rezepte/forelle-in-salbei-olivenol-mit-salat/</link>
-      <pubDate>Thu, 03 Mar 2016 06:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/forelle-in-salbei-olivenol-mit-salat/</guid>
-      <description>Eine Urlaubserinnerung an Kreta</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Salat aus Schlangenbohnen</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-salat-aus-schlangenbohnen/</link>
-      <pubDate>Wed, 17 Feb 2016 06:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-salat-aus-schlangenbohnen/</guid>
-      <description>Tam Thua</description>
-    </item>
-    
-    <item>
-      <title>Burmesischer Lahpet Thoke</title>
-      <link>https://der.reisko.ch/rezepte/burmesischer-lahpet-thoke/</link>
-      <pubDate>Mon, 08 Feb 2016 07:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/burmesischer-lahpet-thoke/</guid>
-      <description>Salat mit fermentierten Teeblättern</description>
-    </item>
-    
-    <item>
-      <title>Spannende Salate in Myanmar</title>
-      <link>https://der.reisko.ch/reisen/spannende-salate-in-myanmar/</link>
-      <pubDate>Sat, 16 Jan 2016 08:05:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/reisen/spannende-salate-in-myanmar/</guid>
-      <description>Außergewöhnliche Geschmacksexplosionen</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Salat Nam Tok Moo</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-moo/</link>
-      <pubDate>Mon, 30 Nov 2015 12:37:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-moo/</guid>
-      <description>Scharfer Schweinefleischsalat</description>
-    </item>
-    
-    <item>
-      <title>Syrischer Fattousch Salat</title>
-      <link>https://der.reisko.ch/nachgekocht/syrischer-fattousch-salat/</link>
-      <pubDate>Wed, 18 Nov 2015 09:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/syrischer-fattousch-salat/</guid>
-      <description>Aus dem Buch &amp;lsquo;Fadi kocht syrisch&amp;rsquo;</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Larb Moo</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-larb-moo/</link>
-      <pubDate>Tue, 27 Oct 2015 07:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-larb-moo/</guid>
-      <description>Nach Tuks Original Rezept aus Bangkok</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Makeua</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-makeua/</link>
-      <pubDate>Thu, 15 Oct 2015 08:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-makeua/</guid>
-      <description>Salat aus gebratenen Auberginen</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Zucchini Salat</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-zucchini-salat/</link>
-      <pubDate>Mon, 20 Jul 2015 06:56:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-zucchini-salat/</guid>
-      <description>Noch ein leckerer Thai-Salat</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Zucchini Som Tam</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-zucchini-som-tam/</link>
-      <pubDate>Sat, 20 Jun 2015 04:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-zucchini-som-tam/</guid>
-      <description>Eine Variante mit heimischen Zutaten</description>
-    </item>
-    
-    <item>
-      <title>Salat aus Wassermelone und Käse</title>
-      <link>https://der.reisko.ch/rezepte/salat-aus-wassermelone-und-kase/</link>
-      <pubDate>Thu, 18 Jun 2015 07:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/salat-aus-wassermelone-und-kase/</guid>
-      <description>Ein erfrischender Sommertraum</description>
-    </item>
-    
-    <item>
-      <title>Türkischer Salat mit Granatapfelsoße</title>
-      <link>https://der.reisko.ch/rezepte/turkischer-salat-mit-granatapfelsosse/</link>
-      <pubDate>Tue, 09 Jun 2015 09:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/turkischer-salat-mit-granatapfelsosse/</guid>
-      <description>Was Frisches für den Sommer</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Tintenfisch Salat</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-tintenfisch-salat/</link>
-      <pubDate>Tue, 05 May 2015 05:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-tintenfisch-salat/</guid>
-      <description>Eine Yam Plaa Muek Variation</description>
-    </item>
-    
-    <item>
-      <title>Thai Rindfleischsalat mit Tomaten und Mais</title>
-      <link>https://der.reisko.ch/rezepte/thai-rindfleischsalat-mit-tomaten-und-mais/</link>
-      <pubDate>Mon, 20 Apr 2015 08:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-rindfleischsalat-mit-tomaten-und-mais/</guid>
-      <description>Yam Nuea mal etwas anders</description>
-    </item>
-    
-    <item>
-      <title>Mediterraner Salat mit Hackfleisch und Käse</title>
-      <link>https://der.reisko.ch/rezepte/mediterraner-salat-mit-hackfleisch-und-kase/</link>
-      <pubDate>Fri, 03 Apr 2015 02:53:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/mediterraner-salat-mit-hackfleisch-und-kase/</guid>
-      <description>Ein deftiger Salat für den Sommer</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Rindfleischsalat mit Gurke</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-rindfleischsalat-mit-gurke/</link>
-      <pubDate>Thu, 14 Aug 2014 07:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-rindfleischsalat-mit-gurke/</guid>
-      <description>Rind geht auch auf japanisch</description>
-    </item>
-    
-    <item>
-      <title>Rote Beete Salat mit Walnüssen</title>
-      <link>https://der.reisko.ch/rezepte/rote-beete-salat-mit-walnussen/</link>
-      <pubDate>Tue, 12 Aug 2014 07:41:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rote-beete-salat-mit-walnussen/</guid>
-      <description>Geschmack im Wandel</description>
-    </item>
-    
-    <item>
-      <title>Thai Salat mit Rinderhackfleisch</title>
-      <link>https://der.reisko.ch/rezepte/thai-salat-mit-rinderhackfleisch/</link>
-      <pubDate>Thu, 10 Jul 2014 07:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-salat-mit-rinderhackfleisch/</guid>
-      <description>Ein sehr einfacher Yam Nuea Sap</description>
-    </item>
-    
-    <item>
-      <title>Markgräfler Grumbieresalat</title>
-      <link>https://der.reisko.ch/rezepte/markgrafler-grumbieresalat/</link>
-      <pubDate>Mon, 30 Jul 2012 10:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/markgrafler-grumbieresalat/</guid>
-      <description>Kartoffelsalat mit Löwenzahn</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Som Tam</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-som-tam/</link>
-      <pubDate>Mon, 30 Jul 2012 08:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-som-tam/</guid>
-      <description>Papaya Salat nach Tuks Originalrezept</description>
-    </item>
-    
-    <item>
-      <title>Annes Couscous Salat</title>
-      <link>https://der.reisko.ch/rezepte/annes-couscous-salat/</link>
-      <pubDate>Tue, 24 Apr 2012 10:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/annes-couscous-salat/</guid>
-      <description>Sommerlich leicht und lecker</description>
-    </item>
-    
-    <item>
-      <title>Thai Style Salat mit Tomate und Gurke</title>
-      <link>https://der.reisko.ch/rezepte/thai-style-salat-mit-tomate-und-gurke/</link>
-      <pubDate>Tue, 10 Jan 2012 07:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-style-salat-mit-tomate-und-gurke/</guid>
-      <description>Schnell, einfach, lecker und selbstausgedacht</description>
-    </item>
-    
-    <item>
-      <title>Thai Rindfleischsalat mit Gurke</title>
-      <link>https://der.reisko.ch/rezepte/thai-rindfleischsalat-mit-gurke/</link>
-      <pubDate>Thu, 05 Jan 2012 08:38:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-rindfleischsalat-mit-gurke/</guid>
-      <description>Yam Nuea Daeng Gwa</description>
-    </item>
-    
-    <item>
-      <title>Minutensteaks mit Feldsalat und Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/minutensteaks-mit-feldsalat-und-pilzen/</link>
-      <pubDate>Mon, 19 Dec 2011 08:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/minutensteaks-mit-feldsalat-und-pilzen/</guid>
-      <description>Schnell und lecker</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Khuen Chai Gai</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-khuen-chai-gai/</link>
-      <pubDate>Fri, 11 Nov 2011 08:41:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-khuen-chai-gai/</guid>
-      <description>Ein leichter Salat mit Thai-Sellerie und Huhn</description>
-    </item>
-    
-    <item>
-      <title>Yam Woon Sen &#34;Chao Wang&#34;</title>
-      <link>https://der.reisko.ch/rezepte/yam-woon-sen-chao-wang/</link>
-      <pubDate>Fri, 04 Nov 2011 06:19:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/yam-woon-sen-chao-wang/</guid>
-      <description>Mein aufgemotzter Glasnudelsalat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0718/yam_som_o.jpg</url>
+        <title>Thailändischer Yam Som O</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-som-o/</link>
+        </image>
     </item>
     
   </channel>

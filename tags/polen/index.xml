@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>polen on Der Reiskoch</title>
+    <title>polen auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/polen/</link>
-    <description>Recent content in polen on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in polen  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 20 Oct 2012 09:52:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/polen/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/reisen/essen-auf-unserer-polenreise/</guid>
       <description>Deftig, Deftig, Deftig</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0771/00_bigos_in_danzig.jpg</url>
+        <title>Essen auf unserer Polenreise</title>
+        <link>https://der.reisko.ch/reisen/essen-auf-unserer-polenreise/</link>
+        </image>
     </item>
     
   </channel>

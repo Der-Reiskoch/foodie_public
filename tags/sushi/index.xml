@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sushi on Der Reiskoch</title>
+    <title>sushi auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/sushi/</link>
-    <description>Recent content in sushi on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in sushi  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 12 Jun 2020 12:07:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/sushi/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/ikoi-sushi-wok-in-karlsruhe-geschlossen/</guid>
       <description>Der leckere Allround-Asia-Imbiss ums Eck</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0492/crispy_sushi_platte.jpg</url>
+        <title>iKoi Sushi &amp; Wok in Karlsruhe (Geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/ikoi-sushi-wok-in-karlsruhe-geschlossen/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/sushi-kusakabe-im-villa-thai-in-umkirch/</guid>
       <description>Herausragendes Sushi vom Großmeister</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0850/o-toro_und_inside_out_rolls.jpg</url>
+        <title>Sushi Kusakabe im Villa Thai in Umkirch</title>
+        <link>https://der.reisko.ch/restaurants/sushi-kusakabe-im-villa-thai-in-umkirch/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/sushi-aus-der-nachbarschaft/</guid>
       <description>Plan B zum Jahrestag</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0582/blaue_sushiplatte.jpg</url>
+        <title>Sushi aus der Nachbarschaft</title>
+        <link>https://der.reisko.ch/restaurants/sushi-aus-der-nachbarschaft/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/restaurants/mittagsmenus-im-kaiseki-in-karlsruhe/</guid>
       <description>Reichhaltige japanische Menüs zum fairen Preis</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0354/schnitzel-curry-menu.jpg</url>
+        <title>Mittagsmenüs im Kaiseki in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/mittagsmenus-im-kaiseki-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/impressionen-vom-selbstgemachten-sushi/</guid>
       <description>Sushi Session mit Arek</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0257/tisch.jpg</url>
+        <title>Impressionen vom selbstgemachten Sushi</title>
+        <link>https://der.reisko.ch/dies-und-das/impressionen-vom-selbstgemachten-sushi/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/selbstgemachtes-silvester-sushi/</guid>
       <description>Großes japanisches Buffet</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0049/selbstgemachtes_silvester_sushi.jpg</url>
+        <title>Selbstgemachtes Silvester Sushi</title>
+        <link>https://der.reisko.ch/dies-und-das/selbstgemachtes-silvester-sushi/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-kaiseki-in-karlsruhe/</guid>
       <description>Ganz aussergewöhliche japanische Menüs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0204/sushi.jpg</url>
+        <title>Restaurant Kaiseki in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-kaiseki-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/restaurants/firlefanz-in-karlsruhe-geschlossen/</guid>
       <description>Ein Nachruf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0085/mini_oktopusse.jpg</url>
+        <title>Firlefanz in Karlsruhe (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/firlefanz-in-karlsruhe-geschlossen/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-sakura-sushi-in-heidelberg/</guid>
       <description>Spannende Sushi Kreationen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0086/sushi-schiff.jpg</url>
+        <title>Restaurant Sakura Sushi in Heidelberg</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-sakura-sushi-in-heidelberg/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-sen-sushi-in-karlsruhe/</guid>
       <description>Sushi Laden mit kleiner vietnamesischer Karte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0083/bun_bo_nam_bo.jpg</url>
+        <title>Restaurant Sen Sushi in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-sen-sushi-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/restaurants/sushi-king-in-karlsruhe-geschlossen/</guid>
       <description>Leckeres Sushi und Shabu Shabu</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0001/drei_sushis.jpg</url>
+        <title>Sushi King in Karlsruhe (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/sushi-king-in-karlsruhe-geschlossen/</link>
+        </image>
     </item>
     
   </channel>

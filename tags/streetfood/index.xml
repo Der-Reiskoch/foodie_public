@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>streetfood on Der Reiskoch</title>
+    <title>streetfood auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/streetfood/</link>
-    <description>Recent content in streetfood on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in streetfood  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 11 Sep 2016 09:22:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/streetfood/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/foodtruck-convention-in-karlsruhe/</guid>
       <description>Auf ein Curry vor dem Schloss</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0418/sri-lanka-curry.jpg</url>
+        <title>Foodtruck Convention 2016 in Karlsruhe</title>
+        <link>https://der.reisko.ch/dies-und-das/foodtruck-convention-in-karlsruhe/</link>
+        </image>
     </item>
     
   </channel>

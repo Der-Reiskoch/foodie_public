@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>abholservice on Der Reiskoch</title>
+    <title>abholservice auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/abholservice/</link>
-    <description>Recent content in abholservice on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in abholservice  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 31 Oct 2020 09:02:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/abholservice/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/muehlburger-schnitzelburg/</guid>
       <description>Gigantische Portionen, aber lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0940/manuels_cordon_bleu.jpg</url>
+        <title>Mühlburger Schnitzelburg</title>
+        <link>https://der.reisko.ch/restaurants/muehlburger-schnitzelburg/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/abholservice-des-restaurant-garbo/</guid>
       <description>Gutbürgerliche Küche aus Eggenstein</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0914/cordon-bleu_mit_spaetzle_und_rahmsosse.jpg</url>
+        <title>Abholservice des Restaurant Garbo</title>
+        <link>https://der.reisko.ch/restaurants/abholservice-des-restaurant-garbo/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-kesselhaushome/</guid>
       <description>Wir Foodies bleiben Zuhause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0884/zoom-session.jpg</url>
+        <title>Restaurant Kesselhaus@Home</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-kesselhaushome/</link>
+        </image>
     </item>
     
   </channel>

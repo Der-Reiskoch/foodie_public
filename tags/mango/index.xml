@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mango on Der Reiskoch</title>
+    <title>mango auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/mango/</link>
-    <description>Recent content in mango on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in mango  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 06 Apr 2020 06:23:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/mango/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-som-tam-mamuang/</guid>
       <description>Salat aus halbreifer Mango</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0876/som_tam_mamuang.jpg</url>
+        <title>Thailändischer Som Tam Mamuang</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-som-tam-mamuang/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mango-tomaten-salat-aus-tansania/</guid>
       <description>Schneller Salat mit wenigen Zutaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0295/salat.jpg</url>
+        <title>Mango-Tomaten-Salat aus Tansania</title>
+        <link>https://der.reisko.ch/rezepte/mango-tomaten-salat-aus-tansania/</link>
+        </image>
     </item>
     
   </channel>

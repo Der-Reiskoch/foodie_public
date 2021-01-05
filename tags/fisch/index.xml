@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fisch on Der Reiskoch</title>
+    <title>fisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/fisch/</link>
-    <description>Recent content in fisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in fisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 10 Dec 2020 05:14:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/fisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/laotischer-mok-pa/</guid>
       <description>Leichter Fisch im Bananenblatt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0953/laotischer_mok_pa.jpg</url>
+        <title>Gedämpfter Mok Pa aus Laos</title>
+        <link>https://der.reisko.ch/rezepte/laotischer-mok-pa/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/fish-head-curry-aus-singapur/</guid>
       <description>Ein gekochtes Geburtstagsgeschenk</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0951/serviert_auf_bananenblatt.jpg</url>
+        <title>Fish Head Curry aus Singapur</title>
+        <link>https://der.reisko.ch/rezepte/fish-head-curry-aus-singapur/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-plaa-salmon-dad-deaw/</guid>
       <description>Auch Lachs lässt sich trocknen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0925/plaa_salmom_dad_daew_mit_nam_jim_seafood.jpg</url>
+        <title>Thailändischer Plaa Salmon Dad Deaw</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-plaa-salmon-dad-deaw/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-myeolchi-bokkeum/</guid>
       <description>Gebratene getrocknete Sardellen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0901/myeolchi_bokkeum.jpg</url>
+        <title>Koreanische Myeolchi Bokkeum</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-myeolchi-bokkeum/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/jamaikanisches-fisch-curry/</guid>
       <description>Ein leckeres Gericht aus der Karibik</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0459/jamaikanisches_fischcurry.jpg</url>
+        <title>Jamaikanisches Fisch Curry</title>
+        <link>https://der.reisko.ch/rezepte/jamaikanisches-fisch-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thai-rosenkohl-mit-getrocknetem-fisch/</guid>
       <description>Ein Annährungsversuch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0858/thai_rosenkohl_mit_getrocknetem_fisch.jpg</url>
+        <title>Thai Rosenkohl mit getrocknetem Fisch</title>
+        <link>https://der.reisko.ch/nachgekocht/thai-rosenkohl-mit-getrocknetem-fisch/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-phla-plaa-salmon/</guid>
       <description>Salat mit Lachs und Kräutern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0831/teller.jpg</url>
+        <title>Thailändischer Phla Plaa Salmon</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-phla-plaa-salmon/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendische-nam-plaa-ra/</guid>
       <description>Eine Würzsoße mit fermentiertem Fisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0834/nam_plaa_ra_zuaten.jpg</url>
+        <title>Thailändische Nam Plaa Ra</title>
+        <link>https://der.reisko.ch/rezepte/thailaendische-nam-plaa-ra/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/scharfe-thai-curry-ramen-mit-fisch/</guid>
       <description>Ein japanisch-thailändisches Fusionsgericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0829/thai-curry-ramen.jpg</url>
+        <title>Scharfe Thai-Curry-Ramen mit Fisch</title>
+        <link>https://der.reisko.ch/rezepte/scharfe-thai-curry-ramen-mit-fisch/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/tamarinden-fisch-aus-sri-lanka/</guid>
       <description>Ein saures Gericht mit geröstetem Currypulver</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0827/tamarinden-fisch.jpg</url>
+        <title>Tamarinden-Fisch aus Sri Lanka</title>
+        <link>https://der.reisko.ch/rezepte/tamarinden-fisch-aus-sri-lanka/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/matjes-salat-mit-roter-beete/</guid>
       <description>Eine Variation in Rosa</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0820/matjes-salat_mit_kartoffeln.jpg</url>
+        <title>Matjes Salat mit roter Beete</title>
+        <link>https://der.reisko.ch/rezepte/matjes-salat-mit-roter-beete/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/reisen/viel-fisch-aus-seen-und-meer/</guid>
       <description>Auf unserer Reise zur Ostsee</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0795/05_dorschfilet_in_stralsund.jpg</url>
+        <title>Viel Fisch aus Seen und Meer</title>
+        <link>https://der.reisko.ch/reisen/viel-fisch-aus-seen-und-meer/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-goa-lachs-curry/</guid>
       <description>Aromatisch und cremig</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0768/goa_lachs_curry.jpg</url>
+        <title>Indisches Goa Lachs Curry</title>
+        <link>https://der.reisko.ch/rezepte/indisches-goa-lachs-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-hor-mok-plaa/</guid>
       <description>Gedämpftes Fischcurry im Bananenblatt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0737/hor_mok_plaa.jpg</url>
+        <title>Thailändisches Hor Mok Plaa</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-hor-mok-plaa/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/reisen/seafood-bbq-am-haad-khuat/</guid>
       <description>Ein Highlight am Bottle Beach</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0710/seafood_bbq.jpg</url>
+        <title>Seafood BBQ am Haad Khuat</title>
+        <link>https://der.reisko.ch/reisen/seafood-bbq-am-haad-khuat/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/restaurants/ristorante-tropea-in-der-sudstadt/</guid>
       <description>Endlich ein guter Italiener in Laufweite</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0654/taglioni_aus_dem_parmesanlaib.jpg</url>
+        <title>Ristorante Tropea in der Südstadt</title>
+        <link>https://der.reisko.ch/restaurants/ristorante-tropea-in-der-sudstadt/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-plaa/</guid>
       <description>Salat aus gebratenen Fisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0624/angemachter_salat.jpg</url>
+        <title>Thailändischer Yam Plaa</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-plaa/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/einfaches-lachs-bibimbap/</guid>
       <description>Auch mit Fisch sehr lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0631/lachs-bibimbap.jpg</url>
+        <title>Einfaches Lachs Bibimbap</title>
+        <link>https://der.reisko.ch/rezepte/einfaches-lachs-bibimbap/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-au-pont-de-lill/</guid>
       <description>Und ganz plötzlich am Meer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0605/meeresfruechteplatte_le_royal.jpg</url>
+        <title>Restaurant au Pont de l&#39;Ill</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-au-pont-de-lill/</link>
+        </image>
     </item>
     
     <item>
@@ -185,348 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/matjes-salat-norddeutsche-art/</guid>
       <description>Mal ganz was anderes</description>
-    </item>
-    
-    <item>
-      <title>Kabeljau im Tatsuta-Age Stil</title>
-      <link>https://der.reisko.ch/nachgekocht/kabeljau-im-tatsuta-age-stil/</link>
-      <pubDate>Tue, 21 Nov 2017 06:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/kabeljau-im-tatsuta-age-stil/</guid>
-      <description>Aus Harumis Kochbuch</description>
-    </item>
-    
-    <item>
-      <title>Leckeres Essen auf Ibiza</title>
-      <link>https://der.reisko.ch/reisen/leckeres-essen-auf-ibiza/</link>
-      <pubDate>Wed, 18 Oct 2017 06:27:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/reisen/leckeres-essen-auf-ibiza/</guid>
-      <description>Meeresfrüchte und Tapas</description>
-    </item>
-    
-    <item>
-      <title>Restaurant Le Soleil in Zinnowitz</title>
-      <link>https://der.reisko.ch/restaurants/restaurant-le-soleil-in-zinnowitz/</link>
-      <pubDate>Fri, 18 Aug 2017 06:42:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/restaurant-le-soleil-in-zinnowitz/</guid>
-      <description>Deutsch-armenische Küche auf Usedom</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Larb Plaa Tuna</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa-tuna/</link>
-      <pubDate>Sun, 18 Jun 2017 08:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa-tuna/</guid>
-      <description>Fischsalat frisch aus der Larbhackerei</description>
-    </item>
-    
-    <item>
-      <title>Thai Salate im Restaurant Nat-Pob</title>
-      <link>https://der.reisko.ch/restaurants/thai-salate-im-restaurant-nat-pob/</link>
-      <pubDate>Sun, 28 May 2017 10:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/thai-salate-im-restaurant-nat-pob/</guid>
-      <description>Ein weiteres Restaurant in Karlsruhe ausprobiert</description>
-    </item>
-    
-    <item>
-      <title>Le Bar à Huîtres: Haute-Mer Restaurant</title>
-      <link>https://der.reisko.ch/restaurants/le-bar-a-huitres-haute-mer-restaurant/</link>
-      <pubDate>Sat, 20 May 2017 08:27:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/le-bar-a-huitres-haute-mer-restaurant/</guid>
-      <description>Und plötzlich am Meer</description>
-    </item>
-    
-    <item>
-      <title>Gelbes Curry mit Lachs und Kabeljau</title>
-      <link>https://der.reisko.ch/rezepte/gelbes-curry-mit-lachs-und-kabeljau/</link>
-      <pubDate>Sat, 13 May 2017 12:22:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gelbes-curry-mit-lachs-und-kabeljau/</guid>
-      <description>Gaeng Gari Plaa</description>
-    </item>
-    
-    <item>
-      <title>Roter Thai-Curry-Reis mit Thunfisch</title>
-      <link>https://der.reisko.ch/rezepte/roter-thai-curry-reis-mit-thunfisch/</link>
-      <pubDate>Sun, 30 Apr 2017 09:24:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/roter-thai-curry-reis-mit-thunfisch/</guid>
-      <description>Khao Pad Gaeng Phed Plaa Thuna</description>
-    </item>
-    
-    <item>
-      <title>Kokoslachs mit Sojasprossen und Pak Choy</title>
-      <link>https://der.reisko.ch/rezepte/kokoslachs-mit-sojasprossen-und-pak-choy/</link>
-      <pubDate>Thu, 20 Apr 2017 06:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kokoslachs-mit-sojasprossen-und-pak-choy/</guid>
-      <description>Ein schnelles Experiment à la Việt Nam</description>
-    </item>
-    
-    <item>
-      <title>Salbei Lachs mit grünem Spargel</title>
-      <link>https://der.reisko.ch/rezepte/salbei-lachs-mit-grunem-spargel/</link>
-      <pubDate>Thu, 06 Apr 2017 07:26:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/salbei-lachs-mit-grunem-spargel/</guid>
-      <description>Ein schnelles Gericht am Abend</description>
-    </item>
-    
-    <item>
-      <title>Thailändische Reissuppe mit Lachs</title>
-      <link>https://der.reisko.ch/rezepte/thailaendische-reissuppe-mit-lachs/</link>
-      <pubDate>Tue, 07 Feb 2017 08:38:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendische-reissuppe-mit-lachs/</guid>
-      <description>Khao Tom Plaa Salmon</description>
-    </item>
-    
-    <item>
-      <title>Einfaches, aber scharfes Lachs Vindaloo</title>
-      <link>https://der.reisko.ch/rezepte/einfaches-aber-scharfes-lachs-vindaloo/</link>
-      <pubDate>Tue, 13 Dec 2016 06:23:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/einfaches-aber-scharfes-lachs-vindaloo/</guid>
-      <description>Wenn man etwas Zeit hat, aber faul ist</description>
-    </item>
-    
-    <item>
-      <title>Italienisches Tacchino Tonnato</title>
-      <link>https://der.reisko.ch/rezepte/italienisches-tacchino-tonnato/</link>
-      <pubDate>Fri, 14 Oct 2016 12:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/italienisches-tacchino-tonnato/</guid>
-      <description>Eine vereinfachte, schnelle Variante</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Larb Plaa Salmon</title>
-      <link>https://der.reisko.ch/nachgekocht/thailaendischer-larb-plaa-salmon/</link>
-      <pubDate>Sun, 02 Oct 2016 08:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/thailaendischer-larb-plaa-salmon/</guid>
-      <description>Auch Lachs geht als Salat</description>
-    </item>
-    
-    <item>
-      <title>Fischcurry mit selbstgemachter Paste</title>
-      <link>https://der.reisko.ch/rezepte/fischcurry-mit-selbstgemachter-paste/</link>
-      <pubDate>Thu, 28 Jul 2016 06:29:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/fischcurry-mit-selbstgemachter-paste/</guid>
-      <description>Thailändisches Gaeng Gari Plaa</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Lachssalat</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-lachssalat/</link>
-      <pubDate>Sun, 24 Jul 2016 11:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-lachssalat/</guid>
-      <description>Ganz schnell und super lecker</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Larb Plaa</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa/</link>
-      <pubDate>Mon, 02 May 2016 07:01:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa/</guid>
-      <description>Salat aus gehacktem Fisch</description>
-    </item>
-    
-    <item>
-      <title>Indisches Fischcurry mit Erbsen</title>
-      <link>https://der.reisko.ch/rezepte/indisches-fischcurry-mit-erbsen/</link>
-      <pubDate>Tue, 22 Mar 2016 06:54:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indisches-fischcurry-mit-erbsen/</guid>
-      <description>Kabeljau mit vielen Gewürzen</description>
-    </item>
-    
-    <item>
-      <title>Forelle in Salbei-Olivenöl mit Salat</title>
-      <link>https://der.reisko.ch/rezepte/forelle-in-salbei-olivenol-mit-salat/</link>
-      <pubDate>Thu, 03 Mar 2016 06:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/forelle-in-salbei-olivenol-mit-salat/</guid>
-      <description>Eine Urlaubserinnerung an Kreta</description>
-    </item>
-    
-    <item>
-      <title>Zwei verschiedene indische Curries</title>
-      <link>https://der.reisko.ch/nachgekocht/zwei-indische-curries/</link>
-      <pubDate>Sat, 19 Sep 2015 05:13:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/zwei-indische-curries/</guid>
-      <description>Madras Fisch Curry und Kichererbsen Curry</description>
-    </item>
-    
-    <item>
-      <title>Impressionen vom selbstgemachten Sushi</title>
-      <link>https://der.reisko.ch/dies-und-das/impressionen-vom-selbstgemachten-sushi/</link>
-      <pubDate>Thu, 27 Aug 2015 09:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/impressionen-vom-selbstgemachten-sushi/</guid>
-      <description>Sushi Session mit Arek</description>
-    </item>
-    
-    <item>
-      <title>Gebackener Lachs Tandoori Style</title>
-      <link>https://der.reisko.ch/rezepte/gebackener-lachs-tandoori-style/</link>
-      <pubDate>Sun, 16 Aug 2015 10:58:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gebackener-lachs-tandoori-style/</guid>
-      <description>Das neue Masala im Einsatz</description>
-    </item>
-    
-    <item>
-      <title>Three Taste Fish aus Südthailand</title>
-      <link>https://der.reisko.ch/rezepte/three-taste-fish-aus-sudthailand/</link>
-      <pubDate>Fri, 10 Jul 2015 08:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/three-taste-fish-aus-sudthailand/</guid>
-      <description>Ein Fischrezept aus Ko Phi Phi</description>
-    </item>
-    
-    <item>
-      <title>Schlemmerfilet à la Bordelaise</title>
-      <link>https://der.reisko.ch/rezepte/schlemmerfilet-a-la-bordelaise/</link>
-      <pubDate>Fri, 26 Jun 2015 11:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/schlemmerfilet-a-la-bordelaise/</guid>
-      <description>Ein Klassiker mal selbst gemacht</description>
-    </item>
-    
-    <item>
-      <title>Lachs mit Miso-Ingwer Topping</title>
-      <link>https://der.reisko.ch/rezepte/lachs-mit-miso-ingwer-topping/</link>
-      <pubDate>Fri, 30 Jan 2015 08:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/lachs-mit-miso-ingwer-topping/</guid>
-      <description>Miso mal nicht als Suppe</description>
-    </item>
-    
-    <item>
-      <title>Selbstgemachtes Silvester Sushi</title>
-      <link>https://der.reisko.ch/dies-und-das/selbstgemachtes-silvester-sushi/</link>
-      <pubDate>Sun, 04 Jan 2015 07:22:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/selbstgemachtes-silvester-sushi/</guid>
-      <description>Großes japanisches Buffet</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Gaeng Taepo</title>
-      <link>https://der.reisko.ch/nachgekocht/thailaendisches-gaeng-taepo/</link>
-      <pubDate>Thu, 20 Nov 2014 08:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/thailaendisches-gaeng-taepo/</guid>
-      <description>Rotes Curry mit Austernpilzen und Steinbeißer</description>
-    </item>
-    
-    <item>
-      <title>Lachs mit Ofenkartoffeln und Spinat</title>
-      <link>https://der.reisko.ch/rezepte/lachs-mit-ofenkartoffeln-und-spinat/</link>
-      <pubDate>Wed, 29 Oct 2014 09:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/lachs-mit-ofenkartoffeln-und-spinat/</guid>
-      <description>Eine tolle Kombination</description>
-    </item>
-    
-    <item>
-      <title>Nam Ya Nudelcurry im Schmortopf</title>
-      <link>https://der.reisko.ch/rezepte/nam-ya-nudelcurry-im-schmortopf/</link>
-      <pubDate>Tue, 27 May 2014 06:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/nam-ya-nudelcurry-im-schmortopf/</guid>
-      <description>Thai Curry geht auch mit Nudeln</description>
-    </item>
-    
-    <item>
-      <title>Gebackener Barsch mit Sojasprossen</title>
-      <link>https://der.reisko.ch/rezepte/gebackener-barsch-mit-sojasprossen/</link>
-      <pubDate>Mon, 17 Feb 2014 07:25:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gebackener-barsch-mit-sojasprossen/</guid>
-      <description>Scharfer Thaifisch</description>
-    </item>
-    
-    <item>
-      <title>Gebackener Lachs im Gemüsebett</title>
-      <link>https://der.reisko.ch/rezepte/gebackener-lachs-im-gemusebett/</link>
-      <pubDate>Mon, 10 Feb 2014 07:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gebackener-lachs-im-gemusebett/</guid>
-      <description>Lecker aus dem Backofen</description>
-    </item>
-    
-    <item>
-      <title>Gebackener Lachs mit Koriander</title>
-      <link>https://der.reisko.ch/rezepte/gebackener-lachs-mit-koriander/</link>
-      <pubDate>Wed, 05 Feb 2014 07:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gebackener-lachs-mit-koriander/</guid>
-      <description>Sehr simpel, aber lecker</description>
-    </item>
-    
-    <item>
-      <title>Rotbarsch in Zitronenbutter</title>
-      <link>https://der.reisko.ch/rezepte/rotbarsch-in-zitronenbutter/</link>
-      <pubDate>Sat, 14 Sep 2013 08:40:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rotbarsch-in-zitronenbutter/</guid>
-      <description>Ein sommerliches Fischrezept</description>
-    </item>
-    
-    <item>
-      <title>Überbackener Lachsspieß im Tomatenbett</title>
-      <link>https://der.reisko.ch/rezepte/uberbackener-lachsspiess-im-tomatenbett/</link>
-      <pubDate>Fri, 13 Sep 2013 11:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/uberbackener-lachsspiess-im-tomatenbett/</guid>
-      <description>Leckerer Fisch am Spieß</description>
-    </item>
-    
-    <item>
-      <title>Gelbes Thai Fisch Curry</title>
-      <link>https://der.reisko.ch/rezepte/gelbes-thai-fisch-curry/</link>
-      <pubDate>Wed, 11 Sep 2013 08:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gelbes-thai-fisch-curry/</guid>
-      <description>Ein sehr schnelles Gericht</description>
-    </item>
-    
-    <item>
-      <title>Kabeljaufilet mit Erbsen und Kräutern</title>
-      <link>https://der.reisko.ch/rezepte/kabeljaufilet-mit-erbsen-und-frischen-krautern/</link>
-      <pubDate>Thu, 29 Aug 2013 06:24:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kabeljaufilet-mit-erbsen-und-frischen-krautern/</guid>
-      <description>Fisch trifft Kräutergarten</description>
-    </item>
-    
-    <item>
-      <title>Gebackener Seelachs Tandoori-Style</title>
-      <link>https://der.reisko.ch/rezepte/gebackener-seelachs-tandoori-style/</link>
-      <pubDate>Wed, 27 Mar 2013 07:58:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gebackener-seelachs-tandoori-style/</guid>
-      <description>Tandoori geht auch mit Fisch</description>
-    </item>
-    
-    <item>
-      <title>Victoria Barsch in Sekt-Dill-Soße</title>
-      <link>https://der.reisko.ch/rezepte/victoria-barsch-in-sekt-dill-sosse/</link>
-      <pubDate>Thu, 14 Mar 2013 06:39:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/victoria-barsch-in-sekt-dill-sosse/</guid>
-      <description>Nicht nur Freitags</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0388/matjes_salat.jpg</url>
+        <title>Matjes Salat Norddeutsche Art</title>
+        <link>https://der.reisko.ch/rezepte/matjes-salat-norddeutsche-art/</link>
+        </image>
     </item>
     
   </channel>

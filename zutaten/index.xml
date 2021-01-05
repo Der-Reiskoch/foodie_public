@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wichtige Asiatische Zutaten on Der Reiskoch</title>
+    <title>Wichtige Asiatische Zutaten auf Der Reiskoch</title>
     <link>https://der.reisko.ch/zutaten/</link>
-    <description>Recent content in Wichtige Asiatische Zutaten on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Wichtige Asiatische Zutaten  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 07 Jul 2020 23:28:09 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/zutaten/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/zutaten/zutatenliste-von-a-bis-z/</guid>
       <description>Dinge die vielleicht nicht jeder im Schrank hat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_pantry/thin_and_thick_soy_sauce.jpg</url>
+        <title>Liste asiatischer Zutaten von A-Z</title>
+        <link>https://der.reisko.ch/zutaten/zutatenliste-von-a-bis-z/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/zutaten/wichtige-zutaten-fur-die-thai-kuche/</guid>
       <description>Was man im Haus haben sollte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0866/sossen_palmzucker_und_currypaste.jpg</url>
+        <title>Wichtige Zutaten für die Thai Küche</title>
+        <link>https://der.reisko.ch/zutaten/wichtige-zutaten-fur-die-thai-kuche/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/zutaten/xiong-di-asia-supermarkt-in-karlsruhe/</guid>
       <description>Chinesisch Einkaufen am Kronenplatz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0832/tiefkueltruhen.jpg</url>
+        <title>Xiong Di Asia Supermarkt in Karlsruhe</title>
+        <link>https://der.reisko.ch/zutaten/xiong-di-asia-supermarkt-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/zutaten/go-asia-supermarkt-in-karlsruhe/</guid>
       <description>Ein neuer riesiger Asia Markt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0445/vollgepackte_regale.jpg</url>
+        <title>Go Asia Supermarkt in Karlsruhe</title>
+        <link>https://der.reisko.ch/zutaten/go-asia-supermarkt-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/zutaten/ein-paar-worte-uber-fischsosse/</guid>
       <description>Das Salz des Ostens</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0680/mein_saucen_schrank.jpg</url>
+        <title>Ein paar Worte über Fischsoße</title>
+        <link>https://der.reisko.ch/zutaten/ein-paar-worte-uber-fischsosse/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/zutaten/asialaeden-in-karlsruhe/</guid>
       <description>Wo man asiatische Zutaten her bekommt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0580/schaufenster.jpg</url>
+        <title>Asialäden in Karlsruhe</title>
+        <link>https://der.reisko.ch/zutaten/asialaeden-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf/</guid>
       <description>Eine ausgedehnte Einkaufstour</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0569/beute.jpg</url>
+        <title>Shoppen im japanischen Viertel in Düsseldorf</title>
+        <link>https://der.reisko.ch/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/zutaten/einige-burmesische-zutaten/</guid>
       <description>Damit habe ich mir den Rucksack gefüllt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0308/pae_sone_kyaw_auf_dem_markt.jpg</url>
+        <title>Einige Burmesische Zutaten</title>
+        <link>https://der.reisko.ch/zutaten/einige-burmesische-zutaten/</link>
+        </image>
     </item>
     
   </channel>

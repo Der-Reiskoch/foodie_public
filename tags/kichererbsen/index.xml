@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kichererbsen on Der Reiskoch</title>
+    <title>kichererbsen auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/kichererbsen/</link>
-    <description>Recent content in kichererbsen on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in kichererbsen  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 02 Feb 2020 09:51:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/kichererbsen/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/leckerer-hummus-mit-erbsen/</guid>
       <description>Eine grüne Variante des beliebten Aufstrichs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0011/hummus_mit_erbsen.jpg</url>
+        <title>Leckerer Hummus mit Erbsen</title>
+        <link>https://der.reisko.ch/rezepte/leckerer-hummus-mit-erbsen/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kichererbsen-curry-aus-trinidad/</guid>
       <description>Ein vegetarisches Gericht aus der Karibik</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0066/kichererbsen-curry.jpg</url>
+        <title>Kichererbsen Curry aus Trinidad</title>
+        <link>https://der.reisko.ch/rezepte/kichererbsen-curry-aus-trinidad/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/zwei-indische-curries-und-einmal-spinat/</guid>
       <description>Große Kochaktion am Sonntagabend</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0652/zwei_curries_und_spinat.jpg</url>
+        <title>Zwei indische Curries und einmal Spinat</title>
+        <link>https://der.reisko.ch/nachgekocht/zwei-indische-curries-und-einmal-spinat/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/eintopf-aus-kichererbsen-und-rind/</guid>
       <description>Gulasch trifft Hummus</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0482/kichererbsen-rind-eintopf.jpg</url>
+        <title>Eintopf aus Kichererbsen und Rind</title>
+        <link>https://der.reisko.ch/rezepte/eintopf-aus-kichererbsen-und-rind/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kichererbsencurry-mit-kokosmilch/</guid>
       <description>Ein alternatives Rezept für dieses leckere Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0475/kicherebsencurry.jpg</url>
+        <title>Kichererbsencurry mit Kokosmilch</title>
+        <link>https://der.reisko.ch/rezepte/kichererbsencurry-mit-kokosmilch/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kichererbsengemuse-als-beilage/</guid>
       <description>Universell einsetzbare Hülsenfrüchte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0448/kichererbsengemuese.jpg</url>
+        <title>Kichererbsengemüse als Beilage</title>
+        <link>https://der.reisko.ch/rezepte/kichererbsengemuse-als-beilage/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kichererbsensalat-mit-pastirma/</guid>
       <description>Ein türkisches Salat Experiment</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0277/angemacht.jpg</url>
+        <title>Kichererbsensalat mit Pastırma</title>
+        <link>https://der.reisko.ch/rezepte/kichererbsensalat-mit-pastirma/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/orientalische-kichererbsensuppe/</guid>
       <description>Hummus mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0441/orientalische_kichererbsensuppe.jpg</url>
+        <title>Orientalische Kichererbsensuppe</title>
+        <link>https://der.reisko.ch/rezepte/orientalische-kichererbsensuppe/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/turkischer-guvek-mit-sucuk-und-kichererbsen/</guid>
       <description>Deftiger, scharfer Eintopf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0358/pfanne.jpg</url>
+        <title>Türkischer Güvek mit Sucuk und Kichererbsen</title>
+        <link>https://der.reisko.ch/rezepte/turkischer-guvek-mit-sucuk-und-kichererbsen/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kari-mit-kartoffeln-und-kichererbsen/</guid>
       <description>Mit malayischer Currypaste aus der Tüte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0357/schuessel.jpg</url>
+        <title>Kari mit Kartoffeln und Kichererbsen</title>
+        <link>https://der.reisko.ch/rezepte/kari-mit-kartoffeln-und-kichererbsen/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hummus-mit-eingelegten-jalapenos/</guid>
       <description>Chili trifft Kichererbse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0238/hummus.jpg</url>
+        <title>Hummus mit eingelegten Jalapeños</title>
+        <link>https://der.reisko.ch/rezepte/hummus-mit-eingelegten-jalapenos/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-kichererbsen-curry/</guid>
       <description>Ein leckeres vegetarisches Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0232/teller.jpg</url>
+        <title>Indisches Kichererbsen Curry</title>
+        <link>https://der.reisko.ch/rezepte/indisches-kichererbsen-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hummus-mit-bratpaprika/</guid>
       <description>Selbstgemachtes Hummus</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0190/vorher.jpg</url>
+        <title>Hummus mit Bratpaprika</title>
+        <link>https://der.reisko.ch/rezepte/hummus-mit-bratpaprika/</link>
+        </image>
     </item>
     
   </channel>

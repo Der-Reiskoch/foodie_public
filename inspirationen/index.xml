@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meine Inspirationsquellen on Der Reiskoch</title>
+    <title>Meine Inspirationsquellen auf Der Reiskoch</title>
     <link>https://der.reisko.ch/inspirationen/</link>
-    <description>Recent content in Meine Inspirationsquellen on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Meine Inspirationsquellen  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language><atom:link href="https://der.reisko.ch/inspirationen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bücher</title>
@@ -13,6 +13,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/asia_street_bowls.jpg</url>
+        <title>Bücher</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/</link>
+        </image>
     </item>
     
     <item>
@@ -22,6 +27,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/asia-street-food.jpg</url>
+        <title>Blogs</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/</link>
+        </image>
     </item>
     
     <item>
@@ -31,6 +41,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/dokus/</guid>
       <description>Dokus und Serien</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/eating-thailand.jpg</url>
+        <title>Dokumentationen</title>
+        <link>https://der.reisko.ch/inspirationen/dokus/</link>
+        </image>
     </item>
     
     <item>
@@ -40,6 +55,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/gruppen/</guid>
       <description>Meine liebsten Facebookgruppen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/thai_kueche_und_ihre_rezepte.jpg</url>
+        <title>Facebookgruppen</title>
+        <link>https://der.reisko.ch/inspirationen/gruppen/</link>
+        </image>
     </item>
     
   </channel>

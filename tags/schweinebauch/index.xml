@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>schweinebauch on Der Reiskoch</title>
+    <title>schweinebauch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/schweinebauch/</link>
-    <description>Recent content in schweinebauch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in schweinebauch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 05 Jan 2021 06:41:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/schweinebauch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/dwaejigogi-bulgogi-im-dolsot/</guid>
       <description>Schweinebauch im Steintopf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0962/dwaejigogi_bulgogi.jpg</url>
+        <title>Dwaejigogi Bulgogi im Dolsot</title>
+        <link>https://der.reisko.ch/rezepte/dwaejigogi-bulgogi-im-dolsot/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gebratener-schweinebauch-mit-pak-choy/</guid>
       <description>Ein schnelles thailändisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0889/schweinebauch_mit_pak_choy.jpg</url>
+        <title>Gebratener Schweinebauch mit Pak Choy</title>
+        <link>https://der.reisko.ch/rezepte/gebratener-schweinebauch-mit-pak-choy/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-cheonggukjang-pfanne/</guid>
       <description>Ein schnelles koreanisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0890/cheonggukjang_pfanne.jpg</url>
+        <title>Koreanische Cheonggukjang Pfanne</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-cheonggukjang-pfanne/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-pak-kanaa-moo-grob/</guid>
       <description>Frittierter Schweinebauch mit Grünzeug</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0868/pad_pak_kanaa_moo_grob.jpg</url>
+        <title>Thailändisches Pad Pak Kanaa Moo Grob</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-pak-kanaa-moo-grob/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schweinebauch-mit-grunen-chilis/</guid>
       <description>Ein schnelles, scharfes Szechuan Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0819/schweinebauch_mit_chilis.jpg</url>
+        <title>Schweinebauch mit grünen Chilis</title>
+        <link>https://der.reisko.ch/rezepte/schweinebauch-mit-grunen-chilis/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pad-pak-kanaa-mit-fake-moo-grob/</guid>
       <description>Eine schnelle aber salzige Alternative</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0803/pad_pak_kanaa_moo_grob.jpg</url>
+        <title>Pad Pak Kanaa mit Fake Moo Grob</title>
+        <link>https://der.reisko.ch/rezepte/pad-pak-kanaa-mit-fake-moo-grob/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-moo-hong/</guid>
       <description>Schweinebauch Curry nach Phuket Art</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0782/fertiges_moo_hong.jpg</url>
+        <title>Thailändisches Moo Hong</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-moo-hong/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/doppelt-gegarter-schweinebauch/</guid>
       <description>Chinesischer Hui Guo Rou</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0534/schweinebuch_fertig.jpg</url>
+        <title>Doppelt gegarter Schweinebauch</title>
+        <link>https://der.reisko.ch/rezepte/doppelt-gegarter-schweinebauch/</link>
+        </image>
     </item>
     
   </channel>

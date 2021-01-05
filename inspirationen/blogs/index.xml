@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meine liebsten Blogs und Websites on Der Reiskoch</title>
+    <title>Meine liebsten Blogs und Websites auf Der Reiskoch</title>
     <link>https://der.reisko.ch/inspirationen/blogs/</link>
-    <description>Recent content in Meine liebsten Blogs und Websites on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Meine liebsten Blogs und Websites  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language><atom:link href="https://der.reisko.ch/inspirationen/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Asia Street Food - Der Blog</title>
@@ -13,6 +13,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/asia-street-food/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/asia-street-food.jpg</url>
+        <title>Asia Street Food - Der Blog</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/asia-street-food/</link>
+        </image>
     </item>
     
     <item>
@@ -22,6 +27,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/eating-thai-food/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/eatingthaifood.jpg</url>
+        <title>Eating Thai Food von Mark Wiens</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/eating-thai-food/</link>
+        </image>
     </item>
     
     <item>
@@ -31,6 +41,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/hot-thai-kitchen/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/hot-thai-kitchen.jpg</url>
+        <title>Hot Thai Kitchen von Pailin</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/hot-thai-kitchen/</link>
+        </image>
     </item>
     
     <item>
@@ -40,6 +55,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/katooris/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/katooris.jpg</url>
+        <title>Katoori - Indisch kochen mit und ohne Thermomix</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/katooris/</link>
+        </image>
     </item>
     
     <item>
@@ -49,6 +69,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/lanna-food/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/lanna_food.jpg</url>
+        <title>Lanna Food Sammlung aus Chiang Mai</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/lanna-food/</link>
+        </image>
     </item>
     
     <item>
@@ -58,6 +83,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/moriginal-thai/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/moriginal_thai.jpg</url>
+        <title>Maureenas YouTube Channel &#34;Moriginal Thai&#34;</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/moriginal-thai/</link>
+        </image>
     </item>
     
     <item>
@@ -67,6 +97,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/reisehappen/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/reisehappen.jpg</url>
+        <title>Reisehappen: Travel- und Foodblog</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/reisehappen/</link>
+        </image>
     </item>
     
     <item>
@@ -76,6 +111,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/ryukoch/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/ryukoch.jpg</url>
+        <title>RyuKoch: Alles über Korea und Japan</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/ryukoch/</link>
+        </image>
     </item>
     
     <item>
@@ -85,6 +125,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/serious-eats/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/serious_eats.jpg</url>
+        <title>Serious Eats von Dotdash</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/serious-eats/</link>
+        </image>
     </item>
     
     <item>
@@ -94,6 +139,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/thaifoodmaster/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/thaifoodmaster.jpg</url>
+        <title>Thaifoodmaster von Hanuman Aspler</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/thaifoodmaster/</link>
+        </image>
     </item>
     
     <item>
@@ -103,6 +153,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/thaifreun_de/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/thaifreun_de.jpg</url>
+        <title>Thaifreun.de von Lung Priau</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/thaifreun_de/</link>
+        </image>
     </item>
     
     <item>
@@ -112,6 +167,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/the-woks-of-life/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/the_woks_of_life.jpg</url>
+        <title>The Woks of Life Blog</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/the-woks-of-life/</link>
+        </image>
     </item>
     
     <item>
@@ -121,6 +181,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/ottolenghi/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/ottolenghi.jpg</url>
+        <title>Yotam Ottolenghis Website</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/ottolenghi/</link>
+        </image>
     </item>
     
   </channel>

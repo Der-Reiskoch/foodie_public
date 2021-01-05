@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>maronen on Der Reiskoch</title>
+    <title>maronen auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/maronen/</link>
-    <description>Recent content in maronen on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in maronen  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 12 Oct 2020 05:22:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/maronen/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/herbstliches-massaman-curry/</guid>
       <description>Gaeng Massaman Fak Tong Gao Lad</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0408/herbstliches_massaman_curry.jpg</url>
+        <title>Herbstliches Massaman Curry</title>
+        <link>https://der.reisko.ch/rezepte/herbstliches-massaman-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gaeng-panaeng-fak-tong-gao-lad/</guid>
       <description>Thai Curry mit Kürbis und Käschte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0814/gaeng_panaeng_fak_tong_gao_lad.jpg</url>
+        <title>Gaeng Panaeng Fak Tong Gao Lad</title>
+        <link>https://der.reisko.ch/rezepte/gaeng-panaeng-fak-tong-gao-lad/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kerala-chicken-curry-mit-kurbis/</guid>
       <description>Südindisches Gericht mit herbstlichen Zutaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0668/kerala_chicken_curry.jpg</url>
+        <title>Kerala Chicken Curry mit Kürbis</title>
+        <link>https://der.reisko.ch/rezepte/kerala-chicken-curry-mit-kurbis/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/chinesische-maronen-mit-auberginen/</guid>
       <description>Ein herbstliches Pfannengericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0546/maronen_mit_auberginen.jpg</url>
+        <title>Chinesische Maronen mit Auberginen</title>
+        <link>https://der.reisko.ch/rezepte/chinesische-maronen-mit-auberginen/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lieferservice on Der Reiskoch</title>
+    <title>lieferservice auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/lieferservice/</link>
-    <description>Recent content in lieferservice on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in lieferservice  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 11 Dec 2020 06:06:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/lieferservice/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/lieferservice-des-fashion-asia-grills/</guid>
       <description>Sushi beim Foodietreffen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0960/lachs_und_nigiri_platte.jpg</url>
+        <title>Lieferservice des Fashion Asia Grills</title>
+        <link>https://der.reisko.ch/restaurants/lieferservice-des-fashion-asia-grills/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/lieferservice-des-restaurant-aroy-aroy/</guid>
       <description>Leckeres Thai Food aus Grünwinkel</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0910/drei_vorspeisen.jpg</url>
+        <title>Lieferservice des Restaurant Aroy Aroy</title>
+        <link>https://der.reisko.ch/restaurants/lieferservice-des-restaurant-aroy-aroy/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/leckeres-kaiseki-sushihome/</guid>
       <description>Bei unserem virtuellen Foodie Treffen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0902/unsere_sushi_auswahl.jpg</url>
+        <title>Leckeres Kaiseki Sushi@Home</title>
+        <link>https://der.reisko.ch/restaurants/leckeres-kaiseki-sushihome/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/restaurants/bangkok-foodlandhome/</guid>
       <description>Abhol- und Lieferservice in Karlsruhe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0896/laptop_som_tam_und_larb.jpg</url>
+        <title>Bangkok Foodland@Home</title>
+        <link>https://der.reisko.ch/restaurants/bangkok-foodlandhome/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-kesselhaushome/</guid>
       <description>Wir Foodies bleiben Zuhause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0884/zoom-session.jpg</url>
+        <title>Restaurant Kesselhaus@Home</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-kesselhaushome/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-leger-in-dusseldorf/</guid>
       <description>Leckeres vietnamesisches Essen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0393/goi_du_du.jpg</url>
+        <title>Restaurant Lé&#39;ger in Düsseldorf</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-leger-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/restaurants/thai-foodland-imbiss-in-karlsruhe/</guid>
       <description>Das ehemalige &amp;lsquo;Neue Bangkok&amp;rsquo;</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0555/entensuppe_mit_reisnudeln.jpg</url>
+        <title>Thai Foodland Imbiss in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/thai-foodland-imbiss-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-rim-wang-in-karlsruhe/</guid>
       <description>Im Thai-Curry Himmel</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0124/rotes_curry_mit_pfeffer.jpg</url>
+        <title>Restaurant Rim Wang in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-rim-wang-in-karlsruhe/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>orient on Der Reiskoch</title>
+    <title>orient auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/orient/</link>
-    <description>Recent content in orient on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in orient  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 27 Nov 2015 05:16:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/orient/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/das-buch-fadi-kocht-syrisch/</guid>
       <description>Kurz vorgestellt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0312/cover.jpg</url>
+        <title>Das Buch &#34;Fadi kocht syrisch&#34;</title>
+        <link>https://der.reisko.ch/dies-und-das/das-buch-fadi-kocht-syrisch/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/reisen/restaurant-dr-shakshouka-in-jaffa/</guid>
       <description>Ein sehr gutes Restaurant mit syrischer Küche</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0063/dr_shakshuka.jpg</url>
+        <title>Restaurant Dr. Shakshouka in Jaffa</title>
+        <link>https://der.reisko.ch/reisen/restaurant-dr-shakshouka-in-jaffa/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/annes-couscous-salat/</guid>
       <description>Sommerlich leicht und lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0031/couscous-salat.jpg</url>
+        <title>Annes Couscous Salat</title>
+        <link>https://der.reisko.ch/rezepte/annes-couscous-salat/</link>
+        </image>
     </item>
     
   </channel>

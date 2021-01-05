@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>limette on Der Reiskoch</title>
+    <title>limette auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/limette/</link>
-    <description>Recent content in limette on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in limette  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 29 Feb 2020 12:01:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/limette/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/burmesisches-kyet-thar-hin/</guid>
       <description>Curry mit Huhn, Tomaten und Limette</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0863/kyet_thar_hin.jpg</url>
+        <title>Burmesisches Kyet Thar Hin</title>
+        <link>https://der.reisko.ch/rezepte/burmesisches-kyet-thar-hin/</link>
+        </image>
     </item>
     
   </channel>

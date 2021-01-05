@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>suppengrün on Der Reiskoch</title>
+    <title>suppengrün auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/suppengrun/</link>
-    <description>Recent content in suppengrün on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in suppengrün  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 10 Feb 2014 07:50:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/suppengrun/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gebackener-lachs-im-gemusebett/</guid>
       <description>Lecker aus dem Backofen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0067/teller.jpg</url>
+        <title>Gebackener Lachs im Gemüsebett</title>
+        <link>https://der.reisko.ch/rezepte/gebackener-lachs-im-gemusebett/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/miesmuscheln-in-gemusebruhe/</guid>
       <description>Der Klassiker in den Wintermonaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0015/im_topf.jpg</url>
+        <title>Miesmuscheln in Gemüsebrühe</title>
+        <link>https://der.reisko.ch/rezepte/miesmuscheln-in-gemusebruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gemuesesuppe-tom-yum-style/</guid>
       <description>Eine deutsch-thailändische Suppenfusion</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0014/tom-yum.jpg</url>
+        <title>Gemüsesuppe Tom-Yum-Style</title>
+        <link>https://der.reisko.ch/rezepte/gemuesesuppe-tom-yum-style/</link>
+        </image>
     </item>
     
   </channel>

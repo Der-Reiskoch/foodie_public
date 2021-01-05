@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>eintopf on Der Reiskoch</title>
+    <title>eintopf auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/eintopf/</link>
-    <description>Recent content in eintopf on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in eintopf  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 30 Jun 2020 06:41:09 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/eintopf/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-nuea-toon/</guid>
       <description>Sehr aromatischer Rindereintopf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0907/thailaendisches_nuea_toon.jpg</url>
+        <title>Thailändischer Nuea Toon</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-nuea-toon/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ramen on Der Reiskoch</title>
+    <title>ramen auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/ramen/</link>
-    <description>Recent content in ramen on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in ramen  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 17 Dec 2019 09:47:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/ramen/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/min-ramenbar-in-karlsruhe/</guid>
       <description>Ein neues japanisches Restaurant</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0840/shio_ramen_mit_huhn.jpg</url>
+        <title>Min Ramenbar in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/min-ramenbar-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/scharfe-thai-curry-ramen-mit-fisch/</guid>
       <description>Ein japanisch-thailändisches Fusionsgericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0829/thai-curry-ramen.jpg</url>
+        <title>Scharfe Thai-Curry-Ramen mit Fisch</title>
+        <link>https://der.reisko.ch/rezepte/scharfe-thai-curry-ramen-mit-fisch/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/saratanmen-ramen-mit-huhn/</guid>
       <description>Die zweite Runde selbstgemachte Ramen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0588/saratanman-ramen_mit_huhn.jpg</url>
+        <title>Saratanmen-Ramen mit Huhn</title>
+        <link>https://der.reisko.ch/nachgekocht/saratanmen-ramen-mit-huhn/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/scharfe-miso-ramen-mit-chashu/</guid>
       <description>Das erste Mal selbstgemacht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0581/miso-ramen-mit-chashu.jpg</url>
+        <title>Scharfe Miso-Ramen mit Chashu</title>
+        <link>https://der.reisko.ch/nachgekocht/scharfe-miso-ramen-mit-chashu/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/restaurants/takumi-ramenbar-in-dusseldorf/</guid>
       <description>Nochmal Ramen auf der Immermannstaße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0385/teriyaki-miso-ramen.jpg</url>
+        <title>Takumi Ramenbar in Düsseldorf</title>
+        <link>https://der.reisko.ch/restaurants/takumi-ramenbar-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/restaurants/takezo-ramenbar-in-dusseldorf/</guid>
       <description>Am Anfang der Immermannstraße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0397/tantan_chashu_mit_extra_ei.jpg</url>
+        <title>Takezo Ramenbar in Düsseldorf</title>
+        <link>https://der.reisko.ch/restaurants/takezo-ramenbar-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-japonais-hokkaido/</guid>
       <description>Ramen im japanischen Viertel von Paris</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0508/karanegi_miso_ramen.jpg</url>
+        <title>Restaurant Japonais Hokkaido</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-japonais-hokkaido/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/restaurants/japan-imbiss-shogun-ya-in-karlsruhe/</guid>
       <description>Leckere Ramen und Sushi</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0305/ramen.jpg</url>
+        <title>Japan-Imbiss Shogun Ya in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/japan-imbiss-shogun-ya-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/ramen-kochbuch/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/ramen_kochbuch.jpg</url>
+        <title>Ramen Kochbuch: Basics &amp; Rezepte</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/ramen-kochbuch/</link>
+        </image>
     </item>
     
   </channel>

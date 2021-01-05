@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mittagspause 2020 on Der Reiskoch</title>
+    <title>Mittagspause 2020 auf Der Reiskoch</title>
     <link>https://der.reisko.ch/mittagspause/fotos/2020/</link>
-    <description>Recent content in Mittagspause 2020 on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Mittagspause 2020  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 22 Dec 2020 13:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/mittagspause/fotos/2020/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/12/22/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201222_buldak_carbonara_ramen.jpg</url>
+        <title>Buldak Carbonara Ramen</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/12/22/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/12/17/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201217_sichuan_kartoffeltopf.jpg</url>
+        <title>Sichuan Kartoffeltopf</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/12/17/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/12/15/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201215_soba_nudel_suppe.jpg</url>
+        <title>Soba Nudelsuppe</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/12/15/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/12/04/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201204_china_pilze-mit-bambussprossen.jpg</url>
+        <title>Pilze mit Bambussprossen</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/12/04/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/12/03/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201203_undon_nudelsuppe_mt_pilzen.jpg</url>
+        <title>Udon Nudelsuppe mit Pilzen</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/12/03/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/12/02/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201202_pasta_cacio_e_pep.jpg</url>
+        <title>Pasta Cacio e Pepe</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/12/02/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/11/25/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201125_drachennudeln_mit_tofu.jpg</url>
+        <title>Drachennudeln mit Tofu</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/11/25/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/11/20/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201120_gemusesuppe_mit_kuerbis.jpg</url>
+        <title>Gemüsesuppe mit Kürbis</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/11/20/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/11/19/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201119_maewun_gaji_bokkeum_und_mabo_tofu.jpg</url>
+        <title>Maewun Gaji Bokkeum und Mabo Tofu</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/11/19/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/11/18/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201118_koreanisches_mabo_tofu.jpg</url>
+        <title>Koreanisches Mabo Tofu</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/11/18/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/10/30/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201030_udon_suppe_mit_gemuese.jpg</url>
+        <title>Udon Suppe mit Gemüse</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/10/30/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/10/28/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201028_reis_mit_falafel.jpg</url>
+        <title>Reis mit Falafeln</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/10/28/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/10/22/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201022_palabok_mit_gulasch.jpg</url>
+        <title>Palabok mit Gulasch</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/10/22/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/10/15/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201015_udon_nudeln_mit_spiegelei.jpg</url>
+        <title>Udon Nudeln mit Spiegelei</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/10/15/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/10/14/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201014_bunte_curry_nudelsuppe.jpg</url>
+        <title>Bunte Curry Nudelsuppe</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/10/14/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/10/06/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201006_buldak_bokkeum_myeon.jpg</url>
+        <title>Buldak Bokkeum Myeon</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/10/06/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/10/02/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20201002_hackfleisch_curry_mit_ramen.jpg</url>
+        <title>Hackfleisch Curry mit Ramen</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/10/02/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/09/25/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20200925_wasserspinat_mit_udon_nudeln.jpg</url>
+        <title>Wasserspinat mit Udon Nudeln</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/09/25/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/09/24/</guid>
       <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20200924_chili_con_carne.jpg</url>
+        <title>Chili con Carne</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/09/24/</link>
+        </image>
     </item>
     
     <item>
@@ -185,366 +280,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/2020/09/16/</guid>
       <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Nam Ya Reste mit Udon Nudeln</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/09/15/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/09/15/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Karibischer Eintopf mit Kroketten</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/09/09/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/09/09/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Scharfe gebratene Nudeln</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/08/27/</link>
-      <pubDate>Thu, 27 Aug 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/08/27/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Reispfanne Mexikanischer Art</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/08/07/</link>
-      <pubDate>Fri, 07 Aug 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/08/07/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Einfaches Indisches Daal</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/07/23/</link>
-      <pubDate>Thu, 23 Jul 2020 16:18:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/07/23/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Schnelles koreanisches Tteokbokki</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/07/16/</link>
-      <pubDate>Thu, 16 Jul 2020 16:12:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/07/16/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Scharfe Sichuan Nudelsuppe</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/07/15/</link>
-      <pubDate>Wed, 15 Jul 2020 19:12:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/07/15/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Udon-Hackfleisch-Pfanne</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/07/08/</link>
-      <pubDate>Wed, 08 Jul 2020 18:24:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/07/08/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Restesuppe mit Udonnudeln</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/07/07/</link>
-      <pubDate>Tue, 07 Jul 2020 14:12:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/07/07/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Rindersteak mit Joghurtsoße</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/06/25/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/06/25/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Gepimpte TexMex Pizza</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/06/24/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/06/24/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Ghanaisches Erdnusshuhn mit Ei</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/06/08/</link>
-      <pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/06/08/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Toast Hawaii</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/06/06/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/06/06/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Daal mit Brot und Reis</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/05/19/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/05/19/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Gebratener Reis mit Pilzen und Tofu</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/05/18/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/05/18/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Koreanische Nudelsuppe</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/05/12/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/05/12/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Udon Nudeln mit Sichuan Rindfleisch</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/05/06/</link>
-      <pubDate>Wed, 06 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/05/06/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Bulgur-Curry-Gemüse-Pfanne mit Sucuk</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/05/05/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/05/05/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Spaghetti con colatura di alici</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/04/24/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/04/24/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Annes Sucuk Pizza</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/04/23/</link>
-      <pubDate>Thu, 23 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/04/23/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Rote-Linsen-Fusilli Aglio e olio</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/04/14/</link>
-      <pubDate>Tue, 14 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/04/14/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Instant Ramen mit Auberginen</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/04/09/</link>
-      <pubDate>Thu, 09 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/04/09/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Steak mit Mole Poblano</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/04/08/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/04/08/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Schnelle Szechuan Auberginen</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/04/07/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/04/07/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Sobanudeln mit Brühe</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/04/06/</link>
-      <pubDate>Mon, 06 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/04/06/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Schnelle Ingwer-Nudelsuppe</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/04/03/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/04/03/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Spaghetti Bolognese</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/03/31/</link>
-      <pubDate>Tue, 31 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/03/31/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Tomaten-Gurken-Salat</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/03/30/</link>
-      <pubDate>Mon, 30 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/03/30/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Schinkennudeln auf dem Sonnendeck</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/03/19/</link>
-      <pubDate>Thu, 19 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/03/19/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Ragú di cervo</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/03/18/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/03/18/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Hackfleisch-Bulgur-Pfanne mit Erbsen</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/03/11/</link>
-      <pubDate>Wed, 11 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/03/11/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Mama-Nudeln in scharfer Hackfleischsoße</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/03/06/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/03/06/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Gebratene Nudeln mit Surimi und Rind</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/02/21/</link>
-      <pubDate>Fri, 21 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/02/21/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Reisnudeln mit Tofu und Spiegelei</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/02/19/</link>
-      <pubDate>Wed, 19 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/02/19/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Tortellini mit Tomatensauce</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/02/05/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/02/05/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Ravioli mit Paprikastückchen</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/01/16/</link>
-      <pubDate>Thu, 16 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/01/16/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Erbshummus mit Paprika und Naan</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/01/15/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/01/15/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Gebratene Gemüse Nudeln in Mala Sauce</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/01/14/</link>
-      <pubDate>Tue, 14 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/01/14/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Pilz Ravioli Aglio e Olio</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/01/13/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/01/13/</guid>
-      <description>Heute in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Udon Nudeln mit Hack und Gemüse</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/01/07/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/01/07/</guid>
-      <description>Heute in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20200916_scharfe_kokos_restesuppe.jpg</url>
+        <title>Scharfe Kokos Restesuppe</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2020/09/16/</link>
+        </image>
     </item>
     
   </channel>

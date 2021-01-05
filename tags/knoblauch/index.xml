@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>knoblauch on Der Reiskoch</title>
+    <title>knoblauch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/knoblauch/</link>
-    <description>Recent content in knoblauch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in knoblauch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 01 Mar 2020 09:14:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/knoblauch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-moo-pad-gratiam-prik-tha/</guid>
       <description>Gebratene Schweinelende mit Knoblauch und Pfeffer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0862/thai_pad_moo_gratiam_prik_thai.jpg</url>
+        <title>Thailändisches Moo Pad Gratiam Prik Thai</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-moo-pad-gratiam-prik-tha/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rindfleisch-mit-ingwer-und-knoblauch/</guid>
       <description>Thailändisches Pad Nuea Khing Gratiam</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0553/rindfleisch_mit_ingwer_und_knoblauch.jpg</url>
+        <title>Rindfleisch mit Ingwer und Knoblauch</title>
+        <link>https://der.reisko.ch/rezepte/rindfleisch-mit-ingwer-und-knoblauch/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/scharfe-thai-pilzpfanne/</guid>
       <description>Super einfach und super lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0324/pfanne.jpg</url>
+        <title>Scharfe Thai-Pilzpfanne</title>
+        <link>https://der.reisko.ch/rezepte/scharfe-thai-pilzpfanne/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/selbstgemachtes-baba-ghanoush/</guid>
       <description>Orientalische Auberginenpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0105/baba_ghanoush.jpg</url>
+        <title>Selbstgemachtes Baba Ghanoush</title>
+        <link>https://der.reisko.ch/rezepte/selbstgemachtes-baba-ghanoush/</link>
+        </image>
     </item>
     
   </channel>

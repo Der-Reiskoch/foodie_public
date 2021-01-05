@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>essig on Der Reiskoch</title>
+    <title>essig auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/essig/</link>
-    <description>Recent content in essig on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in essig  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 29 Oct 2016 09:53:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/essig/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/pepperworld-jalapenos-eingelegt/</guid>
       <description>Was aus einem Teil der Chilis wurde</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0438/mit_essig.jpg</url>
+        <title>Pepperworld Jalapeños eingelegt</title>
+        <link>https://der.reisko.ch/dies-und-das/pepperworld-jalapenos-eingelegt/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/in-essig-eingelegte-jalapenos/</guid>
       <description>Gurken kann ja jeder</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0194/glas.jpg</url>
+        <title>In Essig eingelegte Jalapeños</title>
+        <link>https://der.reisko.ch/rezepte/in-essig-eingelegte-jalapenos/</link>
+        </image>
     </item>
     
   </channel>

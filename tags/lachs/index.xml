@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lachs on Der Reiskoch</title>
+    <title>lachs auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/lachs/</link>
-    <description>Recent content in lachs on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in lachs  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 04 Jul 2020 09:44:09 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/lachs/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-plaa-salmon-dad-deaw/</guid>
       <description>Auch Lachs lässt sich trocknen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0925/plaa_salmom_dad_daew_mit_nam_jim_seafood.jpg</url>
+        <title>Thailändischer Plaa Salmon Dad Deaw</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-plaa-salmon-dad-deaw/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-phla-plaa-salmon/</guid>
       <description>Salat mit Lachs und Kräutern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0831/teller.jpg</url>
+        <title>Thailändischer Phla Plaa Salmon</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-phla-plaa-salmon/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-goa-lachs-curry/</guid>
       <description>Aromatisch und cremig</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0768/goa_lachs_curry.jpg</url>
+        <title>Indisches Goa Lachs Curry</title>
+        <link>https://der.reisko.ch/rezepte/indisches-goa-lachs-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/einfaches-lachs-bibimbap/</guid>
       <description>Auch mit Fisch sehr lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0631/lachs-bibimbap.jpg</url>
+        <title>Einfaches Lachs Bibimbap</title>
+        <link>https://der.reisko.ch/rezepte/einfaches-lachs-bibimbap/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kokoslachs-mit-sojasprossen-und-pak-choy/</guid>
       <description>Ein schnelles Experiment à la Việt Nam</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0491/kokos_lachs_mit_gemuese.jpg</url>
+        <title>Kokoslachs mit Sojasprossen und Pak Choy</title>
+        <link>https://der.reisko.ch/rezepte/kokoslachs-mit-sojasprossen-und-pak-choy/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/einfaches-aber-scharfes-lachs-vindaloo/</guid>
       <description>Wenn man etwas Zeit hat, aber faul ist</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0435/vindaloo.jpg</url>
+        <title>Einfaches, aber scharfes Lachs Vindaloo</title>
+        <link>https://der.reisko.ch/rezepte/einfaches-aber-scharfes-lachs-vindaloo/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendischer-larb-plaa-salmon/</guid>
       <description>Auch Lachs geht als Salat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0423/teller.jpg</url>
+        <title>Thailändischer Larb Plaa Salmon</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendischer-larb-plaa-salmon/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanischer-lachssalat/</guid>
       <description>Ganz schnell und super lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0377/salat.jpg</url>
+        <title>Japanischer Lachssalat</title>
+        <link>https://der.reisko.ch/rezepte/japanischer-lachssalat/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gebackener-lachs-tandoori-style/</guid>
       <description>Das neue Masala im Einsatz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0253/teller.jpg</url>
+        <title>Gebackener Lachs Tandoori Style</title>
+        <link>https://der.reisko.ch/rezepte/gebackener-lachs-tandoori-style/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/lachs-mit-miso-ingwer-topping/</guid>
       <description>Miso mal nicht als Suppe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0208/lachs.jpg</url>
+        <title>Lachs mit Miso-Ingwer Topping</title>
+        <link>https://der.reisko.ch/rezepte/lachs-mit-miso-ingwer-topping/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/lachs-mit-ofenkartoffeln-und-spinat/</guid>
       <description>Eine tolle Kombination</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0195/teller.jpg</url>
+        <title>Lachs mit Ofenkartoffeln und Spinat</title>
+        <link>https://der.reisko.ch/rezepte/lachs-mit-ofenkartoffeln-und-spinat/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gebackener-lachs-im-gemusebett/</guid>
       <description>Lecker aus dem Backofen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0067/teller.jpg</url>
+        <title>Gebackener Lachs im Gemüsebett</title>
+        <link>https://der.reisko.ch/rezepte/gebackener-lachs-im-gemusebett/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gebackener-lachs-mit-koriander/</guid>
       <description>Sehr simpel, aber lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0141/koriander_lachs.jpg</url>
+        <title>Gebackener Lachs mit Koriander</title>
+        <link>https://der.reisko.ch/rezepte/gebackener-lachs-mit-koriander/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/uberbackener-lachsspiess-im-tomatenbett/</guid>
       <description>Leckerer Fisch am Spieß</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0108/lachspiess1.jpg</url>
+        <title>Überbackener Lachsspieß im Tomatenbett</title>
+        <link>https://der.reisko.ch/rezepte/uberbackener-lachsspiess-im-tomatenbett/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>brokkoli on Der Reiskoch</title>
+    <title>brokkoli auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/brokkoli/</link>
-    <description>Recent content in brokkoli on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in brokkoli  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 14 Apr 2020 06:33:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/brokkoli/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gefaktes-pad-see-ew-nuea/</guid>
       <description>Ein schnelles Wok Gericht mit falschen Zutaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0886/pad_see_ew.jpg</url>
+        <title>Gefaktes Pad See Ew Nuea</title>
+        <link>https://der.reisko.ch/rezepte/gefaktes-pad-see-ew-nuea/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanischer-brokkoli-mit-sesam/</guid>
       <description>Eine schnelle, leckere Beilage</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0599/koreanischer_broccoli_mit_sesam.jpg</url>
+        <title>Koreanischer Brokkoli mit Sesam</title>
+        <link>https://der.reisko.ch/rezepte/koreanischer-brokkoli-mit-sesam/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanische-rindfleisch-brokkoli-pfanne/</guid>
       <description>Schnell &amp;amp; Lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0283/rindfleisch-broccoli-pfanne.jpg</url>
+        <title>Japanische Rindfleisch-Brokkoli-Pfanne</title>
+        <link>https://der.reisko.ch/rezepte/japanische-rindfleisch-brokkoli-pfanne/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-brokkoli-curry/</guid>
       <description>Ein leckeres, vegetarisches Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0338/curry.jpg</url>
+        <title>Indisches Brokkoli Curry</title>
+        <link>https://der.reisko.ch/rezepte/indisches-brokkoli-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/grunes-thai-curry-mit-huhn-und-broccoli/</guid>
       <description>Gaeng Kiaw Wan Gai</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0319/curry.jpg</url>
+        <title>Grünes Thai Curry mit Huhn und Brokkoli</title>
+        <link>https://der.reisko.ch/rezepte/grunes-thai-curry-mit-huhn-und-broccoli/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/grunes-thai-curry-mit-rindfleisch/</guid>
       <description>Gaeng Kiaw Wan Nuea</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0029/curry.jpg</url>
+        <title>Grünes Thai Curry mit Rindfleisch</title>
+        <link>https://der.reisko.ch/rezepte/grunes-thai-curry-mit-rindfleisch/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanisches-rindfleisch-mit-brokkoli/</guid>
       <description>Ein simpler Klassiker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0021/nah.jpg</url>
+        <title>Japanisches Rindfleisch mit Brokkoli</title>
+        <link>https://der.reisko.ch/rezepte/japanisches-rindfleisch-mit-brokkoli/</link>
+        </image>
     </item>
     
   </channel>

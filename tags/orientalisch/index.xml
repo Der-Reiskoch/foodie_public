@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>orientalisch on Der Reiskoch</title>
+    <title>orientalisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/orientalisch/</link>
-    <description>Recent content in orientalisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in orientalisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 02 Feb 2020 09:51:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/orientalisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/leckerer-hummus-mit-erbsen/</guid>
       <description>Eine grüne Variante des beliebten Aufstrichs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0011/hummus_mit_erbsen.jpg</url>
+        <title>Leckerer Hummus mit Erbsen</title>
+        <link>https://der.reisko.ch/rezepte/leckerer-hummus-mit-erbsen/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/orientalische-hackfleischpfanne-mit-bohnen/</guid>
       <description>Ein leicht scharfes Gericht mir vielen Aromen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0402/orientalische_hackfleischpfanne.jpg</url>
+        <title>Orientalische Hackfleischpfanne mit Bohnen</title>
+        <link>https://der.reisko.ch/rezepte/orientalische-hackfleischpfanne-mit-bohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/orientalisches-buffet-zum-geburtstag/</guid>
       <description>Ein bunter, vollgepackter Essenstisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0399/sucuk_und_datteln.jpg</url>
+        <title>Orientalisches Buffet zum Geburtstag</title>
+        <link>https://der.reisko.ch/nachgekocht/orientalisches-buffet-zum-geburtstag/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/eintopf-aus-kichererbsen-und-rind/</guid>
       <description>Gulasch trifft Hummus</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0482/kichererbsen-rind-eintopf.jpg</url>
+        <title>Eintopf aus Kichererbsen und Rind</title>
+        <link>https://der.reisko.ch/rezepte/eintopf-aus-kichererbsen-und-rind/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kichererbsengemuse-als-beilage/</guid>
       <description>Universell einsetzbare Hülsenfrüchte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0448/kichererbsengemuese.jpg</url>
+        <title>Kichererbsengemüse als Beilage</title>
+        <link>https://der.reisko.ch/rezepte/kichererbsengemuse-als-beilage/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/orientalische-kichererbsensuppe/</guid>
       <description>Hummus mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0441/orientalische_kichererbsensuppe.jpg</url>
+        <title>Orientalische Kichererbsensuppe</title>
+        <link>https://der.reisko.ch/rezepte/orientalische-kichererbsensuppe/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hackfleisch-pfanne-mit-hummus/</guid>
       <description>Orientalisch angehaucht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0351/mit_hummus.jpg</url>
+        <title>Hackfleisch-Pfanne mit Hummus</title>
+        <link>https://der.reisko.ch/rezepte/hackfleisch-pfanne-mit-hummus/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/syrischer-fattousch-salat/</guid>
       <description>Aus dem Buch &amp;lsquo;Fadi kocht syrisch&amp;rsquo;</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0310/schuessel.jpg</url>
+        <title>Syrischer Fattousch Salat</title>
+        <link>https://der.reisko.ch/nachgekocht/syrischer-fattousch-salat/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hummus-mit-eingelegten-jalapenos/</guid>
       <description>Chili trifft Kichererbse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0238/hummus.jpg</url>
+        <title>Hummus mit eingelegten Jalapeños</title>
+        <link>https://der.reisko.ch/rezepte/hummus-mit-eingelegten-jalapenos/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/orientalisches-buffet/</guid>
       <description>Frei nach Yotam Ottolenghi</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0207/tisch.jpg</url>
+        <title>Großes orientalisches Buffet</title>
+        <link>https://der.reisko.ch/nachgekocht/orientalisches-buffet/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hummus-mit-bratpaprika/</guid>
       <description>Selbstgemachtes Hummus</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0190/vorher.jpg</url>
+        <title>Hummus mit Bratpaprika</title>
+        <link>https://der.reisko.ch/rezepte/hummus-mit-bratpaprika/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/vegetarisches-shakshuka/</guid>
       <description>Leckeres Pfannengericht mit Ei</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0112/teller.jpg</url>
+        <title>Vegetarisches Shakshuka</title>
+        <link>https://der.reisko.ch/rezepte/vegetarisches-shakshuka/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/selbstgemachtes-baba-ghanoush/</guid>
       <description>Orientalische Auberginenpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0105/baba_ghanoush.jpg</url>
+        <title>Selbstgemachtes Baba Ghanoush</title>
+        <link>https://der.reisko.ch/rezepte/selbstgemachtes-baba-ghanoush/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/shakshuka-mit-parmak-sucuk/</guid>
       <description>Ein Urlaubsmitbringsel aus Israel</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0050/shakshuka.jpg</url>
+        <title>Shakshuka mit Parmak-Sucuk</title>
+        <link>https://der.reisko.ch/rezepte/shakshuka-mit-parmak-sucuk/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/jerusalem/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/jerusalem.jpg</url>
+        <title>Jerusalem: Das Kochbuch</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/jerusalem/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/orient/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/orient.jpg</url>
+        <title>Orient: Das Kochbuch von Tess Mallos</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/orient/</link>
+        </image>
     </item>
     
   </channel>

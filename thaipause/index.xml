@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Schnelle Thai Küche in der Mittagspause on Der Reiskoch</title>
+    <title>Schnelle Thai Küche in der Mittagspause auf Der Reiskoch</title>
     <link>https://der.reisko.ch/thaipause/</link>
-    <description>Recent content in Schnelle Thai Küche in der Mittagspause on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Schnelle Thai Küche in der Mittagspause  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 23 Dec 2020 13:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/thaipause/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20200320_kuai_tiao_sen_mi_hed.jpg</url>
+        <title>Thaipause 2020</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2019/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2019/20190411_schnelles_pad_see_ew.jpg</url>
+        <title>Thaipause 2019</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2019/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180124_khao_pad_kra_pao.jpg</url>
+        <title>Thaipause 2018</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2017/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2017/20170322_moo_daeng_moo_grob.jpg</url>
+        <title>Thaipause 2017</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2017/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/thaipause/ueber-dieses-album/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2019/20190829_18kg_reissack.jpg</url>
+        <title>Thaipause - Über dieses Album</title>
+        <link>https://der.reisko.ch/thaipause/ueber-dieses-album/</link>
+        </image>
     </item>
     
   </channel>

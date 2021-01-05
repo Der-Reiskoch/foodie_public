@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>türkisch on Der Reiskoch</title>
+    <title>türkisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/turkisch/</link>
-    <description>Recent content in türkisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in türkisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 09 Jun 2018 09:42:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/turkisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/ocakbasi-antalya-in-karlsruhe/</guid>
       <description>Einer der schönsten Biergärten in Karlsruhe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0625/grillplatte_fuer_vier_personen.jpg</url>
+        <title>Ocakbaşı Antalya in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/ocakbasi-antalya-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/orientalisches-buffet-zum-geburtstag/</guid>
       <description>Ein bunter, vollgepackter Essenstisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0399/sucuk_und_datteln.jpg</url>
+        <title>Orientalisches Buffet zum Geburtstag</title>
+        <link>https://der.reisko.ch/nachgekocht/orientalisches-buffet-zum-geburtstag/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/turkisches-fruhstuck-in-der-backerei-ege/</guid>
       <description>Satt für den ganzen Tag</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0089/ei_mit_sucuk.jpg</url>
+        <title>Türkisches Frühstück in der Bäckerei Ege</title>
+        <link>https://der.reisko.ch/restaurants/turkisches-fruhstuck-in-der-backerei-ege/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kichererbsensalat-mit-pastirma/</guid>
       <description>Ein türkisches Salat Experiment</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0277/angemacht.jpg</url>
+        <title>Kichererbsensalat mit Pastırma</title>
+        <link>https://der.reisko.ch/rezepte/kichererbsensalat-mit-pastirma/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/turkischer-guvek-mit-sucuk-und-kichererbsen/</guid>
       <description>Deftiger, scharfer Eintopf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0358/pfanne.jpg</url>
+        <title>Türkischer Güvek mit Sucuk und Kichererbsen</title>
+        <link>https://der.reisko.ch/rezepte/turkischer-guvek-mit-sucuk-und-kichererbsen/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/restaurants/mezeler-im-ocakbasi-antalya/</guid>
       <description>Leckere türkische Vorspeisen in der Südstadt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0366/mezeler.jpg</url>
+        <title>Mezeler im Ocakbaşı Antalya</title>
+        <link>https://der.reisko.ch/restaurants/mezeler-im-ocakbasi-antalya/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/salat-aus-wassermelone-und-kase/</guid>
       <description>Ein erfrischender Sommertraum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0129/nah.jpg</url>
+        <title>Salat aus Wassermelone und Käse</title>
+        <link>https://der.reisko.ch/rezepte/salat-aus-wassermelone-und-kase/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/turkischer-salat-mit-granatapfelsosse/</guid>
       <description>Was Frisches für den Sommer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0104/salat.jpg</url>
+        <title>Türkischer Salat mit Granatapfelsoße</title>
+        <link>https://der.reisko.ch/rezepte/turkischer-salat-mit-granatapfelsosse/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mit-reis-gefullte-spitzpaprika/</guid>
       <description>Türkische Leckerei</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0241/teller.jpg</url>
+        <title>Mit Reis gefüllte Spitzpaprika</title>
+        <link>https://der.reisko.ch/rezepte/mit-reis-gefullte-spitzpaprika/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gefullte-aubergine-turkischer-art/</guid>
       <description>Deftig mit Hackfleisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0117/aubergine1.jpg</url>
+        <title>Gefüllte Aubergine türkischer Art</title>
+        <link>https://der.reisko.ch/rezepte/gefullte-aubergine-turkischer-art/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/orient/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/orient.jpg</url>
+        <title>Orient: Das Kochbuch von Tess Mallos</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/orient/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/yemek/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/yemek.jpg</url>
+        <title>Yemek - Rezepte aus Istanbul</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/yemek/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>apfel on Der Reiskoch</title>
+    <title>apfel auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/apfel/</link>
-    <description>Recent content in apfel on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in apfel  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 29 Oct 2019 06:22:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/apfel/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/matjes-salat-mit-roter-beete/</guid>
       <description>Eine Variation in Rosa</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0820/matjes-salat_mit_kartoffeln.jpg</url>
+        <title>Matjes Salat mit roter Beete</title>
+        <link>https://der.reisko.ch/rezepte/matjes-salat-mit-roter-beete/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/matjes-salat-norddeutsche-art/</guid>
       <description>Mal ganz was anderes</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0388/matjes_salat.jpg</url>
+        <title>Matjes Salat Norddeutsche Art</title>
+        <link>https://der.reisko.ch/rezepte/matjes-salat-norddeutsche-art/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/apfelkuchen-mit-erdnussen/</guid>
       <description>Nach dem Rezept von Frau Rettich</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0082/apfelkuchen.jpg</url>
+        <title>Apfelkuchen mit Erdnüssen</title>
+        <link>https://der.reisko.ch/rezepte/apfelkuchen-mit-erdnussen/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/getranke/cidre-pommeau-und-calvados/</guid>
       <description>Zu Besuch bei der Kellerei Pierre Huet</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0422/flaschen.jpg</url>
+        <title>Cidre, Pommeau und Calvados</title>
+        <link>https://der.reisko.ch/getranke/cidre-pommeau-und-calvados/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/selbstgemachtes-apfel-chutney/</guid>
       <description>Öfter mal was neues</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0145/glaeser.jpg</url>
+        <title>Selbstgemachtes Apfel Chutney</title>
+        <link>https://der.reisko.ch/rezepte/selbstgemachtes-apfel-chutney/</link>
+        </image>
     </item>
     
   </channel>

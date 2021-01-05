@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pilze on Der Reiskoch</title>
+    <title>pilze auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/pilze/</link>
-    <description>Recent content in pilze on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in pilze  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 05 Jan 2021 06:41:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/pilze/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/dwaejigogi-bulgogi-im-dolsot/</guid>
       <description>Schweinebauch im Steintopf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0962/dwaejigogi_bulgogi.jpg</url>
+        <title>Dwaejigogi Bulgogi im Dolsot</title>
+        <link>https://der.reisko.ch/rezepte/dwaejigogi-bulgogi-im-dolsot/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/het-khem-thong-phan-bacon-yang/</guid>
       <description>Leckere Hotpot Resteverwertung</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0973/teller.jpg</url>
+        <title>Het Khem Thong Phan Bacon Yang</title>
+        <link>https://der.reisko.ch/nachgekocht/het-khem-thong-phan-bacon-yang/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-hed-phad-met-ma-muang/</guid>
       <description>Eine schnelles vegetarisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0249/hed_phad_met_mamuang.jpg</url>
+        <title>Thailändisches Hed Phad Met Mamuang</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-hed-phad-met-ma-muang/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-hed/</guid>
       <description>Schneller Salat mit Pilzen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0784/yam_hed.jpg</url>
+        <title>Thailändischer Yam Hed</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-hed/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendisches-gai-pad-khing/</guid>
       <description>Schnelles Pfannengericht mit viel Ingwer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0395/gai_pad_khing.jpg</url>
+        <title>Thailändisches Gai Pad Khing</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendisches-gai-pad-khing/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pad-kra-pao-moo-thua-hed/</guid>
       <description>Eine Variante mit Bohnen und Pilzen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0919/pad_kra_pao_moo.jpg</url>
+        <title>Pad Kra Pao Moo Thua Hed</title>
+        <link>https://der.reisko.ch/rezepte/pad-kra-pao-moo-thua-hed/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/herzhafte-hackfleisch-barlauch-pastete/</guid>
       <description>Nach Art eines englischen Pies</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0885/gefuellt.jpg</url>
+        <title>Herzhafte Hackfleisch-Bärlauch-Pastete</title>
+        <link>https://der.reisko.ch/rezepte/herzhafte-hackfleisch-barlauch-pastete/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/herbstliches-pad-pak-ruam/</guid>
       <description>Schnelles Wok Gericht mit Gemüse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0880/pad_pak_ruam.jpg</url>
+        <title>Herbstliches Pad Pak Ruam</title>
+        <link>https://der.reisko.ch/rezepte/herbstliches-pad-pak-ruam/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/vegetarische-ramen-mit-tofu-und-pilzen/</guid>
       <description>Ein schnelle Suppe auf Miso Basis</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0835/vegetarische_ramen.jpg</url>
+        <title>Vegetarische Ramen mit Tofu und Pilzen</title>
+        <link>https://der.reisko.ch/rezepte/vegetarische-ramen-mit-tofu-und-pilzen/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kraeuterseitlinge-mit-shirataki-nudeln/</guid>
       <description>Ein schnelles japanisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0816/krauterseitlinge_mit_shirataki_nudeln.jpg</url>
+        <title>Kräuterseitlinge mit Shirataki-Nudeln</title>
+        <link>https://der.reisko.ch/rezepte/kraeuterseitlinge-mit-shirataki-nudeln/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/suppe-mit-chinesischen-kraeutern/</guid>
       <description>Thailändische Moo Toon Ya Jeen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0798/moo_toon_krueng_ya_jeen_aob_mor_din.jpg</url>
+        <title>Suppe mit chinesischen Kräutern</title>
+        <link>https://der.reisko.ch/rezepte/suppe-mit-chinesischen-kraeutern/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hackfleisch-und-pilze-in-mala-sauce/</guid>
       <description>Meine neue Pfanne eingeweiht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0790/hackfleisch_und_pilze_in_mala_sauce.jpg</url>
+        <title>Hackfleisch und Pilze in Mala Sauce</title>
+        <link>https://der.reisko.ch/rezepte/hackfleisch-und-pilze-in-mala-sauce/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanischer-budae-jjigae/</guid>
       <description>Amerikanisch-koreanische Fusion Küche</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0789/budae_jjigae.jpg</url>
+        <title>Koreanischer Budae Jjigae</title>
+        <link>https://der.reisko.ch/rezepte/koreanischer-budae-jjigae/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kare-raisu-mit-huhn-und-pilzen/</guid>
       <description>Japanisches Curry mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0756/kare_raisu_mit_pilzen.jpg</url>
+        <title>Karē Raisu mit Huhn und Pilzen</title>
+        <link>https://der.reisko.ch/rezepte/kare-raisu-mit-huhn-und-pilzen/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gaeng-jued-gai-pak-wan/</guid>
       <description>Thai Suppe mit unbekanntem Kraut</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0752/gaeng_jued_pak_wan.jpg</url>
+        <title>Gaeng Jued Gai Pak Wan</title>
+        <link>https://der.reisko.ch/rezepte/gaeng-jued-gai-pak-wan/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/austernpilze-und-pak-choy-in-pfeffersosse/</guid>
       <description>Ein schnelles chinesisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0732/austernpilze_und_pak_choy.jpg</url>
+        <title>Austernpilze und Pak Choy in Pfeffersoße</title>
+        <link>https://der.reisko.ch/rezepte/austernpilze-und-pak-choy-in-pfeffersosse/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schnelle-ramen-aus-instant-nudeln/</guid>
       <description>Eine Variation mit Hackfleisch und Enoki Pilzen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0593/schnelle_ramen_mit_hack_und_enoki.jpg</url>
+        <title>Schnelle Ramen aus Instant Nudeln</title>
+        <link>https://der.reisko.ch/rezepte/schnelle-ramen-aus-instant-nudeln/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/saratanmen-ramen-mit-huhn/</guid>
       <description>Die zweite Runde selbstgemachte Ramen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0588/saratanman-ramen_mit_huhn.jpg</url>
+        <title>Saratanmen-Ramen mit Huhn</title>
+        <link>https://der.reisko.ch/nachgekocht/saratanmen-ramen-mit-huhn/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendische-tom-kha-gai/</guid>
       <description>Einfache und leckere Suppe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0566/tom_kha_ghai.jpg</url>
+        <title>Thailändische Tom Kha Gai</title>
+        <link>https://der.reisko.ch/rezepte/thailaendische-tom-kha-gai/</link>
+        </image>
     </item>
     
     <item>
@@ -185,231 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/nudelsuppe-mit-moo-sam-chan-palo/</guid>
       <description>Äu­ßerst kräftige Resteverwertung</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Moo Sam Chan Palo</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-moo-sam-chan-palo/</link>
-      <pubDate>Sat, 11 Nov 2017 09:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-moo-sam-chan-palo/</guid>
-      <description>Schweinebauch in dunkler Fünf-Gewürz-Soße</description>
-    </item>
-    
-    <item>
-      <title>Thai Huhn mit Pilzen und Cashews</title>
-      <link>https://der.reisko.ch/rezepte/thai-huhn-mit-pilzen-und-cashews/</link>
-      <pubDate>Sun, 08 Oct 2017 09:01:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-huhn-mit-pilzen-und-cashews/</guid>
-      <description>Ein herbstlich schnelles Pfannengericht</description>
-    </item>
-    
-    <item>
-      <title>Knusprige Ente mit Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/knusprige-ente-mit-pilzen/</link>
-      <pubDate>Sat, 27 May 2017 08:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/knusprige-ente-mit-pilzen/</guid>
-      <description>Ein simples chinesisches Gericht</description>
-    </item>
-    
-    <item>
-      <title>Simple japanische Pilzpfanne</title>
-      <link>https://der.reisko.ch/rezepte/simple-japanische-pilzpfanne/</link>
-      <pubDate>Mon, 17 Apr 2017 07:46:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/simple-japanische-pilzpfanne/</guid>
-      <description>Austernpilze und Kräuterseitlinge</description>
-    </item>
-    
-    <item>
-      <title>Japanische Pilz-Auberginen-Pfanne</title>
-      <link>https://der.reisko.ch/rezepte/japanische-pilz-auberginen-pfanne/</link>
-      <pubDate>Fri, 24 Feb 2017 06:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanische-pilz-auberginen-pfanne/</guid>
-      <description>Eine leckere vegetarische Komposition</description>
-    </item>
-    
-    <item>
-      <title>Thai Pilzpfanne mit Sojasprossen</title>
-      <link>https://der.reisko.ch/rezepte/thai-pilzpfanne-mit-sojasprossen/</link>
-      <pubDate>Wed, 25 Jan 2017 06:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-pilzpfanne-mit-sojasprossen/</guid>
-      <description>Pad Hed Thua Ngok</description>
-    </item>
-    
-    <item>
-      <title>Vietnamesischer Hotpot</title>
-      <link>https://der.reisko.ch/rezepte/vietnamesischer-hotpot/</link>
-      <pubDate>Thu, 22 Dec 2016 06:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/vietnamesischer-hotpot/</guid>
-      <description>Lẩu thập cẩm</description>
-    </item>
-    
-    <item>
-      <title>Risotto mit getrockneten Austernpilzen</title>
-      <link>https://der.reisko.ch/rezepte/risotto-mit-getrockneten-austernpilzen/</link>
-      <pubDate>Fri, 16 Dec 2016 07:19:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/risotto-mit-getrockneten-austernpilzen/</guid>
-      <description>Deftiger Reis als Beilage oder Hauptgericht</description>
-    </item>
-    
-    <item>
-      <title>Rühreier mit Burgundertrüffel</title>
-      <link>https://der.reisko.ch/rezepte/ruhreier-mit-burgundertruffel/</link>
-      <pubDate>Tue, 25 Oct 2016 10:31:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/ruhreier-mit-burgundertruffel/</guid>
-      <description>Edler Pilz auf Bio Eiern</description>
-    </item>
-    
-    <item>
-      <title>Schnelle Kimchi Nudelpfanne mit Huhn</title>
-      <link>https://der.reisko.ch/rezepte/schnelle-kimchi-nudelpfanne-mit-huhn/</link>
-      <pubDate>Wed, 13 Jul 2016 06:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/schnelle-kimchi-nudelpfanne-mit-huhn/</guid>
-      <description>Das Thai Soi Kimchi im Kocheinsatz</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Salat aus Champignons</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-salat-aus-champignons/</link>
-      <pubDate>Fri, 17 Jun 2016 07:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-salat-aus-champignons/</guid>
-      <description>Einfach und superschnell zubereitet</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Schnitzel mit Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/japanisches-schnitzel-mit-pilzen/</link>
-      <pubDate>Mon, 04 Apr 2016 09:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanisches-schnitzel-mit-pilzen/</guid>
-      <description>Inspiriert durch ein Foto</description>
-    </item>
-    
-    <item>
-      <title>Soba Nudeln mit Champignons</title>
-      <link>https://der.reisko.ch/mittagspause/soba-nudeln-mit-champignons/</link>
-      <pubDate>Thu, 25 Feb 2016 08:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/soba-nudeln-mit-champignons/</guid>
-      <description>Was schnelles für die Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Scharfe Thai-Pilzpfanne</title>
-      <link>https://der.reisko.ch/rezepte/scharfe-thai-pilzpfanne/</link>
-      <pubDate>Thu, 28 Jan 2016 07:06:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/scharfe-thai-pilzpfanne/</guid>
-      <description>Super einfach und super lecker</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Hed Nam Tok</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-hed-nam-tok/</link>
-      <pubDate>Sat, 10 Oct 2015 11:22:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-hed-nam-tok/</guid>
-      <description>Salat aus gebratenen Pilzen</description>
-    </item>
-    
-    <item>
-      <title>Chinesische Pilzpfanne mit Pak Choy</title>
-      <link>https://der.reisko.ch/rezepte/chinesische-pilzpfanne-mit-pak-choy/</link>
-      <pubDate>Sat, 13 Jun 2015 10:07:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/chinesische-pilzpfanne-mit-pak-choy/</guid>
-      <description>Buntes aus dem Wok</description>
-    </item>
-    
-    <item>
-      <title>Mediterrane Pfanne mit Zucchini und Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/mediterrane-pfanne-mit-zucchini-und-pilzen/</link>
-      <pubDate>Tue, 12 May 2015 07:05:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/mediterrane-pfanne-mit-zucchini-und-pilzen/</guid>
-      <description>Das macht Lust auf Urlaub</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Gaeng Taepo</title>
-      <link>https://der.reisko.ch/nachgekocht/thailaendisches-gaeng-taepo/</link>
-      <pubDate>Thu, 20 Nov 2014 08:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/thailaendisches-gaeng-taepo/</guid>
-      <description>Rotes Curry mit Austernpilzen und Steinbeißer</description>
-    </item>
-    
-    <item>
-      <title>Schmortopfgulasch mit Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/schmortopfgulasch-mit-pilzen/</link>
-      <pubDate>Sun, 23 Feb 2014 03:03:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/schmortopfgulasch-mit-pilzen/</guid>
-      <description>Was lange währt wird auch richtig gut</description>
-    </item>
-    
-    <item>
-      <title>Schweinelende in Waldpilz-Sahne-Soße</title>
-      <link>https://der.reisko.ch/rezepte/schweinelende-in-waldpilz-sahne-sosse/</link>
-      <pubDate>Wed, 18 Dec 2013 10:02:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/schweinelende-in-waldpilz-sahne-sosse/</guid>
-      <description>Gutbürgerlich vom Schwein</description>
-    </item>
-    
-    <item>
-      <title>Pak Choy Pfanne mit Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/pak-choy-pfanne-mit-pilzen/</link>
-      <pubDate>Wed, 06 Nov 2013 08:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/pak-choy-pfanne-mit-pilzen/</guid>
-      <description>Leckeres asiatisches Pfannengericht</description>
-    </item>
-    
-    <item>
-      <title>Frische Pfifferlinge mit Kräutern und Ei</title>
-      <link>https://der.reisko.ch/rezepte/frische-pfifferlinge-mit-krautern-und-ei/</link>
-      <pubDate>Tue, 06 Aug 2013 09:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/frische-pfifferlinge-mit-krautern-und-ei/</guid>
-      <description>Ein schnelles Pfannengericht</description>
-    </item>
-    
-    <item>
-      <title>Pilze in Whiskey-Sahne-Soße</title>
-      <link>https://der.reisko.ch/rezepte/pilze-in-whiskey-sahne-sosse/</link>
-      <pubDate>Sat, 09 Feb 2013 06:42:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/pilze-in-whiskey-sahne-sosse/</guid>
-      <description>Deftiges aus dem Wald</description>
-    </item>
-    
-    <item>
-      <title>Frische Vietnamesische Sommerrollen</title>
-      <link>https://der.reisko.ch/rezepte/frische-vietnamesische-sommerrollen/</link>
-      <pubDate>Wed, 01 Feb 2012 09:59:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/frische-vietnamesische-sommerrollen/</guid>
-      <description>Chả giò việt nam</description>
-    </item>
-    
-    <item>
-      <title>Minutensteaks mit Feldsalat und Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/minutensteaks-mit-feldsalat-und-pilzen/</link>
-      <pubDate>Mon, 19 Dec 2011 08:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/minutensteaks-mit-feldsalat-und-pilzen/</guid>
-      <description>Schnell und lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0558/mit_viel_schweinebauch.jpg</url>
+        <title>Nudelsuppe mit Moo Sam Chan Palo</title>
+        <link>https://der.reisko.ch/rezepte/nudelsuppe-mit-moo-sam-chan-palo/</link>
+        </image>
     </item>
     
   </channel>

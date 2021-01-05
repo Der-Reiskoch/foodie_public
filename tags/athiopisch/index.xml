@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>äthiopisch on Der Reiskoch</title>
+    <title>äthiopisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/athiopisch/</link>
-    <description>Recent content in äthiopisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in äthiopisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 17 Mar 2020 06:36:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/athiopisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/athiopisches-zigni-mit-rindfleisch/</guid>
       <description>Ein deftiger Eintopf aus Ostafrika</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0872/zigni_mit_rindfleisch.jpg</url>
+        <title>Äthiopisches Zigni mit Rindfleisch</title>
+        <link>https://der.reisko.ch/rezepte/athiopisches-zigni-mit-rindfleisch/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/athiopischer-spinat-mit-ei/</guid>
       <description>Kosta Benqulal</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0813/spinat_mit_ei.jpg</url>
+        <title>Äthiopischer Spinat mit Ei</title>
+        <link>https://der.reisko.ch/rezepte/athiopischer-spinat-mit-ei/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-kilimanjaro-in-karlsruhe/</guid>
       <description>Leckere eritreische Küche</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0779/gemischte_platte_fuer_zwei.jpg</url>
+        <title>Restaurant Kilimanjaro in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-kilimanjaro-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/lamm-zigni-und-yehabesha-gomen-tips/</guid>
       <description>Äthiopischer Lammeintopf mit Grünkohl</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0484/lamm_zigni_mit_gruenkohl.jpg</url>
+        <title>Lamm Zigni und Yehabesha Gomen Tips</title>
+        <link>https://der.reisko.ch/nachgekocht/lamm-zigni-und-yehabesha-gomen-tips/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/restaurants/abrahams-cocktail-geschlossen/</guid>
       <description>Äthiopisches Restaurant</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0084/abraham_probierplatte.jpg</url>
+        <title>Abraham&#39;s Cocktail (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/abrahams-cocktail-geschlossen/</link>
+        </image>
     </item>
     
   </channel>

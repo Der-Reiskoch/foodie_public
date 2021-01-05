@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>niembaum on Der Reiskoch</title>
+    <title>niembaum auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/niembaum/</link>
-    <description>Recent content in niembaum on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in niembaum  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 28 Jan 2020 10:24:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/niembaum/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-sadau-goong-sod/</guid>
       <description>Eine ungewohnte Geschmacksexplosion</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0857/yam_sadau_goong_sod.jpg</url>
+        <title>Thailändischer Yam Sadau Goong Sod</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-sadau-goong-sod/</link>
+        </image>
     </item>
     
   </channel>

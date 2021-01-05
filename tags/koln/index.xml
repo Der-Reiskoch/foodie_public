@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>köln on Der Reiskoch</title>
+    <title>köln auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/koln/</link>
-    <description>Recent content in köln on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in köln  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 05 Dec 2018 06:02:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/koln/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-great-wall-in-koln/</guid>
       <description>Außergewöhnliche chinesische Gerichte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0688/sichuan_rindfleisch_mit_pak_choy.jpg</url>
+        <title>Restaurant Great Wall in Köln</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-great-wall-in-koln/</link>
+        </image>
     </item>
     
   </channel>

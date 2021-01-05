@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>eritreisch on Der Reiskoch</title>
+    <title>eritreisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/eritreisch/</link>
-    <description>Recent content in eritreisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in eritreisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 13 Jul 2019 09:54:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/eritreisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-kilimanjaro-in-karlsruhe/</guid>
       <description>Leckere eritreische Küche</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0779/gemischte_platte_fuer_zwei.jpg</url>
+        <title>Restaurant Kilimanjaro in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-kilimanjaro-in-karlsruhe/</link>
+        </image>
     </item>
     
   </channel>

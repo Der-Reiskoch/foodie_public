@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>düsseldorf on Der Reiskoch</title>
+    <title>düsseldorf auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/dusseldorf/</link>
-    <description>Recent content in düsseldorf on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in düsseldorf  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 07 Dec 2018 06:20:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/dusseldorf/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-maruyasu-sushi-in-dusseldorf/</guid>
       <description>Filiale der kleinen Kette auf der Immermannstraße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0689/tori_ten_don.jpg</url>
+        <title>Restaurant Maruyasu Sushi in Düsseldorf</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-maruyasu-sushi-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/teppan-und-sakebar-yaki-the-emon/</guid>
       <description>Noch ein spannendes Restaurant in Düsseldorf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0410/yakisoba_mit_tonkatsu.jpg</url>
+        <title>Teppan- und Sakebar Yaki-the-Emon</title>
+        <link>https://der.reisko.ch/restaurants/teppan-und-sakebar-yaki-the-emon/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-seoul-in-dusseldorf/</guid>
       <description>Leckeres Barbecue auf der Klosterstraße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0542/tisch_von_oben.jpg</url>
+        <title>Restaurant Seoul in Düsseldorf</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-seoul-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-leger-in-dusseldorf/</guid>
       <description>Leckeres vietnamesisches Essen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0393/goi_du_du.jpg</url>
+        <title>Restaurant Lé&#39;ger in Düsseldorf</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-leger-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/mehr-aus-japan-und-korea-in-dusseldorf/</guid>
       <description>Noch eine Foodie- und Einkaufstour</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0575/einkaeufe.jpg</url>
+        <title>Mehr aus Japan und Korea in Düsseldorf</title>
+        <link>https://der.reisko.ch/dies-und-das/mehr-aus-japan-und-korea-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/leckeres-essen-im-japanischen-viertel/</guid>
       <description>Ramen und mehr in Düsseldorf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0570/snacks.jpg</url>
+        <title>Leckeres Essen im japanischen Viertel</title>
+        <link>https://der.reisko.ch/dies-und-das/leckeres-essen-im-japanischen-viertel/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/restaurants/takumi-ramenbar-in-dusseldorf/</guid>
       <description>Nochmal Ramen auf der Immermannstaße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0385/teriyaki-miso-ramen.jpg</url>
+        <title>Takumi Ramenbar in Düsseldorf</title>
+        <link>https://der.reisko.ch/restaurants/takumi-ramenbar-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/restaurants/takezo-ramenbar-in-dusseldorf/</guid>
       <description>Am Anfang der Immermannstraße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0397/tantan_chashu_mit_extra_ei.jpg</url>
+        <title>Takezo Ramenbar in Düsseldorf</title>
+        <link>https://der.reisko.ch/restaurants/takezo-ramenbar-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf/</guid>
       <description>Eine ausgedehnte Einkaufstour</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0569/beute.jpg</url>
+        <title>Shoppen im japanischen Viertel in Düsseldorf</title>
+        <link>https://der.reisko.ch/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/einkaufen-im-japanischen-viertel-in-dusseldorf/</guid>
       <description>Lustige Verpackungen und Katzenschüsseln</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0203/sachen.jpg</url>
+        <title>Einkaufen im japanischen Viertel</title>
+        <link>https://der.reisko.ch/dies-und-das/einkaufen-im-japanischen-viertel-in-dusseldorf/</link>
+        </image>
     </item>
     
   </channel>

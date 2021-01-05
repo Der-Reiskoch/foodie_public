@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>berlin on Der Reiskoch</title>
+    <title>berlin auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/berlin/</link>
-    <description>Recent content in berlin on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in berlin  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 04 Mar 2020 06:38:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/sichuan-restaurant-tianfu-in-berlin/</guid>
       <description>Hervorragende Szechuan Küche in der Hauptstadt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0871/sanxianjiao_und_schweinebauch.jpg</url>
+        <title>Sichuan Restaurant Tianfu in Berlin</title>
+        <link>https://der.reisko.ch/restaurants/sichuan-restaurant-tianfu-in-berlin/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/leckeres-essen-auf-der-thaiwiese/</guid>
       <description>Streetfood wie in Bangkok</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0500/11_suppe_mit_moo_daeng.jpg</url>
+        <title>Leckeres Essen auf der Thaiwiese</title>
+        <link>https://der.reisko.ch/dies-und-das/leckeres-essen-auf-der-thaiwiese/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/besuch-auf-der-thaiwiese-in-berlin/</guid>
       <description>Wie ein Kurzurlaub in Thailand</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0499/13_salatstand.jpg</url>
+        <title>Besuch auf der Thaiwiese in Berlin</title>
+        <link>https://der.reisko.ch/dies-und-das/besuch-auf-der-thaiwiese-in-berlin/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Koreanisch on Der Reiskoch</title>
+    <title>Koreanisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/koreanisch/</link>
-    <description>Recent content in Koreanisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Koreanisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 05 Jan 2021 06:41:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/koreanisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/dwaejigogi-bulgogi-im-dolsot/</guid>
       <description>Schweinebauch im Steintopf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0962/dwaejigogi_bulgogi.jpg</url>
+        <title>Dwaejigogi Bulgogi im Dolsot</title>
+        <link>https://der.reisko.ch/rezepte/dwaejigogi-bulgogi-im-dolsot/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/doenjang_jjigae-im-dolsot/</guid>
       <description>Eintopf mit Bohnenpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0957/doenjang-jjigae-dolsot.jpg</url>
+        <title>Doenjang JJigae im Dolsot</title>
+        <link>https://der.reisko.ch/rezepte/doenjang_jjigae-im-dolsot/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/utensilien/meine-koreanischen-dolsot/</guid>
       <description>Steintöpfe zum Kochen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0965/dolsot.jpg</url>
+        <title>Meine koreanischen Dolsot</title>
+        <link>https://der.reisko.ch/utensilien/meine-koreanischen-dolsot/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanisches-bulgogi-im-dolsot/</guid>
       <description>Im Steintopf zubereitetes Rindfleisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0956/bulgogi_im_dolsot.jpg</url>
+        <title>Koreanisches Bulgogi im Dolsot</title>
+        <link>https://der.reisko.ch/rezepte/koreanisches-bulgogi-im-dolsot/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/restaurants/lieferservice-des-fashion-asia-grills/</guid>
       <description>Sushi beim Foodietreffen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0960/lachs_und_nigiri_platte.jpg</url>
+        <title>Lieferservice des Fashion Asia Grills</title>
+        <link>https://der.reisko.ch/restaurants/lieferservice-des-fashion-asia-grills/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/buldak-haehnchenkeulen/</guid>
       <description>Koreanisches Feuerhuhn aus dem Backofen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0944/buldak-haehnchenschenkel.jpg</url>
+        <title>Buldak Hähnchenkeulen</title>
+        <link>https://der.reisko.ch/rezepte/buldak-haehnchenkeulen/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-kkaennip-bokkeum/</guid>
       <description>Gebratene Perillablätter als Beilage</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0943/kkaennip_bokkeum.jpg</url>
+        <title>Koreanische Kkaennip Bokkeum</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-kkaennip-bokkeum/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanisches-spamkatsu/</guid>
       <description>Eine verrückte Idee aus Korea</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0923/spamkatsu.jpg</url>
+        <title>Spamkatsu aus Frühstücksfleisch</title>
+        <link>https://der.reisko.ch/rezepte/koreanisches-spamkatsu/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/leckere-koreanische-gaji-namul/</guid>
       <description>Gedämpfte Auberginen mit Dressing</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0908/gaji_namul.jpg</url>
+        <title>Leckere koreanische Gaji Namul</title>
+        <link>https://der.reisko.ch/rezepte/leckere-koreanische-gaji-namul/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-myeolchi-bokkeum/</guid>
       <description>Gebratene getrocknete Sardellen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0901/myeolchi_bokkeum.jpg</url>
+        <title>Koreanische Myeolchi Bokkeum</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-myeolchi-bokkeum/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-cheonggukjang-pfanne/</guid>
       <description>Ein schnelles koreanisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0890/cheonggukjang_pfanne.jpg</url>
+        <title>Koreanische Cheonggukjang Pfanne</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-cheonggukjang-pfanne/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/restaurants/koreanisches-restaurant-soban/</guid>
       <description>Bibimbap, Bulgogi und mehr in Karlsruhe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0855/bulgogi_topf_mit_glasnudeln.jpg</url>
+        <title>Koreanisches Restaurant Soban</title>
+        <link>https://der.reisko.ch/restaurants/koreanisches-restaurant-soban/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/restaurants/sukiyaki-im-fashion-asia-grill/</guid>
       <description>Japanischer Eintopf am Tisch zubereitet</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0852/eine_schussel_sukiyaki.jpg</url>
+        <title>Sukiyaki im Fashion Asia Grill</title>
+        <link>https://der.reisko.ch/restaurants/sukiyaki-im-fashion-asia-grill/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/scharfer-koreanischer-kimchi-jjigae/</guid>
       <description>Ein schneller Eintopf mit Kimchi und Huhn</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0847/kimchi_jjigae_mit_huhn.jpg</url>
+        <title>Scharfer koreanischer Kimchi Jjigae</title>
+        <link>https://der.reisko.ch/rezepte/scharfer-koreanischer-kimchi-jjigae/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/jjajang-mit-schweinegulasch/</guid>
       <description>Eine geschmorte Variante mit Aubergine und Tofu</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0838/jjajangmyeon_mit_beilagen.jpg</url>
+        <title>Jjajang mit Schweinegulasch</title>
+        <link>https://der.reisko.ch/rezepte/jjajang-mit-schweinegulasch/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-kimchi-pfanne-mit-ei/</guid>
       <description>Nach Art eines Shakshukas</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0791/kimchipfanne_mit_ei.jpg</url>
+        <title>Koreanische Kimchi Pfanne mit Ei</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-kimchi-pfanne-mit-ei/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/restaurants/neue-karte-im-fashion-asia-grill/</guid>
       <description>Jetzt mehr japanische Gerichte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0793/fashion_sushi_menue.jpg</url>
+        <title>Neue Karte im Fashion Asia Grill</title>
+        <link>https://der.reisko.ch/restaurants/neue-karte-im-fashion-asia-grill/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanischer-budae-jjigae/</guid>
       <description>Amerikanisch-koreanische Fusion Küche</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0789/budae_jjigae.jpg</url>
+        <title>Koreanischer Budae Jjigae</title>
+        <link>https://der.reisko.ch/rezepte/koreanischer-budae-jjigae/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/dak-dori-tang-mit-vielen-beilagen/</guid>
       <description>Großes koreanisches Menü</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0787/grosses_koreanisches_menue.jpg</url>
+        <title>Dak Dori Tang mit vielen Beilagen</title>
+        <link>https://der.reisko.ch/nachgekocht/dak-dori-tang-mit-vielen-beilagen/</link>
+        </image>
     </item>
     
     <item>
@@ -185,312 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gruener-spargel-auf-koreanische-art/</guid>
       <description>Spargelzeit mal anders</description>
-    </item>
-    
-    <item>
-      <title>Koreanischer Dubu Jorim</title>
-      <link>https://der.reisko.ch/rezepte/koreanischer-dubu-jorim/</link>
-      <pubDate>Tue, 30 Apr 2019 05:54:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/koreanischer-dubu-jorim/</guid>
-      <description>Frittierter Tofu in scharfer Soße</description>
-    </item>
-    
-    <item>
-      <title>Scharfes koreanisches Tteokbokki</title>
-      <link>https://der.reisko.ch/rezepte/scharfes-koreanisches-tteokbokki/</link>
-      <pubDate>Sat, 23 Mar 2019 09:38:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/scharfes-koreanisches-tteokbokki/</guid>
-      <description>Reiskuchen in scharfer Soße</description>
-    </item>
-    
-    <item>
-      <title>Ottogi Szechuan Style Jjajang</title>
-      <link>https://der.reisko.ch/rezepte/ottogi-szechuan-style-jjajang/</link>
-      <pubDate>Sun, 09 Dec 2018 02:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/ottogi-szechuan-style-jjajang/</guid>
-      <description>Koreanisches Bohnenpastengericht aus der Tüte</description>
-    </item>
-    
-    <item>
-      <title>Mittagstisch im Fashion Asia Grill</title>
-      <link>https://der.reisko.ch/restaurants/mittagstisch-im-fashion-asia-grill/</link>
-      <pubDate>Wed, 28 Nov 2018 09:41:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/mittagstisch-im-fashion-asia-grill/</guid>
-      <description>Reichhaltige Menüs zur Mittagszeit</description>
-    </item>
-    
-    <item>
-      <title>Koreanische grüne Bohnen</title>
-      <link>https://der.reisko.ch/rezepte/koreanische-grune-bohnen/</link>
-      <pubDate>Thu, 08 Nov 2018 06:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/koreanische-grune-bohnen/</guid>
-      <description>Eine leckere Beilage</description>
-    </item>
-    
-    <item>
-      <title>Korean BBQ im Fashion Asia Grill</title>
-      <link>https://der.reisko.ch/restaurants/korean-bbq-im-fashion-asia-grill/</link>
-      <pubDate>Sat, 15 Sep 2018 10:40:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/korean-bbq-im-fashion-asia-grill/</guid>
-      <description>Das Partnerrestaurant des Kaisekis</description>
-    </item>
-    
-    <item>
-      <title>Schwarzes Hackfleisch mit Aubergine</title>
-      <link>https://der.reisko.ch/rezepte/schwarzes-hackfleisch-mit-aubergine/</link>
-      <pubDate>Sun, 26 Aug 2018 07:32:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/schwarzes-hackfleisch-mit-aubergine/</guid>
-      <description>Koreanisches Pfannengericht</description>
-    </item>
-    
-    <item>
-      <title>Koreanischer Meeresfrüchte Eintopf</title>
-      <link>https://der.reisko.ch/rezepte/koreanischer-meeresfruchte-eintopf/</link>
-      <pubDate>Fri, 06 Jul 2018 06:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/koreanischer-meeresfruchte-eintopf/</guid>
-      <description>Eine schnelle Doenjang Jjigae</description>
-    </item>
-    
-    <item>
-      <title>Einfaches Lachs Bibimbap</title>
-      <link>https://der.reisko.ch/rezepte/einfaches-lachs-bibimbap/</link>
-      <pubDate>Tue, 03 Jul 2018 06:35:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/einfaches-lachs-bibimbap/</guid>
-      <description>Auch mit Fisch sehr lecker</description>
-    </item>
-    
-    <item>
-      <title>Doenjang Pimientos de Padrón</title>
-      <link>https://der.reisko.ch/nachgekocht/doenjang-pimientos-de-padron/</link>
-      <pubDate>Sun, 01 Jul 2018 10:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/doenjang-pimientos-de-padron/</guid>
-      <description>Koreanische Beilage nach RyuKoch.com</description>
-    </item>
-    
-    <item>
-      <title>Moo Kata trifft auf Korean BBQ</title>
-      <link>https://der.reisko.ch/dies-und-das/moo-kata-trifft-auf-korean-bbq/</link>
-      <pubDate>Sun, 20 May 2018 01:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/moo-kata-trifft-auf-korean-bbq/</guid>
-      <description>Wildes Fusion BBQ mit zwei Hotpots</description>
-    </item>
-    
-    <item>
-      <title>Koreanisches BBQ auf der MooVita</title>
-      <link>https://der.reisko.ch/dies-und-das/koreanisches-bbq-auf-der-moovita/</link>
-      <pubDate>Sun, 22 Apr 2018 08:24:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/koreanisches-bbq-auf-der-moovita/</guid>
-      <description>Die Grillplatte im Test</description>
-    </item>
-    
-    <item>
-      <title>Großes koreanisches BBQ</title>
-      <link>https://der.reisko.ch/dies-und-das/grosses-koreanisches-bbq/</link>
-      <pubDate>Thu, 12 Apr 2018 10:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/grosses-koreanisches-bbq/</guid>
-      <description>Ein Tisch voller Leckereien</description>
-    </item>
-    
-    <item>
-      <title>Koreanischer Brokkoli mit Sesam</title>
-      <link>https://der.reisko.ch/rezepte/koreanischer-brokkoli-mit-sesam/</link>
-      <pubDate>Thu, 12 Apr 2018 06:49:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/koreanischer-brokkoli-mit-sesam/</guid>
-      <description>Eine schnelle, leckere Beilage</description>
-    </item>
-    
-    <item>
-      <title>Koreanisches Maewun Gaji Bokkeum</title>
-      <link>https://der.reisko.ch/rezepte/koreanisches-maewun-gaji-bokkeum/</link>
-      <pubDate>Tue, 10 Apr 2018 06:40:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/koreanisches-maewun-gaji-bokkeum/</guid>
-      <description>Scharfe, pfannengerührte Aubergine</description>
-    </item>
-    
-    <item>
-      <title>Kleines koreanisches BBQ</title>
-      <link>https://der.reisko.ch/dies-und-das/kleines-koreanisches-bb/</link>
-      <pubDate>Sat, 07 Apr 2018 08:17:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/kleines-koreanisches-bb/</guid>
-      <description>Den Hotpot mal koreanisch bestückt</description>
-    </item>
-    
-    <item>
-      <title>Koreanisches Dwaeji Bulgogi</title>
-      <link>https://der.reisko.ch/rezepte/koreanisches-dwaeji-bulgogi/</link>
-      <pubDate>Fri, 06 Apr 2018 06:22:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/koreanisches-dwaeji-bulgogi/</guid>
-      <description>Schweinelende in scharfer Marinade</description>
-    </item>
-    
-    <item>
-      <title>Koreanischer Pak Choy Namul</title>
-      <link>https://der.reisko.ch/rezepte/koreanischer-pak-choy-namul/</link>
-      <pubDate>Wed, 04 Apr 2018 06:01:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/koreanischer-pak-choy-namul/</guid>
-      <description>Scharfe Beilage zum koreanischen BBQ</description>
-    </item>
-    
-    <item>
-      <title>Rinderhack in Schwarzer Bohnensoße</title>
-      <link>https://der.reisko.ch/rezepte/rinderhack-in-schwarzer-bohnensosse/</link>
-      <pubDate>Wed, 28 Feb 2018 08:47:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rinderhack-in-schwarzer-bohnensosse/</guid>
-      <description>Schon wieder koreanisch</description>
-    </item>
-    
-    <item>
-      <title>Jjajangmyeon mit Rind und Aubergine</title>
-      <link>https://der.reisko.ch/rezepte/jjajangmyeon-mit-rind-und-aubergine/</link>
-      <pubDate>Sat, 24 Feb 2018 07:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/jjajangmyeon-mit-rind-und-aubergine/</guid>
-      <description>Noch ein koreanisches Kochexperiment</description>
-    </item>
-    
-    <item>
-      <title>Koreanische Jjajangmyeon</title>
-      <link>https://der.reisko.ch/rezepte/koreanische-jjajangmyeon/</link>
-      <pubDate>Sun, 11 Feb 2018 08:51:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/koreanische-jjajangmyeon/</guid>
-      <description>Nudeln mit schwarzer Bohnenpaste</description>
-    </item>
-    
-    <item>
-      <title>Restaurant Seoul in Düsseldorf</title>
-      <link>https://der.reisko.ch/restaurants/restaurant-seoul-in-dusseldorf/</link>
-      <pubDate>Sun, 04 Feb 2018 09:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/restaurant-seoul-in-dusseldorf/</guid>
-      <description>Leckeres Barbecue auf der Klosterstraße</description>
-    </item>
-    
-    <item>
-      <title>Rindfleisch Bulgogi mit Aubergine</title>
-      <link>https://der.reisko.ch/rezepte/rindfleisch-bulgogi-mit-aubergine/</link>
-      <pubDate>Fri, 02 Feb 2018 06:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rindfleisch-bulgogi-mit-aubergine/</guid>
-      <description>Ein koreanisches Kochexperiment</description>
-    </item>
-    
-    <item>
-      <title>Mehr aus Japan und Korea in Düsseldorf</title>
-      <link>https://der.reisko.ch/dies-und-das/mehr-aus-japan-und-korea-in-dusseldorf/</link>
-      <pubDate>Tue, 30 Jan 2018 09:23:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/mehr-aus-japan-und-korea-in-dusseldorf/</guid>
-      <description>Noch eine Foodie- und Einkaufstour</description>
-    </item>
-    
-    <item>
-      <title>Koreanisches Mabo Tofu</title>
-      <link>https://der.reisko.ch/rezepte/koreanisches-mabo-tofu/</link>
-      <pubDate>Tue, 23 Jan 2018 09:02:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/koreanisches-mabo-tofu/</guid>
-      <description>Mit einer Fertigpaste aus Düsseldorf</description>
-    </item>
-    
-    <item>
-      <title>Seoul Dosirak in Karlsruhe (geschlossen)</title>
-      <link>https://der.reisko.ch/restaurants/seoul-dosirak-in-karlsruhe-geschlossen/</link>
-      <pubDate>Tue, 16 Jan 2018 10:06:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/seoul-dosirak-in-karlsruhe-geschlossen/</guid>
-      <description>Endlich ein koreanisches Restaurant</description>
-    </item>
-    
-    <item>
-      <title>Shoppen im japanischen Viertel in Düsseldorf</title>
-      <link>https://der.reisko.ch/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf/</link>
-      <pubDate>Mon, 18 Dec 2017 06:42:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf/</guid>
-      <description>Eine ausgedehnte Einkaufstour</description>
-    </item>
-    
-    <item>
-      <title>Koreanisches Bibimbap</title>
-      <link>https://der.reisko.ch/rezepte/koreanisches-bibimbap/</link>
-      <pubDate>Sat, 07 Oct 2017 05:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/koreanisches-bibimbap/</guid>
-      <description>Bunte Gaumenfreuden mit Reis und Ei</description>
-    </item>
-    
-    <item>
-      <title>Asian Street Food Festival in Speyer</title>
-      <link>https://der.reisko.ch/dies-und-das/asian-street-food-festival-in-speyer/</link>
-      <pubDate>Tue, 29 Aug 2017 07:06:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/asian-street-food-festival-in-speyer/</guid>
-      <description>Familiäre Atmosphäre in der Halle 101</description>
-    </item>
-    
-    <item>
-      <title>Schnelle Kimchi Nudelpfanne mit Huhn</title>
-      <link>https://der.reisko.ch/rezepte/schnelle-kimchi-nudelpfanne-mit-huhn/</link>
-      <pubDate>Wed, 13 Jul 2016 06:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/schnelle-kimchi-nudelpfanne-mit-huhn/</guid>
-      <description>Das Thai Soi Kimchi im Kocheinsatz</description>
-    </item>
-    
-    <item>
-      <title>Selbstgemachtes Thai Soi Kimchi</title>
-      <link>https://der.reisko.ch/rezepte/selbstgemachtes-thai-soi-kimchi/</link>
-      <pubDate>Sat, 09 Jul 2016 09:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/selbstgemachtes-thai-soi-kimchi/</guid>
-      <description>Ein Ausflug in die Welt des Fermentierens</description>
-    </item>
-    
-    <item>
-      <title>Japanisch Grillen von Jonas Gramby</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/japanisch-grillen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/japanisch-grillen/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>Koreanisch Kochen leicht gemacht</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/koreanisch-kochen-leicht-gemacht/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/koreanisch-kochen-leicht-gemacht/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>RyuKoch: Alles über Korea und Japan</title>
-      <link>https://der.reisko.ch/inspirationen/blogs/ryukoch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/blogs/ryukoch/</guid>
-      <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0764/koreanische_gruene_spargel.jpg</url>
+        <title>Grüner Spargel auf koreanische Art</title>
+        <link>https://der.reisko.ch/rezepte/gruener-spargel-auf-koreanische-art/</link>
+        </image>
     </item>
     
   </channel>

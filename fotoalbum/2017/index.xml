@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fotoalbum 2017 on Der Reiskoch</title>
+    <title>Fotoalbum 2017 auf Der Reiskoch</title>
     <link>https://der.reisko.ch/fotoalbum/2017/</link>
-    <description>Recent content in Fotoalbum 2017 on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Fotoalbum 2017  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 30 Dec 2017 00:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/fotoalbum/2017/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/12/30/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171230_kaesefondue.jpg</url>
+        <title>Käsefondue</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/12/30/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/12/29/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171229_roeschti.jpg</url>
+        <title>Winti Röschti</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/12/29/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/12/28/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171228_restesuppe.jpg</url>
+        <title>Restesuppe</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/12/28/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/12/26/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171226_wildgulasch_mit_spaetzle.jpg</url>
+        <title>Wildgulasch mit Spätzle</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/12/26/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/12/24/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171224_weihnachtsessen.jpg</url>
+        <title>Weihnachtsessen bei Annes Eltern</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/12/24/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/12/21/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171221_moqueca-de_peixe.jpg</url>
+        <title>Moqueca de Peixe</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/12/21/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/12/10/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171210_seafood_reisnudelsuppe.jpg</url>
+        <title>Seafood Reisnudelsuppe</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/12/10/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/11/26/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171126_chinesisches_menu.jpg</url>
+        <title>Chinesisches Menü</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/11/26/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/11/20/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171120_miesmuscheln_wolfsbraeu.jpg</url>
+        <title>Miesmuscheln in Weisweinsoße</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/11/20/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/11/18/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171118_schwarzer_peter_schnitzel.jpg</url>
+        <title>Putenschnitzel</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/11/18/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/10/27/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171027_selbstversorger.jpg</url>
+        <title>Kaffir-Limettenblätter aus eigenem Anbau</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/10/27/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/10/21/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171021_steinpilz-ravioli.jpg</url>
+        <title>Steinpilz-Ravioli</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/10/21/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/10/20/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20171020_crevetten.jpg</url>
+        <title>Crevetten bei Annes Eltern</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/10/20/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/09/08/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20170908_fischstaebchen-salat.jpg</url>
+        <title>Fischstäbchen Salat</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/09/08/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/09/07/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20170907_salat_mit_kaese.jpg</url>
+        <title>Bunter Salat mit Käse</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/09/07/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/09/05/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20170905_falalel_meets_curry.jpg</url>
+        <title>Falafel meets Curry</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/09/05/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/08/18/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20170818_porchetta_sandwich.jpg</url>
+        <title>Porchetta Sandwich</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/08/18/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/08/04/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20170804_basket_of_fire.jpg</url>
+        <title>Basket Of Fire</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/08/04/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/07/28/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20170728_salat_mit_chorizo_topping.jpg</url>
+        <title>Salat mit Chorizo Topping</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/07/28/</link>
+        </image>
     </item>
     
     <item>
@@ -185,141 +280,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2017/07/27/</guid>
       <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Die erste Chili</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/07/16/</link>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/07/16/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Perfektes Rumpsteak</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/07/08/</link>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/07/08/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Pasta mit Tomatensauce</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/06/16/</link>
-      <pubDate>Fri, 16 Jun 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/06/16/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Fajita al Pastor</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/06/13/</link>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/06/13/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Eine Tüte Wurst</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/06/04/</link>
-      <pubDate>Sun, 04 Jun 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/06/04/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Grillrestaurant im Quartier Latin</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/05/20/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/05/20/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Agedashi Tofu</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/05/06/</link>
-      <pubDate>Sat, 06 May 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/05/06/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Ente Kong-Po</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/05/03/</link>
-      <pubDate>Wed, 03 May 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/05/03/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Chiltepins</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/04/19/</link>
-      <pubDate>Wed, 19 Apr 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/04/19/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Kabeljau Teriyaki</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/04/18/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/04/18/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Grillen im Schrebergarten</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/04/09/</link>
-      <pubDate>Sun, 09 Apr 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/04/09/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Der erste Spargel</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/04/07/</link>
-      <pubDate>Fri, 07 Apr 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/04/07/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Asia Shop Geschenke</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/04/04/</link>
-      <pubDate>Tue, 04 Apr 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/04/04/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Vietnam Suppe von Asien Food</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/02/15/</link>
-      <pubDate>Wed, 15 Feb 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/02/15/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Tapas Teller</title>
-      <link>https://der.reisko.ch/fotoalbum/2017/02/09/</link>
-      <pubDate>Thu, 09 Feb 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2017/02/09/</guid>
-      <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2017/20170727_chorizo_bulgur_pfanne.jpg</url>
+        <title>Chorizo-Bulgur-Pfanne</title>
+        <link>https://der.reisko.ch/fotoalbum/2017/07/27/</link>
+        </image>
     </item>
     
   </channel>

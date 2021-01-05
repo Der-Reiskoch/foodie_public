@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gutbürgerlich on Der Reiskoch</title>
+    <title>gutbürgerlich auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/gutburgerlich/</link>
-    <description>Recent content in gutbürgerlich on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in gutbürgerlich  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 12 Nov 2020 06:44:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/gutburgerlich/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/geteilte-martinsgans-von-isa/</guid>
       <description>Festmahl mit Gänsetaxi</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0948/gans_mit_beilagen.jpg</url>
+        <title>Geteilte Martinsgans von Isa</title>
+        <link>https://der.reisko.ch/dies-und-das/geteilte-martinsgans-von-isa/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/abholservice-des-restaurant-garbo/</guid>
       <description>Gutbürgerliche Küche aus Eggenstein</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0914/cordon-bleu_mit_spaetzle_und_rahmsosse.jpg</url>
+        <title>Abholservice des Restaurant Garbo</title>
+        <link>https://der.reisko.ch/restaurants/abholservice-des-restaurant-garbo/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/herzhafte-hackfleisch-barlauch-pastete/</guid>
       <description>Nach Art eines englischen Pies</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0885/gefuellt.jpg</url>
+        <title>Herzhafte Hackfleisch-Bärlauch-Pastete</title>
+        <link>https://der.reisko.ch/rezepte/herzhafte-hackfleisch-barlauch-pastete/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-kesselhaushome/</guid>
       <description>Wir Foodies bleiben Zuhause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0884/zoom-session.jpg</url>
+        <title>Restaurant Kesselhaus@Home</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-kesselhaushome/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/eine-herzhafte-soljanka/</guid>
       <description>Mein persönliches Stück Ostalgie</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0153/herzhafte_soljanka.jpg</url>
+        <title>Eine herzhafte Soljanka</title>
+        <link>https://der.reisko.ch/rezepte/eine-herzhafte-soljanka/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gluhweinbraten-mit-spatzle/</guid>
       <description>Etwas deftiges für die kalte Jahreszeit</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0446/gluehwein_braten_mit_spaetzle.jpg</url>
+        <title>Glühweinbraten mit Spätzle</title>
+        <link>https://der.reisko.ch/rezepte/gluhweinbraten-mit-spatzle/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/martinsgans-fur-unsere-foodiegruppe/</guid>
       <description>Mal etwas sehr tradionelles</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0447/martinsgans.jpg</url>
+        <title>Martinsgans für unsere Foodiegruppe</title>
+        <link>https://der.reisko.ch/dies-und-das/martinsgans-fur-unsere-foodiegruppe/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/matjes-salat-mit-roter-beete/</guid>
       <description>Eine Variation in Rosa</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0820/matjes-salat_mit_kartoffeln.jpg</url>
+        <title>Matjes Salat mit roter Beete</title>
+        <link>https://der.reisko.ch/rezepte/matjes-salat-mit-roter-beete/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/plankstaedter-spargel-mit-pfannkuchen/</guid>
       <description>Leckeres Gemüse aus der Kurpfalz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0745/spargel_mit_pfannkuchen.jpg</url>
+        <title>Plankstädter Spargel mit Pfannkuchen</title>
+        <link>https://der.reisko.ch/rezepte/plankstaedter-spargel-mit-pfannkuchen/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-reinhards-in-ruppurr/</guid>
       <description>Feine badische Küche</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0648/schweinemedallions_in_pilzrahm.jpg</url>
+        <title>Restaurant Reinhards in Rüppurr</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-reinhards-in-ruppurr/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rindergulasch-ungarische-art/</guid>
       <description>Mal wieder was deftiges</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0573/ungarisches_rindergulasch.jpg</url>
+        <title>Rindergulasch ungarische Art</title>
+        <link>https://der.reisko.ch/rezepte/rindergulasch-ungarische-art/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/matjes-salat-norddeutsche-art/</guid>
       <description>Mal ganz was anderes</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0388/matjes_salat.jpg</url>
+        <title>Matjes Salat Norddeutsche Art</title>
+        <link>https://der.reisko.ch/rezepte/matjes-salat-norddeutsche-art/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/strassburger-wurstsalat/</guid>
       <description>Sommerliches Abendessen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0303/strassburger_wurstsalat.jpg</url>
+        <title>Straßburger Wurstsalat</title>
+        <link>https://der.reisko.ch/rezepte/strassburger-wurstsalat/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/bratwurste-mit-gemuse-aus-riesenbohnen/</guid>
       <description>Schnelle Reste vom Grillabend</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0411/teller.jpg</url>
+        <title>Bratwürste mit Gemüse aus Riesenbohnen</title>
+        <link>https://der.reisko.ch/rezepte/bratwurste-mit-gemuse-aus-riesenbohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/zitronenhuhn-aus-dem-backofen/</guid>
       <description>Ein Klassiker aus Annes Familie</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0076/teller.jpg</url>
+        <title>Zitronenhuhn aus dem Backofen</title>
+        <link>https://der.reisko.ch/rezepte/zitronenhuhn-aus-dem-backofen/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schlemmerfilet-a-la-bordelaise/</guid>
       <description>Ein Klassiker mal selbst gemacht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0057/teller.jpg</url>
+        <title>Schlemmerfilet à la Bordelaise</title>
+        <link>https://der.reisko.ch/rezepte/schlemmerfilet-a-la-bordelaise/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schwetzinger-spargelcremesuppe/</guid>
       <description>Cremig und Lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0242/topf2.jpg</url>
+        <title>Schwetzinger Spargelcremesuppe</title>
+        <link>https://der.reisko.ch/rezepte/schwetzinger-spargelcremesuppe/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/eine-scharfe-und-eine-deftige-lende/</guid>
       <description>Zweimal Schwein gehabt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0155/brater.jpg</url>
+        <title>Eine scharfe und eine deftige Lende</title>
+        <link>https://der.reisko.ch/rezepte/eine-scharfe-und-eine-deftige-lende/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schmortopfgulasch-mit-pilzen/</guid>
       <description>Was lange währt wird auch richtig gut</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0147/schmortopf2.jpg</url>
+        <title>Schmortopfgulasch mit Pilzen</title>
+        <link>https://der.reisko.ch/rezepte/schmortopfgulasch-mit-pilzen/</link>
+        </image>
     </item>
     
     <item>
@@ -185,69 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schweinelende-in-waldpilz-sahne-sosse/</guid>
       <description>Gutbürgerlich vom Schwein</description>
-    </item>
-    
-    <item>
-      <title>Rotbarsch in Zitronenbutter</title>
-      <link>https://der.reisko.ch/rezepte/rotbarsch-in-zitronenbutter/</link>
-      <pubDate>Sat, 14 Sep 2013 08:40:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rotbarsch-in-zitronenbutter/</guid>
-      <description>Ein sommerliches Fischrezept</description>
-    </item>
-    
-    <item>
-      <title>Rinderbraten in Rotweinsoße</title>
-      <link>https://der.reisko.ch/rezepte/rinderbraten-in-rotweinsosse/</link>
-      <pubDate>Sat, 23 Mar 2013 10:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rinderbraten-in-rotweinsosse/</guid>
-      <description>Klassischer Sonntagsbraten</description>
-    </item>
-    
-    <item>
-      <title>Victoria Barsch in Sekt-Dill-Soße</title>
-      <link>https://der.reisko.ch/rezepte/victoria-barsch-in-sekt-dill-sosse/</link>
-      <pubDate>Thu, 14 Mar 2013 06:39:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/victoria-barsch-in-sekt-dill-sosse/</guid>
-      <description>Nicht nur Freitags</description>
-    </item>
-    
-    <item>
-      <title>Markgräfler Grumbieresalat</title>
-      <link>https://der.reisko.ch/rezepte/markgrafler-grumbieresalat/</link>
-      <pubDate>Mon, 30 Jul 2012 10:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/markgrafler-grumbieresalat/</guid>
-      <description>Kartoffelsalat mit Löwenzahn</description>
-    </item>
-    
-    <item>
-      <title>Minutensteaks mit Feldsalat und Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/minutensteaks-mit-feldsalat-und-pilzen/</link>
-      <pubDate>Mon, 19 Dec 2011 08:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/minutensteaks-mit-feldsalat-und-pilzen/</guid>
-      <description>Schnell und lecker</description>
-    </item>
-    
-    <item>
-      <title>Winterliches Hirschgulasch</title>
-      <link>https://der.reisko.ch/rezepte/winterliches-hirschgulasch/</link>
-      <pubDate>Thu, 08 Dec 2011 10:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/winterliches-hirschgulasch/</guid>
-      <description>Ein deftiges Wildgericht</description>
-    </item>
-    
-    <item>
-      <title>Entenbrust mit grünen Linsen</title>
-      <link>https://der.reisko.ch/rezepte/entenbrust-mit-grunen-linsen/</link>
-      <pubDate>Mon, 07 Nov 2011 05:42:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/entenbrust-mit-grunen-linsen/</guid>
-      <description>Ein klassisches Festtagsessen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0134/braeter.jpg</url>
+        <title>Schweinelende in Waldpilz-Sahne-Soße</title>
+        <link>https://der.reisko.ch/rezepte/schweinelende-in-waldpilz-sahne-sosse/</link>
+        </image>
     </item>
     
   </channel>

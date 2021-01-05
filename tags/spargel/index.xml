@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>spargel on Der Reiskoch</title>
+    <title>spargel auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/spargel/</link>
-    <description>Recent content in spargel on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in spargel  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 15 Jun 2019 09:33:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/spargel/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gruener-spargel-auf-koreanische-art/</guid>
       <description>Spargelzeit mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0764/koreanische_gruene_spargel.jpg</url>
+        <title>Grüner Spargel auf koreanische Art</title>
+        <link>https://der.reisko.ch/rezepte/gruener-spargel-auf-koreanische-art/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hackfleisch-und-spargel-in-pfeffersosse/</guid>
       <description>Ein schnelles chinesisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0529/hackfleisch_und_spargel_in_pfeffersosse.jpg</url>
+        <title>Hackfleisch und Spargel in Pfeffersoße</title>
+        <link>https://der.reisko.ch/rezepte/hackfleisch-und-spargel-in-pfeffersosse/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/plankstaedter-spargel-mit-pfannkuchen/</guid>
       <description>Leckeres Gemüse aus der Kurpfalz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0745/spargel_mit_pfannkuchen.jpg</url>
+        <title>Plankstädter Spargel mit Pfannkuchen</title>
+        <link>https://der.reisko.ch/rezepte/plankstaedter-spargel-mit-pfannkuchen/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pad-nuea-sap-nor-mai-farang/</guid>
       <description>Thailändisches Hackfleisch mit grünem Spargel</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0617/pad_nuea_sap_nor_mai_farang.jpg</url>
+        <title>Pad Nuea Sap Nor Mai Farang</title>
+        <link>https://der.reisko.ch/rezepte/pad-nuea-sap-nor-mai-farang/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thai-salat-mit-weissem-spargel/</guid>
       <description>Yam Nor Mai Farang</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0615/yam_nor_mai_farang.jpg</url>
+        <title>Thai Salat mit weißem Spargel</title>
+        <link>https://der.reisko.ch/rezepte/thai-salat-mit-weissem-spargel/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/salbei-lachs-mit-grunem-spargel/</guid>
       <description>Ein schnelles Gericht am Abend</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0481/teller.jpg</url>
+        <title>Salbei Lachs mit grünem Spargel</title>
+        <link>https://der.reisko.ch/rezepte/salbei-lachs-mit-grunem-spargel/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanischer-spargelsalat/</guid>
       <description>Grüner Spargel im japanischen Stil</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0352/schuessel.jpg</url>
+        <title>Japanischer Spargelsalat</title>
+        <link>https://der.reisko.ch/rezepte/japanischer-spargelsalat/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schwetzinger-spargelcremesuppe/</guid>
       <description>Cremig und Lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0242/topf2.jpg</url>
+        <title>Schwetzinger Spargelcremesuppe</title>
+        <link>https://der.reisko.ch/rezepte/schwetzinger-spargelcremesuppe/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-spargelsalat/</guid>
       <description>Yam Nor Mai Farang Kiaw</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0237/spargelsalat.jpg</url>
+        <title>Thailändischer Spargelsalat</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-spargelsalat/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pizza-mit-spargel-spinat-und-schinken/</guid>
       <description>Spargel mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0160/blech.jpg</url>
+        <title>Pizza mit Spargel, Spinat und Schinken</title>
+        <link>https://der.reisko.ch/rezepte/pizza-mit-spargel-spinat-und-schinken/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zucchini on Der Reiskoch</title>
+    <title>zucchini auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/zucchini/</link>
-    <description>Recent content in zucchini on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in zucchini  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 06 May 2020 10:10:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/zucchini/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gedampfte-zucchini-mit-schweinehack/</guid>
       <description>Nach Art eines Fak Tong Jai Sai Moo</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0897/gedampfte_zucchini_mit_schweinehack.jpg</url>
+        <title>Gedämpfte Zucchini mit Schweinehack</title>
+        <link>https://der.reisko.ch/rezepte/gedampfte-zucchini-mit-schweinehack/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-jjajangmyeon/</guid>
       <description>Nudeln mit schwarzer Bohnenpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0578/koreanische_jjajangmyeon.jpg</url>
+        <title>Koreanische Jjajangmyeon</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-jjajangmyeon/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/schweinefleisch-vindaloo-und-gemusecurry/</guid>
       <description>Indische Currysession</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0532/schweinefleisch-vindaloo.jpg</url>
+        <title>Schweinefleisch Vindaloo und Gemüsecurry</title>
+        <link>https://der.reisko.ch/nachgekocht/schweinefleisch-vindaloo-und-gemusecurry/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/syrisches-tabakh-ruhu/</guid>
       <description>Kalbsfleisch mit Gemüse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0521/syrisches_tabakh_ruhu.jpg</url>
+        <title>Syrisches Tabakh Ruhu</title>
+        <link>https://der.reisko.ch/nachgekocht/syrisches-tabakh-ruhu/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mit-hackfleisch-gefullte-riesenzucchini/</guid>
       <description>Monstergemüse mit deftigem Inhalt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0382/von_oben.jpg</url>
+        <title>Mit Hackfleisch gefüllte Riesenzucchini</title>
+        <link>https://der.reisko.ch/rezepte/mit-hackfleisch-gefullte-riesenzucchini/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/ratatouille-mediterran/</guid>
       <description>Leckeres Pfannengemüse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0278/mit_rosmarin.jpg</url>
+        <title>Das Ratatouille Mediterran</title>
+        <link>https://der.reisko.ch/rezepte/ratatouille-mediterran/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/zucchini-spaghetti-arrabiata/</guid>
       <description>Pasta ohne Nudeln</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0275/schuessel.jpg</url>
+        <title>Zucchini Spaghetti Arrabiata</title>
+        <link>https://der.reisko.ch/rezepte/zucchini-spaghetti-arrabiata/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/deftig-gefullte-zucchini/</guid>
       <description>Mit Hackfleisch und Bohnen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0132/gebacken.jpg</url>
+        <title>Deftig gefüllte Zucchini</title>
+        <link>https://der.reisko.ch/rezepte/deftig-gefullte-zucchini/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-zucchini-salat/</guid>
       <description>Noch ein leckerer Thai-Salat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0119/salat.jpg</url>
+        <title>Thailändischer Zucchini Salat</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-zucchini-salat/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-zucchini-som-tam/</guid>
       <description>Eine Variante mit heimischen Zutaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0106/salat.jpg</url>
+        <title>Thailändischer Zucchini Som Tam</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-zucchini-som-tam/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mediterrane-pfanne-mit-zucchini-und-pilzen/</guid>
       <description>Das macht Lust auf Urlaub</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0239/teller.jpg</url>
+        <title>Mediterrane Pfanne mit Zucchini und Pilzen</title>
+        <link>https://der.reisko.ch/rezepte/mediterrane-pfanne-mit-zucchini-und-pilzen/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mediterranes-gemuserisotto/</guid>
       <description>Sommerlich lecker und dazu noch vegetarisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0181/risotto.jpg</url>
+        <title>Mediterranes Gemüse Risotto</title>
+        <link>https://der.reisko.ch/rezepte/mediterranes-gemuserisotto/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/ente-provencial-im-tontopf/</guid>
       <description>Wahnsinnig lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0093/ente.jpg</url>
+        <title>Ente Provencial im Tontopf</title>
+        <link>https://der.reisko.ch/rezepte/ente-provencial-im-tontopf/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/ratatouillegemuese-mit-hackfleisch/</guid>
       <description>Der Klassiker, nur deftiger</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0009/pfanne.jpg</url>
+        <title>Ratatouillegemüse mit Hackfleisch</title>
+        <link>https://der.reisko.ch/rezepte/ratatouillegemuese-mit-hackfleisch/</link>
+        </image>
     </item>
     
   </channel>

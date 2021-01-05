@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>whiskey on Der Reiskoch</title>
+    <title>whiskey auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/whiskey/</link>
-    <description>Recent content in whiskey on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in whiskey  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 09 Feb 2013 06:42:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/whiskey/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pilze-in-whiskey-sahne-sosse/</guid>
       <description>Deftiges aus dem Wald</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0073/pfanne.jpg</url>
+        <title>Pilze in Whiskey-Sahne-Soße</title>
+        <link>https://der.reisko.ch/rezepte/pilze-in-whiskey-sahne-sosse/</link>
+        </image>
     </item>
     
   </channel>

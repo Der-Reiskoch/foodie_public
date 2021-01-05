@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bbq on Der Reiskoch</title>
+    <title>bbq auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/bbq/</link>
-    <description>Recent content in bbq on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in bbq  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 15 Mar 2020 10:08:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/bbq/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanischer-hotpot-shogayaki-style/</guid>
       <description>Gegrilltes Ingwerfleisch und Miso Brühe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0878/hotpot_shogayaki.jpg</url>
+        <title>Japanischer Hotpot Shogayaki Style</title>
+        <link>https://der.reisko.ch/rezepte/japanischer-hotpot-shogayaki-style/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/gegrillte-tapas-auf-der-moovita/</guid>
       <description>Es geht auch ohne Grill</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0773/am_bruzeln.jpg</url>
+        <title>Gegrillte Tapas auf der MooVita</title>
+        <link>https://der.reisko.ch/dies-und-das/gegrillte-tapas-auf-der-moovita/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/triple-j-chipotle-bbq-sauce/</guid>
       <description>Nach langer Pause eine neue Variante</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0767/hot_edition.jpg</url>
+        <title>Triple J Chipotle BBQ Sauce</title>
+        <link>https://der.reisko.ch/dies-und-das/triple-j-chipotle-bbq-sauce/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/reisen/seafood-bbq-am-haad-khuat/</guid>
       <description>Ein Highlight am Bottle Beach</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0710/seafood_bbq.jpg</url>
+        <title>Seafood BBQ am Haad Khuat</title>
+        <link>https://der.reisko.ch/reisen/seafood-bbq-am-haad-khuat/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/mexikanischer-abend-mit-der-moovita/</guid>
       <description>Tortillas, Mais, Bohnen und Chilis</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0686/moovita_mit_tortilla.jpg</url>
+        <title>Mexikanischer Abend mit der MooVita</title>
+        <link>https://der.reisko.ch/dies-und-das/mexikanischer-abend-mit-der-moovita/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/moo-kata-trifft-auf-korean-bbq/</guid>
       <description>Wildes Fusion BBQ mit zwei Hotpots</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0619/tisch.jpg</url>
+        <title>Moo Kata trifft auf Korean BBQ</title>
+        <link>https://der.reisko.ch/dies-und-das/moo-kata-trifft-auf-korean-bbq/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/utensilien/unboxing-der-moovita-grillplatte/</guid>
       <description>Ein neues Grillerlebnis</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0607/moovita_grillplatte.jpg</url>
+        <title>Unboxing der MooVita Grillplatte</title>
+        <link>https://der.reisko.ch/utensilien/unboxing-der-moovita-grillplatte/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/cherry-ribs-in-der-mittagspause/</guid>
       <description>Stephan hat mal wieder am Grill gezaubert</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0589/cherry_ribs.jpg</url>
+        <title>Cherry Ribs in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/cherry-ribs-in-der-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/unsere-triple-j-bbq-sauce/</guid>
       <description>Scharfe, rauchige Soße für die Grillsaison</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0028/glas.jpg</url>
+        <title>Unsere Triple J BBQ Sauce</title>
+        <link>https://der.reisko.ch/rezepte/unsere-triple-j-bbq-sauce/</link>
+        </image>
     </item>
     
   </channel>

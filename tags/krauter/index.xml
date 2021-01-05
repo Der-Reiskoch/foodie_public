@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kräuter on Der Reiskoch</title>
+    <title>kräuter auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/krauter/</link>
-    <description>Recent content in kräuter on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in kräuter  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 19 May 2020 09:59:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/krauter/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/romisches-fruhstuck-moretvm/</guid>
       <description>Gemörserter Käse mit Kräutern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0898/moretvm.jpg</url>
+        <title>Römisches Frühstück MORETVM</title>
+        <link>https://der.reisko.ch/rezepte/romisches-fruhstuck-moretvm/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/artischocken-mit-joghurt-krauter-dip/</guid>
       <description>Gemüse deluxe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0036/artischocken.jpg</url>
+        <title>Artischocken mit Joghurt-Kräuter-Dip</title>
+        <link>https://der.reisko.ch/rezepte/artischocken-mit-joghurt-krauter-dip/</link>
+        </image>
     </item>
     
   </channel>

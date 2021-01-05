@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bohnen on Der Reiskoch</title>
+    <title>bohnen auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/bohnen/</link>
-    <description>Recent content in bohnen on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in bohnen  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 08 Dec 2020 05:31:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/bohnen/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/lammtopf-mit-gemuese-und-bohnen/</guid>
       <description>Leckeres aus Syrien und dem Iran</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0947/zwei_gerichte_und_bulgur.jpg</url>
+        <title>Lammtopf mit Gemüse und Bohnen</title>
+        <link>https://der.reisko.ch/nachgekocht/lammtopf-mit-gemuese-und-bohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pad-kra-pao-moo-thua-hed/</guid>
       <description>Eine Variante mit Bohnen und Pilzen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0919/pad_kra_pao_moo.jpg</url>
+        <title>Pad Kra Pao Moo Thua Hed</title>
+        <link>https://der.reisko.ch/rezepte/pad-kra-pao-moo-thua-hed/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-gaeng-phed-moo-sap/</guid>
       <description>Einfaches Curry mit Hackfleisch und Bohnen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0912/gaeng_phed_moo_sap.jpg</url>
+        <title>Thailändisches Gaeng Phed Moo Sap</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-gaeng-phed-moo-sap/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schlangenbohnen-mit-tofu/</guid>
       <description>Thailändisches Pad Thua Tao Hu Tao Jiew</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0895/schlangenbohnen_mit_tofu_in_bohnenpaste.jpg</url>
+        <title>Schlangenbohnen mit Tofu</title>
+        <link>https://der.reisko.ch/rezepte/schlangenbohnen-mit-tofu/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schabbat-eintopf-tscholent/</guid>
       <description>Ein jüdisches Traditionsgericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0864/tscholent.jpg</url>
+        <title>Schabbat Eintopf Tscholent</title>
+        <link>https://der.reisko.ch/rezepte/schabbat-eintopf-tscholent/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-panaeng-nuea/</guid>
       <description>Ein trockenes Panaeng Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0845/pad_panaeng_nuea.jpg</url>
+        <title>Thailändisches Pad Panaeng Nuea</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-panaeng-nuea/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-grune-bohnen/</guid>
       <description>Eine leckere Beilage</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0677/koreanische_gruene_bohnen.jpg</url>
+        <title>Koreanische grüne Bohnen</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-grune-bohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-phed-gai/</guid>
       <description>Trockenes Curry mit Putenbrust</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0618/pad_phed_gai.jpg</url>
+        <title>Thailändisches Pad Phed Gai</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-phed-gai/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/orientalische-hackfleischpfanne-mit-bohnen/</guid>
       <description>Ein leicht scharfes Gericht mir vielen Aromen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0402/orientalische_hackfleischpfanne.jpg</url>
+        <title>Orientalische Hackfleischpfanne mit Bohnen</title>
+        <link>https://der.reisko.ch/rezepte/orientalische-hackfleischpfanne-mit-bohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-curry-mit-dreierlei-bohnen/</guid>
       <description>Ein deftiges vegetarisches Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0563/curry_mit_dreierlei_bohnen.jpg</url>
+        <title>Indisches Curry mit dreierlei Bohnen</title>
+        <link>https://der.reisko.ch/rezepte/indisches-curry-mit-dreierlei-bohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-nuea-pad-thua/</guid>
       <description>Mariniertes Kalbfleisch mit grünen Bohnen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0522/nuea_pad_thua.jpg</url>
+        <title>Thailändisches Nuea Pad Thua</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-nuea-pad-thua/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/schnelles-gedampftes-abendessen/</guid>
       <description>Ich mag meinen neuen Bambusdämpfer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0498/gedaempftes_abendessen.jpg</url>
+        <title>Schnelles gedämpftes Abendessen</title>
+        <link>https://der.reisko.ch/dies-und-das/schnelles-gedampftes-abendessen/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rotes-thai-curry-mit-rindergulasch/</guid>
       <description>Gaeng Phed Nuea</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0494/rotes_thai_curry_mit_rind.jpg</url>
+        <title>Rotes Thai Curry mit Rindergulasch</title>
+        <link>https://der.reisko.ch/rezepte/rotes-thai-curry-mit-rindergulasch/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/teriyaki-ente-mit-grunen-bohnen/</guid>
       <description>Ein simples japanisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0489/teriyaki_ente_mit_bohnen.jpg</url>
+        <title>Teriyaki Ente mit grünen Bohnen</title>
+        <link>https://der.reisko.ch/rezepte/teriyaki-ente-mit-grunen-bohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-kurbis-bohnen-curry/</guid>
       <description>Mal wieder vegetarisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0221/schuessel.jpg</url>
+        <title>Indisches Kürbis-Bohnen Curry</title>
+        <link>https://der.reisko.ch/rezepte/indisches-kurbis-bohnen-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/merguez-mit-riesenbohnen-und-koriander/</guid>
       <description>Noch mehr Grillreste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0413/pfanne.jpg</url>
+        <title>Merguez mit Riesenbohnen und Koriander</title>
+        <link>https://der.reisko.ch/rezepte/merguez-mit-riesenbohnen-und-koriander/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gaeng-panaeng-mit-rind-und-lila-bohnen/</guid>
       <description>Deftiges thailändisches Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0407/detail.jpg</url>
+        <title>Gaeng Panaeng mit Rind und lila Bohnen</title>
+        <link>https://der.reisko.ch/rezepte/gaeng-panaeng-mit-rind-und-lila-bohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/bratwurste-mit-gemuse-aus-riesenbohnen/</guid>
       <description>Schnelle Reste vom Grillabend</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0411/teller.jpg</url>
+        <title>Bratwürste mit Gemüse aus Riesenbohnen</title>
+        <link>https://der.reisko.ch/rezepte/bratwurste-mit-gemuse-aus-riesenbohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-salat-aus-schlangenbohnen/</guid>
       <description>Tam Thua</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0328/teller.jpg</url>
+        <title>Thailändischer Salat aus Schlangenbohnen</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-salat-aus-schlangenbohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -185,78 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/asia-pfanne-mit-garnelen-und-kaiserschoten/</guid>
       <description>Eine chineschische Eigenkreation</description>
-    </item>
-    
-    <item>
-      <title>Deftig gefüllte Zucchini</title>
-      <link>https://der.reisko.ch/rezepte/deftig-gefullte-zucchini/</link>
-      <pubDate>Sat, 01 Aug 2015 11:23:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/deftig-gefullte-zucchini/</guid>
-      <description>Mit Hackfleisch und Bohnen</description>
-    </item>
-    
-    <item>
-      <title>Gaeng Phed Gai Manfrang</title>
-      <link>https://der.reisko.ch/rezepte/gaeng-phed-gai-manfrang/</link>
-      <pubDate>Mon, 27 Jul 2015 07:13:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gaeng-phed-gai-manfrang/</guid>
-      <description>Rotes Thai Curry mit Huhn und Kartoffeln</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Menü nach Harumi</title>
-      <link>https://der.reisko.ch/nachgekocht/japanisches-menu-nach-harumi/</link>
-      <pubDate>Thu, 02 Apr 2015 06:35:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/japanisches-menu-nach-harumi/</guid>
-      <description>Drei japanische Gerichte</description>
-    </item>
-    
-    <item>
-      <title>Indisches Kartoffel-Bohnen-Curry</title>
-      <link>https://der.reisko.ch/rezepte/indisches-kartoffel-bohnen-curry/</link>
-      <pubDate>Mon, 03 Nov 2014 08:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indisches-kartoffel-bohnen-curry/</guid>
-      <description>Leckeres vegetarisches Curry</description>
-    </item>
-    
-    <item>
-      <title>Buntes Thai Rinder-Curry</title>
-      <link>https://der.reisko.ch/rezepte/buntes-thai-rinder-curry/</link>
-      <pubDate>Wed, 11 Sep 2013 10:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/buntes-thai-rinder-curry/</guid>
-      <description>Nicht immer nur rot, grün oder gelb</description>
-    </item>
-    
-    <item>
-      <title>Deftiges Shakshuka mit Bohnen</title>
-      <link>https://der.reisko.ch/rezepte/deftiges-shakshuka-zum-fruhstuck/</link>
-      <pubDate>Tue, 02 Apr 2013 07:57:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/deftiges-shakshuka-zum-fruhstuck/</guid>
-      <description>Die schnelle Multi-Kulti Pfanne</description>
-    </item>
-    
-    <item>
-      <title>Baked Beans &amp; Bacon Breakfast Burger</title>
-      <link>https://der.reisko.ch/rezepte/baked-beans-bacon-breakfast-burger/</link>
-      <pubDate>Tue, 24 Apr 2012 10:24:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/baked-beans-bacon-breakfast-burger/</guid>
-      <description>Eine kleine Frühstücksperversion</description>
-    </item>
-    
-    <item>
-      <title>Palabok-Pfanne von den Philippinen</title>
-      <link>https://der.reisko.ch/rezepte/palabok-pfanne-von-den-philippinen/</link>
-      <pubDate>Thu, 02 Feb 2012 07:41:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/palabok-pfanne-von-den-philippinen/</guid>
-      <description>Grüne Bohnen mit Hackfleisch und Eiern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0248/pfanne.jpg</url>
+        <title>Asia-Pfanne mit Garnelen und Kaiserschoten</title>
+        <link>https://der.reisko.ch/rezepte/asia-pfanne-mit-garnelen-und-kaiserschoten/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>eggenstein on Der Reiskoch</title>
+    <title>eggenstein auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/eggenstein/</link>
-    <description>Recent content in eggenstein on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in eggenstein  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 13 Jun 2020 09:02:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/eggenstein/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/abholservice-des-restaurant-garbo/</guid>
       <description>Gutbürgerliche Küche aus Eggenstein</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0914/cordon-bleu_mit_spaetzle_und_rahmsosse.jpg</url>
+        <title>Abholservice des Restaurant Garbo</title>
+        <link>https://der.reisko.ch/restaurants/abholservice-des-restaurant-garbo/</link>
+        </image>
     </item>
     
   </channel>

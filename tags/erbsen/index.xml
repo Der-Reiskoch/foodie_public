@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>erbsen on Der Reiskoch</title>
+    <title>erbsen auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/erbsen/</link>
-    <description>Recent content in erbsen on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in erbsen  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 03 May 2020 10:44:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/erbsen/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-mattar-paneer/</guid>
       <description>Curry mit Erbsen und Frischkäse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0882/indisches_mattar_paneer.jpg</url>
+        <title>Indisches Mattar Paneer</title>
+        <link>https://der.reisko.ch/rezepte/indisches-mattar-paneer/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gelbes-curry-mit-lachs-und-kabeljau/</guid>
       <description>Gaeng Gari Plaa</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0503/gelbes_curry_mit_lachs_und_kabeljau.jpg</url>
+        <title>Gelbes Curry mit Lachs und Kabeljau</title>
+        <link>https://der.reisko.ch/rezepte/gelbes-curry-mit-lachs-und-kabeljau/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indonesisches-nasi-goreng/</guid>
       <description>Gebratener Reis mit Garnelen und Ei</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0432/teller.jpg</url>
+        <title>Indonesisches Nasi Goreng</title>
+        <link>https://der.reisko.ch/rezepte/indonesisches-nasi-goreng/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/caldereta-mit-chorizo-und-rindergulasch/</guid>
       <description>Philippinischer Eintopf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0224/caldereta.jpg</url>
+        <title>Caldereta mit Chorizo und Rindergulasch</title>
+        <link>https://der.reisko.ch/rezepte/caldereta-mit-chorizo-und-rindergulasch/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-kartoffel-erbsen-curry/</guid>
       <description>Ein vegetarisches Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0102/curry.jpg</url>
+        <title>Indisches Kartoffel-Erbsen Curry</title>
+        <link>https://der.reisko.ch/rezepte/indisches-kartoffel-erbsen-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/pisvm-indicvm-romani/</guid>
       <description>Erbsen auf indische Art</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0218/pfanne.jpg</url>
+        <title>PISVM INDICVM ROMANI</title>
+        <link>https://der.reisko.ch/nachgekocht/pisvm-indicvm-romani/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/vegetarisches-burmesisches-biryani/</guid>
       <description>Leckere Reispfanne</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0070/biryani2.jpg</url>
+        <title>Vegetarisches burmesisches Biryani</title>
+        <link>https://der.reisko.ch/rezepte/vegetarisches-burmesisches-biryani/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kabeljaufilet-mit-erbsen-und-frischen-krautern/</guid>
       <description>Fisch trifft Kräutergarten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0126/kabeljau1.jpg</url>
+        <title>Kabeljaufilet mit Erbsen und Kräutern</title>
+        <link>https://der.reisko.ch/rezepte/kabeljaufilet-mit-erbsen-und-frischen-krautern/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/tandoori-chicken-mit-gajar-matar/</guid>
       <description>Ein Rezept mit etwas Vorlaufzeit</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0019/chicken.jpg</url>
+        <title>Tandoori Chicken mit Gajar Matar</title>
+        <link>https://der.reisko.ch/rezepte/tandoori-chicken-mit-gajar-matar/</link>
+        </image>
     </item>
     
   </channel>

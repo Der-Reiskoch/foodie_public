@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bangkok on Der Reiskoch</title>
+    <title>bangkok auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/bangkok/</link>
-    <description>Recent content in bangkok on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in bangkok  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 15 Mar 2019 06:52:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/bangkok/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/reisen/suvarnabhumi-airport-street-food/</guid>
       <description>Etwas versteckter Food Court am Flughafen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0711/essensstaende.jpg</url>
+        <title>Suvarnabhumi Airport Street Food</title>
+        <link>https://der.reisko.ch/reisen/suvarnabhumi-airport-street-food/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/reisen/versuchung-am-suvarnabhumi-airport/</guid>
       <description>Viel zu viele tolle Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0323/buecher.jpg</url>
+        <title>Versuchung am Suvarnabhumi Airport</title>
+        <link>https://der.reisko.ch/reisen/versuchung-am-suvarnabhumi-airport/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/reisen/sukhumvit-soi-38-foodmarket/</guid>
       <description>Eine kleine Fressmeile in Bangkok</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0320/suppenstand.jpg</url>
+        <title>Sukhumvit Soi 38 Foodmarket</title>
+        <link>https://der.reisko.ch/reisen/sukhumvit-soi-38-foodmarket/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/reisen/thai-kochkurs-in-bangkok/</guid>
       <description>Bei Tuk vom Bamboo Guesthouse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0039/kraeuter.jpg</url>
+        <title>Thai Kochkurs in Bangkok</title>
+        <link>https://der.reisko.ch/reisen/thai-kochkurs-in-bangkok/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lamm on Der Reiskoch</title>
+    <title>lamm auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/lamm/</link>
-    <description>Recent content in lamm on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in lamm  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 08 Dec 2020 05:31:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/lamm/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/lammtopf-mit-gemuese-und-bohnen/</guid>
       <description>Leckeres aus Syrien und dem Iran</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0947/zwei_gerichte_und_bulgur.jpg</url>
+        <title>Lammtopf mit Gemüse und Bohnen</title>
+        <link>https://der.reisko.ch/nachgekocht/lammtopf-mit-gemuese-und-bohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mongolisches-lamm-mit-pak-choy/</guid>
       <description>Eine sehr schnelles chinesisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0839/lamm_mit_pak_choy.jpg</url>
+        <title>Mongolisches Lamm mit Pak Choy</title>
+        <link>https://der.reisko.ch/rezepte/mongolisches-lamm-mit-pak-choy/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/palabok-mit-hackfleisch-und-pak-choy/</guid>
       <description>Deftiges von den Philippinen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0751/palabok_mit_hack_und_pak_choy.jpg</url>
+        <title>Palabok mit Hackfleisch und Pak Choy</title>
+        <link>https://der.reisko.ch/rezepte/palabok-mit-hackfleisch-und-pak-choy/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/afghanisches-kofta-daal/</guid>
       <description>Deftiger Eintopf mit Hackfleischbällchen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0744/kofta_daal.jpg</url>
+        <title>Afghanisches Kofta Daal</title>
+        <link>https://der.reisko.ch/rezepte/afghanisches-kofta-daal/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/karibisches-lamm-curry-mit-kartoffeln/</guid>
       <description>Curry aus Jamaika mit Kokosmilch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0716/lamm_curry_mit_kartoffel.jpg</url>
+        <title>Karibisches Lamm Curry mit Kartoffeln</title>
+        <link>https://der.reisko.ch/nachgekocht/karibisches-lamm-curry-mit-kartoffeln/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/auberginen-curry-und-rogan-josh/</guid>
       <description>Zwei indische Curries am Sonntag</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0684/auberginen_curry_und_rogan_josh.jpg</url>
+        <title>Auberginen Curry und Rogan Josh</title>
+        <link>https://der.reisko.ch/nachgekocht/auberginen-curry-und-rogan-josh/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/zwei-indische-curries-und-einmal-spinat/</guid>
       <description>Große Kochaktion am Sonntagabend</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0652/zwei_curries_und_spinat.jpg</url>
+        <title>Zwei indische Curries und einmal Spinat</title>
+        <link>https://der.reisko.ch/nachgekocht/zwei-indische-curries-und-einmal-spinat/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/lamm-zigni-und-yehabesha-gomen-tips/</guid>
       <description>Äthiopischer Lammeintopf mit Grünkohl</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0484/lamm_zigni_mit_gruenkohl.jpg</url>
+        <title>Lamm Zigni und Yehabesha Gomen Tips</title>
+        <link>https://der.reisko.ch/nachgekocht/lamm-zigni-und-yehabesha-gomen-tips/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/scharfes-jamaikanisches-lamm-curry/</guid>
       <description>Unsere Scotch-Bonnet-Ernte im Einsatz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0416/teller.jpg</url>
+        <title>Scharfes jamaikanisches Lamm Curry</title>
+        <link>https://der.reisko.ch/nachgekocht/scharfes-jamaikanisches-lamm-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/indisches-seyal-gosht/</guid>
       <description>Lamm in Zwiebeln und Joghurt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0412/teller.jpg</url>
+        <title>Indisches Seyal Gosht</title>
+        <link>https://der.reisko.ch/nachgekocht/indisches-seyal-gosht/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/indisches-lamm-kofta/</guid>
       <description>Ein Notfall Curry mit Hackfleisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0098/teller.jpg</url>
+        <title>Indisches Lamm Kofta</title>
+        <link>https://der.reisko.ch/nachgekocht/indisches-lamm-kofta/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/zwei-curries-mit-kochbananen/</guid>
       <description>Curries aus Südafrika und Südindien</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0336/teller.jpg</url>
+        <title>Zwei Curries mit Kochbananen</title>
+        <link>https://der.reisko.ch/nachgekocht/zwei-curries-mit-kochbananen/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kaukasischer-ziegeneintopf/</guid>
       <description>Ostri aus Georgien</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0037/ostri.jpg</url>
+        <title>Kaukasischer Ziegeneintopf</title>
+        <link>https://der.reisko.ch/rezepte/kaukasischer-ziegeneintopf/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/cremiges-indisches-lammcurry/</guid>
       <description>Cremig, würzig, lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0033/curry.jpg</url>
+        <title>Cremiges indisches Lammcurry</title>
+        <link>https://der.reisko.ch/rezepte/cremiges-indisches-lammcurry/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>franken on Der Reiskoch</title>
+    <title>franken auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/franken/</link>
-    <description>Recent content in franken on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in franken  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 09 Sep 2017 01:33:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/franken/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/getranke/museumsbier-aus-bad-windsheim/</guid>
       <description>Annes fränkische Mitbringsel</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0533/museumsbiere.jpg</url>
+        <title>Museumsbier aus Bad Windsheim</title>
+        <link>https://der.reisko.ch/getranke/museumsbier-aus-bad-windsheim/</link>
+        </image>
     </item>
     
   </channel>

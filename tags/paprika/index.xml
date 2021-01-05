@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>paprika on Der Reiskoch</title>
+    <title>paprika auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/paprika/</link>
-    <description>Recent content in paprika on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in paprika  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 22 Mar 2020 10:22:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/paprika/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/karahi-paneer-mit-peynir/</guid>
       <description>Ein vegetarisches indisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0879/karahi_paneer.jpg</url>
+        <title>Karahi Paneer mit Peynir</title>
+        <link>https://der.reisko.ch/nachgekocht/karahi-paneer-mit-peynir/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/jamaikanischer-eintopf-mit-rinderbraten/</guid>
       <description>Ein spontanes, sehr scharfes Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0797/jamaikanischer_eintopf.jpg</url>
+        <title>Jamaikanischer Eintopf mit Rinderbraten</title>
+        <link>https://der.reisko.ch/rezepte/jamaikanischer-eintopf-mit-rinderbraten/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-chili-paneer/</guid>
       <description>Ein indo-chinesiches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0760/chili_paneer.jpg</url>
+        <title>Indisches Chili Paneer</title>
+        <link>https://der.reisko.ch/rezepte/indisches-chili-paneer/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanischer-meeresfruchte-eintopf/</guid>
       <description>Eine schnelle Doenjang Jjigae</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0633/eintopf_mit_ei.jpg</url>
+        <title>Koreanischer Meeresfrüchte Eintopf</title>
+        <link>https://der.reisko.ch/rezepte/koreanischer-meeresfruchte-eintopf/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/doenjang-pimientos-de-padron/</guid>
       <description>Koreanische Beilage nach RyuKoch.com</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0632/doenjang_pimientos.jpg</url>
+        <title>Doenjang Pimientos de Padrón</title>
+        <link>https://der.reisko.ch/nachgekocht/doenjang-pimientos-de-padron/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rindergulasch-ungarische-art/</guid>
       <description>Mal wieder was deftiges</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0573/ungarisches_rindergulasch.jpg</url>
+        <title>Rindergulasch ungarische Art</title>
+        <link>https://der.reisko.ch/rezepte/rindergulasch-ungarische-art/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rindfleisch-aus-dem-bambusdampfer/</guid>
       <description>Mein neues Küchenutensil im Einsatz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0496/beim_daempfen.jpg</url>
+        <title>Rindfleisch aus dem Bambusdämpfer</title>
+        <link>https://der.reisko.ch/rezepte/rindfleisch-aus-dem-bambusdampfer/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gebratener-reis-mit-teeblatt-aus-myanmar/</guid>
       <description>Reisreste auf burmesisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0474/gebratener_reis_mit_teeblatt.jpg</url>
+        <title>Gebratener Reis mit Teeblatt aus Myanmar</title>
+        <link>https://der.reisko.ch/rezepte/gebratener-reis-mit-teeblatt-aus-myanmar/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/hahnchen-gong-bao-in-der-mittagspause/</guid>
       <description>Mal wieder was Schnelles aus dem Wok</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0461/gong_bao_chicken.jpg</url>
+        <title>Hähnchen Gong Bao in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/hahnchen-gong-bao-in-der-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/roemischer-rinderbraten-mit-rosmarin/</guid>
       <description>Kochzeitreise mit frischen Kräutern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0449/roemischer_braten.jpg</url>
+        <title>Römischer Rinderbraten mit Rosmarin</title>
+        <link>https://der.reisko.ch/rezepte/roemischer-rinderbraten-mit-rosmarin/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mit-hackfleisch-gefullte-riesenzucchini/</guid>
       <description>Monstergemüse mit deftigem Inhalt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0382/von_oben.jpg</url>
+        <title>Mit Hackfleisch gefüllte Riesenzucchini</title>
+        <link>https://der.reisko.ch/rezepte/mit-hackfleisch-gefullte-riesenzucchini/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/reissalat-mit-chorizo-und-bratpaprika/</guid>
       <description>Spanische Zutaten mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0373/salat.jpg</url>
+        <title>Reissalat mit Chorizo und Bratpaprika</title>
+        <link>https://der.reisko.ch/rezepte/reissalat-mit-chorizo-und-bratpaprika/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/indisches-gemuse-curry-aus-goa/</guid>
       <description>Kath Katha</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0287/teller.jpg</url>
+        <title>Indisches Gemüse Curry aus Goa</title>
+        <link>https://der.reisko.ch/nachgekocht/indisches-gemuse-curry-aus-goa/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/bunte-gemuse-hackpfanne-thai-style/</guid>
       <description>Schnell, lecker, selbstausgedacht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0172/pfanne.jpg</url>
+        <title>Bunte Gemüse-Hackpfanne Thai-Style</title>
+        <link>https://der.reisko.ch/rezepte/bunte-gemuse-hackpfanne-thai-style/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mit-reis-gefullte-spitzpaprika/</guid>
       <description>Türkische Leckerei</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0241/teller.jpg</url>
+        <title>Mit Reis gefüllte Spitzpaprika</title>
+        <link>https://der.reisko.ch/rezepte/mit-reis-gefullte-spitzpaprika/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/caldereta-mit-chorizo-und-rindergulasch/</guid>
       <description>Philippinischer Eintopf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0224/caldereta.jpg</url>
+        <title>Caldereta mit Chorizo und Rindergulasch</title>
+        <link>https://der.reisko.ch/rezepte/caldereta-mit-chorizo-und-rindergulasch/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/japanisches-menu-nach-harumi/</guid>
       <description>Drei japanische Gerichte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0223/tisch.jpg</url>
+        <title>Japanisches Menü nach Harumi</title>
+        <link>https://der.reisko.ch/nachgekocht/japanisches-menu-nach-harumi/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/karibische-rindfleisch-pfanne/</guid>
       <description>Lass die Sonne rein</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0200/teller.jpg</url>
+        <title>Karibische Rindfleisch-Pfanne</title>
+        <link>https://der.reisko.ch/rezepte/karibische-rindfleisch-pfanne/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hackfleisch-pfanne-mit-bratpaprika/</guid>
       <description>Das weckt Urlaubserinnerungen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0140/pfanne.jpg</url>
+        <title>Hackfleisch-Pfanne mit Bratpaprika</title>
+        <link>https://der.reisko.ch/rezepte/hackfleisch-pfanne-mit-bratpaprika/</link>
+        </image>
     </item>
     
     <item>
@@ -185,60 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/philippinisches-adobo-im-schmortopf/</guid>
       <description>Ein Schmortopf-Experiment mit Fertigpackung</description>
-    </item>
-    
-    <item>
-      <title>Pak Choy Pfanne mit Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/pak-choy-pfanne-mit-pilzen/</link>
-      <pubDate>Wed, 06 Nov 2013 08:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/pak-choy-pfanne-mit-pilzen/</guid>
-      <description>Leckeres asiatisches Pfannengericht</description>
-    </item>
-    
-    <item>
-      <title>Mama Sita&#39;s Caldereta</title>
-      <link>https://der.reisko.ch/rezepte/mama-sitas-caldereta/</link>
-      <pubDate>Tue, 17 Sep 2013 07:48:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/mama-sitas-caldereta/</guid>
-      <description>Rindfleisch-Gemüse-Eintopf von den Philippinen</description>
-    </item>
-    
-    <item>
-      <title>Buntes Thai Rinder-Curry</title>
-      <link>https://der.reisko.ch/rezepte/buntes-thai-rinder-curry/</link>
-      <pubDate>Wed, 11 Sep 2013 10:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/buntes-thai-rinder-curry/</guid>
-      <description>Nicht immer nur rot, grün oder gelb</description>
-    </item>
-    
-    <item>
-      <title>Winterliches Hirschgulasch</title>
-      <link>https://der.reisko.ch/rezepte/winterliches-hirschgulasch/</link>
-      <pubDate>Thu, 08 Dec 2011 10:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/winterliches-hirschgulasch/</guid>
-      <description>Ein deftiges Wildgericht</description>
-    </item>
-    
-    <item>
-      <title>Reisnudel Pfanne mit Pad-Thai-Sauce</title>
-      <link>https://der.reisko.ch/rezepte/reisnudel-pfanne-mit-pad-thai-sauce/</link>
-      <pubDate>Tue, 06 Dec 2011 07:32:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/reisnudel-pfanne-mit-pad-thai-sauce/</guid>
-      <description>Eine lange Tradition</description>
-    </item>
-    
-    <item>
-      <title>Ratatouillegemüse mit Hackfleisch</title>
-      <link>https://der.reisko.ch/rezepte/ratatouillegemuese-mit-hackfleisch/</link>
-      <pubDate>Sun, 06 Nov 2011 09:32:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/ratatouillegemuese-mit-hackfleisch/</guid>
-      <description>Der Klassiker, nur deftiger</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0109/adobo.jpg</url>
+        <title>Philippinisches Adobo im Schmortopf</title>
+        <link>https://der.reisko.ch/rezepte/philippinisches-adobo-im-schmortopf/</link>
+        </image>
     </item>
     
   </channel>

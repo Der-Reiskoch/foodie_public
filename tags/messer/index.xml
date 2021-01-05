@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>messer on Der Reiskoch</title>
+    <title>messer auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/messer/</link>
-    <description>Recent content in messer on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in messer  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 08 Sep 2020 06:22:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/messer/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/utensilien/neues-heim-fuer-meine-messer/</guid>
       <description>Erweiterung meines Flugzeugtrolleys</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0606/messerschublade.jpg</url>
+        <title>Neues Heim für meine Messer</title>
+        <link>https://der.reisko.ch/utensilien/neues-heim-fuer-meine-messer/</link>
+        </image>
     </item>
     
   </channel>

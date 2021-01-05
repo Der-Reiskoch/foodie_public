@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rettich on Der Reiskoch</title>
+    <title>rettich auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/rettich/</link>
-    <description>Recent content in rettich on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in rettich  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 02 Nov 2018 07:06:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/rettich/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanische-schweinelende-mit-rettich/</guid>
       <description>Ein herbstlicher Eintopf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0679/schweineldende_mit_rettich.jpg</url>
+        <title>Japanische Schweinelende mit Rettich</title>
+        <link>https://der.reisko.ch/rezepte/japanische-schweinelende-mit-rettich/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-jjajangmyeon/</guid>
       <description>Nudeln mit schwarzer Bohnenpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0578/koreanische_jjajangmyeon.jpg</url>
+        <title>Koreanische Jjajangmyeon</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-jjajangmyeon/</link>
+        </image>
     </item>
     
   </channel>

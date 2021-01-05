@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>haselnüsse on Der Reiskoch</title>
+    <title>haselnüsse auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/haselnusse/</link>
-    <description>Recent content in haselnüsse on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in haselnüsse  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 01 Apr 2018 08:11:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/haselnusse/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/super-scharfes-einhorncurry/</guid>
       <description>Eine Curryspezialität aus Bhutan</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0148/der_grosse_moment.jpg</url>
+        <title>Super scharfes Einhorncurry</title>
+        <link>https://der.reisko.ch/rezepte/super-scharfes-einhorncurry/</link>
+        </image>
     </item>
     
   </channel>

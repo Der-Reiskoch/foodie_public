@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pizza on Der Reiskoch</title>
+    <title>pizza auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/pizza/</link>
-    <description>Recent content in pizza on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in pizza  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 28 Jan 2020 10:48:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/pizza/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/mittagstisch-im-ristorante-borsalino/</guid>
       <description>Solide italienische Gerichte zum kleinen Preis</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0859/tortellini_alla_panna.jpg</url>
+        <title>Mittagstisch im Ristorante Borsalino</title>
+        <link>https://der.reisko.ch/restaurants/mittagstisch-im-ristorante-borsalino/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/ristorante-la-dolce-vita-in-durlach/</guid>
       <description>Gute italienische Küche in der Altstadt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0853/rigatoni_arrabiata_mit_meeresfruechten.jpg</url>
+        <title>Ristorante La Dolce Vita in Durlach</title>
+        <link>https://der.reisko.ch/restaurants/ristorante-la-dolce-vita-in-durlach/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pizza-mit-spargel-spinat-und-schinken/</guid>
       <description>Spargel mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0160/blech.jpg</url>
+        <title>Pizza mit Spargel, Spinat und Schinken</title>
+        <link>https://der.reisko.ch/rezepte/pizza-mit-spargel-spinat-und-schinken/</link>
+        </image>
     </item>
     
   </channel>

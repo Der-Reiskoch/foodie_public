@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>srilankisch on Der Reiskoch</title>
+    <title>srilankisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/srilankisch/</link>
-    <description>Recent content in srilankisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in srilankisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 28 Nov 2019 06:14:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/srilankisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/sri-lanka-curry-aus-cashewnussen/</guid>
       <description>Ein sehr süßes Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0828/sri_lanka_curry_aus_cashewnuessen.jpg</url>
+        <title>Sri Lanka Curry aus Cashewnüssen</title>
+        <link>https://der.reisko.ch/rezepte/sri-lanka-curry-aus-cashewnussen/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/tamarinden-fisch-aus-sri-lanka/</guid>
       <description>Ein saures Gericht mit geröstetem Currypulver</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0827/tamarinden-fisch.jpg</url>
+        <title>Tamarinden-Fisch aus Sri Lanka</title>
+        <link>https://der.reisko.ch/rezepte/tamarinden-fisch-aus-sri-lanka/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/sri-lanka-curry-mit-schwein-und-rind/</guid>
       <description>Ein säuerliches Curry auf Pulver Basis</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0812/sri_lanka_curry_mit_schwein.jpg</url>
+        <title>Sri Lanka Curry mit Schwein und Rind</title>
+        <link>https://der.reisko.ch/rezepte/sri-lanka-curry-mit-schwein-und-rind/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/wildschweingulasch-auf-sri-lanka-art/</guid>
       <description>Ein ganz besonderes Gulasch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0219/teller.jpg</url>
+        <title>Wildschweingulasch auf Sri Lanka Art</title>
+        <link>https://der.reisko.ch/rezepte/wildschweingulasch-auf-sri-lanka-art/</link>
+        </image>
     </item>
     
   </channel>

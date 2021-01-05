@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>schwetzingen on Der Reiskoch</title>
+    <title>schwetzingen auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/schwetzingen/</link>
-    <description>Recent content in schwetzingen on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in schwetzingen  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 16 Apr 2019 06:42:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/schwetzingen/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/plankstaedter-spargel-mit-pfannkuchen/</guid>
       <description>Leckeres Gemüse aus der Kurpfalz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0745/spargel_mit_pfannkuchen.jpg</url>
+        <title>Plankstädter Spargel mit Pfannkuchen</title>
+        <link>https://der.reisko.ch/rezepte/plankstaedter-spargel-mit-pfannkuchen/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/getranke/welde-jahrgangs-und-jubilaumsbiere/</guid>
       <description>Besondere Biere aus der Kurpfalz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0390/jahrgangsbier_no_9.jpg</url>
+        <title>Welde Jahrgangs- und Jubiläumsbiere</title>
+        <link>https://der.reisko.ch/getranke/welde-jahrgangs-und-jubilaumsbiere/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/xia-garden-in-schwetzingen/</guid>
       <description>Reichhaltiges Buffet zu fairen Preisen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0541/seafood.jpg</url>
+        <title>Xia Garden in Schwetzingen</title>
+        <link>https://der.reisko.ch/restaurants/xia-garden-in-schwetzingen/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/getranke/welde-craft-beer-edition/</guid>
       <description>Verrückte Biere aus der Kurpfalz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0307/vorne.jpg</url>
+        <title>Welde Craft Beer Edition</title>
+        <link>https://der.reisko.ch/getranke/welde-craft-beer-edition/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/getranke/lager-bock-mit-hopfen-aus-neuseeland/</guid>
       <description>Welde Jahrgangsbier No. 6</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0095/lagerbock.jpg</url>
+        <title>Lager Bock mit Hopfen aus Neuseeland</title>
+        <link>https://der.reisko.ch/getranke/lager-bock-mit-hopfen-aus-neuseeland/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schwetzinger-spargelcremesuppe/</guid>
       <description>Cremig und Lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0242/topf2.jpg</url>
+        <title>Schwetzinger Spargelcremesuppe</title>
+        <link>https://der.reisko.ch/rezepte/schwetzinger-spargelcremesuppe/</link>
+        </image>
     </item>
     
   </channel>

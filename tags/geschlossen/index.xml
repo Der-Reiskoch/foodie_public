@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>geschlossen on Der Reiskoch</title>
+    <title>geschlossen auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/geschlossen/</link>
-    <description>Recent content in geschlossen on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in geschlossen  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 28 Oct 2020 10:39:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/geschlossen/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-china-bao-im-passagehof/</guid>
       <description>Dampfnudeln, Teigtaschen und mehr</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0774/bao_mit_chili_sosse.jpg</url>
+        <title>Restaurant China Bao (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-china-bao-im-passagehof/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/jacques-meyers-culinarium-geschlossen/</guid>
       <description>Gute Küche in historischen Gemäuern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0810/jakobsmuscheln_mit_reis.jpg</url>
+        <title>Jacques Meyer’s Culinarium (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/jacques-meyers-culinarium-geschlossen/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-fiv5-friends-geschlossen/</guid>
       <description>Vietnamesisch Essen in der Oststadt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0757/pho_five_friends.jpg</url>
+        <title>Restaurant Fiv5 Friends (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-fiv5-friends-geschlossen/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/restaurants/schnellrestaurant-hanoi-geschlossen/</guid>
       <description>Vietnamesisch aber auch Thai und Chinesisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0788/schweinefleisch_in_ki-mau_sosse.jpg</url>
+        <title>Schnellrestaurant Hanoi (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/schnellrestaurant-hanoi-geschlossen/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/restaurants/sizilianisches-restaurant-saf/</guid>
       <description>Ungewöhnliche Küche in gemütlicher Atmosphäre</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0729/tajine_mit_huhn.jpg</url>
+        <title>Restaurant SAF (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/sizilianisches-restaurant-saf/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/restaurants/uigurisches-restaurant-kroran-geschlossen/</guid>
       <description>Eine bisher unbekannte Küche in Karlsruhe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0571/laghman_nudeln_mit_lamm.jpg</url>
+        <title>Uigurisches Restaurant Kroran (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/uigurisches-restaurant-kroran-geschlossen/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-soong-hau-geschlossen/</guid>
       <description>Eine leckere Thai Alternative</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0485/yam_pla_grob.jpg</url>
+        <title>Restaurant Soong Hau (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-soong-hau-geschlossen/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/restaurants/firlefanz-in-karlsruhe-geschlossen/</guid>
       <description>Ein Nachruf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0085/mini_oktopusse.jpg</url>
+        <title>Firlefanz in Karlsruhe (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/firlefanz-in-karlsruhe-geschlossen/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/restaurants/abrahams-cocktail-geschlossen/</guid>
       <description>Äthiopisches Restaurant</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0084/abraham_probierplatte.jpg</url>
+        <title>Abraham&#39;s Cocktail (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/abrahams-cocktail-geschlossen/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/restaurants/banna-thai-in-karlsruhe-geschlossen/</guid>
       <description>Thailändisches Restaurant in Beiertheim</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0060/banna_thai.jpg</url>
+        <title>Banna Thai in Karlsruhe (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/banna-thai-in-karlsruhe-geschlossen/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/restaurants/sushi-king-in-karlsruhe-geschlossen/</guid>
       <description>Leckeres Sushi und Shabu Shabu</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0001/drei_sushis.jpg</url>
+        <title>Sushi King in Karlsruhe (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/sushi-king-in-karlsruhe-geschlossen/</link>
+        </image>
     </item>
     
   </channel>

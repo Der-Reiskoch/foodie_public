@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>meeresfrüchte on Der Reiskoch</title>
+    <title>meeresfrüchte auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/meeresfruchte/</link>
-    <description>Recent content in meeresfrüchte on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in meeresfrüchte  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 03 Jan 2021 11:30:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/meeresfruchte/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hoi-lay-nam-prik-pao-chao-wang/</guid>
       <description>In thailändischer Chilipaste gebratene Jakobsmuscheln</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0974/hoi_lay_nam_prik_pao_chao_wang.jpg</url>
+        <title>Hoi Lai Pad Nam Prik Pao &#34;Chao Wang&#34;</title>
+        <link>https://der.reisko.ch/rezepte/hoi-lay-nam-prik-pao-chao-wang/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-plaa-muek-nam-prik-pao/</guid>
       <description>In Chilipaste gebratener Tintenfisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0969/plaa_muek_pad_nam_prik_pao.jpg</url>
+        <title>Thailändisches Plaa Muek Pad Nam Prik Pao</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-plaa-muek-nam-prik-pao/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/doenjang_jjigae-im-dolsot/</guid>
       <description>Eintopf mit Bohnenpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0957/doenjang-jjigae-dolsot.jpg</url>
+        <title>Doenjang JJigae im Dolsot</title>
+        <link>https://der.reisko.ch/rezepte/doenjang_jjigae-im-dolsot/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/goong-ob-woonsen-im-dolsot/</guid>
       <description>Ein geglücktes Koch Experiment</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0964/goong_ob_woosen_im_dolsot.jpg</url>
+        <title>Goong Ob Woon Sen im Dolsot</title>
+        <link>https://der.reisko.ch/dies-und-das/goong-ob-woonsen-im-dolsot/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendische-tung-thong/</guid>
       <description>Lecker gefüllte frittierte Goldsäckchen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0955/tung_thong_mit_nam_gai.jpg</url>
+        <title>Thailändische Tung Thong</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendische-tung-thong/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-kee-mao-goong/</guid>
       <description>Nudellose Drunken Noodles</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0949/pad_kee_mao_goong.jpg</url>
+        <title>Thailändisches Pad Kee Mao Goong</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-kee-mao-goong/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-talee/</guid>
       <description>Schneller Salat mit Meeresfrüchten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0772/yam_talee.jpg</url>
+        <title>Thailändischer Yam Talee</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-talee/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/goong-ob-woon-sen-nach-maureena/</guid>
       <description>Eines meines liebsten Thai Gerichte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0335/goong_ob_woonsen.jpg</url>
+        <title>Goong Ob Woon Sen nach Maureena</title>
+        <link>https://der.reisko.ch/nachgekocht/goong-ob-woon-sen-nach-maureena/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gaeng-som-cha-om/</guid>
       <description>Saures Curry mit Akazien Omelette</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0929/gaeng_som_cha_om.jpg</url>
+        <title>Thailändisches Gaeng Som Cha Om</title>
+        <link>https://der.reisko.ch/rezepte/gaeng-som-cha-om/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-kra-pao-goong/</guid>
       <description>Gebratene Garnelen mit heiligem Basilikum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0909/pad_kra_pao_goong.jpg</url>
+        <title>Thailändisches Pad Kra Pao Goong</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-kra-pao-goong/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-mara-goong/</guid>
       <description>Salat mit Bittergurke und Garnelen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0905/yam_mara_goong.jpg</url>
+        <title>Thailändischer Yam Mara Goong</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-mara-goong/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/moules-frites-au-roquefort/</guid>
       <description>Wie im Urlaub in der Normandie</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0848/moules-frites_au_roquefort.jpg</url>
+        <title>Moules-frites au Roquefort</title>
+        <link>https://der.reisko.ch/rezepte/moules-frites-au-roquefort/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/goong-pad-nam-prik-horapa/</guid>
       <description>Garnelen in Chilipaste mit süßem Basilikum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0846/goong_pad_prik_horapa.jpg</url>
+        <title>Goong Pad Nam Prik Horapa</title>
+        <link>https://der.reisko.ch/rezepte/goong-pad-nam-prik-horapa/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendische-tom-yam-goong/</guid>
       <description>Sauer-scharfe Suppe mit Garnelen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0002/tom_yum_goong.jpg</url>
+        <title>Thailändische Tom Yam Goong</title>
+        <link>https://der.reisko.ch/rezepte/thailaendische-tom-yam-goong/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/yam-mara-goong-moo-sap/</guid>
       <description>Thai Salat mit Bittergurke, Hackfleisch und Garnelen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0805/yam_mala_goong.jpg</url>
+        <title>Yam Mara Goong Moo Sap</title>
+        <link>https://der.reisko.ch/rezepte/yam-mara-goong-moo-sap/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/laksa-lemak-aus-malaysia/</guid>
       <description>Suppe mit Kokosmilch und Garnelen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0753/annes_schale.jpg</url>
+        <title>Laksa Lemak aus Malaysia</title>
+        <link>https://der.reisko.ch/nachgekocht/laksa-lemak-aus-malaysia/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/nam-ya-thalee-mit-reisnudeln/</guid>
       <description>Nam Ya Nudelcurry mit Meeresfrüchten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0750/nam_ya_talee.jpg</url>
+        <title>Nam Ya Talee mit Reisnudeln</title>
+        <link>https://der.reisko.ch/rezepte/nam-ya-thalee-mit-reisnudeln/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-phed-sator-goong/</guid>
       <description>Gebratene Stinkbohnen mit Garnelen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0715/angerichtet.jpg</url>
+        <title>Thailändisches Pad Phed Sator Goong</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-phed-sator-goong/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/reisen/seafood-bbq-am-haad-khuat/</guid>
       <description>Ein Highlight am Bottle Beach</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0710/seafood_bbq.jpg</url>
+        <title>Seafood BBQ am Haad Khuat</title>
+        <link>https://der.reisko.ch/reisen/seafood-bbq-am-haad-khuat/</link>
+        </image>
     </item>
     
     <item>
@@ -185,366 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-som-o/</guid>
       <description>Scharfer Pomelo Salat mit Garnelen</description>
-    </item>
-    
-    <item>
-      <title>Auf dem Nightfoodmarket in Krabi</title>
-      <link>https://der.reisko.ch/reisen/auf-dem-nightfoodmarket-in-krabi/</link>
-      <pubDate>Sat, 26 Jan 2019 03:04:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/reisen/auf-dem-nightfoodmarket-in-krabi/</guid>
-      <description>Open Air Restaurants am Hafen</description>
-    </item>
-    
-    <item>
-      <title>Seafood Restaurant Paknam in Krabi</title>
-      <link>https://der.reisko.ch/reisen/seafood-restaurant-paknam-in-krabi/</link>
-      <pubDate>Tue, 22 Jan 2019 07:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/reisen/seafood-restaurant-paknam-in-krabi/</guid>
-      <description>Pfeilschwanzkrebs und anderes Seegetier</description>
-    </item>
-    
-    <item>
-      <title>Fischis Yam Plaa Muek</title>
-      <link>https://der.reisko.ch/rezepte/fischis-yam-plaa-muek/</link>
-      <pubDate>Tue, 25 Dec 2018 11:07:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/fischis-yam-plaa-muek/</guid>
-      <description>Eine Variation des Tintenfischsalats</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Gaeng Panaeng Talee</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-gaeng-panaeng-talee/</link>
-      <pubDate>Fri, 05 Oct 2018 06:38:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-gaeng-panaeng-talee/</guid>
-      <description>Panaeng Curry mit Meeresfrüchten</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Plaa Muek</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-plaa-muek/</link>
-      <pubDate>Mon, 13 Aug 2018 06:29:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-plaa-muek/</guid>
-      <description>Salat mit gebratenem Tintenfisch</description>
-    </item>
-    
-    <item>
-      <title>Goong Ob Sen Mee nach Pailin</title>
-      <link>https://der.reisko.ch/nachgekocht/goong-ob-sen-mee-nach-pailin/</link>
-      <pubDate>Sat, 14 Jul 2018 09:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/goong-ob-sen-mee-nach-pailin/</guid>
-      <description>Reisnudeln mit frischen Crevetten</description>
-    </item>
-    
-    <item>
-      <title>Koreanischer Meeresfrüchte Eintopf</title>
-      <link>https://der.reisko.ch/rezepte/koreanischer-meeresfruchte-eintopf/</link>
-      <pubDate>Fri, 06 Jul 2018 06:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/koreanischer-meeresfruchte-eintopf/</guid>
-      <description>Eine schnelle Doenjang Jjigae</description>
-    </item>
-    
-    <item>
-      <title>Thai Salate im Restaurant Nat-Pob</title>
-      <link>https://der.reisko.ch/restaurants/thai-salate-im-restaurant-nat-pob/</link>
-      <pubDate>Sun, 28 May 2017 10:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/thai-salate-im-restaurant-nat-pob/</guid>
-      <description>Ein weiteres Restaurant in Karlsruhe ausprobiert</description>
-    </item>
-    
-    <item>
-      <title>Le Bar à Huîtres: Haute-Mer Restaurant</title>
-      <link>https://der.reisko.ch/restaurants/le-bar-a-huitres-haute-mer-restaurant/</link>
-      <pubDate>Sat, 20 May 2017 08:27:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/le-bar-a-huitres-haute-mer-restaurant/</guid>
-      <description>Und plötzlich am Meer</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Miesmuschel Curry</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-miesmuschel-curry/</link>
-      <pubDate>Sun, 15 Jan 2017 08:32:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-miesmuschel-curry/</guid>
-      <description>Gaeng Kiaw Wan Hoy</description>
-    </item>
-    
-    <item>
-      <title>Schweinelende im Salbei-Schinken-Mantel</title>
-      <link>https://der.reisko.ch/rezepte/schweinelende-im-salbei-schinken-mantel/</link>
-      <pubDate>Tue, 20 Dec 2016 06:02:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/schweinelende-im-salbei-schinken-mantel/</guid>
-      <description>Ein deftig-kräuteriger Sonntagsbraten</description>
-    </item>
-    
-    <item>
-      <title>Garnelen-Salat mit Tomaten und Parmesan</title>
-      <link>https://der.reisko.ch/rezepte/garnelensalat-mit-tomaten-und-parmesan/</link>
-      <pubDate>Tue, 29 Nov 2016 06:43:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/garnelensalat-mit-tomaten-und-parmesan/</guid>
-      <description>Ein schneller, leckerer Salat</description>
-    </item>
-    
-    <item>
-      <title>Miso-Suppe mit Garnelen und Ei</title>
-      <link>https://der.reisko.ch/rezepte/miso-suppe-mit-garnelen-und-ei/</link>
-      <pubDate>Fri, 11 Nov 2016 06:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/miso-suppe-mit-garnelen-und-ei/</guid>
-      <description>Schnelle Suppe für den Herbst</description>
-    </item>
-    
-    <item>
-      <title>Nam Ya Goong mit Reisnudeln</title>
-      <link>https://der.reisko.ch/rezepte/nam-ya-goong-mit-reisnudeln/</link>
-      <pubDate>Tue, 08 Nov 2016 07:13:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/nam-ya-goong-mit-reisnudeln/</guid>
-      <description>Nudelcurry mit Garnelen</description>
-    </item>
-    
-    <item>
-      <title>Indonesisches Nasi Goreng</title>
-      <link>https://der.reisko.ch/rezepte/indonesisches-nasi-goreng/</link>
-      <pubDate>Thu, 13 Oct 2016 07:25:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indonesisches-nasi-goreng/</guid>
-      <description>Gebratener Reis mit Garnelen und Ei</description>
-    </item>
-    
-    <item>
-      <title>Griechisches Restaurant Panorama</title>
-      <link>https://der.reisko.ch/restaurants/griechisches-restaurant-panorama/</link>
-      <pubDate>Sat, 20 Aug 2016 08:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/griechisches-restaurant-panorama/</guid>
-      <description>Leckere Mezedes am Kolpingplatz in Karlsruhe</description>
-    </item>
-    
-    <item>
-      <title>Garnelen-Salat mit Schlangenbohnen</title>
-      <link>https://der.reisko.ch/rezepte/thai-garnelen-salat-mit-schlangenbohnen/</link>
-      <pubDate>Wed, 10 Aug 2016 09:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-garnelen-salat-mit-schlangenbohnen/</guid>
-      <description>Thailändischer Yam Goong Thua</description>
-    </item>
-    
-    <item>
-      <title>Sommerrollen mit gehackten Garnelen</title>
-      <link>https://der.reisko.ch/rezepte/sommerrollen-mit-gehackten-garnelen/</link>
-      <pubDate>Sat, 25 Jun 2016 09:49:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/sommerrollen-mit-gehackten-garnelen/</guid>
-      <description>Genau das richtige bei heißen Temperaturen</description>
-    </item>
-    
-    <item>
-      <title>Gelbes Curry mit Garnelen und Süßkartoffeln</title>
-      <link>https://der.reisko.ch/rezepte/gelbes-curry-mit-garnelen-und-susskartoffeln/</link>
-      <pubDate>Wed, 24 Feb 2016 06:53:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gelbes-curry-mit-garnelen-und-susskartoffeln/</guid>
-      <description>Gaeng Gari Goong &amp;lsquo;Chao Wang&amp;rsquo;</description>
-    </item>
-    
-    <item>
-      <title>Burmesisches Pazun Yay Cho</title>
-      <link>https://der.reisko.ch/nachgekocht/burmesisches-pazun-yay-cho/</link>
-      <pubDate>Sat, 30 Jan 2016 08:31:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/burmesisches-pazun-yay-cho/</guid>
-      <description>Garnelencurry aus Myanmar</description>
-    </item>
-    
-    <item>
-      <title>Kreolische Tintenfisch Pfanne</title>
-      <link>https://der.reisko.ch/rezepte/kreolische-tintenfisch-pfanne/</link>
-      <pubDate>Tue, 17 Nov 2015 08:26:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kreolische-tintenfisch-pfanne/</guid>
-      <description>Ein Karibik-Traum</description>
-    </item>
-    
-    <item>
-      <title>Kreolischer Kürbiseintopf mit Garnelen</title>
-      <link>https://der.reisko.ch/rezepte/kreolischer-kurbiseintopf-mit-garnelen/</link>
-      <pubDate>Thu, 05 Nov 2015 05:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kreolischer-kurbiseintopf-mit-garnelen/</guid>
-      <description>Kürbis wie in der Karibik</description>
-    </item>
-    
-    <item>
-      <title>Calamari mit Avocado-Tomaten-Gemüse</title>
-      <link>https://der.reisko.ch/rezepte/calamari-mit-avocado-tomaten-gemuse/</link>
-      <pubDate>Wed, 16 Sep 2015 06:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/calamari-mit-avocado-tomaten-gemuse/</guid>
-      <description>Nochmal etwas Sommerliches</description>
-    </item>
-    
-    <item>
-      <title>Zitronig-scharfe Tintenfischringe</title>
-      <link>https://der.reisko.ch/rezepte/zitronig-scharfe-tintenfischringe/</link>
-      <pubDate>Fri, 04 Sep 2015 07:08:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/zitronig-scharfe-tintenfischringe/</guid>
-      <description>Ein schnelles Gericht</description>
-    </item>
-    
-    <item>
-      <title>Asia-Pfanne mit Garnelen und Kaiserschoten</title>
-      <link>https://der.reisko.ch/rezepte/asia-pfanne-mit-garnelen-und-kaiserschoten/</link>
-      <pubDate>Sat, 08 Aug 2015 07:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/asia-pfanne-mit-garnelen-und-kaiserschoten/</guid>
-      <description>Eine chineschische Eigenkreation</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Moo Kata BBQ</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-moo-kata-bbq/</link>
-      <pubDate>Mon, 22 Jun 2015 08:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-moo-kata-bbq/</guid>
-      <description>Fondue und Grillen auf einmal</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Tintenfisch Salat</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-tintenfisch-salat/</link>
-      <pubDate>Tue, 05 May 2015 05:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-tintenfisch-salat/</guid>
-      <description>Eine Yam Plaa Muek Variation</description>
-    </item>
-    
-    <item>
-      <title>PISVM INDICVM ROMANI</title>
-      <link>https://der.reisko.ch/nachgekocht/pisvm-indicvm-romani/</link>
-      <pubDate>Sun, 22 Mar 2015 11:02:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/pisvm-indicvm-romani/</guid>
-      <description>Erbsen auf indische Art</description>
-    </item>
-    
-    <item>
-      <title>Ramen Salat mit Rind und Garnelen</title>
-      <link>https://der.reisko.ch/rezepte/ramen-salat-mit-rind-und-garnelen/</link>
-      <pubDate>Wed, 25 Feb 2015 07:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/ramen-salat-mit-rind-und-garnelen/</guid>
-      <description>Lauwarmer Asia-Fusion-Nudelsalat</description>
-    </item>
-    
-    <item>
-      <title>Rote Miso-Suppe mit Pak Choy und Garnelen</title>
-      <link>https://der.reisko.ch/rezepte/rote-miso-suppe-mit-pak-choy-und-garnelen/</link>
-      <pubDate>Wed, 11 Feb 2015 07:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rote-miso-suppe-mit-pak-choy-und-garnelen/</guid>
-      <description>Japanische Suppe für kalte Tage</description>
-    </item>
-    
-    <item>
-      <title>Kari mit Shrimps und Kochbananen</title>
-      <link>https://der.reisko.ch/rezepte/kari-mit-shrimps-und-kochbananen/</link>
-      <pubDate>Tue, 10 Feb 2015 06:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kari-mit-shrimps-und-kochbananen/</guid>
-      <description>Perencah Kari Ikan Segera</description>
-    </item>
-    
-    <item>
-      <title>Avocado-Miso-Suppe mit Shrimps</title>
-      <link>https://der.reisko.ch/rezepte/avocado-miso-suppe-mit-shrimps/</link>
-      <pubDate>Thu, 08 Jan 2015 08:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/avocado-miso-suppe-mit-shrimps/</guid>
-      <description>Miso-Suppe mal anders</description>
-    </item>
-    
-    <item>
-      <title>Omelette mit Garnelen</title>
-      <link>https://der.reisko.ch/rezepte/omelette-mit-garnelen/</link>
-      <pubDate>Fri, 10 Oct 2014 05:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/omelette-mit-garnelen/</guid>
-      <description>Schnell, lecker und ein klein wenig scharf</description>
-    </item>
-    
-    <item>
-      <title>Laotisches Kare Stir Fry mit Shrimps</title>
-      <link>https://der.reisko.ch/nachgekocht/laotisches-kare-stir-fry-mit-shrimps/</link>
-      <pubDate>Sun, 31 Aug 2014 07:22:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/laotisches-kare-stir-fry-mit-shrimps/</guid>
-      <description>Ein leckeres Pfannencurry</description>
-    </item>
-    
-    <item>
-      <title>Ost-Javanischer Eintopf Rawon</title>
-      <link>https://der.reisko.ch/rezepte/ost-javanischer-eintopf-rawon/</link>
-      <pubDate>Fri, 20 Sep 2013 07:03:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/ost-javanischer-eintopf-rawon/</guid>
-      <description>Kochreise nach Indonesien</description>
-    </item>
-    
-    <item>
-      <title>Indisches Prawn-Curry im Schmortopf</title>
-      <link>https://der.reisko.ch/rezepte/indisches-prawn-curry-im-schmortopf/</link>
-      <pubDate>Tue, 10 Sep 2013 10:40:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indisches-prawn-curry-im-schmortopf/</guid>
-      <description>Einfach zubereitet, dauert aber recht lange</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Goong Ob Woon Sen</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-goong-ob-woon-sen/</link>
-      <pubDate>Sat, 02 Mar 2013 07:32:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-goong-ob-woon-sen/</guid>
-      <description>Shrimps mit Glasnudeln im Tontopf</description>
-    </item>
-    
-    <item>
-      <title>Frische Crevetten als Hors d&#39;oeuvre</title>
-      <link>https://der.reisko.ch/rezepte/frische-crevetten-als-hors-doeuvre/</link>
-      <pubDate>Tue, 31 Jul 2012 09:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/frische-crevetten-als-hors-doeuvre/</guid>
-      <description>Einfach und lecker</description>
-    </item>
-    
-    <item>
-      <title>Miesmuscheln in Gemüsebrühe</title>
-      <link>https://der.reisko.ch/rezepte/miesmuscheln-in-gemusebruhe/</link>
-      <pubDate>Thu, 17 Nov 2011 06:41:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/miesmuscheln-in-gemusebruhe/</guid>
-      <description>Der Klassiker in den Wintermonaten</description>
-    </item>
-    
-    <item>
-      <title>Yam Woon Sen &#34;Chao Wang&#34;</title>
-      <link>https://der.reisko.ch/rezepte/yam-woon-sen-chao-wang/</link>
-      <pubDate>Fri, 04 Nov 2011 06:19:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/yam-woon-sen-chao-wang/</guid>
-      <description>Mein aufgemotzter Glasnudelsalat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0718/yam_som_o.jpg</url>
+        <title>Thailändischer Yam Som O</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-som-o/</link>
+        </image>
     </item>
     
   </channel>

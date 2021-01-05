@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meine liebsten Kochbücher on Der Reiskoch</title>
+    <title>Meine liebsten Kochbücher auf Der Reiskoch</title>
     <link>https://der.reisko.ch/inspirationen/buecher/</link>
-    <description>Recent content in Meine liebsten Kochbücher on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Meine liebsten Kochbücher  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language><atom:link href="https://der.reisko.ch/inspirationen/buecher/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Das Buch &#34;Asia Street Bowls&#34;</title>
@@ -13,6 +13,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/asia_street_bowls.jpg</url>
+        <title>Das Buch &#34;Asia Street Bowls&#34;</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</link>
+        </image>
     </item>
     
     <item>
@@ -22,6 +27,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/asia_street_food.jpg</url>
+        <title>Das Buch &#34;Asia Street Food&#34;</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</link>
+        </image>
     </item>
     
     <item>
@@ -31,6 +41,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/basic-thai/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/basic_thai.jpg</url>
+        <title>Das Buch &#34;Basic Thai&#34;</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/basic-thai/</link>
+        </image>
     </item>
     
     <item>
@@ -40,6 +55,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/classic-thai-stir-fry-dishes/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/classic_thai_stir_fry_dishes.jpg</url>
+        <title>Classic Thai Stir Fry Dishes</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/classic-thai-stir-fry-dishes/</link>
+        </image>
     </item>
     
     <item>
@@ -49,6 +69,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/curry-kochbuch/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/curry.jpg</url>
+        <title>Das gelbe &#34;Curry&#34; Buch</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/curry-kochbuch/</link>
+        </image>
     </item>
     
     <item>
@@ -58,6 +83,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/das-grosse-buch-der-asiatischen-kueche/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/das_grosse_buch_der_asiatischen_kueche.jpg</url>
+        <title>Das große Buch der asiatischen Küche</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/das-grosse-buch-der-asiatischen-kueche/</link>
+        </image>
     </item>
     
     <item>
@@ -67,6 +97,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/das-kulinarische-manifest/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/das_kulinarische_manifest.jpg</url>
+        <title>Das kulinarische Manifest</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/das-kulinarische-manifest/</link>
+        </image>
     </item>
     
     <item>
@@ -76,6 +111,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/fadi-kocht-syrisch/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/fadi_kocht_syrisch.jpg</url>
+        <title>Fadi kocht syrisch von Fadi Alauwad</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/fadi-kocht-syrisch/</link>
+        </image>
     </item>
     
     <item>
@@ -85,6 +125,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/harumis-japanische-kueche/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/harumis_japanische_kueche.jpg</url>
+        <title>Harumis japanische Küche</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/harumis-japanische-kueche/</link>
+        </image>
     </item>
     
     <item>
@@ -94,6 +139,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/indische-currys/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/indische_curries.jpg</url>
+        <title>Indische Currys von Camellia Panajabi</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/indische-currys/</link>
+        </image>
     </item>
     
     <item>
@@ -103,6 +153,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/das-japan-kochbuch/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/das_japan_kochbuch.jpg</url>
+        <title>Japan Kochbuch von Kenichi Kusano</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/das-japan-kochbuch/</link>
+        </image>
     </item>
     
     <item>
@@ -112,6 +167,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/japanisch-grillen/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/japanisch_grillen.jpg</url>
+        <title>Japanisch Grillen von Jonas Gramby</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/japanisch-grillen/</link>
+        </image>
     </item>
     
     <item>
@@ -121,6 +181,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/jerusalem/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/jerusalem.jpg</url>
+        <title>Jerusalem: Das Kochbuch</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/jerusalem/</link>
+        </image>
     </item>
     
     <item>
@@ -130,6 +195,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/koreanisch-kochen-leicht-gemacht/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/koreanisch_kochen.jpg</url>
+        <title>Koreanisch Kochen leicht gemacht</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/koreanisch-kochen-leicht-gemacht/</link>
+        </image>
     </item>
     
     <item>
@@ -139,6 +209,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/mekong-food/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/mekong_food.jpg</url>
+        <title>Mekong Food von Michael Langoth</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/mekong-food/</link>
+        </image>
     </item>
     
     <item>
@@ -148,6 +223,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/orient/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/orient.jpg</url>
+        <title>Orient: Das Kochbuch von Tess Mallos</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/orient/</link>
+        </image>
     </item>
     
     <item>
@@ -157,6 +237,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/ostafrikanisch-kochen/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/ostafrikanisch_kochen.jpg</url>
+        <title>Ostafrikanisch Kochen</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/ostafrikanisch-kochen/</link>
+        </image>
     </item>
     
     <item>
@@ -166,6 +251,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/pok-pok/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/pok_pok.jpg</url>
+        <title>Pok Pok von Andy Ricker</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/pok-pok/</link>
+        </image>
     </item>
     
     <item>
@@ -175,6 +265,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/ramen-kochbuch/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/ramen_kochbuch.jpg</url>
+        <title>Ramen Kochbuch: Basics &amp; Rezepte</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/ramen-kochbuch/</link>
+        </image>
     </item>
     
     <item>
@@ -184,42 +279,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/roemer-kochbuch/</guid>
       <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>Thai Food von David Thompson</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/thai-food/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/thai-food/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>Thailand. Das Kochbuch</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/thailand-das-kochbuch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/thailand-das-kochbuch/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>The Drinking Food of Thailand</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/the-drinking-food-of-thailand/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/the-drinking-food-of-thailand/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>Yemek - Rezepte aus Istanbul</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/yemek/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/yemek/</guid>
-      <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/roemer_kochbuch.jpg</url>
+        <title>Römer Kochbuch von Edgar Comes</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/roemer-kochbuch/</link>
+        </image>
     </item>
     
   </channel>

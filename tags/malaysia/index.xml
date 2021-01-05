@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>malaysia on Der Reiskoch</title>
+    <title>malaysia auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/malaysia/</link>
-    <description>Recent content in malaysia on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in malaysia  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 15 Nov 2018 06:21:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/malaysia/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/daging-masak-marah-aus-malaysia/</guid>
       <description>Ein rotes Curry mit Kalbsfleisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0682/daging_masak_marah.jpg</url>
+        <title>Daging Masak Marah aus Malaysia</title>
+        <link>https://der.reisko.ch/rezepte/daging-masak-marah-aus-malaysia/</link>
+        </image>
     </item>
     
   </channel>

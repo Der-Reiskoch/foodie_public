@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kambodscha on Der Reiskoch</title>
+    <title>kambodscha auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/kambodscha/</link>
-    <description>Recent content in kambodscha on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in kambodscha  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 10 Feb 2019 10:11:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/kambodscha/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/reisen/foodie-impressionen-aus-kambodscha/</guid>
       <description>Ein kurzer Abstecher ins Nachbarland</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0702/loc_lac_mit_ei.jpg</url>
+        <title>Foodie Impressionen aus Kambodscha</title>
+        <link>https://der.reisko.ch/reisen/foodie-impressionen-aus-kambodscha/</link>
+        </image>
     </item>
     
   </channel>

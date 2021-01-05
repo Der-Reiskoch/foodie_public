@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fotoalbum 2011 on Der Reiskoch</title>
+    <title>Fotoalbum 2011 auf Der Reiskoch</title>
     <link>https://der.reisko.ch/fotoalbum/2011/</link>
-    <description>Recent content in Fotoalbum 2011 on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Fotoalbum 2011  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 29 Dec 2011 00:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/fotoalbum/2011/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/12/29/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20111229_chinesischer_hotpot.jpg</url>
+        <title>Chinesischer Hot Pot</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/12/29/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/12/24/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20111224_speckbohnen_zu_weihnachten.jpg</url>
+        <title>Weihnachtsessen</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/12/24/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/12/12/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20111112_hotpot.jpg</url>
+        <title>Moo Kata Abend</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/12/12/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/12/04/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20111204_sonntagsfruehstueck.jpg</url>
+        <title>Sonntagsfrühstück</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/12/04/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/10/22/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20111022_chilis_einkochen.jpg</url>
+        <title>Chilis Einkochen</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/10/22/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/10/15/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20111015_frankfurter_spezialitaeten_platte.jpg</url>
+        <title>Frankfurter Spezialitäten</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/10/15/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/09/29/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20110929_mexican_breakfast.jpg</url>
+        <title>Mexican Breakfast</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/09/29/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/09/26/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20110926_puang_prik_am_thong_nai_pan_yai.jpg</url>
+        <title>Puang Prik</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/09/26/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/09/19/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20110919_deftiges_fruehstueck_am_haad_salad.jpg</url>
+        <title>Deftiges Frühstück</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/09/19/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/07/31/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20110731_curry_competition.jpg</url>
+        <title>Thai Curry Competition</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/07/31/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/07/22/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20110721_mediterrane_fischpfanne.jpg</url>
+        <title>Mediterrane Fischpfanne</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/07/22/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/07/21/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20110721_einkauf_im_elsass.jpg</url>
+        <title>Einkauf aus dem Elsass</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/07/21/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/06/20/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20110610_gruener_spargel.jpg</url>
+        <title>Grüner Spargel</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/06/20/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/04/21/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20110421_curry_in_stockholm.jpg</url>
+        <title>Vegetarisches Curry</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/04/21/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/04/19/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20110419_koettbollar.jpg</url>
+        <title>Leckere Köttbullar</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/04/19/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/04/18/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20110418_salat_aus_der_fischhalle.jpg</url>
+        <title>Salat aus der Fischhalle</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/04/18/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/03/15/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20110315_paella.jpg</url>
+        <title>Spanische Paella</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/03/15/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2011/02/06/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2011/20110206_gruenes_curry.jpg</url>
+        <title>Grünes Thai Curry</title>
+        <link>https://der.reisko.ch/fotoalbum/2011/02/06/</link>
+        </image>
     </item>
     
   </channel>

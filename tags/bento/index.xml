@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bento on Der Reiskoch</title>
+    <title>bento auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/bento/</link>
-    <description>Recent content in bento on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in bento  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 05 Feb 2018 09:51:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/bento/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/teppan-und-sakebar-yaki-the-emon/</guid>
       <description>Noch ein spannendes Restaurant in Düsseldorf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0410/yakisoba_mit_tonkatsu.jpg</url>
+        <title>Teppan- und Sakebar Yaki-the-Emon</title>
+        <link>https://der.reisko.ch/restaurants/teppan-und-sakebar-yaki-the-emon/</link>
+        </image>
     </item>
     
   </channel>

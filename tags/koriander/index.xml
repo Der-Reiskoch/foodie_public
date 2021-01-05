@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>koriander on Der Reiskoch</title>
+    <title>koriander auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/koriander/</link>
-    <description>Recent content in koriander on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in koriander  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 31 May 2018 10:35:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/koriander/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gaeng-kiaw-wan-gai-khai-dao/</guid>
       <description>Thailändisches grünes Curry mit Spiegeleiern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0622/gruenes_curry_mit_ei.jpg</url>
+        <title>Gaeng Kiaw Wan Gai Khai Dao</title>
+        <link>https://der.reisko.ch/rezepte/gaeng-kiaw-wan-gai-khai-dao/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/roemischer-rinderbraten-mit-rosmarin/</guid>
       <description>Kochzeitreise mit frischen Kräutern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0449/roemischer_braten.jpg</url>
+        <title>Römischer Rinderbraten mit Rosmarin</title>
+        <link>https://der.reisko.ch/rezepte/roemischer-rinderbraten-mit-rosmarin/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kichererbsengemuse-als-beilage/</guid>
       <description>Universell einsetzbare Hülsenfrüchte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0448/kichererbsengemuese.jpg</url>
+        <title>Kichererbsengemüse als Beilage</title>
+        <link>https://der.reisko.ch/rezepte/kichererbsengemuse-als-beilage/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-nuea/</guid>
       <description>Waterfall Beef Salad</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0144/nam_tok_nuea.jpg</url>
+        <title>Thailändischer Nam Tok Nuea</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-nuea/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/aloo-curry-aus-pakistan/</guid>
       <description>Trockenes Kartoffel-Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0428/pfanne.jpg</url>
+        <title>Aloo Curry aus Pakistan</title>
+        <link>https://der.reisko.ch/rezepte/aloo-curry-aus-pakistan/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/laotische-keng-kai-xiengkhuang/</guid>
       <description>Hühner-Nudel-Suppe mit Pfeffer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0424/suppe.jpg</url>
+        <title>Laotische Keng Kai Xiengkhuang</title>
+        <link>https://der.reisko.ch/nachgekocht/laotische-keng-kai-xiengkhuang/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendischer-larb-plaa-salmon/</guid>
       <description>Auch Lachs geht als Salat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0423/teller.jpg</url>
+        <title>Thailändischer Larb Plaa Salmon</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendischer-larb-plaa-salmon/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/indisches-seyal-gosht/</guid>
       <description>Lamm in Zwiebeln und Joghurt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0412/teller.jpg</url>
+        <title>Indisches Seyal Gosht</title>
+        <link>https://der.reisko.ch/nachgekocht/indisches-seyal-gosht/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thai-garnelen-salat-mit-schlangenbohnen/</guid>
       <description>Thailändischer Yam Goong Thua</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0384/fertig.jpg</url>
+        <title>Garnelen-Salat mit Schlangenbohnen</title>
+        <link>https://der.reisko.ch/rezepte/thai-garnelen-salat-mit-schlangenbohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/reissalat-mit-chorizo-und-bratpaprika/</guid>
       <description>Spanische Zutaten mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0373/salat.jpg</url>
+        <title>Reissalat mit Chorizo und Bratpaprika</title>
+        <link>https://der.reisko.ch/rezepte/reissalat-mit-chorizo-und-bratpaprika/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/sommerrollen-mit-gehackten-garnelen/</guid>
       <description>Genau das richtige bei heißen Temperaturen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0372/perfekt_gerollt.jpg</url>
+        <title>Sommerrollen mit gehackten Garnelen</title>
+        <link>https://der.reisko.ch/rezepte/sommerrollen-mit-gehackten-garnelen/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kari-mit-kartoffeln-und-kichererbsen/</guid>
       <description>Mit malayischer Currypaste aus der Tüte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0357/schuessel.jpg</url>
+        <title>Kari mit Kartoffeln und Kichererbsen</title>
+        <link>https://der.reisko.ch/rezepte/kari-mit-kartoffeln-und-kichererbsen/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa/</guid>
       <description>Salat aus gehacktem Fisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0353/teller.jpg</url>
+        <title>Thailändischer Larb Plaa</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/syrischer-fattousch-salat/</guid>
       <description>Aus dem Buch &amp;lsquo;Fadi kocht syrisch&amp;rsquo;</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0310/schuessel.jpg</url>
+        <title>Syrischer Fattousch Salat</title>
+        <link>https://der.reisko.ch/nachgekocht/syrischer-fattousch-salat/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-thai-moo/</guid>
       <description>Areks Original-Rezept aus Koh Pha Ngan</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0294/teller.jpg</url>
+        <title>Thailändisches Pad Thai Moo</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-thai-moo/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-tintenfisch-salat/</guid>
       <description>Eine Yam Plaa Muek Variation</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0231/tintenfischsalat.jpg</url>
+        <title>Thailändischer Tintenfisch Salat</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-tintenfisch-salat/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-kokos-mais-curry/</guid>
       <description>Ein außergewöhnliches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0229/maiscurry.jpg</url>
+        <title>Indisches Kokos-Mais-Curry</title>
+        <link>https://der.reisko.ch/rezepte/indisches-kokos-mais-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/pisvm-indicvm-romani/</guid>
       <description>Erbsen auf indische Art</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0218/pfanne.jpg</url>
+        <title>PISVM INDICVM ROMANI</title>
+        <link>https://der.reisko.ch/nachgekocht/pisvm-indicvm-romani/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanischer-auberginensalat-mit-koriander/</guid>
       <description>Noch eine japanische Salatvariante</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0215/salat.jpg</url>
+        <title>Japanischer Auberginensalat mit Koriander</title>
+        <link>https://der.reisko.ch/rezepte/japanischer-auberginensalat-mit-koriander/</link>
+        </image>
     </item>
     
     <item>
@@ -185,69 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-salat-mit-ei/</guid>
       <description>Ein einfaches Rezept für die Zeit nach Ostern</description>
-    </item>
-    
-    <item>
-      <title>Gebackener Lachs mit Koriander</title>
-      <link>https://der.reisko.ch/rezepte/gebackener-lachs-mit-koriander/</link>
-      <pubDate>Wed, 05 Feb 2014 07:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gebackener-lachs-mit-koriander/</guid>
-      <description>Sehr simpel, aber lecker</description>
-    </item>
-    
-    <item>
-      <title>Tandoorispieße mit Joghurt-Koriander-Dip</title>
-      <link>https://der.reisko.ch/rezepte/tandoorispiesse-mit-joghurt-koriander-dip/</link>
-      <pubDate>Sun, 15 Sep 2013 03:24:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/tandoorispiesse-mit-joghurt-koriander-dip/</guid>
-      <description>Lecker gegrilltes Hähnchen</description>
-    </item>
-    
-    <item>
-      <title>Indisches Prawn-Curry im Schmortopf</title>
-      <link>https://der.reisko.ch/rezepte/indisches-prawn-curry-im-schmortopf/</link>
-      <pubDate>Tue, 10 Sep 2013 10:40:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indisches-prawn-curry-im-schmortopf/</guid>
-      <description>Einfach zubereitet, dauert aber recht lange</description>
-    </item>
-    
-    <item>
-      <title>Tortillas mit Süßkartoffeln und Quinoa</title>
-      <link>https://der.reisko.ch/rezepte/tortillas-mit-susskartoffeln-und-quinoa/</link>
-      <pubDate>Wed, 24 Apr 2013 07:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/tortillas-mit-susskartoffeln-und-quinoa/</guid>
-      <description>Leckere vegetarische Variante</description>
-    </item>
-    
-    <item>
-      <title>Tandoori Putensteaks aus der Pfanne</title>
-      <link>https://der.reisko.ch/rezepte/tandoori-putensteaks-aus-der-pfanne/</link>
-      <pubDate>Thu, 27 Dec 2012 02:27:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/tandoori-putensteaks-aus-der-pfanne/</guid>
-      <description>Eine weitere Tandoori Variation</description>
-    </item>
-    
-    <item>
-      <title>Shakshuka mit Parmak-Sucuk</title>
-      <link>https://der.reisko.ch/rezepte/shakshuka-mit-parmak-sucuk/</link>
-      <pubDate>Wed, 21 Nov 2012 03:32:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/shakshuka-mit-parmak-sucuk/</guid>
-      <description>Ein Urlaubsmitbringsel aus Israel</description>
-    </item>
-    
-    <item>
-      <title>Kaukasischer Ziegeneintopf</title>
-      <link>https://der.reisko.ch/rezepte/kaukasischer-ziegeneintopf/</link>
-      <pubDate>Tue, 03 Jul 2012 07:38:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kaukasischer-ziegeneintopf/</guid>
-      <description>Ostri aus Georgien</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0159/salat.jpg</url>
+        <title>Thailändischer Salat mit Ei</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-salat-mit-ei/</link>
+        </image>
     </item>
     
   </channel>

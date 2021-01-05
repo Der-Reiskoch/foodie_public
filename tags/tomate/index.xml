@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tomate on Der Reiskoch</title>
+    <title>tomate auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/tomate/</link>
-    <description>Recent content in tomate on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in tomate  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 26 Oct 2016 09:40:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/tomate/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/spaghettikurbis-bolognese/</guid>
       <description>Pasta ohne Nudeln</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0197/teller.jpg</url>
+        <title>Spaghettikürbis Bolognese</title>
+        <link>https://der.reisko.ch/rezepte/spaghettikurbis-bolognese/</link>
+        </image>
     </item>
     
   </channel>

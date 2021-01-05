@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tofu on Der Reiskoch</title>
+    <title>tofu auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/tofu/</link>
-    <description>Recent content in tofu on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in tofu  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 23 May 2020 12:55:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/tofu/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gerostete-auberginen-mit-tofu/</guid>
       <description>Thailändisches Pad Makeua Tao Hu</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0904/geroestete_aubergine_mit_tofu.jpg</url>
+        <title>Geröstete Auberginen mit Tofu</title>
+        <link>https://der.reisko.ch/rezepte/gerostete-auberginen-mit-tofu/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schlangenbohnen-mit-tofu/</guid>
       <description>Thailändisches Pad Thua Tao Hu Tao Jiew</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0895/schlangenbohnen_mit_tofu_in_bohnenpaste.jpg</url>
+        <title>Schlangenbohnen mit Tofu</title>
+        <link>https://der.reisko.ch/rezepte/schlangenbohnen-mit-tofu/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-cheonggukjang-pfanne/</guid>
       <description>Ein schnelles koreanisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0890/cheonggukjang_pfanne.jpg</url>
+        <title>Koreanische Cheonggukjang Pfanne</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-cheonggukjang-pfanne/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-tao-hu-tod-tou-no/</guid>
       <description>Frittierter Tofu mit Sojasprossen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0870/pad_tao_hu_tod_tou_no.jpg</url>
+        <title>Thailändisches Pad Tao Hu Tod Tou No</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-tao-hu-tod-tou-no/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/sichuan-tofu-mit-knoblauchgrun/</guid>
       <description>Eine Thai-chinesische Fusion</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0869/sichuan-tofu_mit_knoblauchgruen.jpg</url>
+        <title>Sichuan Tofu mit Knoblauchgrün</title>
+        <link>https://der.reisko.ch/rezepte/sichuan-tofu-mit-knoblauchgrun/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/jjajang-mit-schweinegulasch/</guid>
       <description>Eine geschmorte Variante mit Aubergine und Tofu</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0838/jjajangmyeon_mit_beilagen.jpg</url>
+        <title>Jjajang mit Schweinegulasch</title>
+        <link>https://der.reisko.ch/rezepte/jjajang-mit-schweinegulasch/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/auberginen-und-tofu-sichuan-art/</guid>
       <description>Ein schnelles, vegetarisches Gericht aus China</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0742/angerichtetet_mit_koriander.jpg</url>
+        <title>Auberginen und Tofu Sichuan Art</title>
+        <link>https://der.reisko.ch/rezepte/auberginen-und-tofu-sichuan-art/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanischer-dubu-jorim/</guid>
       <description>Frittierter Tofu in scharfer Soße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0747/dubu_jorim.jpg</url>
+        <title>Koreanischer Dubu Jorim</title>
+        <link>https://der.reisko.ch/rezepte/koreanischer-dubu-jorim/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/jjajangmyeon-mit-rind-und-aubergine/</guid>
       <description>Noch ein koreanisches Kochexperiment</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0585/bohnenpaste_mit_nudeln.jpg</url>
+        <title>Jjajangmyeon mit Rind und Aubergine</title>
+        <link>https://der.reisko.ch/rezepte/jjajangmyeon-mit-rind-und-aubergine/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/fishhead-curry-suppe-mit-tofu/</guid>
       <description>Beim Schrank aufräumen kreiert</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0576/fishhead_curry_suppe_mit_tofu.jpg</url>
+        <title>Fish-Head-Curry Suppe mit Tofu</title>
+        <link>https://der.reisko.ch/rezepte/fishhead-curry-suppe-mit-tofu/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanisches-mabo-tofu/</guid>
       <description>Mit einer Fertigpaste aus Düsseldorf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0389/koreanisches_mabo_tofu.jpg</url>
+        <title>Koreanisches Mabo Tofu</title>
+        <link>https://der.reisko.ch/rezepte/koreanisches-mabo-tofu/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/miso-suppe-mit-tofu-und-karotten/</guid>
       <description>Aus Annes Rezeptbuch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0339/schuessel.jpg</url>
+        <title>Miso-Suppe mit Tofu und Karotten</title>
+        <link>https://der.reisko.ch/rezepte/miso-suppe-mit-tofu-und-karotten/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/vegetarisches-mapo-doufu/</guid>
       <description>Eine Variation des Gerichts aus Szechuan</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0344/teller.jpg</url>
+        <title>Vegetarisches Mapo Doufu</title>
+        <link>https://der.reisko.ch/rezepte/vegetarisches-mapo-doufu/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/reisen/die-vielfaltige-shan-kuche/</guid>
       <description>Gerichte aus dem Shan-Staat in Myanmar</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0318/shan-nudel-suppe.jpg</url>
+        <title>Die vielfältige Shan-Küche</title>
+        <link>https://der.reisko.ch/reisen/die-vielfaltige-shan-kuche/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/sojasprossensalat-mit-tofu/</guid>
       <description>Tofu mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0235/salat.jpg</url>
+        <title>Sojasprossensalat mit Tofu</title>
+        <link>https://der.reisko.ch/rezepte/sojasprossensalat-mit-tofu/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rote-miso-suppe-mit-tofu-und-sojasprossen/</guid>
       <description>Eine einfache Suppe ohne Dashi</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0233/suppe.jpg</url>
+        <title>Rote Miso-Suppe mit Tofu und Sojasprossen</title>
+        <link>https://der.reisko.ch/rezepte/rote-miso-suppe-mit-tofu-und-sojasprossen/</link>
+        </image>
     </item>
     
   </channel>

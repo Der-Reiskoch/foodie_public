@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tapas on Der Reiskoch</title>
+    <title>tapas auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/tapas/</link>
-    <description>Recent content in tapas on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in tapas  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 26 Jan 2020 01:57:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/tapas/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/manuels-geburtstags-tapas/</guid>
       <description>Viele kleine Leckereien</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0856/tapas_teller.jpg</url>
+        <title>Manuels Geburtstags-Tapas</title>
+        <link>https://der.reisko.ch/dies-und-das/manuels-geburtstags-tapas/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/gegrillte-tapas-auf-der-moovita/</guid>
       <description>Es geht auch ohne Grill</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0773/am_bruzeln.jpg</url>
+        <title>Gegrillte Tapas auf der MooVita</title>
+        <link>https://der.reisko.ch/dies-und-das/gegrillte-tapas-auf-der-moovita/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/tapas-und-wein-im-uhland-21/</guid>
       <description>Endlich mal unsere Gutscheine eingelöst</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0714/boquerones_mit_sosse.jpg</url>
+        <title>Tapas und Wein im Uhland 21</title>
+        <link>https://der.reisko.ch/dies-und-das/tapas-und-wein-im-uhland-21/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/restaurants/leckere-tapas-im-besitos/</guid>
       <description>Schöner Innenhof am Markplatz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0655/datteln_und_chorizo.jpg</url>
+        <title>Leckere Tapas im Besitos</title>
+        <link>https://der.reisko.ch/restaurants/leckere-tapas-im-besitos/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/reisen/leckeres-essen-auf-ibiza/</guid>
       <description>Meeresfrüchte und Tapas</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0550/sepia_a_la_plancha.jpg</url>
+        <title>Leckeres Essen auf Ibiza</title>
+        <link>https://der.reisko.ch/reisen/leckeres-essen-auf-ibiza/</link>
+        </image>
     </item>
     
   </channel>

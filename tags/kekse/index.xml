@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kekse on Der Reiskoch</title>
+    <title>kekse auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/kekse/</link>
-    <description>Recent content in kekse on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in kekse  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 15 Dec 2020 06:24:09 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/kekse/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendische_singapore_cookies/</guid>
       <description>Leckere Kekse aus Thailand</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0961/cookie_mit_nuss.jpg</url>
+        <title>Thailändische Singapore Cookies</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendische_singapore_cookies/</link>
+        </image>
     </item>
     
   </channel>

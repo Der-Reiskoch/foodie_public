@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meine Foodie Fotoalben on Der Reiskoch</title>
+    <title>Meine Foodie Fotoalben auf Der Reiskoch</title>
     <link>https://der.reisko.ch/fotos/</link>
-    <description>Recent content in Meine Foodie Fotoalben on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Meine Foodie Fotoalben  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language><atom:link href="https://der.reisko.ch/fotos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thailändisches Gericht des Tages</title>
@@ -13,6 +13,11 @@
       
       <guid>https://der.reisko.ch/thaifood/</guid>
       <description>Leckeres Thai Food ohne Rezept</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0877/20190916_larb_moo.jpg</url>
+        <title>Thailändisches Gericht des Tages</title>
+        <link>https://der.reisko.ch/thaifood/</link>
+        </image>
     </item>
     
     <item>
@@ -22,6 +27,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/</guid>
       <description>Schnappschüsse von leckerem Essen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0497/kochbilder.jpg</url>
+        <title>Foodie&#39;s aktuelles Fotoalbum</title>
+        <link>https://der.reisko.ch/fotoalbum/</link>
+        </image>
     </item>
     
     <item>
@@ -31,6 +41,11 @@
       
       <guid>https://der.reisko.ch/thaipause/</guid>
       <description>Was wir so im und um den Wok zaubern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2019/20190829_18kg_reissack.jpg</url>
+        <title>Schnelle Thai Küche in der Mittagspause</title>
+        <link>https://der.reisko.ch/thaipause/</link>
+        </image>
     </item>
     
     <item>
@@ -40,6 +55,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/</guid>
       <description>Was es bei mir so bei der Arbeit gibt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0178/20170208_schnitzel_mit_curryreis.jpg</url>
+        <title>Kochen in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/</link>
+        </image>
     </item>
     
   </channel>

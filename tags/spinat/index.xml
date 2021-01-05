@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>spinat on Der Reiskoch</title>
+    <title>spinat auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/spinat/</link>
-    <description>Recent content in spinat on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in spinat  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 02 Jul 2020 07:02:09 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/spinat/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pad-pak-bung-moo-sap/</guid>
       <description>Thailändischer Wasserspinat mit Hackfleisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0926/pad_pak_bung_moo_sap.jpg</url>
+        <title>Pad Pak Bung Moo Sap</title>
+        <link>https://der.reisko.ch/rezepte/pad-pak-bung-moo-sap/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/athiopischer-spinat-mit-ei/</guid>
       <description>Kosta Benqulal</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0813/spinat_mit_ei.jpg</url>
+        <title>Äthiopischer Spinat mit Ei</title>
+        <link>https://der.reisko.ch/rezepte/athiopischer-spinat-mit-ei/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-palak-paneer/</guid>
       <description>Curry mit Spinat und Käse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0769/palak_paneer.jpg</url>
+        <title>Indisches Palak Paneer</title>
+        <link>https://der.reisko.ch/rezepte/indisches-palak-paneer/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-pad-pak-bung/</guid>
       <description>Leckerer gebratener Wasserspinat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0663/gebratener_wasserspinat.jpg</url>
+        <title>Thailändischer Pad Pak Bung</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-pad-pak-bung/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/zwei-indische-curries-und-einmal-spinat/</guid>
       <description>Große Kochaktion am Sonntagabend</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0652/zwei_curries_und_spinat.jpg</url>
+        <title>Zwei indische Curries und einmal Spinat</title>
+        <link>https://der.reisko.ch/nachgekocht/zwei-indische-curries-und-einmal-spinat/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/lachs-mit-ofenkartoffeln-und-spinat/</guid>
       <description>Eine tolle Kombination</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0195/teller.jpg</url>
+        <title>Lachs mit Ofenkartoffeln und Spinat</title>
+        <link>https://der.reisko.ch/rezepte/lachs-mit-ofenkartoffeln-und-spinat/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-curry-mit-hahnchenbrust-und-spinat/</guid>
       <description>Eine spannende Kombination</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0175/teller.jpg</url>
+        <title>Indisches Curry mit Hähnchenbrust und Spinat</title>
+        <link>https://der.reisko.ch/rezepte/indisches-curry-mit-hahnchenbrust-und-spinat/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pizza-mit-spargel-spinat-und-schinken/</guid>
       <description>Spargel mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0160/blech.jpg</url>
+        <title>Pizza mit Spargel, Spinat und Schinken</title>
+        <link>https://der.reisko.ch/rezepte/pizza-mit-spargel-spinat-und-schinken/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/tikka-masala-curry-mit-kartoffeln-und-spinat/</guid>
       <description>Ein vegetarisches indisches Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0016/veggi_tikka_masala.jpg</url>
+        <title>Tikka Masala Curry mit Kartoffeln und Spinat</title>
+        <link>https://der.reisko.ch/rezepte/tikka-masala-curry-mit-kartoffeln-und-spinat/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pfannengeruhrtes-rind-mit-thai-spinat/</guid>
       <description>Pad Pak Bung Nuea</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0005/wasserspinat_rind.jpg</url>
+        <title>Pfannengerührtes Rind mit Thai-Spinat</title>
+        <link>https://der.reisko.ch/rezepte/pfannengeruhrtes-rind-mit-thai-spinat/</link>
+        </image>
     </item>
     
   </channel>

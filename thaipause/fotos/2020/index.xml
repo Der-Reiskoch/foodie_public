@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thaipause 2020 on Der Reiskoch</title>
+    <title>Thaipause 2020 auf Der Reiskoch</title>
     <link>https://der.reisko.ch/thaipause/fotos/2020/</link>
-    <description>Recent content in Thaipause 2020 on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Thaipause 2020  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 23 Dec 2020 13:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/thaipause/fotos/2020/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/12/23/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20201223_pad_kra_pao_plaa_muek_hed.jpg</url>
+        <title>Pad Kra Pao Plaa Muek Hed</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/12/23/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/11/27/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20201127_thai_aubergine_mit_tofui.jpg</url>
+        <title>Aubergine mit Tofu</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/11/27/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/11/26/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20201126_tom_kha_gai_von_oben.jpg</url>
+        <title>Tom Kha Gai</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/11/26/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/11/17/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20201117_rad_na_gai.jpg</url>
+        <title>Trockenes Rad Na Gai</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/11/17/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/11/06/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20201106_pad_tao_hu.jpg</url>
+        <title>Pad Tao Hu mit Kai Dao</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/11/06/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/11/04/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20201104_pad_kra_pao_und_gruenes_curry.jpg</url>
+        <title>Pad Kra Pao und Grünes Curry</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/11/04/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/11/02/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20201102_gaeng_kiaw_wan_moo_hed.jpg</url>
+        <title>Gaeng Kiaw Wan Moo Hed</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/11/02/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/10/21/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20201021_pad_kra_pao_moo_sap_hed.jpg</url>
+        <title>Pad Kra Pao Moo Sap Hed</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/10/21/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/10/20/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20201020_rotes_curry_mit_jackfruit_und_pilzen.jpg</url>
+        <title>Vegetarisches Rotes Curry</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/10/20/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/10/08/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20201008_yam_moo_hed.jpg</url>
+        <title>Yam Moo Hed</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/10/08/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/09/11/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20200911_curry_und_reis.jpg</url>
+        <title>Rotes Curry aus der Dose</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/09/11/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/09/03/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20200903_pad_kra_pao_gai.jpg</url>
+        <title>Pad Kra Pao Gai</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/09/03/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/09/02/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20200902_pad_kra_pao_nuea.jpg</url>
+        <title>Pad Kra Pao Nuea</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/09/02/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/08/31/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20200831_pad_pak_kanaa_moo_grob.jpg</url>
+        <title>Pad Pak Kanaa Moo Grob</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/08/31/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/08/28/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20200828_pad_nuea_gratiam_mit_mama_nudeln.jpg</url>
+        <title>Pad Nuea Gratiam mit Mama Nudeln</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/08/28/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/08/26/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20200826_pad_kra_pao_tao_hu.jpg</url>
+        <title>Pad Kra Pao Tao Hu</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/08/26/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/08/24/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20200824_pad_kra_pao_moo_sap.jpg</url>
+        <title>Pad Kra Pao Moo Sap</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/08/24/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/07/31/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20200731_yam_moo_sap_mit_acur.jpg</url>
+        <title>Yam Moo Sap mit Acur</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/07/31/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/07/30/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20200730_pad_prik_moo_sap_mit_reisnudeln.jpg</url>
+        <title>Pad Prik Moo Sap mit Reisnudeln</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/07/30/</link>
+        </image>
     </item>
     
     <item>
@@ -185,258 +280,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2020/07/29/</guid>
       <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Reisnudeln mit Garnelen und Sauerampfer</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/07/24/</link>
-      <pubDate>Fri, 24 Jul 2020 13:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/07/24/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Yam Moo Sap mit Spiegelei</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/07/21/</link>
-      <pubDate>Tue, 21 Jul 2020 18:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/07/21/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Pad Prik Khing Moo mit Bohnen</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/07/13/</link>
-      <pubDate>Mon, 13 Jul 2020 18:24:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/07/13/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Zweimal Restecurry</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/07/06/</link>
-      <pubDate>Mon, 06 Jul 2020 21:24:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/07/06/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Moo Pad Prik Phed</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/07/02/</link>
-      <pubDate>Thu, 02 Jul 2020 21:24:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/07/02/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Resteverwertung mit Karotten Som Tam</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/06/29/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/06/29/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Pad Kee Mao mit Basilikumblüten</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/06/23/</link>
-      <pubDate>Tue, 23 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/06/23/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Kho Pad mit Rind, Bambussprossen und Pfeffer</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/06/17/</link>
-      <pubDate>Wed, 17 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/06/17/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Larb Moo und Khao Pad</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/06/16/</link>
-      <pubDate>Tue, 16 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/06/16/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Pad Kra Pao Moo Sap</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/06/15/</link>
-      <pubDate>Mon, 15 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/06/15/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Yam Woon Sen und Zweimal Larb</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/06/04/</link>
-      <pubDate>Thu, 04 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/06/04/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Khao Pad mit Spiegelei</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/06/03/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/06/03/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Pad Kra Pao Moo Sap mit Nudeln</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/05/29/</link>
-      <pubDate>Fri, 29 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/05/29/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Bestellt bei Aroy Aroy</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/05/26/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/05/26/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Larb Moo</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/05/25/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/05/25/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Pad Pak Kanaa Moo Grob Fake</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/05/14/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/05/14/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Rad Na mit Rind Tofu und Gemüse</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/04/30/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/04/30/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Curryreste und Tofu mit Schlangenbohnen</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/04/27/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/04/27/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Schnelles Pad Thai</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/04/22/</link>
-      <pubDate>Wed, 22 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/04/22/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Curryreste und Larb Moo</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/04/15/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/04/15/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Pad Mee</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/03/26/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/03/26/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Rad Na mit Mama Nudeln</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/03/24/</link>
-      <pubDate>Tue, 24 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/03/24/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Fried Curry Rice</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/03/23/</link>
-      <pubDate>Mon, 23 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/03/23/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Kuai Tiao Sen Mi Hed</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/03/20/</link>
-      <pubDate>Fri, 20 Mar 2020 21:24:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/03/20/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Yam Moo Sap und Khao Pad Gratiam</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/03/17/</link>
-      <pubDate>Tue, 17 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/03/17/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Khao Soi Nuea</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/02/26/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/02/26/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Thai-Resteverwertung</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/02/17/</link>
-      <pubDate>Mon, 17 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/02/17/</guid>
-      <description>Thaifood in der Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Pad Kra Pao Ped mit Nudeln und Pak Choy</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/01/09/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/01/09/</guid>
-      <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20200729_khao_pad_goong.jpg</url>
+        <title>Schneller Khao Pad Goong</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/07/29/</link>
+        </image>
     </item>
     
   </channel>

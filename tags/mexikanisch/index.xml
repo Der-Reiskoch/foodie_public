@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mexikanisch on Der Reiskoch</title>
+    <title>mexikanisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/mexikanisch/</link>
-    <description>Recent content in mexikanisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in mexikanisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 28 Dec 2020 06:04:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/mexikanisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/tortillas-nach-al-pastor-art/</guid>
       <description>Mexikanisch auf der MooVita</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0963/taco_al_pastor.jpg</url>
+        <title>Tortillas nach Al-Pastor Art</title>
+        <link>https://der.reisko.ch/rezepte/tortillas-nach-al-pastor-art/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mexikanische-guacamole/</guid>
       <description>Leckerer Avocado Dip</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0966/guacamole_fertig.jpg</url>
+        <title>Mexikanische Guacamole</title>
+        <link>https://der.reisko.ch/rezepte/mexikanische-guacamole/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mexikanischer-chipotle-reis/</guid>
       <description>Eine rauchig-scharfe Beilage</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0892/chipotle-reis.jpg</url>
+        <title>Mexikanischer Chipotle Reis</title>
+        <link>https://der.reisko.ch/rezepte/mexikanischer-chipotle-reis/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mexikanisches-pollo-mole-poblano/</guid>
       <description>Hähnchenkeulen mit Schoko-Chili-Soße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0891/pollo_mole_poblano.jpg</url>
+        <title>Mexikanisches Pollo Mole Poblano</title>
+        <link>https://der.reisko.ch/rezepte/mexikanisches-pollo-mole-poblano/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/selbstgemachte-chipotle-salsa/</guid>
       <description>Rauchig und scharf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0687/chipotle_salsa.jpg</url>
+        <title>Selbstgemachte Chipotle Salsa</title>
+        <link>https://der.reisko.ch/rezepte/selbstgemachte-chipotle-salsa/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/mexikanischer-abend-mit-der-moovita/</guid>
       <description>Tortillas, Mais, Bohnen und Chilis</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0686/moovita_mit_tortilla.jpg</url>
+        <title>Mexikanischer Abend mit der MooVita</title>
+        <link>https://der.reisko.ch/dies-und-das/mexikanischer-abend-mit-der-moovita/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gefullte-tortilla-schnecken/</guid>
       <description>Ein leckerer Partysnack</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0230/tortillaschnecken.jpg</url>
+        <title>Gefüllte Tortilla-Schnecken</title>
+        <link>https://der.reisko.ch/rezepte/gefullte-tortilla-schnecken/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/geschmorte-ente-in-mole-poblano/</guid>
       <description>Mexikanisch und sehr speziell</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0103/mole.jpg</url>
+        <title>Geschmorte Ente in Mole Poblano</title>
+        <link>https://der.reisko.ch/rezepte/geschmorte-ente-in-mole-poblano/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mexikanische-huevos-rancheros/</guid>
       <description>Ein deftiges Frühstück</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0113/teller.jpg</url>
+        <title>Mexikanische Huevos Rancheros</title>
+        <link>https://der.reisko.ch/rezepte/mexikanische-huevos-rancheros/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/baked-beans-bacon-breakfast-burger/</guid>
       <description>Eine kleine Frühstücksperversion</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0032/bakedbeansburger.jpg</url>
+        <title>Baked Beans &amp; Bacon Breakfast Burger</title>
+        <link>https://der.reisko.ch/rezepte/baked-beans-bacon-breakfast-burger/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/selbstgemachte-salsa-roja/</guid>
       <description>Rote Salsa Sauce</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0017/tomaten.jpg</url>
+        <title>Selbstgemachte Salsa Roja</title>
+        <link>https://der.reisko.ch/rezepte/selbstgemachte-salsa-roja/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hotpot on Der Reiskoch</title>
+    <title>hotpot auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/hotpot/</link>
-    <description>Recent content in hotpot on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in hotpot  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 01 Jan 2021 06:41:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/hotpot/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendisches-moo-kata-mit-tipps/</guid>
       <description>Hotpot mit Rezepten von Moriginal Thai</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0972/moo_kata.jpg</url>
+        <title>Moo Kata mit ein paar guten Tipps</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendisches-moo-kata-mit-tipps/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanischer-hotpot-shogayaki-style/</guid>
       <description>Gegrilltes Ingwerfleisch und Miso Brühe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0878/hotpot_shogayaki.jpg</url>
+        <title>Japanischer Hotpot Shogayaki Style</title>
+        <link>https://der.reisko.ch/rezepte/japanischer-hotpot-shogayaki-style/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/ein-japanischer-hotpot-abend/</guid>
       <description>Shabu Shabu mit zwei typischen Soßen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0841/shabu_shabu.jpg</url>
+        <title>Ein japanischer Hotpot Abend</title>
+        <link>https://der.reisko.ch/rezepte/ein-japanischer-hotpot-abend/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/chinesischer-hotpot-abend/</guid>
       <description>Zwei Kessel Buntes</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0110/chinesischer_hotpot_abend.jpg</url>
+        <title>Chinesischer Hotpot Abend</title>
+        <link>https://der.reisko.ch/dies-und-das/chinesischer-hotpot-abend/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/reisen/kokei-fifa-thai-bbq-in-thong-sala/</guid>
       <description>Moo Kata in der Fussballkneipe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0707/moo_kata_mit_nudeln.jpg</url>
+        <title>Kokei &amp; Fifa Thai BBQ in Thong Sala</title>
+        <link>https://der.reisko.ch/reisen/kokei-fifa-thai-bbq-in-thong-sala/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/koreanisches-bbq-auf-der-moovita/</guid>
       <description>Die Grillplatte im Test</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0610/moovita.jpg</url>
+        <title>Koreanisches BBQ auf der MooVita</title>
+        <link>https://der.reisko.ch/dies-und-das/koreanisches-bbq-auf-der-moovita/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/kleines-moo-kata-mit-der-moovita/</guid>
       <description>Ein erster Testlauf der Grillplatte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0609/moovita_von_oben.jpg</url>
+        <title>Kleines Moo Kata mit der MooVita</title>
+        <link>https://der.reisko.ch/dies-und-das/kleines-moo-kata-mit-der-moovita/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/utensilien/unboxing-der-moovita-grillplatte/</guid>
       <description>Ein neues Grillerlebnis</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0607/moovita_grillplatte.jpg</url>
+        <title>Unboxing der MooVita Grillplatte</title>
+        <link>https://der.reisko.ch/utensilien/unboxing-der-moovita-grillplatte/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/grosses-koreanisches-bbq/</guid>
       <description>Ein Tisch voller Leckereien</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0600/koreanisches_bbq.jpg</url>
+        <title>Großes koreanisches BBQ</title>
+        <link>https://der.reisko.ch/dies-und-das/grosses-koreanisches-bbq/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/kleines-koreanisches-bb/</guid>
       <description>Den Hotpot mal koreanisch bestückt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0597/koreanisches_bbq.jpg</url>
+        <title>Kleines koreanisches BBQ</title>
+        <link>https://der.reisko.ch/dies-und-das/kleines-koreanisches-bb/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanisches-dwaeji-bulgogi/</guid>
       <description>Schweinelende in scharfer Marinade</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0596/dwaeji_bulgogi.jpg</url>
+        <title>Koreanisches Dwaeji Bulgogi</title>
+        <link>https://der.reisko.ch/rezepte/koreanisches-dwaeji-bulgogi/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/restaurants/chinesischer-hotpot-im-yangda/</guid>
       <description>Steamboat in Dammerstock</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0540/steamboat.jpg</url>
+        <title>Chinesischer Hotpot im Yangda</title>
+        <link>https://der.reisko.ch/restaurants/chinesischer-hotpot-im-yangda/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/vietnamesischer-hotpot/</guid>
       <description>Lẩu thập cẩm</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0457/lau_thap_cam.jpg</url>
+        <title>Vietnamesischer Hotpot</title>
+        <link>https://der.reisko.ch/rezepte/vietnamesischer-hotpot/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/utensilien/original-chinesischer-hotpot/</guid>
       <description>Ein unerwartetes Geschenk</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0330/hot_pot.jpg</url>
+        <title>Original Chinesischer Hotpot</title>
+        <link>https://der.reisko.ch/utensilien/original-chinesischer-hotpot/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-moo-kata-bbq/</guid>
       <description>Fondue und Grillen auf einmal</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0167/gruen.jpg</url>
+        <title>Thailändisches Moo Kata BBQ</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-moo-kata-bbq/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/utensilien/elektrischer-moo-kata-grill/</guid>
       <description>Unold &amp;ldquo;Electro Asia Fondue&amp;rdquo;</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0138/hotpot.jpg</url>
+        <title>Elektrischer Moo Kata Grill</title>
+        <link>https://der.reisko.ch/utensilien/elektrischer-moo-kata-grill/</link>
+        </image>
     </item>
     
   </channel>

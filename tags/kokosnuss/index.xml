@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kokosnuss on Der Reiskoch</title>
+    <title>kokosnuss auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/kokosnuss/</link>
-    <description>Recent content in kokosnuss on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in kokosnuss  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 16 Jul 2018 23:10:09 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/kokosnuss/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/moo-grob-nam-ma-prao/</guid>
       <description>Knuspriger Schweinebauch in Kokosmilch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0642/moo_grob_nam_ma_prao.jpg</url>
+        <title>Moo Grob Nam Ma Prao</title>
+        <link>https://der.reisko.ch/rezepte/moo-grob-nam-ma-prao/</link>
+        </image>
     </item>
     
   </channel>

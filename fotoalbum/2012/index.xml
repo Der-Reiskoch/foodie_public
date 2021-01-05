@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fotoalbum 2012 on Der Reiskoch</title>
+    <title>Fotoalbum 2012 auf Der Reiskoch</title>
     <link>https://der.reisko.ch/fotoalbum/2012/</link>
-    <description>Recent content in Fotoalbum 2012 on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Fotoalbum 2012  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 31 Dec 2012 00:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/fotoalbum/2012/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2012/12/31/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2012/20121231_curries_fuer_silvester.jpg</url>
+        <title>Curries für Silvester</title>
+        <link>https://der.reisko.ch/fotoalbum/2012/12/31/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2012/12/16/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2012/20121216_pimp_my_schlemmerfilet.jpg</url>
+        <title>Pimp my Schlemmerfilet</title>
+        <link>https://der.reisko.ch/fotoalbum/2012/12/16/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2012/12/08/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2012/20121208_raclette_in_chur.jpg</url>
+        <title>Raclette bei Andy</title>
+        <link>https://der.reisko.ch/fotoalbum/2012/12/08/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2012/11/30/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2012/20121130_hotpot.jpg</url>
+        <title>Thailändisches Moo Kata</title>
+        <link>https://der.reisko.ch/fotoalbum/2012/11/30/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2012/11/23/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2012/20121123_pad-thai-tag.jpg</url>
+        <title>Pad-Thai-Tag</title>
+        <link>https://der.reisko.ch/fotoalbum/2012/11/23/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2012/10/02/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2012/20121002_waldpilzpfanne.jpg</url>
+        <title>Waldpilzpfanne</title>
+        <link>https://der.reisko.ch/fotoalbum/2012/10/02/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2012/09/12/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2012/20120924_karotten_som_tam.jpg</url>
+        <title>Karotten Som Tam</title>
+        <link>https://der.reisko.ch/fotoalbum/2012/09/12/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2012/07/04/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2012/20120704_seelachs_mit_persil_de_la_mer.jpg</url>
+        <title>Seelachs mit Persil de la Mer</title>
+        <link>https://der.reisko.ch/fotoalbum/2012/07/04/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2012/05/12/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2012/20120512_party_snacks.jpg</url>
+        <title>Party Snacks</title>
+        <link>https://der.reisko.ch/fotoalbum/2012/05/12/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2012/04/29/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2012/20120429_fruehstueck_fuer_anne.jpg</url>
+        <title>Frühstück für Anne</title>
+        <link>https://der.reisko.ch/fotoalbum/2012/04/29/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2012/02/02/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2012/20120202_curry_de_crevette.jpg</url>
+        <title>Curry de Crevette</title>
+        <link>https://der.reisko.ch/fotoalbum/2012/02/02/</link>
+        </image>
     </item>
     
   </channel>

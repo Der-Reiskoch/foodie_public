@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gemüse on Der Reiskoch</title>
+    <title>gemüse auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/gemuse/</link>
-    <description>Recent content in gemüse on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in gemüse  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 01 Oct 2020 22:03:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/gemuse/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/bunte-chinesische-gemuesepfanne/</guid>
       <description>Ein schnelles Gericht aus dem Wok</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0125/chinesische_gemuesepfanne.jpg</url>
+        <title>Bunte chinesische Gemüsepfanne</title>
+        <link>https://der.reisko.ch/rezepte/bunte-chinesische-gemuesepfanne/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/rotes-thai-curry-mit-buntem-gemuese/</guid>
       <description>Mit dem Thai Mix aus dem Supermarkt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0935/20200814_rotes_curry_viel_gemuese.jpg</url>
+        <title>Rotes Curry mit buntem Gemüse</title>
+        <link>https://der.reisko.ch/dies-und-das/rotes-thai-curry-mit-buntem-gemuese/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-rad-na-mit-gemuse/</guid>
       <description>Mit Bohnen, Aubergine und Nudeln aus Süßkartoffeln</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0881/rad_na_mit_gemuese.jpg</url>
+        <title>Thailändisches Rad Na mit Gemüse</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-rad-na-mit-gemuse/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/herbstliches-pad-pak-ruam/</guid>
       <description>Schnelles Wok Gericht mit Gemüse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0880/pad_pak_ruam.jpg</url>
+        <title>Herbstliches Pad Pak Ruam</title>
+        <link>https://der.reisko.ch/rezepte/herbstliches-pad-pak-ruam/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/karahi-paneer-mit-peynir/</guid>
       <description>Ein vegetarisches indisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0879/karahi_paneer.jpg</url>
+        <title>Karahi Paneer mit Peynir</title>
+        <link>https://der.reisko.ch/nachgekocht/karahi-paneer-mit-peynir/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thai-rosenkohl-mit-getrocknetem-fisch/</guid>
       <description>Ein Annährungsversuch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0858/thai_rosenkohl_mit_getrocknetem_fisch.jpg</url>
+        <title>Thai Rosenkohl mit getrocknetem Fisch</title>
+        <link>https://der.reisko.ch/nachgekocht/thai-rosenkohl-mit-getrocknetem-fisch/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-pak-krached/</guid>
       <description>Wassermimose schnell zubereitet</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0740/pad_pak_grachet.jpg</url>
+        <title>Thailändisches Pad Pak Krached</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-pak-krached/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanisches-bibimbap/</guid>
       <description>Bunte Gaumenfreuden mit Reis und Ei</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0548/bibimbap.jpg</url>
+        <title>Koreanisches Bibimbap</title>
+        <link>https://der.reisko.ch/rezepte/koreanisches-bibimbap/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gebackener-lachs-im-gemusebett/</guid>
       <description>Lecker aus dem Backofen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0067/teller.jpg</url>
+        <title>Gebackener Lachs im Gemüsebett</title>
+        <link>https://der.reisko.ch/rezepte/gebackener-lachs-im-gemusebett/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/indisch-aus-funf-topfen/</guid>
       <description>Aufwendige Kochsession</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0058/indisch_fuenf_toepfe.jpg</url>
+        <title>Indisch aus fünf Töpfen</title>
+        <link>https://der.reisko.ch/nachgekocht/indisch-aus-funf-topfen/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/utensilien/karoto-von-monkey-business/</guid>
       <description>Der etwas andere Gemüseschäler</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0054/karoto.jpg</url>
+        <title>Karoto von Monkey Business</title>
+        <link>https://der.reisko.ch/utensilien/karoto-von-monkey-business/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/meine-party-samosas-im-blatterteig/</guid>
       <description>Indische Teigtaschen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0041/backblech.jpg</url>
+        <title>Meine Party Samosas im Blätterteig</title>
+        <link>https://der.reisko.ch/rezepte/meine-party-samosas-im-blatterteig/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/grunes-thai-curry-mit-rindfleisch/</guid>
       <description>Gaeng Kiaw Wan Nuea</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0029/curry.jpg</url>
+        <title>Grünes Thai Curry mit Rindfleisch</title>
+        <link>https://der.reisko.ch/rezepte/grunes-thai-curry-mit-rindfleisch/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/frische-vietnamesische-sommerrollen/</guid>
       <description>Chả giò việt nam</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0024/tisch.jpg</url>
+        <title>Frische Vietnamesische Sommerrollen</title>
+        <link>https://der.reisko.ch/rezepte/frische-vietnamesische-sommerrollen/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/tandoori-chicken-mit-gajar-matar/</guid>
       <description>Ein Rezept mit etwas Vorlaufzeit</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0019/chicken.jpg</url>
+        <title>Tandoori Chicken mit Gajar Matar</title>
+        <link>https://der.reisko.ch/rezepte/tandoori-chicken-mit-gajar-matar/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gemuesesuppe-tom-yum-style/</guid>
       <description>Eine deutsch-thailändische Suppenfusion</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0014/tom-yum.jpg</url>
+        <title>Gemüsesuppe Tom-Yum-Style</title>
+        <link>https://der.reisko.ch/rezepte/gemuesesuppe-tom-yum-style/</link>
+        </image>
     </item>
     
   </channel>

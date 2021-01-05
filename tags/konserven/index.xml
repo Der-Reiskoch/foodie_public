@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>konserven on Der Reiskoch</title>
+    <title>konserven auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/konserven/</link>
-    <description>Recent content in konserven on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in konserven  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 31 Jul 2019 06:59:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/konserven/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanischer-budae-jjigae/</guid>
       <description>Amerikanisch-koreanische Fusion Küche</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0789/budae_jjigae.jpg</url>
+        <title>Koreanischer Budae Jjigae</title>
+        <link>https://der.reisko.ch/rezepte/koreanischer-budae-jjigae/</link>
+        </image>
     </item>
     
   </channel>

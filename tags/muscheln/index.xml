@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>muscheln on Der Reiskoch</title>
+    <title>muscheln auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/muscheln/</link>
-    <description>Recent content in muscheln on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in muscheln  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 03 Jan 2021 11:30:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/muscheln/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hoi-lay-nam-prik-pao-chao-wang/</guid>
       <description>In thailändischer Chilipaste gebratene Jakobsmuscheln</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0974/hoi_lay_nam_prik_pao_chao_wang.jpg</url>
+        <title>Hoi Lai Pad Nam Prik Pao &#34;Chao Wang&#34;</title>
+        <link>https://der.reisko.ch/rezepte/hoi-lay-nam-prik-pao-chao-wang/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/moules-frites-au-roquefort/</guid>
       <description>Wie im Urlaub in der Normandie</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0848/moules-frites_au_roquefort.jpg</url>
+        <title>Moules-frites au Roquefort</title>
+        <link>https://der.reisko.ch/rezepte/moules-frites-au-roquefort/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-miesmuschel-curry/</guid>
       <description>Gaeng Kiaw Wan Hoy</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0464/gaeng_kiaw_wan_hoy.jpg</url>
+        <title>Thailändisches Miesmuschel Curry</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-miesmuschel-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/miesmuscheln-in-gemusebruhe/</guid>
       <description>Der Klassiker in den Wintermonaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0015/im_topf.jpg</url>
+        <title>Miesmuscheln in Gemüsebrühe</title>
+        <link>https://der.reisko.ch/rezepte/miesmuscheln-in-gemusebruhe/</link>
+        </image>
     </item>
     
   </channel>

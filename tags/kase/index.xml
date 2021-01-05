@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>käse on Der Reiskoch</title>
+    <title>käse auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/kase/</link>
-    <description>Recent content in käse on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in käse  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 19 May 2020 09:59:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/kase/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/romisches-fruhstuck-moretvm/</guid>
       <description>Gemörserter Käse mit Kräutern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0898/moretvm.jpg</url>
+        <title>Römisches Frühstück MORETVM</title>
+        <link>https://der.reisko.ch/rezepte/romisches-fruhstuck-moretvm/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-mattar-paneer/</guid>
       <description>Curry mit Erbsen und Frischkäse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0882/indisches_mattar_paneer.jpg</url>
+        <title>Indisches Mattar Paneer</title>
+        <link>https://der.reisko.ch/rezepte/indisches-mattar-paneer/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/karahi-paneer-mit-peynir/</guid>
       <description>Ein vegetarisches indisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0879/karahi_paneer.jpg</url>
+        <title>Karahi Paneer mit Peynir</title>
+        <link>https://der.reisko.ch/nachgekocht/karahi-paneer-mit-peynir/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/moules-frites-au-roquefort/</guid>
       <description>Wie im Urlaub in der Normandie</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0848/moules-frites_au_roquefort.jpg</url>
+        <title>Moules-frites au Roquefort</title>
+        <link>https://der.reisko.ch/rezepte/moules-frites-au-roquefort/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-palak-paneer/</guid>
       <description>Curry mit Spinat und Käse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0769/palak_paneer.jpg</url>
+        <title>Indisches Palak Paneer</title>
+        <link>https://der.reisko.ch/rezepte/indisches-palak-paneer/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-chili-paneer/</guid>
       <description>Ein indo-chinesiches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0760/chili_paneer.jpg</url>
+        <title>Indisches Chili Paneer</title>
+        <link>https://der.reisko.ch/rezepte/indisches-chili-paneer/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indischen-paneer-selbst-zubereiten/</guid>
       <description>Erstaunlich einfach wenn man etwas Zeit hat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0761/fertiger_paneer.jpg</url>
+        <title>Indischen Paneer selbst zubereiten</title>
+        <link>https://der.reisko.ch/rezepte/indischen-paneer-selbst-zubereiten/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/garnelensalat-mit-tomaten-und-parmesan/</guid>
       <description>Ein schneller, leckerer Salat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0442/garnelensalat_mit_tomaten_und_parmesan.jpg</url>
+        <title>Garnelen-Salat mit Tomaten und Parmesan</title>
+        <link>https://der.reisko.ch/rezepte/garnelensalat-mit-tomaten-und-parmesan/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kasefondue-im-muskatkurbis/</guid>
       <description>Ein tolle Kombination</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0311/fertig.jpg</url>
+        <title>Käsefondue im Muskatkürbis</title>
+        <link>https://der.reisko.ch/rezepte/kasefondue-im-muskatkurbis/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/deftige-lasagne-mit-lauch/</guid>
       <description>Mit dem gewissen Etwas</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0255/lasagne.jpg</url>
+        <title>Deftige Lasagne mit Lauch</title>
+        <link>https://der.reisko.ch/rezepte/deftige-lasagne-mit-lauch/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/turkischer-salat-mit-granatapfelsosse/</guid>
       <description>Was Frisches für den Sommer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0104/salat.jpg</url>
+        <title>Türkischer Salat mit Granatapfelsoße</title>
+        <link>https://der.reisko.ch/rezepte/turkischer-salat-mit-granatapfelsosse/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mediterraner-salat-mit-hackfleisch-und-kase/</guid>
       <description>Ein deftiger Salat für den Sommer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0053/salat.jpg</url>
+        <title>Mediterraner Salat mit Hackfleisch und Käse</title>
+        <link>https://der.reisko.ch/rezepte/mediterraner-salat-mit-hackfleisch-und-kase/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/uberbackener-lachsspiess-im-tomatenbett/</guid>
       <description>Leckerer Fisch am Spieß</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0108/lachspiess1.jpg</url>
+        <title>Überbackener Lachsspieß im Tomatenbett</title>
+        <link>https://der.reisko.ch/rezepte/uberbackener-lachsspiess-im-tomatenbett/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/uberbackene-rindersteaks-italiano/</guid>
       <description>Einfach und lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0094/steaks2.jpg</url>
+        <title>Überbackene Rindersteaks &#39;Italiano&#39;</title>
+        <link>https://der.reisko.ch/rezepte/uberbackene-rindersteaks-italiano/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/deftig-gefullte-papaya/</guid>
       <description>Einfach mal ganz anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0030/gefuellte_papaya.jpg</url>
+        <title>Papaya mit deftiger Füllung</title>
+        <link>https://der.reisko.ch/rezepte/deftig-gefullte-papaya/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pasta-mit-pesto-und-geriebenem-saumerkase/</guid>
       <description>Schnell und lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0027/pasta.jpg</url>
+        <title>Pasta mit Pesto und geriebenem Säumerkäse</title>
+        <link>https://der.reisko.ch/rezepte/pasta-mit-pesto-und-geriebenem-saumerkase/</link>
+        </image>
     </item>
     
   </channel>

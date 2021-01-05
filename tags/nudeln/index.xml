@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nudeln on Der Reiskoch</title>
+    <title>nudeln auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/nudeln/</link>
-    <description>Recent content in nudeln on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in nudeln  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 02 Jan 2021 06:33:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/nudeln/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-see-ew-moo/</guid>
       <description>Ein schnelles Wok Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0971/pad_see_ew_moo.jpg</url>
+        <title>Thailändisches Pad See Ew Moo</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-see-ew-moo/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/chinesische-ma-yi-shang-shu/</guid>
       <description>Ein Gericht mit einem seltsamen Namen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0188/na_yi_shang_shu.jpg</url>
+        <title>Chinesische Ma Yi Shang Shu</title>
+        <link>https://der.reisko.ch/rezepte/chinesische-ma-yi-shang-shu/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/nam-ya-gai-mit-reisnudeln/</guid>
       <description>Nam Ya Curry mit Hähnchenkeulen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0921/khanom_jeen_nam_ya_gai.jpg</url>
+        <title>Nam Ya Gai mit Reisnudeln</title>
+        <link>https://der.reisko.ch/rezepte/nam-ya-gai-mit-reisnudeln/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/italienische-pasta-carbonara/</guid>
       <description>So einfach und doch so lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0893/pasta_carbonara.jpg</url>
+        <title>Italienische Pasta Carbonara</title>
+        <link>https://der.reisko.ch/rezepte/italienische-pasta-carbonara/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gefaktes-pad-see-ew-nuea/</guid>
       <description>Ein schnelles Wok Gericht mit falschen Zutaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0886/pad_see_ew.jpg</url>
+        <title>Gefaktes Pad See Ew Nuea</title>
+        <link>https://der.reisko.ch/rezepte/gefaktes-pad-see-ew-nuea/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gluhweinbraten-mit-spatzle/</guid>
       <description>Etwas deftiges für die kalte Jahreszeit</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0446/gluehwein_braten_mit_spaetzle.jpg</url>
+        <title>Glühweinbraten mit Spätzle</title>
+        <link>https://der.reisko.ch/rezepte/gluhweinbraten-mit-spatzle/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/tuerkische-manti-in-sahnesosse/</guid>
       <description>Ein Fusionsgericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0291/manti_in_sahnesosse.jpg</url>
+        <title>Türkische Manti in Sahnesoße</title>
+        <link>https://der.reisko.ch/rezepte/tuerkische-manti-in-sahnesosse/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kraeuterseitlinge-mit-shirataki-nudeln/</guid>
       <description>Ein schnelles japanisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0816/krauterseitlinge_mit_shirataki_nudeln.jpg</url>
+        <title>Kräuterseitlinge mit Shirataki-Nudeln</title>
+        <link>https://der.reisko.ch/rezepte/kraeuterseitlinge-mit-shirataki-nudeln/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/eine-fertigpackung-fuer-pad-see-ew/</guid>
       <description>Eine recht unnötiges Convenience Produkt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0802/pad_see_ew.jpg</url>
+        <title>Eine Fertigpackung für Pad See Ew</title>
+        <link>https://der.reisko.ch/dies-und-das/eine-fertigpackung-fuer-pad-see-ew/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanischer-budae-jjigae/</guid>
       <description>Amerikanisch-koreanische Fusion Küche</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0789/budae_jjigae.jpg</url>
+        <title>Koreanischer Budae Jjigae</title>
+        <link>https://der.reisko.ch/rezepte/koreanischer-budae-jjigae/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/nam-ya-thalee-mit-reisnudeln/</guid>
       <description>Nam Ya Nudelcurry mit Meeresfrüchten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0750/nam_ya_talee.jpg</url>
+        <title>Nam Ya Talee mit Reisnudeln</title>
+        <link>https://der.reisko.ch/rezepte/nam-ya-thalee-mit-reisnudeln/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendische-khao-soi-moo/</guid>
       <description>Curry-Nudelsuppe aus Nordthailand</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0721/khao_soi.jpg</url>
+        <title>Thailändische Khao Soi Moo</title>
+        <link>https://der.reisko.ch/rezepte/thailaendische-khao-soi-moo/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pasta-con-colatura-di-alici/</guid>
       <description>Simpel aber so lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0693/pasta_con_colatura_di_alici.jpg</url>
+        <title>Pasta con colatura di alici</title>
+        <link>https://der.reisko.ch/rezepte/pasta-con-colatura-di-alici/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/restaurants/yangda-nudelspezialitaten-in-karlsruhe/</guid>
       <description>Ein neues uigurisches Restaurant</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0666/geschnittene_laghman_mit_kalb.jpg</url>
+        <title>Yangda Nudelspezialitäten in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/yangda-nudelspezialitaten-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-sen-mee-moo-sap/</guid>
       <description>Gebratene Reisudeln mit Hackfleisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0638/pad_woon_sen_moo_sap.jpg</url>
+        <title>Thailändisches Pad Sen Mee Moo Sap</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-sen-mee-moo-sap/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/rad-na-mee-grob-in-der-mittagspause/</guid>
       <description>Nach langer Zeit mal wieder</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0603/rad_na_mee_grob.jpg</url>
+        <title>Rad Na Mee Grob in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/rad-na-mee-grob-in-der-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-rad-na-moo/</guid>
       <description>Reisnudeln in viel dicker Soße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0602/rad_na.jpg</url>
+        <title>Thailändisches Rad Na Moo</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-rad-na-moo/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/scharfe-miso-ramen-mit-chashu/</guid>
       <description>Das erste Mal selbstgemacht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0581/miso-ramen-mit-chashu.jpg</url>
+        <title>Scharfe Miso-Ramen mit Chashu</title>
+        <link>https://der.reisko.ch/nachgekocht/scharfe-miso-ramen-mit-chashu/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-jjajangmyeon/</guid>
       <description>Nudeln mit schwarzer Bohnenpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0578/koreanische_jjajangmyeon.jpg</url>
+        <title>Koreanische Jjajangmyeon</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-jjajangmyeon/</link>
+        </image>
     </item>
     
     <item>
@@ -185,204 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/yakisoba-mit-aubergine/</guid>
       <description>Fast wäre es vegetarisch geworden</description>
-    </item>
-    
-    <item>
-      <title>Uigurisches Restaurant Kroran (geschlossen)</title>
-      <link>https://der.reisko.ch/restaurants/uigurisches-restaurant-kroran-geschlossen/</link>
-      <pubDate>Wed, 03 Jan 2018 08:09:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/uigurisches-restaurant-kroran-geschlossen/</guid>
-      <description>Eine bisher unbekannte Küche in Karlsruhe</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Mama</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-mama/</link>
-      <pubDate>Sat, 18 Nov 2017 09:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-mama/</guid>
-      <description>Scharfer Salat aus Instant-Nudeln</description>
-    </item>
-    
-    <item>
-      <title>Nudelsuppe mit Moo Sam Chan Palo</title>
-      <link>https://der.reisko.ch/rezepte/nudelsuppe-mit-moo-sam-chan-palo/</link>
-      <pubDate>Thu, 16 Nov 2017 06:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/nudelsuppe-mit-moo-sam-chan-palo/</guid>
-      <description>Äu­ßerst kräftige Resteverwertung</description>
-    </item>
-    
-    <item>
-      <title>Taiwanesische Danzai Nudelsuppe</title>
-      <link>https://der.reisko.ch/nachgekocht/taiwanesische-danzai-nudelsuppe/</link>
-      <pubDate>Sat, 16 Sep 2017 11:58:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/taiwanesische-danzai-nudelsuppe/</guid>
-      <description>Leckere Suppe aus Schweinebrühe</description>
-    </item>
-    
-    <item>
-      <title>Stephans Rad Na Mee Grob</title>
-      <link>https://der.reisko.ch/mittagspause/stephans-rad-na-mee-grob/</link>
-      <pubDate>Thu, 23 Mar 2017 09:07:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/stephans-rad-na-mee-grob/</guid>
-      <description>Frittierte Nudeln mit dicker Soße</description>
-    </item>
-    
-    <item>
-      <title>Japanische Sobanudelsuppe</title>
-      <link>https://der.reisko.ch/rezepte/japanische-sobanudelsuppe/</link>
-      <pubDate>Sun, 29 Jan 2017 09:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanische-sobanudelsuppe/</guid>
-      <description>Schnelle Suppe aus der Flasche</description>
-    </item>
-    
-    <item>
-      <title>Eine sehr kräftige Suppe mit Ei</title>
-      <link>https://der.reisko.ch/mittagspause/kraftige-suppe-mit-ei/</link>
-      <pubDate>Fri, 23 Dec 2016 07:25:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/kraftige-suppe-mit-ei/</guid>
-      <description>Dreifach gekocht hält besser</description>
-    </item>
-    
-    <item>
-      <title>Nam Ya Goong mit Reisnudeln</title>
-      <link>https://der.reisko.ch/rezepte/nam-ya-goong-mit-reisnudeln/</link>
-      <pubDate>Tue, 08 Nov 2016 07:13:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/nam-ya-goong-mit-reisnudeln/</guid>
-      <description>Nudelcurry mit Garnelen</description>
-    </item>
-    
-    <item>
-      <title>China Restaurant Niu in Mühlburg</title>
-      <link>https://der.reisko.ch/restaurants/china-restaurant-niu/</link>
-      <pubDate>Tue, 27 Sep 2016 07:31:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/china-restaurant-niu/</guid>
-      <description>Leckeres Essen in Mühlburg</description>
-    </item>
-    
-    <item>
-      <title>Einer meiner ersten Yam Woon Sen</title>
-      <link>https://der.reisko.ch/dies-und-das/einer-meiner-ersten-yam-woon-sen/</link>
-      <pubDate>Fri, 19 Aug 2016 07:04:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/einer-meiner-ersten-yam-woon-sen/</guid>
-      <description>Wie alles begann</description>
-    </item>
-    
-    <item>
-      <title>Schnelle Kimchi Nudelpfanne mit Huhn</title>
-      <link>https://der.reisko.ch/rezepte/schnelle-kimchi-nudelpfanne-mit-huhn/</link>
-      <pubDate>Wed, 13 Jul 2016 06:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/schnelle-kimchi-nudelpfanne-mit-huhn/</guid>
-      <description>Das Thai Soi Kimchi im Kocheinsatz</description>
-    </item>
-    
-    <item>
-      <title>Rad Na Moo Sap Sen Mee</title>
-      <link>https://der.reisko.ch/rezepte/rad-na-moo-sap-sen-mee/</link>
-      <pubDate>Wed, 22 Jun 2016 07:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rad-na-moo-sap-sen-mee/</guid>
-      <description>Nudelpfanne mit Hackfleischtopping</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Pad Sen Mee Kra Pao</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-pad-sen-mee-kra-pao/</link>
-      <pubDate>Sat, 02 Apr 2016 09:51:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-sen-mee-kra-pao/</guid>
-      <description>Nudelpfanne mit Hackfleisch und Basilikum</description>
-    </item>
-    
-    <item>
-      <title>Soba Nudeln mit Champignons</title>
-      <link>https://der.reisko.ch/mittagspause/soba-nudeln-mit-champignons/</link>
-      <pubDate>Thu, 25 Feb 2016 08:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/soba-nudeln-mit-champignons/</guid>
-      <description>Was schnelles für die Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Thailändische Nam Ya Curry Suppe</title>
-      <link>https://der.reisko.ch/rezepte/thailaendische-nam-ya-curry-suppe/</link>
-      <pubDate>Mon, 09 Nov 2015 07:31:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendische-nam-ya-curry-suppe/</guid>
-      <description>Eine spontane Suppenkreation</description>
-    </item>
-    
-    <item>
-      <title>Japanische Udon Suppe von Assi</title>
-      <link>https://der.reisko.ch/dies-und-das/japanische-udon-suppe-von-assi/</link>
-      <pubDate>Fri, 23 Oct 2015 06:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/japanische-udon-suppe-von-assi/</guid>
-      <description>Mal was aus der Tüte</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Pad Thai Moo</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-pad-thai-moo/</link>
-      <pubDate>Thu, 22 Oct 2015 06:26:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-thai-moo/</guid>
-      <description>Areks Original-Rezept aus Koh Pha Ngan</description>
-    </item>
-    
-    <item>
-      <title>Italienisches Überraschungspaket</title>
-      <link>https://der.reisko.ch/dies-und-das/italienisches-uberraschungspaket/</link>
-      <pubDate>Tue, 29 Sep 2015 09:16:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/italienisches-uberraschungspaket/</guid>
-      <description>Mein Gewinn von Amor &amp;amp; Kartoffelsack</description>
-    </item>
-    
-    <item>
-      <title>Schneller Nudelsalat &#39;Italiano&#39;</title>
-      <link>https://der.reisko.ch/mittagspause/schneller-nudelsalat-italiano/</link>
-      <pubDate>Wed, 15 Apr 2015 08:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/schneller-nudelsalat-italiano/</guid>
-      <description>Ein schneller Salat für die Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Menü nach Harumi</title>
-      <link>https://der.reisko.ch/nachgekocht/japanisches-menu-nach-harumi/</link>
-      <pubDate>Thu, 02 Apr 2015 06:35:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/japanisches-menu-nach-harumi/</guid>
-      <description>Drei japanische Gerichte</description>
-    </item>
-    
-    <item>
-      <title>Nam Ya Nudelcurry im Schmortopf</title>
-      <link>https://der.reisko.ch/rezepte/nam-ya-nudelcurry-im-schmortopf/</link>
-      <pubDate>Tue, 27 May 2014 06:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/nam-ya-nudelcurry-im-schmortopf/</guid>
-      <description>Thai Curry geht auch mit Nudeln</description>
-    </item>
-    
-    <item>
-      <title>Reisnudel Pfanne mit Pad-Thai-Sauce</title>
-      <link>https://der.reisko.ch/rezepte/reisnudel-pfanne-mit-pad-thai-sauce/</link>
-      <pubDate>Tue, 06 Dec 2011 07:32:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/reisnudel-pfanne-mit-pad-thai-sauce/</guid>
-      <description>Eine lange Tradition</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0386/yakisoba_mit_aubergine.jpg</url>
+        <title>Yakisoba mit Aubergine</title>
+        <link>https://der.reisko.ch/rezepte/yakisoba-mit-aubergine/</link>
+        </image>
     </item>
     
   </channel>

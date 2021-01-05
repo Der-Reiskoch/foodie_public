@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>süsskartoffel on Der Reiskoch</title>
+    <title>süsskartoffel auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/susskartoffel/</link>
-    <description>Recent content in süsskartoffel on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in süsskartoffel  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 23 Jul 2019 06:23:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/susskartoffel/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gaeng-massaman-man-thet/</guid>
       <description>Thailändisches Curry mit Süßkartoffeln</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0783/gaeng_massaman_man_thet.jpg</url>
+        <title>Gaeng Massaman Man Thet</title>
+        <link>https://der.reisko.ch/rezepte/gaeng-massaman-man-thet/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/utensilien/ein-neuer-reiskocher-mit-dampfaufsatz/</guid>
       <description>Kocht nicht nur Reis</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0674/reiskocher_mit_dampfaufsatz.jpg</url>
+        <title>Ein neuer Reiskocher mit Dämpfaufsatz</title>
+        <link>https://der.reisko.ch/utensilien/ein-neuer-reiskocher-mit-dampfaufsatz/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-gaeng-panaeng-gai/</guid>
       <description>Curry mit Huhn, Süßkartoffeln und Pfeffer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0676/gaeng_panaeng_gai.jpg</url>
+        <title>Thailändisches Gaeng Panaeng Gai</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-gaeng-panaeng-gai/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-curry-mit-susskartoffel-und-linsen/</guid>
       <description>Eine deftiges vegetarisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0587/curry.jpg</url>
+        <title>Indisches Curry mit Süßkartoffel und Linsen</title>
+        <link>https://der.reisko.ch/rezepte/indisches-curry-mit-susskartoffel-und-linsen/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/sauerdattelbraten-mit-sussen-schupfnudeln/</guid>
       <description>Eine verrückte Kombination</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0586/sauerdattelbraten_mit_buwespitzle.jpg</url>
+        <title>Sauerdattelbraten mit süßen Schupfnudeln</title>
+        <link>https://der.reisko.ch/rezepte/sauerdattelbraten-mit-sussen-schupfnudeln/</link>
+        </image>
     </item>
     
   </channel>

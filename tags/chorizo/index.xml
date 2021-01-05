@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>chorizo on Der Reiskoch</title>
+    <title>chorizo auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/chorizo/</link>
-    <description>Recent content in chorizo on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in chorizo  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 17 Jul 2015 08:32:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/chorizo/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/spiegelei-mit-scharfer-chorizo/</guid>
       <description>Kurz und gut</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0243/eier.jpg</url>
+        <title>Spiegelei mit scharfer Chorizo</title>
+        <link>https://der.reisko.ch/rezepte/spiegelei-mit-scharfer-chorizo/</link>
+        </image>
     </item>
     
   </channel>

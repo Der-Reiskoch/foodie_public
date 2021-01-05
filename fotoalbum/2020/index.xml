@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fotoalbum 2020 on Der Reiskoch</title>
+    <title>Fotoalbum 2020 auf Der Reiskoch</title>
     <link>https://der.reisko.ch/fotoalbum/2020/</link>
-    <description>Recent content in Fotoalbum 2020 on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Fotoalbum 2020  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 28 Dec 2020 20:03:09 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/fotoalbum/2020/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/12/28/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201228_spinat_pfanne.jpg</url>
+        <title>Spinat-Pfanne mit Sucuk und Ei</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/12/28/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/12/26/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201226_lachs_mit_kartoffeln.jpg</url>
+        <title>Lachs mit Kartoffeln</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/12/26/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/12/24/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201224_ente_mit_knoedeln_und_rotkraut.jpg</url>
+        <title>Ente mit Knödeln und Rotkraut</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/12/24/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/12/13/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201213_kare_raisu_und_dwaejigogi_bulgogi.jpg</url>
+        <title>Karē Raisu und Dwaejigogi Bulgogi</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/12/13/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/12/12/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201212_risotto_mit_pilzen.jpg</url>
+        <title>Risotto mit Kräuterseitlingen</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/12/12/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/12/08/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201208_dolsot_experiment.jpg</url>
+        <title>Koreanisches Dolsot Experiment</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/12/08/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/12/05/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201205_doenjang-jjigae_und_bulgogi.jpg</url>
+        <title>Doenjang Jjigae und Bulgogi</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/12/05/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/12/03/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201203_rindfleisch_mit_brokko­li.jpg</url>
+        <title>Rindfleisch mit Brokko­li</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/12/03/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/11/20/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201120_entrecote_mit_beilagen.jpg</url>
+        <title>Entrecôtes mit orientalischen Beilagen</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/11/20/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/11/06/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201106_vorfreude_aufs_livecooking.jpg</url>
+        <title>Vorfreude aufs Live Cooking</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/11/06/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/11/03/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201103_bun_cha_la_lot.jpg</url>
+        <title>Bun Cha La Lot aus Vietnam</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/11/03/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/11/01/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201101_koreanischer_kochabend.jpg</url>
+        <title>Koreanischer Kochabend</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/11/01/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/10/29/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201029_selbgemachte_gemuesesuppe.jpg</url>
+        <title>Selbstgemachte Gemüsesuppe</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/10/29/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/10/23/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201023_vesperplatte.jpg</url>
+        <title>Vesperplatten zur Weinprobe</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/10/23/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/10/19/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201019_udonnudelsuppe.jpg</url>
+        <title>Udonnudelsuppe mit Spiegelei</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/10/19/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/10/07/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201007_tasca_do_jose.jpg</url>
+        <title>Voller im Tisch im Tasca do José</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/10/07/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/10/04/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201004_fassteller.jpg</url>
+        <title>Fassteller in Bad Dürkheim</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/10/04/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/10/03/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201003_paella_teller.jpg</url>
+        <title>Paella im Phono</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/10/03/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/09/27/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20200927_sonntagsbraten.jpg</url>
+        <title>Sonntagsbraten</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/09/27/</link>
+        </image>
     </item>
     
     <item>
@@ -185,717 +280,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2020/09/22/</guid>
       <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Gemspfeffer</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/09/19/</link>
-      <pubDate>Sat, 19 Sep 2020 16:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/09/19/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Leckeres in Eggenstein</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/09/11/</link>
-      <pubDate>Mon, 07 Sep 2020 16:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/09/11/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Moules Frites</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/09/07/</link>
-      <pubDate>Mon, 07 Sep 2020 16:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/09/07/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Jamaican Chicken Stew</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/09/05/</link>
-      <pubDate>Sat, 05 Sep 2020 16:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/09/05/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Mango mit Chilisalz</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/09/01/</link>
-      <pubDate>Tue, 01 Sep 2020 16:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/09/01/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Kräftige Reisnudelsuppe</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/30/</link>
-      <pubDate>Sun, 30 Aug 2020 18:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/30/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Getrocknete Frühlingszwiebeln</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/28/</link>
-      <pubDate>Fri, 28 Aug 2020 18:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/28/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Tofu und Gemüse in Mala-Soße</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/22/</link>
-      <pubDate>Sat, 22 Aug 2020 18:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/22/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Mittagessen am See</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/21/</link>
-      <pubDate>Fri, 21 Aug 2020 18:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/21/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Tex-Mex-Wraps</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/19/</link>
-      <pubDate>Wed, 19 Aug 2020 18:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/19/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Gebratene Nudeln mit Gemüse</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/18/</link>
-      <pubDate>Tue, 18 Aug 2020 18:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/18/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Deftiges nach der Wanderung</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/16/</link>
-      <pubDate>Sun, 16 Aug 2020 18:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/16/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title> Steinpilz-Tortellini in Tomatensoße</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/12/</link>
-      <pubDate>Wed, 12 Aug 2020 20:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/12/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Pizza am See</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/09/</link>
-      <pubDate>Sun, 09 Aug 2020 20:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/09/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Weldegarten</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/08/</link>
-      <pubDate>Sat, 08 Aug 2020 20:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/08/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Spanisches Omelette</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/07/</link>
-      <pubDate>Fri, 07 Aug 2020 22:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/07/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Im Tawa Yama</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/06/</link>
-      <pubDate>Thu, 06 Aug 2020 18:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/06/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Nochmal im Antalya</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/08/01/</link>
-      <pubDate>Sat, 01 Aug 2020 22:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/08/01/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Falafel und armenische Gurken</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/07/31/</link>
-      <pubDate>Fri, 31 Jul 2020 22:03:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/07/31/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Mediterranes Abendessen</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/07/14/</link>
-      <pubDate>Tue, 14 Jul 2020 01:24:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/07/14/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Dim Sums</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/07/10/</link>
-      <pubDate>Fri, 10 Jul 2020 01:24:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/07/10/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Riesige Pizza Arabiata</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/07/07/</link>
-      <pubDate>Tue, 07 Jul 2020 21:24:09 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/07/07/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Samyang 2x Spicy Ramen mit Ei</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/06/27/</link>
-      <pubDate>Sat, 27 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/06/27/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Shakshuka mit Merguez</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/06/21/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/06/21/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Linsensalat mit Merguez</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/06/20/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/06/20/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Spaghetti Bolognese</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/06/12/</link>
-      <pubDate>Fri, 12 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/06/12/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Schinken und Spargelsalat</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/31/</link>
-      <pubDate>Sun, 31 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/31/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Mapo Doufu vom Niu</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/28/</link>
-      <pubDate>Thu, 28 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/28/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Gemischter Grillteller</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/27/</link>
-      <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/27/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Antipasti und Tapas</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/25/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/25/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Schnelles Bami Goreng</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/24/</link>
-      <pubDate>Sun, 24 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/24/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Hummus und Hackfleisch</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/22/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/22/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Eat Asian Food</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/15/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/15/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Karibisches Hähnchen Curry</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/14/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/14/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Shakshuka mit Sucuk</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/13/</link>
-      <pubDate>Wed, 13 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/13/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Samyang Ramen mit Spiegelei</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/11/</link>
-      <pubDate>Mon, 11 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/11/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Leckere Matcha Kekse</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/07/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/07/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Türkischer Petersiliensalat</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/04/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/04/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>OVA ELIXA und MORETVM</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/03/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/03/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Karibisches Kalbscurry</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/05/02/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/05/02/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Hummus und Baba Ghanoush</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/29/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/29/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Marokkanischer Eintopf</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/28/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/28/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Mole-Poblano-Reis mit Sucuk</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/27/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/27/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Pollo Mole Poblano</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/24/</link>
-      <pubDate>Fri, 24 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/24/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Annes Shakshuka</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/21/</link>
-      <pubDate>Tue, 21 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/21/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Schnitzel mit Spätzle</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/17/</link>
-      <pubDate>Fri, 17 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/17/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Indisches Goa Gemüsecurry</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/16/</link>
-      <pubDate>Thu, 16 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/16/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Japanische Gyozas und Beilagen</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/15/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/15/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Pasta con Colatura di Alici</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/13/</link>
-      <pubDate>Mon, 13 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/13/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Jiaozi mit Hoisin Soße</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/12/</link>
-      <pubDate>Sun, 12 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/12/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Deftiges Taco-Reste Frühstück</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/11/</link>
-      <pubDate>Sat, 11 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/11/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Tacos auf der MooVita Grillplatte</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/10/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/10/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Annes Spargelsuppe</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/07/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/07/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Der erste Spargel</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/05/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/05/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Zitronen Risotto</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/04/03/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/04/03/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Gebratene Nudeln aus Resten</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/03/29/</link>
-      <pubDate>Sun, 29 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/03/29/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Selbstgemachte Pizza</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/03/25/</link>
-      <pubDate>Wed, 25 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/03/25/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Pilzramen mit Sobanudeln</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/03/19/</link>
-      <pubDate>Thu, 19 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/03/19/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Salat mit Feta und Pilzen</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/03/18/</link>
-      <pubDate>Wed, 18 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/03/18/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Hotpot-Reste-Suppe</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/03/15/</link>
-      <pubDate>Sun, 15 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/03/15/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Schnelles japanisches Yakisoba</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/03/14/</link>
-      <pubDate>Sat, 14 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/03/14/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Artischocken aus Frankreich</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/03/11/</link>
-      <pubDate>Wed, 11 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/03/11/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Zitronenhuhn mit Bohnen und Nudeln</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/03/08/</link>
-      <pubDate>Sun, 08 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/03/08/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Frische Crevetten aus Frankreich</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/03/07/</link>
-      <pubDate>Sat, 07 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/03/07/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Nudelsuppe mit Hackfleisch und Garnelen</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/03/06/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/03/06/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Gefüllte Minipaprika</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/03/04/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/03/04/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Drei äthiopische Gerichte</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/03/01/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/03/01/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Scharfe Sichuan Gemüsesuppe</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/02/27/</link>
-      <pubDate>Thu, 27 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/02/27/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Dreimal Rinderfilet</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/02/24/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/02/24/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Shirataki Nudeln in Hackfleisch-Chili-Soße</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/02/20/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/02/20/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Sommerrollen am Hauptbahnhof</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/02/10/</link>
-      <pubDate>Mon, 10 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/02/10/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Pommes mit Gewürzsalz und zwei Soßen</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/01/23/</link>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/01/23/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Judy´s Diavolo Burger</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/01/20/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/01/20/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Mitbringsel von Valerie aus Marrakesch</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/01/19/</link>
-      <pubDate>Sun, 19 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/01/19/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Praktischer Fund aus dem Asia Shop</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/01/18/</link>
-      <pubDate>Sat, 18 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/01/18/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Koreanische Restesuppe</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/01/10/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/01/10/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Chinesischer Hotpot</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/01/05/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/01/05/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Laotische Nudelsuppe aus Resten</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/01/04/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/01/04/</guid>
-      <description>Foodie’s Fotoalbum</description>
-    </item>
-    
-    <item>
-      <title>Beer Lao als Mitbringsel aus Winterthur</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/01/01/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/01/01/</guid>
-      <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20200922_mini_omelette_mit_sucuk.jpg</url>
+        <title>Mini Omelette mit Sucuk</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/09/22/</link>
+        </image>
     </item>
     
   </channel>

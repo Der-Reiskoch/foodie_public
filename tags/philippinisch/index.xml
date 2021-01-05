@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Philippinisch on Der Reiskoch</title>
+    <title>Philippinisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/philippinisch/</link>
-    <description>Recent content in Philippinisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Philippinisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 01 May 2019 09:13:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/philippinisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/palabok-mit-hackfleisch-und-pak-choy/</guid>
       <description>Deftiges von den Philippinen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0751/palabok_mit_hack_und_pak_choy.jpg</url>
+        <title>Palabok mit Hackfleisch und Pak Choy</title>
+        <link>https://der.reisko.ch/rezepte/palabok-mit-hackfleisch-und-pak-choy/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/asian-street-food-festival-in-baden-baden/</guid>
       <description>Fernöstliches Essen in der Kurstadt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0627/banh_hoi_heo_quay.jpg</url>
+        <title>Asian Street Food Festival in Baden-Baden</title>
+        <link>https://der.reisko.ch/dies-und-das/asian-street-food-festival-in-baden-baden/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/die-foodtrucks-trafen-sich-wieder/</guid>
       <description>Streetfood vor dem karlsruher Schloss</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0536/adobo_fingers.jpg</url>
+        <title>Die Foodtrucks trafen sich wieder</title>
+        <link>https://der.reisko.ch/dies-und-das/die-foodtrucks-trafen-sich-wieder/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/philippinisches-adobo-mit-chorizo-und-huhn/</guid>
       <description>Gehaltvoller Eintopf mit vielen Zutaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0348/pfanne.jpg</url>
+        <title>Philippinisches Adobo mit Chorizo und Huhn</title>
+        <link>https://der.reisko.ch/rezepte/philippinisches-adobo-mit-chorizo-und-huhn/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/caldereta-mit-chorizo-und-rindergulasch/</guid>
       <description>Philippinischer Eintopf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0224/caldereta.jpg</url>
+        <title>Caldereta mit Chorizo und Rindergulasch</title>
+        <link>https://der.reisko.ch/rezepte/caldereta-mit-chorizo-und-rindergulasch/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/baby-pak-choy-auf-philippinische-art/</guid>
       <description>Mit leckerer Ingwer-Knoblauch-Soße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0174/pak_choy.jpg</url>
+        <title>Baby Pak Choy auf Philippinische Art</title>
+        <link>https://der.reisko.ch/rezepte/baby-pak-choy-auf-philippinische-art/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/philippinisches-adobo-im-schmortopf/</guid>
       <description>Ein Schmortopf-Experiment mit Fertigpackung</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0109/adobo.jpg</url>
+        <title>Philippinisches Adobo im Schmortopf</title>
+        <link>https://der.reisko.ch/rezepte/philippinisches-adobo-im-schmortopf/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mama-sitas-adobo-aus-der-tute/</guid>
       <description>Das Nationalgericht der Philippinen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0128/mariniert.jpg</url>
+        <title>Mama Sita&#39;s Adobo aus der Tüte</title>
+        <link>https://der.reisko.ch/rezepte/mama-sitas-adobo-aus-der-tute/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mama-sitas-caldereta/</guid>
       <description>Rindfleisch-Gemüse-Eintopf von den Philippinen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0069/caldereta2.jpg</url>
+        <title>Mama Sita&#39;s Caldereta</title>
+        <link>https://der.reisko.ch/rezepte/mama-sitas-caldereta/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/palabok-pfanne-von-den-philippinen/</guid>
       <description>Grüne Bohnen mit Hackfleisch und Eiern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0025/palabok_pfanne.jpg</url>
+        <title>Palabok-Pfanne von den Philippinen</title>
+        <link>https://der.reisko.ch/rezepte/palabok-pfanne-von-den-philippinen/</link>
+        </image>
     </item>
     
   </channel>

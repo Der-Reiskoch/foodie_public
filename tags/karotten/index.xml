@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>karotten on Der Reiskoch</title>
+    <title>karotten auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/karotten/</link>
-    <description>Recent content in karotten on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in karotten  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 21 Dec 2020 06:14:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/karotten/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanisches-keema-curry/</guid>
       <description>Indisches Gericht japanisch interpretiert</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0958/japanisches_keema_curry.jpg</url>
+        <title>Japanisches Keema Curry</title>
+        <link>https://der.reisko.ch/rezepte/japanisches-keema-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/jamaikanisches-fisch-curry/</guid>
       <description>Ein leckeres Gericht aus der Karibik</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0459/jamaikanisches_fischcurry.jpg</url>
+        <title>Jamaikanisches Fisch Curry</title>
+        <link>https://der.reisko.ch/rezepte/jamaikanisches-fisch-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-gaeng-paa-nuea/</guid>
       <description>Jungle Curry mit Rindergulasch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0806/gaeng_paa_nuea.jpg</url>
+        <title>Thailändisches Gaeng Paa Nuea</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-gaeng-paa-nuea/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/deftiges-bo-kho-aus-vietnam/</guid>
       <description>Rindfleischeintopf mit Karotten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0724/bo_kho.jpg</url>
+        <title>Deftiges Bò Kho aus Vietnam</title>
+        <link>https://der.reisko.ch/rezepte/deftiges-bo-kho-aus-vietnam/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanisches-curry-von-hachi/</guid>
       <description>Ein schnelles Gericht aus der Tüte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0623/schuessel.jpg</url>
+        <title>Japanisches Curry von Hachi</title>
+        <link>https://der.reisko.ch/rezepte/japanisches-curry-von-hachi/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/schweinefleisch-vindaloo-und-gemusecurry/</guid>
       <description>Indische Currysession</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0532/schweinefleisch-vindaloo.jpg</url>
+        <title>Schweinefleisch Vindaloo und Gemüsecurry</title>
+        <link>https://der.reisko.ch/nachgekocht/schweinefleisch-vindaloo-und-gemusecurry/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/japanischer-schwarzwurzelsalat/</guid>
       <description>Ein sehr schneller Salat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0518/japanischer_schwarzwurzelsalat.jpg</url>
+        <title>Japanischer Schwarzwurzelsalat</title>
+        <link>https://der.reisko.ch/nachgekocht/japanischer-schwarzwurzelsalat/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanische-sobanudelsuppe/</guid>
       <description>Schnelle Suppe aus der Flasche</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0469/sobanudelsuppe.jpg</url>
+        <title>Japanische Sobanudelsuppe</title>
+        <link>https://der.reisko.ch/rezepte/japanische-sobanudelsuppe/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/maharage-na-ndizi-aus-tansania/</guid>
       <description>Ein deftiger Eintopf der richtig satt macht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0443/maharage_na_ndizi.jpg</url>
+        <title>Maharage na Ndizi aus Tansania</title>
+        <link>https://der.reisko.ch/rezepte/maharage-na-ndizi-aus-tansania/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pasta-alla-butterworthese/</guid>
       <description>Bolognese trifft malaysisches Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0404/teller.jpg</url>
+        <title>Pasta alla Butterworthese</title>
+        <link>https://der.reisko.ch/rezepte/pasta-alla-butterworthese/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/miso-suppe-mit-tofu-und-karotten/</guid>
       <description>Aus Annes Rezeptbuch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0339/schuessel.jpg</url>
+        <title>Miso-Suppe mit Tofu und Karotten</title>
+        <link>https://der.reisko.ch/rezepte/miso-suppe-mit-tofu-und-karotten/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/wurziges-jamaican-beef-stew/</guid>
       <description>Rindfleisch, Rum und Reggae</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0187/teller.jpg</url>
+        <title>Würziges Jamaican Beef Stew</title>
+        <link>https://der.reisko.ch/rezepte/wurziges-jamaican-beef-stew/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gebackener-lachs-im-gemusebett/</guid>
       <description>Lecker aus dem Backofen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0067/teller.jpg</url>
+        <title>Gebackener Lachs im Gemüsebett</title>
+        <link>https://der.reisko.ch/rezepte/gebackener-lachs-im-gemusebett/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kokos-suppe-mit-karotten-und-ingwer/</guid>
       <description>Lecker fruchtig und cremig</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0139/karotten-ingwer-suppe.jpg</url>
+        <title>Kokos-Suppe mit Karotten und Ingwer</title>
+        <link>https://der.reisko.ch/rezepte/kokos-suppe-mit-karotten-und-ingwer/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mama-sitas-caldereta/</guid>
       <description>Rindfleisch-Gemüse-Eintopf von den Philippinen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0069/caldereta2.jpg</url>
+        <title>Mama Sita&#39;s Caldereta</title>
+        <link>https://der.reisko.ch/rezepte/mama-sitas-caldereta/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rinderbraten-in-rotweinsosse/</guid>
       <description>Klassischer Sonntagsbraten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0088/teller.jpg</url>
+        <title>Rinderbraten in Rotweinsoße</title>
+        <link>https://der.reisko.ch/rezepte/rinderbraten-in-rotweinsosse/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/utensilien/karoto-von-monkey-business/</guid>
       <description>Der etwas andere Gemüseschäler</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0054/karoto.jpg</url>
+        <title>Karoto von Monkey Business</title>
+        <link>https://der.reisko.ch/utensilien/karoto-von-monkey-business/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/nordthailaendisches-hang-lae-curry/</guid>
       <description>Mal ein etwas anderes Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0026/hunglay_curry.jpg</url>
+        <title>Nordthailändisches Hang Lae Curry</title>
+        <link>https://der.reisko.ch/rezepte/nordthailaendisches-hang-lae-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/tandoori-chicken-mit-gajar-matar/</guid>
       <description>Ein Rezept mit etwas Vorlaufzeit</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0019/chicken.jpg</url>
+        <title>Tandoori Chicken mit Gajar Matar</title>
+        <link>https://der.reisko.ch/rezepte/tandoori-chicken-mit-gajar-matar/</link>
+        </image>
     </item>
     
   </channel>

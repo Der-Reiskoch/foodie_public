@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>laotisch on Der Reiskoch</title>
+    <title>laotisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/laotisch/</link>
-    <description>Recent content in laotisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in laotisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 10 Dec 2020 05:14:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/laotisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/asia_street_bowls.jpg</url>
+        <title>Das Buch &#34;Asia Street Bowls&#34;</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/asia_street_food.jpg</url>
+        <title>Das Buch &#34;Asia Street Food&#34;</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/laotischer-mok-pa/</guid>
       <description>Leichter Fisch im Bananenblatt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0953/laotischer_mok_pa.jpg</url>
+        <title>Gedämpfter Mok Pa aus Laos</title>
+        <link>https://der.reisko.ch/rezepte/laotischer-mok-pa/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/laotisches-gang-keo-moo/</guid>
       <description>Grünes Curry mit Schwein und Dill</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0942/gang_keo_moo.jpg</url>
+        <title>Laotisches Gang Keo Moo</title>
+        <link>https://der.reisko.ch/rezepte/laotisches-gang-keo-moo/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/laotischer-or-lam-mit-rind/</guid>
       <description>Ein Eintopf aus Luang Prabang</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0842/or_lam_mit_rind.jpg</url>
+        <title>Laotischer Or Lam mit Rind</title>
+        <link>https://der.reisko.ch/rezepte/laotischer-or-lam-mit-rind/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/utensilien/mein-laos-pot-fur-klebreis/</guid>
       <description>Der laotische Reisdämpfer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0427/reispot.jpg</url>
+        <title>Mein Laos Pot für Klebreis</title>
+        <link>https://der.reisko.ch/utensilien/mein-laos-pot-fur-klebreis/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/laotische-keng-kai-xiengkhuang/</guid>
       <description>Hühner-Nudel-Suppe mit Pfeffer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0424/suppe.jpg</url>
+        <title>Laotische Keng Kai Xiengkhuang</title>
+        <link>https://der.reisko.ch/nachgekocht/laotische-keng-kai-xiengkhuang/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/utensilien/fischis-larb-hackstation/</guid>
       <description>Der logische Nachfolger des Hackbrettes</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0284/hackstation.jpg</url>
+        <title>Fischis Larb Hackstation</title>
+        <link>https://der.reisko.ch/utensilien/fischis-larb-hackstation/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/asia-street-food/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/asia-street-food.jpg</url>
+        <title>Asia Street Food - Der Blog</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/asia-street-food/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/curry-kochbuch/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/curry.jpg</url>
+        <title>Das gelbe &#34;Curry&#34; Buch</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/curry-kochbuch/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/das-grosse-buch-der-asiatischen-kueche/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/das_grosse_buch_der_asiatischen_kueche.jpg</url>
+        <title>Das große Buch der asiatischen Küche</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/das-grosse-buch-der-asiatischen-kueche/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/mekong-food/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/mekong_food.jpg</url>
+        <title>Mekong Food von Michael Langoth</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/mekong-food/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dip on Der Reiskoch</title>
+    <title>dip auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/dip/</link>
-    <description>Recent content in dip on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in dip  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 17 Sep 2020 00:13:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/dip/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-auberginen-dip/</guid>
       <description>Nach dem Rezept von Phayao</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0939/dip_mit_beilagen.jpg</url>
+        <title>Thailändischer Auberginen Dip</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-auberginen-dip/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendische-nam-jim-seafood/</guid>
       <description>Der klassische Dip zu allem aus dem Meer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0924/nam_jim_seafood.jpg</url>
+        <title>Thailändische Nam Jim Seafood</title>
+        <link>https://der.reisko.ch/rezepte/thailaendische-nam-jim-seafood/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendische-nam-jim-jaew/</guid>
       <description>Der klassische Dip zu getrocknetem Fleisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0917/nam_jim_jaew.jpg</url>
+        <title>Thailändische Nam Jim Jaew</title>
+        <link>https://der.reisko.ch/rezepte/thailaendische-nam-jim-jaew/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/selbstgemachte-chipotle-salsa/</guid>
       <description>Rauchig und scharf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0687/chipotle_salsa.jpg</url>
+        <title>Selbstgemachte Chipotle Salsa</title>
+        <link>https://der.reisko.ch/rezepte/selbstgemachte-chipotle-salsa/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/selbstgemachte-salsa-roja/</guid>
       <description>Rote Salsa Sauce</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0017/tomaten.jpg</url>
+        <title>Selbstgemachte Salsa Roja</title>
+        <link>https://der.reisko.ch/rezepte/selbstgemachte-salsa-roja/</link>
+        </image>
     </item>
     
   </channel>

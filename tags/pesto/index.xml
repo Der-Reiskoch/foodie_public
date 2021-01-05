@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pesto on Der Reiskoch</title>
+    <title>pesto auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/pesto/</link>
-    <description>Recent content in pesto on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in pesto  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 08 Feb 2012 07:22:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/pesto/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pasta-mit-pesto-und-geriebenem-saumerkase/</guid>
       <description>Schnell und lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0027/pasta.jpg</url>
+        <title>Pasta mit Pesto und geriebenem Säumerkäse</title>
+        <link>https://der.reisko.ch/rezepte/pasta-mit-pesto-und-geriebenem-saumerkase/</link>
+        </image>
     </item>
     
   </channel>

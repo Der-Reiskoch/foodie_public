@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Suchen und Finden on Der Reiskoch</title>
+    <title>Suchen und Finden auf Der Reiskoch</title>
     <link>https://der.reisko.ch/suchen/</link>
-    <description>Recent content in Suchen und Finden on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Suchen und Finden  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 01 Aug 2020 16:24:09 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/suchen/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/suchen/zufall/</guid>
       <description>Zufälliger Beitrag</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media</url>
+        <title>Zufall</title>
+        <link>https://der.reisko.ch/suchen/zufall/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/suchen/aktuell/</guid>
       <description>Verlinkung zum letzten Beitrag</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media</url>
+        <title>Aktuell</title>
+        <link>https://der.reisko.ch/suchen/aktuell/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/suchen/uebersicht-nach-landeskuechen/</guid>
       <description>Meine Beiträge sortiert nach Ländern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media</url>
+        <title>Übersicht nach Landesküchen</title>
+        <link>https://der.reisko.ch/suchen/uebersicht-nach-landeskuechen/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/suchen/alle_inhalte/</guid>
       <description>Liste des kompletten Inhaltes</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media</url>
+        <title>Alle Inhalte meines Blogs</title>
+        <link>https://der.reisko.ch/suchen/alle_inhalte/</link>
+        </image>
     </item>
     
   </channel>

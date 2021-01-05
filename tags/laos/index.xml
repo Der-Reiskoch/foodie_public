@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>laos on Der Reiskoch</title>
+    <title>laos auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/laos/</link>
-    <description>Recent content in laos on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in laos  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 31 Aug 2014 07:22:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/laos/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/laotisches-kare-stir-fry-mit-shrimps/</guid>
       <description>Ein leckeres Pfannencurry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0185/stirfry.jpg</url>
+        <title>Laotisches Kare Stir Fry mit Shrimps</title>
+        <link>https://der.reisko.ch/nachgekocht/laotisches-kare-stir-fry-mit-shrimps/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/laotisches-curry-mit-shrimps/</guid>
       <description>Mit selbstgemachter Currypaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0184/curry.jpg</url>
+        <title>Laotisches Curry mit Shrimps</title>
+        <link>https://der.reisko.ch/nachgekocht/laotisches-curry-mit-shrimps/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>paris on Der Reiskoch</title>
+    <title>paris auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/paris/</link>
-    <description>Recent content in paris on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in paris  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 24 May 2017 05:16:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/paris/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/reisen/das-japanische-viertel-in-paris/</guid>
       <description>Rund um die Rue Saint-Anne</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0509/dosanko.jpg</url>
+        <title>Das japanische Viertel in Paris</title>
+        <link>https://der.reisko.ch/reisen/das-japanische-viertel-in-paris/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/ein-dorayaki-aus-der-patisserie-tomo/</guid>
       <description>Ein japanisches Dessert in Paris</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0510/dorayaki.jpg</url>
+        <title>Ein Dorayaki aus der Pâtisserie Tomo</title>
+        <link>https://der.reisko.ch/restaurants/ein-dorayaki-aus-der-patisserie-tomo/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-japonais-hokkaido/</guid>
       <description>Ramen im japanischen Viertel von Paris</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0508/karanegi_miso_ramen.jpg</url>
+        <title>Restaurant Japonais Hokkaido</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-japonais-hokkaido/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/restaurants/le-bar-a-huitres-haute-mer-restaurant/</guid>
       <description>Und plötzlich am Meer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0507/verkaufsstand.jpg</url>
+        <title>Le Bar à Huîtres: Haute-Mer Restaurant</title>
+        <link>https://der.reisko.ch/restaurants/le-bar-a-huitres-haute-mer-restaurant/</link>
+        </image>
     </item>
     
   </channel>

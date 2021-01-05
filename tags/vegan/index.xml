@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vegan on Der Reiskoch</title>
+    <title>vegan auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/vegan/</link>
-    <description>Recent content in vegan on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in vegan  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 14 Oct 2020 07:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/vegan/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/wasserspinat-sichuan-art/</guid>
       <description>Ein schnelles chinesisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0120/wasserspinat_sichuan_art.jpg</url>
+        <title>Wasserspinat Sichuan Art</title>
+        <link>https://der.reisko.ch/rezepte/wasserspinat-sichuan-art/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/leckerer-hummus-mit-erbsen/</guid>
       <description>Eine grüne Variante des beliebten Aufstrichs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0011/hummus_mit_erbsen.jpg</url>
+        <title>Leckerer Hummus mit Erbsen</title>
+        <link>https://der.reisko.ch/rezepte/leckerer-hummus-mit-erbsen/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kichererbsen-curry-aus-trinidad/</guid>
       <description>Ein vegetarisches Gericht aus der Karibik</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0066/kichererbsen-curry.jpg</url>
+        <title>Kichererbsen Curry aus Trinidad</title>
+        <link>https://der.reisko.ch/rezepte/kichererbsen-curry-aus-trinidad/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kraeuterseitlinge-mit-shirataki-nudeln/</guid>
       <description>Ein schnelles japanisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0816/krauterseitlinge_mit_shirataki_nudeln.jpg</url>
+        <title>Kräuterseitlinge mit Shirataki-Nudeln</title>
+        <link>https://der.reisko.ch/rezepte/kraeuterseitlinge-mit-shirataki-nudeln/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kartoffelpfanne-mit-guacamole/</guid>
       <description>Ein schnelles vegetarisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0780/kartoffelpfanne_mit_guacamole.jpg</url>
+        <title>Kartoffelpfanne mit Guacamole</title>
+        <link>https://der.reisko.ch/rezepte/kartoffelpfanne-mit-guacamole/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/chinesische-gedampfte-auberginen/</guid>
       <description>Eine sehr einfache Beilage</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0765/gedaempfte_auberginen.jpg</url>
+        <title>Chinesische gedämpfte Auberginen</title>
+        <link>https://der.reisko.ch/rezepte/chinesische-gedampfte-auberginen/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/auberginen-und-tofu-sichuan-art/</guid>
       <description>Ein schnelles, vegetarisches Gericht aus China</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0742/angerichtetet_mit_koriander.jpg</url>
+        <title>Auberginen und Tofu Sichuan Art</title>
+        <link>https://der.reisko.ch/rezepte/auberginen-und-tofu-sichuan-art/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanischer-dubu-jorim/</guid>
       <description>Frittierter Tofu in scharfer Soße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0747/dubu_jorim.jpg</url>
+        <title>Koreanischer Dubu Jorim</title>
+        <link>https://der.reisko.ch/rezepte/koreanischer-dubu-jorim/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mediterraner-salat-mit-granatapfel/</guid>
       <description>Rezept inklusive Trick für eine saubere Küche</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0670/salat_mit_granatapfel.jpg</url>
+        <title>Mediterraner Salat mit Granatapfel</title>
+        <link>https://der.reisko.ch/rezepte/mediterraner-salat-mit-granatapfel/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/chinesische-susse-auberginen/</guid>
       <description>Eine leckere Beilage</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0678/chineschische_susse_auberginen.jpg</url>
+        <title>Chinesische süße Auberginen</title>
+        <link>https://der.reisko.ch/rezepte/chinesische-susse-auberginen/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/annes-hokkaido-suppe-mit-ingwer/</guid>
       <description>Herbstlicher Gesundmacher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0669/hokaidoe_suppe.jpg</url>
+        <title>Annes Hokkaido Suppe mit Ingwer</title>
+        <link>https://der.reisko.ch/rezepte/annes-hokkaido-suppe-mit-ingwer/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-curry-mit-dreierlei-bohnen/</guid>
       <description>Ein deftiges vegetarisches Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0563/curry_mit_dreierlei_bohnen.jpg</url>
+        <title>Indisches Curry mit dreierlei Bohnen</title>
+        <link>https://der.reisko.ch/rezepte/indisches-curry-mit-dreierlei-bohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/massaman-curry-mit-roten-linsen/</guid>
       <description>Aus der Not entstandenes Fusion-Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0515/massaman_curry_mit_linsen.jpg</url>
+        <title>Massaman Curry mit roten Linsen</title>
+        <link>https://der.reisko.ch/rezepte/massaman-curry-mit-roten-linsen/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/simple-japanische-pilzpfanne/</guid>
       <description>Austernpilze und Kräuterseitlinge</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0490/japanische_pilzpfanne.jpg</url>
+        <title>Simple japanische Pilzpfanne</title>
+        <link>https://der.reisko.ch/rezepte/simple-japanische-pilzpfanne/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/duba-wet-und-yehabesha-gomen-tips/</guid>
       <description>Kürbis und Grünkohl auf äthiopisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0478/duba_wet_und_yehabesha_gomen_tips.jpg</url>
+        <title>Duba Wet und Yehabesha Gomen Tips</title>
+        <link>https://der.reisko.ch/nachgekocht/duba-wet-und-yehabesha-gomen-tips/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanische-pilz-auberginen-pfanne/</guid>
       <description>Eine leckere vegetarische Komposition</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0470/wok.jpg</url>
+        <title>Japanische Pilz-Auberginen-Pfanne</title>
+        <link>https://der.reisko.ch/rezepte/japanische-pilz-auberginen-pfanne/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gebratener-reis-mit-teeblatt-aus-myanmar/</guid>
       <description>Reisreste auf burmesisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0474/gebratener_reis_mit_teeblatt.jpg</url>
+        <title>Gebratener Reis mit Teeblatt aus Myanmar</title>
+        <link>https://der.reisko.ch/rezepte/gebratener-reis-mit-teeblatt-aus-myanmar/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thai-pilzpfanne-mit-sojasprossen/</guid>
       <description>Pad Hed Thua Ngok</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0468/thai_pilzpfanne_mit_sprossen.jpg</url>
+        <title>Thai Pilzpfanne mit Sojasprossen</title>
+        <link>https://der.reisko.ch/rezepte/thai-pilzpfanne-mit-sojasprossen/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thai-vegetarian-mock-duck/</guid>
       <description>Falsche, vegetarische Ente</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0467/vegetarian_mock_duck.jpg</url>
+        <title>Thai Vegetarian Mock Duck</title>
+        <link>https://der.reisko.ch/rezepte/thai-vegetarian-mock-duck/</link>
+        </image>
     </item>
     
     <item>
@@ -185,123 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/orientalische-kichererbsensuppe/</guid>
       <description>Hummus mal anders</description>
-    </item>
-    
-    <item>
-      <title>Mango-Tomaten-Salat aus Tansania</title>
-      <link>https://der.reisko.ch/rezepte/mango-tomaten-salat-aus-tansania/</link>
-      <pubDate>Tue, 01 Nov 2016 07:49:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/mango-tomaten-salat-aus-tansania/</guid>
-      <description>Schneller Salat mit wenigen Zutaten</description>
-    </item>
-    
-    <item>
-      <title>Pepperworld Jalapeños eingelegt</title>
-      <link>https://der.reisko.ch/dies-und-das/pepperworld-jalapenos-eingelegt/</link>
-      <pubDate>Sat, 29 Oct 2016 09:53:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/pepperworld-jalapenos-eingelegt/</guid>
-      <description>Was aus einem Teil der Chilis wurde</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Salat aus Champignons</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-salat-aus-champignons/</link>
-      <pubDate>Fri, 17 Jun 2016 07:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-salat-aus-champignons/</guid>
-      <description>Einfach und superschnell zubereitet</description>
-    </item>
-    
-    <item>
-      <title>Restaurant Thali (Geschlossen)</title>
-      <link>https://der.reisko.ch/restaurants/restaurant-thali-in-karlsruhe/</link>
-      <pubDate>Sat, 07 Nov 2015 10:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/restaurant-thali-in-karlsruhe/</guid>
-      <description>Der Name ist Programm</description>
-    </item>
-    
-    <item>
-      <title>Zucchini Spaghetti Arrabiata</title>
-      <link>https://der.reisko.ch/rezepte/zucchini-spaghetti-arrabiata/</link>
-      <pubDate>Thu, 01 Oct 2015 06:54:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/zucchini-spaghetti-arrabiata/</guid>
-      <description>Pasta ohne Nudeln</description>
-    </item>
-    
-    <item>
-      <title>Hummus mit eingelegten Jalapeños</title>
-      <link>https://der.reisko.ch/rezepte/hummus-mit-eingelegten-jalapenos/</link>
-      <pubDate>Fri, 08 May 2015 07:57:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/hummus-mit-eingelegten-jalapenos/</guid>
-      <description>Chili trifft Kichererbse</description>
-    </item>
-    
-    <item>
-      <title>Indisches Kichererbsen Curry</title>
-      <link>https://der.reisko.ch/rezepte/indisches-kichererbsen-curry/</link>
-      <pubDate>Sun, 26 Apr 2015 08:27:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indisches-kichererbsen-curry/</guid>
-      <description>Ein leckeres vegetarisches Curry</description>
-    </item>
-    
-    <item>
-      <title>Indisches Kartoffel-Erbsen Curry</title>
-      <link>https://der.reisko.ch/rezepte/indisches-kartoffel-erbsen-curry/</link>
-      <pubDate>Tue, 31 Mar 2015 11:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indisches-kartoffel-erbsen-curry/</guid>
-      <description>Ein vegetarisches Curry</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Auberginensalat mit Koriander</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-auberginensalat-mit-koriander/</link>
-      <pubDate>Fri, 13 Mar 2015 06:52:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-auberginensalat-mit-koriander/</guid>
-      <description>Noch eine japanische Salatvariante</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Gurkensalat mit Sesam</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-gurkensalat-mit-sesam/</link>
-      <pubDate>Thu, 29 Jan 2015 06:58:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-gurkensalat-mit-sesam/</guid>
-      <description>schnell und lecker</description>
-    </item>
-    
-    <item>
-      <title>In Essig eingelegte Jalapeños</title>
-      <link>https://der.reisko.ch/rezepte/in-essig-eingelegte-jalapenos/</link>
-      <pubDate>Wed, 22 Oct 2014 06:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/in-essig-eingelegte-jalapenos/</guid>
-      <description>Gurken kann ja jeder</description>
-    </item>
-    
-    <item>
-      <title>Hummus mit Bratpaprika</title>
-      <link>https://der.reisko.ch/rezepte/hummus-mit-bratpaprika/</link>
-      <pubDate>Wed, 03 Sep 2014 06:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/hummus-mit-bratpaprika/</guid>
-      <description>Selbstgemachtes Hummus</description>
-    </item>
-    
-    <item>
-      <title>Selbstgemachtes Baba Ghanoush</title>
-      <link>https://der.reisko.ch/rezepte/selbstgemachtes-baba-ghanoush/</link>
-      <pubDate>Tue, 04 Jun 2013 07:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/selbstgemachtes-baba-ghanoush/</guid>
-      <description>Orientalische Auberginenpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0441/orientalische_kichererbsensuppe.jpg</url>
+        <title>Orientalische Kichererbsensuppe</title>
+        <link>https://der.reisko.ch/rezepte/orientalische-kichererbsensuppe/</link>
+        </image>
     </item>
     
   </channel>

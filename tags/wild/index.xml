@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wild on Der Reiskoch</title>
+    <title>wild auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/wild/</link>
-    <description>Recent content in wild on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in wild  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 08 Dec 2011 10:20:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/wild/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/winterliches-hirschgulasch/</guid>
       <description>Ein deftiges Wildgericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0007/hirschgulasch.jpg</url>
+        <title>Winterliches Hirschgulasch</title>
+        <link>https://der.reisko.ch/rezepte/winterliches-hirschgulasch/</link>
+        </image>
     </item>
     
   </channel>

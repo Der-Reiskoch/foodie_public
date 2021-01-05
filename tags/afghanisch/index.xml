@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>afghanisch on Der Reiskoch</title>
+    <title>afghanisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/afghanisch/</link>
-    <description>Recent content in afghanisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in afghanisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 27 Apr 2019 12:56:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/afghanisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/afghanisches-kofta-daal/</guid>
       <description>Deftiger Eintopf mit Hackfleischbällchen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0744/kofta_daal.jpg</url>
+        <title>Afghanisches Kofta Daal</title>
+        <link>https://der.reisko.ch/rezepte/afghanisches-kofta-daal/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/afghanisches-borani-banjan/</guid>
       <description>Frittierte Aubergine in Tomatensoße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0735/afghanisches_borani_banjan.jpg</url>
+        <title>Afghanisches Borani Banjan</title>
+        <link>https://der.reisko.ch/rezepte/afghanisches-borani-banjan/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-bamyan-narges/</guid>
       <description>Sehr gute afghanische Küche in München</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0741/afghanisches_menu.jpg</url>
+        <title>Restaurant Bamyan Narges</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-bamyan-narges/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/orient/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/orient.jpg</url>
+        <title>Orient: Das Kochbuch von Tess Mallos</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/orient/</link>
+        </image>
     </item>
     
   </channel>

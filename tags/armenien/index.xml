@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>armenien on Der Reiskoch</title>
+    <title>armenien auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/armenien/</link>
-    <description>Recent content in armenien on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in armenien  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 18 Aug 2017 06:42:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/armenien/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-le-soleil-in-zinnowitz/</guid>
       <description>Deutsch-armenische Küche auf Usedom</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0527/bastirma_salat.jpg</url>
+        <title>Restaurant Le Soleil in Zinnowitz</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-le-soleil-in-zinnowitz/</link>
+        </image>
     </item>
     
   </channel>

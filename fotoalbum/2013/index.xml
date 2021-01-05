@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fotoalbum 2013 on Der Reiskoch</title>
+    <title>Fotoalbum 2013 auf Der Reiskoch</title>
     <link>https://der.reisko.ch/fotoalbum/2013/</link>
-    <description>Recent content in Fotoalbum 2013 on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Fotoalbum 2013  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 31 Dec 2013 00:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/fotoalbum/2013/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/12/31/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20131231_chili_con_carne.jpg</url>
+        <title>Chili con Carne zu Silvester</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/12/31/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/12/25/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20131225_miesmuscheln.jpg</url>
+        <title>Miesmuscheln</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/12/25/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/11/24/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20131124_weihnachtsbaeckerei.jpg</url>
+        <title>Weihnachtsbäckerei</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/11/24/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/11/10/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20131110_goi_bo.jpg</url>
+        <title>Vietnamesiches Goi Bo</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/11/10/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/11/08/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20131108_jalapeno.jpg</url>
+        <title>Unsere Jalapeños</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/11/08/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/10/05/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20131005_mezze_auf_naxos.jpg</url>
+        <title>Mezze auf der Insel Naxos</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/10/05/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/08/27/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20130827_feuersuppe.jpg</url>
+        <title>Scharfe Feuersuppe mit Shrimps</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/08/27/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/08/05/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20130805_tiger_salat.jpg</url>
+        <title>Tigersalat aus Reis und Quinoa</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/08/05/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/07/07/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20130707_chilli.jpg</url>
+        <title>Chilli con Pollo Poblano</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/07/07/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/06/08/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20130608-steamboat_berlin.jpg</url>
+        <title>Steamboat in Berlin</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/06/08/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/04/18/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20130418_huehnchen_in_hoisin-sosse.jpg</url>
+        <title>Hähnchen in Hoisin Soße</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/04/18/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/03/22/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20130323_hummus_aus_isreal.jpg</url>
+        <title>Hummus aus Israel</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/03/22/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2013/02/12/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2013/20130212_gruss_aus_der_kueche.jpg</url>
+        <title>Gruß aus der Küche</title>
+        <link>https://der.reisko.ch/fotoalbum/2013/02/12/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Japanisch on Der Reiskoch</title>
+    <title>Japanisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/japanisch/</link>
-    <description>Recent content in Japanisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Japanisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 21 Dec 2020 06:14:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/japanisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanisches-keema-curry/</guid>
       <description>Indisches Gericht japanisch interpretiert</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0958/japanisches_keema_curry.jpg</url>
+        <title>Japanisches Keema Curry</title>
+        <link>https://der.reisko.ch/rezepte/japanisches-keema-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/lieferservice-des-fashion-asia-grills/</guid>
       <description>Sushi beim Foodietreffen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0960/lachs_und_nigiri_platte.jpg</url>
+        <title>Lieferservice des Fashion Asia Grills</title>
+        <link>https://der.reisko.ch/restaurants/lieferservice-des-fashion-asia-grills/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/leckeres-kaiseki-sushihome/</guid>
       <description>Bei unserem virtuellen Foodie Treffen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0902/unsere_sushi_auswahl.jpg</url>
+        <title>Leckeres Kaiseki Sushi@Home</title>
+        <link>https://der.reisko.ch/restaurants/leckeres-kaiseki-sushihome/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanischer-hotpot-shogayaki-style/</guid>
       <description>Gegrilltes Ingwerfleisch und Miso Brühe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0878/hotpot_shogayaki.jpg</url>
+        <title>Japanischer Hotpot Shogayaki Style</title>
+        <link>https://der.reisko.ch/rezepte/japanischer-hotpot-shogayaki-style/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/restaurants/sukiyaki-im-fashion-asia-grill/</guid>
       <description>Japanischer Eintopf am Tisch zubereitet</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0852/eine_schussel_sukiyaki.jpg</url>
+        <title>Sukiyaki im Fashion Asia Grill</title>
+        <link>https://der.reisko.ch/restaurants/sukiyaki-im-fashion-asia-grill/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/restaurants/sushi-kusakabe-im-villa-thai-in-umkirch/</guid>
       <description>Herausragendes Sushi vom Großmeister</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0850/o-toro_und_inside_out_rolls.jpg</url>
+        <title>Sushi Kusakabe im Villa Thai in Umkirch</title>
+        <link>https://der.reisko.ch/restaurants/sushi-kusakabe-im-villa-thai-in-umkirch/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/vegetarische-ramen-mit-tofu-und-pilzen/</guid>
       <description>Ein schnelle Suppe auf Miso Basis</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0835/vegetarische_ramen.jpg</url>
+        <title>Vegetarische Ramen mit Tofu und Pilzen</title>
+        <link>https://der.reisko.ch/rezepte/vegetarische-ramen-mit-tofu-und-pilzen/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/ein-japanischer-hotpot-abend/</guid>
       <description>Shabu Shabu mit zwei typischen Soßen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0841/shabu_shabu.jpg</url>
+        <title>Ein japanischer Hotpot Abend</title>
+        <link>https://der.reisko.ch/rezepte/ein-japanischer-hotpot-abend/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/restaurants/min-ramenbar-in-karlsruhe/</guid>
       <description>Ein neues japanisches Restaurant</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0840/shio_ramen_mit_huhn.jpg</url>
+        <title>Min Ramenbar in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/min-ramenbar-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/scharfe-thai-curry-ramen-mit-fisch/</guid>
       <description>Ein japanisch-thailändisches Fusionsgericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0829/thai-curry-ramen.jpg</url>
+        <title>Scharfe Thai-Curry-Ramen mit Fisch</title>
+        <link>https://der.reisko.ch/rezepte/scharfe-thai-curry-ramen-mit-fisch/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kraeuterseitlinge-mit-shirataki-nudeln/</guid>
       <description>Ein schnelles japanisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0816/krauterseitlinge_mit_shirataki_nudeln.jpg</url>
+        <title>Kräuterseitlinge mit Shirataki-Nudeln</title>
+        <link>https://der.reisko.ch/rezepte/kraeuterseitlinge-mit-shirataki-nudeln/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/auberginen-mit-hackfleisch-in-miso/</guid>
       <description>Ein schnelles japanisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0799/auberginen_und_hackfleisch_mit_miso.jpg</url>
+        <title>Auberginen mit Hackfleisch in Miso</title>
+        <link>https://der.reisko.ch/rezepte/auberginen-mit-hackfleisch-in-miso/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanisches-tonkatsu-kare-raisu/</guid>
       <description>Curry mit Schnitzeln aus der Schweinelende</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0801/annes_schuessel.jpg</url>
+        <title>Japanisches Tonkatsu Karē Raisu</title>
+        <link>https://der.reisko.ch/rezepte/japanisches-tonkatsu-kare-raisu/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/restaurants/orchidea-huong-in-wernigerode/</guid>
       <description>Ein sehr gutes asiatisches Restaurant</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0796/zitronengras_spiesse.jpg</url>
+        <title>Orchidea Huong in Wernigerode</title>
+        <link>https://der.reisko.ch/restaurants/orchidea-huong-in-wernigerode/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/restaurants/neue-karte-im-fashion-asia-grill/</guid>
       <description>Jetzt mehr japanische Gerichte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0793/fashion_sushi_menue.jpg</url>
+        <title>Neue Karte im Fashion Asia Grill</title>
+        <link>https://der.reisko.ch/restaurants/neue-karte-im-fashion-asia-grill/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kare-raisu-mit-huhn-und-pilzen/</guid>
       <description>Japanisches Curry mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0756/kare_raisu_mit_pilzen.jpg</url>
+        <title>Karē Raisu mit Huhn und Pilzen</title>
+        <link>https://der.reisko.ch/rezepte/kare-raisu-mit-huhn-und-pilzen/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-maruyasu-sushi-in-dusseldorf/</guid>
       <description>Filiale der kleinen Kette auf der Immermannstraße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0689/tori_ten_don.jpg</url>
+        <title>Restaurant Maruyasu Sushi in Düsseldorf</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-maruyasu-sushi-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/restaurants/mittagstisch-im-fashion-asia-grill/</guid>
       <description>Reichhaltige Menüs zur Mittagszeit</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0685/mapo-tofu-menu.jpg</url>
+        <title>Mittagstisch im Fashion Asia Grill</title>
+        <link>https://der.reisko.ch/restaurants/mittagstisch-im-fashion-asia-grill/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gedampfte-auberginen-mit-rindersteaks/</guid>
       <description>Ein schnelles japanisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0683/gedaempfte_auberginen.jpg</url>
+        <title>Gedämpfte Auberginen mit Rindersteaks</title>
+        <link>https://der.reisko.ch/rezepte/gedampfte-auberginen-mit-rindersteaks/</link>
+        </image>
     </item>
     
     <item>
@@ -185,627 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanische-schweinelende-mit-rettich/</guid>
       <description>Ein herbstlicher Eintopf</description>
-    </item>
-    
-    <item>
-      <title>Korean BBQ im Fashion Asia Grill</title>
-      <link>https://der.reisko.ch/restaurants/korean-bbq-im-fashion-asia-grill/</link>
-      <pubDate>Sat, 15 Sep 2018 10:40:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/korean-bbq-im-fashion-asia-grill/</guid>
-      <description>Das Partnerrestaurant des Kaisekis</description>
-    </item>
-    
-    <item>
-      <title>Frittierte japanische Auberginen</title>
-      <link>https://der.reisko.ch/rezepte/frittierte-japanische-auberginen/</link>
-      <pubDate>Fri, 27 Jul 2018 06:47:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/frittierte-japanische-auberginen/</guid>
-      <description>Sehr einfaches aber feines Gemüsegericht</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Curry von Hachi</title>
-      <link>https://der.reisko.ch/rezepte/japanisches-curry-von-hachi/</link>
-      <pubDate>Tue, 12 Jun 2018 06:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanisches-curry-von-hachi/</guid>
-      <description>Ein schnelles Gericht aus der Tüte</description>
-    </item>
-    
-    <item>
-      <title>Asiatische Foodie Tour mit Valerie</title>
-      <link>https://der.reisko.ch/restaurants/asiatische-foodie-tour-mit-valerie/</link>
-      <pubDate>Mon, 14 May 2018 08:58:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/asiatische-foodie-tour-mit-valerie/</guid>
-      <description>Wir essen uns durch Karlsruhe</description>
-    </item>
-    
-    <item>
-      <title>Asiatische Restaurants in Helsinki</title>
-      <link>https://der.reisko.ch/reisen/asiatische-restaurants-in-helsinki/</link>
-      <pubDate>Tue, 01 May 2018 09:23:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/reisen/asiatische-restaurants-in-helsinki/</guid>
-      <description>Fernöstliches Essen im hohen Norden</description>
-    </item>
-    
-    <item>
-      <title>Schnelle Ramen aus Instant Nudeln</title>
-      <link>https://der.reisko.ch/rezepte/schnelle-ramen-aus-instant-nudeln/</link>
-      <pubDate>Fri, 30 Mar 2018 07:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/schnelle-ramen-aus-instant-nudeln/</guid>
-      <description>Eine Variation mit Hackfleisch und Enoki Pilzen</description>
-    </item>
-    
-    <item>
-      <title>Restaurant Soki Garden in Karlsruhe</title>
-      <link>https://der.reisko.ch/restaurants/restaurant-soki-garden-in-karlsruhe/</link>
-      <pubDate>Wed, 21 Mar 2018 07:13:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/restaurant-soki-garden-in-karlsruhe/</guid>
-      <description>Ein neues vietnamesisch-japanisches Restaurant</description>
-    </item>
-    
-    <item>
-      <title>Saratanmen-Ramen mit Huhn</title>
-      <link>https://der.reisko.ch/nachgekocht/saratanmen-ramen-mit-huhn/</link>
-      <pubDate>Tue, 06 Mar 2018 07:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/saratanmen-ramen-mit-huhn/</guid>
-      <description>Die zweite Runde selbstgemachte Ramen</description>
-    </item>
-    
-    <item>
-      <title>Scharfe Miso-Ramen mit Chashu</title>
-      <link>https://der.reisko.ch/nachgekocht/scharfe-miso-ramen-mit-chashu/</link>
-      <pubDate>Wed, 14 Feb 2018 07:41:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/scharfe-miso-ramen-mit-chashu/</guid>
-      <description>Das erste Mal selbstgemacht</description>
-    </item>
-    
-    <item>
-      <title>Teppan- und Sakebar Yaki-the-Emon</title>
-      <link>https://der.reisko.ch/restaurants/teppan-und-sakebar-yaki-the-emon/</link>
-      <pubDate>Mon, 05 Feb 2018 09:51:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/teppan-und-sakebar-yaki-the-emon/</guid>
-      <description>Noch ein spannendes Restaurant in Düsseldorf</description>
-    </item>
-    
-    <item>
-      <title>Mehr aus Japan und Korea in Düsseldorf</title>
-      <link>https://der.reisko.ch/dies-und-das/mehr-aus-japan-und-korea-in-dusseldorf/</link>
-      <pubDate>Tue, 30 Jan 2018 09:23:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/mehr-aus-japan-und-korea-in-dusseldorf/</guid>
-      <description>Noch eine Foodie- und Einkaufstour</description>
-    </item>
-    
-    <item>
-      <title>Asia Fusion im Restaurant Taumi</title>
-      <link>https://der.reisko.ch/restaurants/asia-fusion-im-restaurant-taumi/</link>
-      <pubDate>Sun, 21 Jan 2018 08:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/asia-fusion-im-restaurant-taumi/</guid>
-      <description>Zwischen Filmpalast und ZKM</description>
-    </item>
-    
-    <item>
-      <title>Yakisoba mit Aubergine</title>
-      <link>https://der.reisko.ch/rezepte/yakisoba-mit-aubergine/</link>
-      <pubDate>Sat, 06 Jan 2018 11:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/yakisoba-mit-aubergine/</guid>
-      <description>Fast wäre es vegetarisch geworden</description>
-    </item>
-    
-    <item>
-      <title>Schweinefleisch in Yakisoba Sauce</title>
-      <link>https://der.reisko.ch/rezepte/schweinefleisch-in-yakisoba-sauce/</link>
-      <pubDate>Fri, 22 Dec 2017 06:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/schweinefleisch-in-yakisoba-sauce/</guid>
-      <description>Ein sehr schnelles japanisches Gericht</description>
-    </item>
-    
-    <item>
-      <title>Leckeres Essen im japanischen Viertel</title>
-      <link>https://der.reisko.ch/dies-und-das/leckeres-essen-im-japanischen-viertel/</link>
-      <pubDate>Wed, 20 Dec 2017 06:13:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/leckeres-essen-im-japanischen-viertel/</guid>
-      <description>Ramen und mehr in Düsseldorf</description>
-    </item>
-    
-    <item>
-      <title>Takumi Ramenbar in Düsseldorf</title>
-      <link>https://der.reisko.ch/restaurants/takumi-ramenbar-in-dusseldorf/</link>
-      <pubDate>Tue, 19 Dec 2017 09:29:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/takumi-ramenbar-in-dusseldorf/</guid>
-      <description>Nochmal Ramen auf der Immermannstaße</description>
-    </item>
-    
-    <item>
-      <title>Takezo Ramenbar in Düsseldorf</title>
-      <link>https://der.reisko.ch/restaurants/takezo-ramenbar-in-dusseldorf/</link>
-      <pubDate>Tue, 19 Dec 2017 07:23:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/takezo-ramenbar-in-dusseldorf/</guid>
-      <description>Am Anfang der Immermannstraße</description>
-    </item>
-    
-    <item>
-      <title>Shoppen im japanischen Viertel in Düsseldorf</title>
-      <link>https://der.reisko.ch/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf/</link>
-      <pubDate>Mon, 18 Dec 2017 06:42:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf/</guid>
-      <description>Eine ausgedehnte Einkaufstour</description>
-    </item>
-    
-    <item>
-      <title>Kabeljau im Tatsuta-Age Stil</title>
-      <link>https://der.reisko.ch/nachgekocht/kabeljau-im-tatsuta-age-stil/</link>
-      <pubDate>Tue, 21 Nov 2017 06:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/kabeljau-im-tatsuta-age-stil/</guid>
-      <description>Aus Harumis Kochbuch</description>
-    </item>
-    
-    <item>
-      <title>Japanische Kokeshi Bento-Boxen</title>
-      <link>https://der.reisko.ch/utensilien/japanische-kokeshi-bento-boxen/</link>
-      <pubDate>Sat, 22 Jul 2017 11:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/utensilien/japanische-kokeshi-bento-boxen/</guid>
-      <description>Lustig und auch Praktisch</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Schwarzwurzelsalat</title>
-      <link>https://der.reisko.ch/nachgekocht/japanischer-schwarzwurzelsalat/</link>
-      <pubDate>Thu, 20 Jul 2017 10:01:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/japanischer-schwarzwurzelsalat/</guid>
-      <description>Ein sehr schneller Salat</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Karē Raisu</title>
-      <link>https://der.reisko.ch/rezepte/japanisches-kare-raisu/</link>
-      <pubDate>Wed, 19 Jul 2017 06:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanisches-kare-raisu/</guid>
-      <description>Curry mit Huhn auf japanisch</description>
-    </item>
-    
-    <item>
-      <title>Das japanische Viertel in Paris</title>
-      <link>https://der.reisko.ch/reisen/das-japanische-viertel-in-paris/</link>
-      <pubDate>Wed, 24 May 2017 05:16:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/reisen/das-japanische-viertel-in-paris/</guid>
-      <description>Rund um die Rue Saint-Anne</description>
-    </item>
-    
-    <item>
-      <title>Ein Dorayaki aus der Pâtisserie Tomo</title>
-      <link>https://der.reisko.ch/restaurants/ein-dorayaki-aus-der-patisserie-tomo/</link>
-      <pubDate>Tue, 23 May 2017 06:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/ein-dorayaki-aus-der-patisserie-tomo/</guid>
-      <description>Ein japanisches Dessert in Paris</description>
-    </item>
-    
-    <item>
-      <title>Restaurant Japonais Hokkaido</title>
-      <link>https://der.reisko.ch/restaurants/restaurant-japonais-hokkaido/</link>
-      <pubDate>Sun, 21 May 2017 10:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/restaurant-japonais-hokkaido/</guid>
-      <description>Ramen im japanischen Viertel von Paris</description>
-    </item>
-    
-    <item>
-      <title>Simple japanische Pilzpfanne</title>
-      <link>https://der.reisko.ch/rezepte/simple-japanische-pilzpfanne/</link>
-      <pubDate>Mon, 17 Apr 2017 07:46:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/simple-japanische-pilzpfanne/</guid>
-      <description>Austernpilze und Kräuterseitlinge</description>
-    </item>
-    
-    <item>
-      <title>Teriyaki Ente mit grünen Bohnen</title>
-      <link>https://der.reisko.ch/rezepte/teriyaki-ente-mit-grunen-bohnen/</link>
-      <pubDate>Fri, 14 Apr 2017 10:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/teriyaki-ente-mit-grunen-bohnen/</guid>
-      <description>Ein simples japanisches Gericht</description>
-    </item>
-    
-    <item>
-      <title>Sobanudelsuppe mit Hackfleisch</title>
-      <link>https://der.reisko.ch/rezepte/sobanudelsuppe-mit-hackfleisch/</link>
-      <pubDate>Fri, 17 Mar 2017 07:02:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/sobanudelsuppe-mit-hackfleisch/</guid>
-      <description>Noch eine schnelle japanische Suppe</description>
-    </item>
-    
-    <item>
-      <title>Japanische Pilz-Auberginen-Pfanne</title>
-      <link>https://der.reisko.ch/rezepte/japanische-pilz-auberginen-pfanne/</link>
-      <pubDate>Fri, 24 Feb 2017 06:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanische-pilz-auberginen-pfanne/</guid>
-      <description>Eine leckere vegetarische Komposition</description>
-    </item>
-    
-    <item>
-      <title>Japanische Rindfleisch-Brokkoli-Pfanne</title>
-      <link>https://der.reisko.ch/rezepte/japanische-rindfleisch-brokkoli-pfanne/</link>
-      <pubDate>Sat, 04 Feb 2017 05:42:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanische-rindfleisch-brokkoli-pfanne/</guid>
-      <description>Schnell &amp;amp; Lecker</description>
-    </item>
-    
-    <item>
-      <title>Japanische Sobanudelsuppe</title>
-      <link>https://der.reisko.ch/rezepte/japanische-sobanudelsuppe/</link>
-      <pubDate>Sun, 29 Jan 2017 09:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanische-sobanudelsuppe/</guid>
-      <description>Schnelle Suppe aus der Flasche</description>
-    </item>
-    
-    <item>
-      <title>Miso-Suppe mit Garnelen und Ei</title>
-      <link>https://der.reisko.ch/rezepte/miso-suppe-mit-garnelen-und-ei/</link>
-      <pubDate>Fri, 11 Nov 2016 06:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/miso-suppe-mit-garnelen-und-ei/</guid>
-      <description>Schnelle Suppe für den Herbst</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Lachssalat</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-lachssalat/</link>
-      <pubDate>Sun, 24 Jul 2016 11:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-lachssalat/</guid>
-      <description>Ganz schnell und super lecker</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Rindfleischsalat</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-rindfleischsalat/</link>
-      <pubDate>Sun, 03 Jul 2016 10:28:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-rindfleischsalat/</guid>
-      <description>Noch eine Salat Variation aus Japan</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Auberginensalat nach Harumi</title>
-      <link>https://der.reisko.ch/nachgekocht/japanischer-auberginensalat-nach-harumi/</link>
-      <pubDate>Sun, 26 Jun 2016 07:37:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/japanischer-auberginensalat-nach-harumi/</guid>
-      <description>Aubergine in dicker Sesamsoße</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Salat aus Champignons</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-salat-aus-champignons/</link>
-      <pubDate>Fri, 17 Jun 2016 07:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-salat-aus-champignons/</guid>
-      <description>Einfach und superschnell zubereitet</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Salat Dreierlei</title>
-      <link>https://der.reisko.ch/dies-und-das/japanisches-salat-dreierlei/</link>
-      <pubDate>Sat, 04 Jun 2016 10:13:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/japanisches-salat-dreierlei/</guid>
-      <description>Das Ergebnis eines planlosen Kochabends</description>
-    </item>
-    
-    <item>
-      <title>Mittagsmenüs im Kaiseki in Karlsruhe</title>
-      <link>https://der.reisko.ch/restaurants/mittagsmenus-im-kaiseki-in-karlsruhe/</link>
-      <pubDate>Sun, 15 May 2016 08:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/mittagsmenus-im-kaiseki-in-karlsruhe/</guid>
-      <description>Reichhaltige japanische Menüs zum fairen Preis</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Spargelsalat</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-spargelsalat/</link>
-      <pubDate>Thu, 05 May 2016 08:56:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-spargelsalat/</guid>
-      <description>Grüner Spargel im japanischen Stil</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Schnitzel mit Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/japanisches-schnitzel-mit-pilzen/</link>
-      <pubDate>Mon, 04 Apr 2016 09:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanisches-schnitzel-mit-pilzen/</guid>
-      <description>Inspiriert durch ein Foto</description>
-    </item>
-    
-    <item>
-      <title>Miso-Suppe mit Tofu und Karotten</title>
-      <link>https://der.reisko.ch/rezepte/miso-suppe-mit-tofu-und-karotten/</link>
-      <pubDate>Thu, 24 Mar 2016 06:41:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/miso-suppe-mit-tofu-und-karotten/</guid>
-      <description>Aus Annes Rezeptbuch</description>
-    </item>
-    
-    <item>
-      <title>Soba Nudeln mit Champignons</title>
-      <link>https://der.reisko.ch/mittagspause/soba-nudeln-mit-champignons/</link>
-      <pubDate>Thu, 25 Feb 2016 08:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/soba-nudeln-mit-champignons/</guid>
-      <description>Was schnelles für die Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Japan-Imbiss Shogun Ya in Karlsruhe</title>
-      <link>https://der.reisko.ch/restaurants/japan-imbiss-shogun-ya-in-karlsruhe/</link>
-      <pubDate>Sun, 29 Nov 2015 12:43:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/japan-imbiss-shogun-ya-in-karlsruhe/</guid>
-      <description>Leckere Ramen und Sushi</description>
-    </item>
-    
-    <item>
-      <title>Japanische Udon Suppe von Assi</title>
-      <link>https://der.reisko.ch/dies-und-das/japanische-udon-suppe-von-assi/</link>
-      <pubDate>Fri, 23 Oct 2015 06:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/japanische-udon-suppe-von-assi/</guid>
-      <description>Mal was aus der Tüte</description>
-    </item>
-    
-    <item>
-      <title>Impressionen vom selbstgemachten Sushi</title>
-      <link>https://der.reisko.ch/dies-und-das/impressionen-vom-selbstgemachten-sushi/</link>
-      <pubDate>Thu, 27 Aug 2015 09:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/impressionen-vom-selbstgemachten-sushi/</guid>
-      <description>Sushi Session mit Arek</description>
-    </item>
-    
-    <item>
-      <title>Rote Miso-Suppe mit Tofu und Sojasprossen</title>
-      <link>https://der.reisko.ch/rezepte/rote-miso-suppe-mit-tofu-und-sojasprossen/</link>
-      <pubDate>Tue, 28 Apr 2015 06:38:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rote-miso-suppe-mit-tofu-und-sojasprossen/</guid>
-      <description>Eine einfache Suppe ohne Dashi</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Menü nach Harumi</title>
-      <link>https://der.reisko.ch/nachgekocht/japanisches-menu-nach-harumi/</link>
-      <pubDate>Thu, 02 Apr 2015 06:35:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/japanisches-menu-nach-harumi/</guid>
-      <description>Drei japanische Gerichte</description>
-    </item>
-    
-    <item>
-      <title>Ramenbar Namamen in Basel</title>
-      <link>https://der.reisko.ch/restaurants/ramenbar-namamen-in-basel/</link>
-      <pubDate>Sun, 29 Mar 2015 09:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/ramenbar-namamen-in-basel/</guid>
-      <description>Stylische japanische Ramenbar</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Auberginensalat mit Koriander</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-auberginensalat-mit-koriander/</link>
-      <pubDate>Fri, 13 Mar 2015 06:52:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-auberginensalat-mit-koriander/</guid>
-      <description>Noch eine japanische Salatvariante</description>
-    </item>
-    
-    <item>
-      <title>Rote Miso-Suppe mit Pak Choy und Garnelen</title>
-      <link>https://der.reisko.ch/rezepte/rote-miso-suppe-mit-pak-choy-und-garnelen/</link>
-      <pubDate>Wed, 11 Feb 2015 07:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rote-miso-suppe-mit-pak-choy-und-garnelen/</guid>
-      <description>Japanische Suppe für kalte Tage</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Gurkensalat mit Sesam</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-gurkensalat-mit-sesam/</link>
-      <pubDate>Thu, 29 Jan 2015 06:58:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-gurkensalat-mit-sesam/</guid>
-      <description>schnell und lecker</description>
-    </item>
-    
-    <item>
-      <title>Avocado-Miso-Suppe mit Shrimps</title>
-      <link>https://der.reisko.ch/rezepte/avocado-miso-suppe-mit-shrimps/</link>
-      <pubDate>Thu, 08 Jan 2015 08:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/avocado-miso-suppe-mit-shrimps/</guid>
-      <description>Miso-Suppe mal anders</description>
-    </item>
-    
-    <item>
-      <title>Selbstgemachtes Silvester Sushi</title>
-      <link>https://der.reisko.ch/dies-und-das/selbstgemachtes-silvester-sushi/</link>
-      <pubDate>Sun, 04 Jan 2015 07:22:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/selbstgemachtes-silvester-sushi/</guid>
-      <description>Großes japanisches Buffet</description>
-    </item>
-    
-    <item>
-      <title>Restaurant Kaiseki in Karlsruhe</title>
-      <link>https://der.reisko.ch/restaurants/restaurant-kaiseki-in-karlsruhe/</link>
-      <pubDate>Wed, 10 Dec 2014 06:24:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/restaurant-kaiseki-in-karlsruhe/</guid>
-      <description>Ganz aussergewöhliche japanische Menüs</description>
-    </item>
-    
-    <item>
-      <title>Einkaufen im japanischen Viertel</title>
-      <link>https://der.reisko.ch/dies-und-das/einkaufen-im-japanischen-viertel-in-dusseldorf/</link>
-      <pubDate>Mon, 24 Nov 2014 07:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/einkaufen-im-japanischen-viertel-in-dusseldorf/</guid>
-      <description>Lustige Verpackungen und Katzenschüsseln</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Gyudon auf Reis</title>
-      <link>https://der.reisko.ch/nachgekocht/japanisches-gyudon-auf-reis/</link>
-      <pubDate>Thu, 11 Sep 2014 07:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/japanisches-gyudon-auf-reis/</guid>
-      <description>Rindfleisch mit Zwiebeln</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Auberginensalat</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-auberginensalat/</link>
-      <pubDate>Fri, 15 Aug 2014 06:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-auberginensalat/</guid>
-      <description>Aubergine als Salat</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Rindfleischsalat mit Gurke</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-rindfleischsalat-mit-gurke/</link>
-      <pubDate>Thu, 14 Aug 2014 07:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-rindfleischsalat-mit-gurke/</guid>
-      <description>Rind geht auch auf japanisch</description>
-    </item>
-    
-    <item>
-      <title>Annes Matcha Pralinés</title>
-      <link>https://der.reisko.ch/rezepte/annes-matcha-pralines/</link>
-      <pubDate>Sun, 15 Sep 2013 01:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/annes-matcha-pralines/</guid>
-      <description>Weiße Schokolade in Grün</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Renkon Negi</title>
-      <link>https://der.reisko.ch/rezepte/japanisches-renkon-negi/</link>
-      <pubDate>Thu, 01 Aug 2013 07:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanisches-renkon-negi/</guid>
-      <description>Gebratene Lotuswurzeln</description>
-    </item>
-    
-    <item>
-      <title>Restaurant Sakura Sushi in Heidelberg</title>
-      <link>https://der.reisko.ch/restaurants/restaurant-sakura-sushi-in-heidelberg/</link>
-      <pubDate>Fri, 15 Mar 2013 08:03:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/restaurant-sakura-sushi-in-heidelberg/</guid>
-      <description>Spannende Sushi Kreationen</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Rindfleisch mit Brokkoli</title>
-      <link>https://der.reisko.ch/rezepte/japanisches-rindfleisch-mit-brokkoli/</link>
-      <pubDate>Thu, 22 Dec 2011 06:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanisches-rindfleisch-mit-brokkoli/</guid>
-      <description>Ein simpler Klassiker</description>
-    </item>
-    
-    <item>
-      <title>Sushi King in Karlsruhe (geschlossen)</title>
-      <link>https://der.reisko.ch/restaurants/sushi-king-in-karlsruhe-geschlossen/</link>
-      <pubDate>Tue, 22 Nov 2011 07:23:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/sushi-king-in-karlsruhe-geschlossen/</guid>
-      <description>Leckeres Sushi und Shabu Shabu</description>
-    </item>
-    
-    <item>
-      <title>Das große Buch der asiatischen Küche</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/das-grosse-buch-der-asiatischen-kueche/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/das-grosse-buch-der-asiatischen-kueche/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>Harumis japanische Küche</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/harumis-japanische-kueche/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/harumis-japanische-kueche/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>Japan Kochbuch von Kenichi Kusano</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/das-japan-kochbuch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/das-japan-kochbuch/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>Japanisch Grillen von Jonas Gramby</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/japanisch-grillen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/japanisch-grillen/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>Ramen Kochbuch: Basics &amp; Rezepte</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/ramen-kochbuch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/ramen-kochbuch/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>RyuKoch: Alles über Korea und Japan</title>
-      <link>https://der.reisko.ch/inspirationen/blogs/ryukoch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/blogs/ryukoch/</guid>
-      <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0679/schweineldende_mit_rettich.jpg</url>
+        <title>Japanische Schweinelende mit Rettich</title>
+        <link>https://der.reisko.ch/rezepte/japanische-schweinelende-mit-rettich/</link>
+        </image>
     </item>
     
   </channel>

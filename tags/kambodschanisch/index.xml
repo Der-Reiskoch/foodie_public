@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kambodschanisch on Der Reiskoch</title>
+    <title>kambodschanisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/kambodschanisch/</link>
-    <description>Recent content in kambodschanisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in kambodschanisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 14 Feb 2019 07:06:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/kambodschanisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/asia_street_bowls.jpg</url>
+        <title>Das Buch &#34;Asia Street Bowls&#34;</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/asia_street_food.jpg</url>
+        <title>Das Buch &#34;Asia Street Food&#34;</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/kambodschanisches-loc-lac/</guid>
       <description>Rindfleisch mit einer Pfeffersoße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0713/teller.jpg</url>
+        <title>Kambodschanisches Loc Lac</title>
+        <link>https://der.reisko.ch/nachgekocht/kambodschanisches-loc-lac/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/reisen/foodie-impressionen-aus-kambodscha/</guid>
       <description>Ein kurzer Abstecher ins Nachbarland</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0702/loc_lac_mit_ei.jpg</url>
+        <title>Foodie Impressionen aus Kambodscha</title>
+        <link>https://der.reisko.ch/reisen/foodie-impressionen-aus-kambodscha/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/deftiges-saraman-aus-kambodscha/</guid>
       <description>Rindercurry mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0168/curry.jpg</url>
+        <title>Deftiges Saraman aus Kambodscha</title>
+        <link>https://der.reisko.ch/nachgekocht/deftiges-saraman-aus-kambodscha/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/blogs/asia-street-food/</guid>
       <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/asia-street-food.jpg</url>
+        <title>Asia Street Food - Der Blog</title>
+        <link>https://der.reisko.ch/inspirationen/blogs/asia-street-food/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/mekong-food/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/mekong_food.jpg</url>
+        <title>Mekong Food von Michael Langoth</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/mekong-food/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iranisch on Der Reiskoch</title>
+    <title>iranisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/iranisch/</link>
-    <description>Recent content in iranisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in iranisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 08 Dec 2020 05:31:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/iranisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/lammtopf-mit-gemuese-und-bohnen/</guid>
       <description>Leckeres aus Syrien und dem Iran</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0947/zwei_gerichte_und_bulgur.jpg</url>
+        <title>Lammtopf mit Gemüse und Bohnen</title>
+        <link>https://der.reisko.ch/nachgekocht/lammtopf-mit-gemuese-und-bohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/iranisches-kado-polo/</guid>
       <description>Reis mit Kürbis und Hackbällchen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0817/kuerbis_mit_reis.jpg</url>
+        <title>Reisgericht Kado Polo aus dem Iran</title>
+        <link>https://der.reisko.ch/nachgekocht/iranisches-kado-polo/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reisen on Der Reiskoch</title>
+    <title>reisen auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/reisen/</link>
-    <description>Recent content in reisen on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in reisen  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 28 Sep 2017 07:06:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/reisen/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/urlaubsmitbringsel-von-malta/</guid>
       <description>Meersalz und Kochbuch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0539/salz_und_kochbuch.jpg</url>
+        <title>Urlaubsmitbringsel von Malta</title>
+        <link>https://der.reisko.ch/dies-und-das/urlaubsmitbringsel-von-malta/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/mitbringsel-aus-frankreich/</guid>
       <description>Leckeres aus Bretange und Normandie</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0419/mitbringsel.jpg</url>
+        <title>Mitbringsel aus Frankreich</title>
+        <link>https://der.reisko.ch/dies-und-das/mitbringsel-aus-frankreich/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/reisen/zou-zous-cooking-class/</guid>
       <description>Mein burmesicher Kochkurs am Inle-See</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0313/kueche.jpg</url>
+        <title>Zou Zou´s Cooking Class</title>
+        <link>https://der.reisko.ch/reisen/zou-zous-cooking-class/</link>
+        </image>
     </item>
     
   </channel>

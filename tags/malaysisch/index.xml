@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>malaysisch on Der Reiskoch</title>
+    <title>malaysisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/malaysisch/</link>
-    <description>Recent content in malaysisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in malaysisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 22 Nov 2020 07:30:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/malaysisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/fish-head-curry-aus-singapur/</guid>
       <description>Ein gekochtes Geburtstagsgeschenk</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0951/serviert_auf_bananenblatt.jpg</url>
+        <title>Fish Head Curry aus Singapur</title>
+        <link>https://der.reisko.ch/rezepte/fish-head-curry-aus-singapur/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/perencah-kari-ayam-aus-malaysia/</guid>
       <description>Curry mit Hähnchenkeulen aus einer Instantpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0900/perencah_kari_ayam.jpg</url>
+        <title>Perencah Kari Ayam aus Malaysia</title>
+        <link>https://der.reisko.ch/rezepte/perencah-kari-ayam-aus-malaysia/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/laksa-lemak-aus-malaysia/</guid>
       <description>Suppe mit Kokosmilch und Garnelen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0753/annes_schale.jpg</url>
+        <title>Laksa Lemak aus Malaysia</title>
+        <link>https://der.reisko.ch/nachgekocht/laksa-lemak-aus-malaysia/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/fishhead-curry-suppe-mit-tofu/</guid>
       <description>Beim Schrank aufräumen kreiert</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0576/fishhead_curry_suppe_mit_tofu.jpg</url>
+        <title>Fish-Head-Curry Suppe mit Tofu</title>
+        <link>https://der.reisko.ch/rezepte/fishhead-curry-suppe-mit-tofu/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/malaysischer-ketupat-oder-lontong/</guid>
       <description>Gepresster Reis als Beilage</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0425/ketupat.jpg</url>
+        <title>Malaysischer Ketupat oder Lontong</title>
+        <link>https://der.reisko.ch/rezepte/malaysischer-ketupat-oder-lontong/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/malaysisches-rendang-daging/</guid>
       <description>Zartes Rindfleisch in Kokosmilch-Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0426/fertig.jpg</url>
+        <title>Malaysisches Rendang Daging</title>
+        <link>https://der.reisko.ch/rezepte/malaysisches-rendang-daging/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kari-mit-kartoffeln-und-kichererbsen/</guid>
       <description>Mit malayischer Currypaste aus der Tüte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0357/schuessel.jpg</url>
+        <title>Kari mit Kartoffeln und Kichererbsen</title>
+        <link>https://der.reisko.ch/rezepte/kari-mit-kartoffeln-und-kichererbsen/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kari-mit-shrimps-und-kochbananen/</guid>
       <description>Perencah Kari Ikan Segera</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0209/kari.jpg</url>
+        <title>Kari mit Shrimps und Kochbananen</title>
+        <link>https://der.reisko.ch/rezepte/kari-mit-shrimps-und-kochbananen/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/malaysisches-kari-mit-rind/</guid>
       <description>Rempah Kari Segera (&amp;lsquo;Curry spice Soon&amp;rsquo;)</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0149/pfanne.jpg</url>
+        <title>Malaysisches Kari mit Rind</title>
+        <link>https://der.reisko.ch/rezepte/malaysisches-kari-mit-rind/</link>
+        </image>
     </item>
     
   </channel>

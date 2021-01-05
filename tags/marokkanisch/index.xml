@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>marokkanisch on Der Reiskoch</title>
+    <title>marokkanisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/marokkanisch/</link>
-    <description>Recent content in marokkanisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in marokkanisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 29 Apr 2020 05:25:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/marokkanisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/marokkanischer-rindfleischeintopf/</guid>
       <description>Eine leckeres Gericht aus Nordafrika</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0888/marokkanischer_rindereintopf.jpg</url>
+        <title>Marokkanischer Rindfleischeintopf</title>
+        <link>https://der.reisko.ch/rezepte/marokkanischer-rindfleischeintopf/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/marokkanisches-huhn-mit-salzzitrone/</guid>
       <description>Fischis fermentierte Zitrusfrüchte im Einsatz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0658/marokkanisches_huhn.jpg</url>
+        <title>Marokkanisches Huhn mit Salzzitrone</title>
+        <link>https://der.reisko.ch/rezepte/marokkanisches-huhn-mit-salzzitrone/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rind-tajine-mit-pflaumen-und-aprikosen/</guid>
       <description>Ein Versuch mit frischen Früchten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0256/teller.jpg</url>
+        <title>Rind Tajine mit Pflaumen und Aprikosen</title>
+        <link>https://der.reisko.ch/rezepte/rind-tajine-mit-pflaumen-und-aprikosen/</link>
+        </image>
     </item>
     
   </channel>

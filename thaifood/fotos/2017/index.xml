@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thaifood 2017 on Der Reiskoch</title>
+    <title>Thaifood 2017 auf Der Reiskoch</title>
     <link>https://der.reisko.ch/thaifood/fotos/2017/</link>
-    <description>Recent content in Thaifood 2017 on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Thaifood 2017  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language><atom:link href="https://der.reisko.ch/thaifood/fotos/2017/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reisnudelsuppe mit Meeresfrüchten</title>
@@ -13,6 +13,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/12/10/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20171210_seafood_reisnudelsuppe.jpg</url>
+        <title>Reisnudelsuppe mit Meeresfrüchten</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/12/10/</link>
+        </image>
     </item>
     
     <item>
@@ -22,6 +27,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/12/03/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20171203_yam_nuea.jpg</url>
+        <title>Yam Nuea mit frischen Kräutern</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/12/03/</link>
+        </image>
     </item>
     
     <item>
@@ -31,6 +41,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/08/12/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20170811_3000grad_massaman.jpg</url>
+        <title>Vegetarisches Massaman Curry</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/08/12/</link>
+        </image>
     </item>
     
     <item>
@@ -40,6 +55,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/07/31/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20170731_nam_tok_nuea.jpg</url>
+        <title>Nam Tok Nuea</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/07/31/</link>
+        </image>
     </item>
     
     <item>
@@ -49,6 +69,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/07/13/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20170713_pad_kra_pao_gai.jpg</url>
+        <title>Pad Kra Pao Gai</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/07/13/</link>
+        </image>
     </item>
     
     <item>
@@ -58,6 +83,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/07/10/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20170710_larb_moo_mit_kraeutern.jpg</url>
+        <title>Larb Moo mit frischen Kräutern</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/07/10/</link>
+        </image>
     </item>
     
     <item>
@@ -67,6 +97,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/06/24/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20170624_yamwoonsen.jpg</url>
+        <title>Yam Woo Sen</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/06/24/</link>
+        </image>
     </item>
     
     <item>
@@ -76,6 +111,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/06/19/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20170619_larb_nuea.jpg</url>
+        <title>Yam Nuea Sap</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/06/19/</link>
+        </image>
     </item>
     
     <item>
@@ -85,6 +125,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/06/12/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20170612_larb_moo_mit_sellerie.jpg</url>
+        <title>Yam Moo Sap mit Sellerie</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/06/12/</link>
+        </image>
     </item>
     
     <item>
@@ -94,6 +139,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/06/02/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20170602_thai_bbq_reste.jpg</url>
+        <title>Thai BBQ Resteverwertung</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/06/02/</link>
+        </image>
     </item>
     
     <item>
@@ -103,6 +153,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/05/22/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20170522_yam_nuae_sap.jpg</url>
+        <title>Yam Nuea Sap</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/05/22/</link>
+        </image>
     </item>
     
     <item>
@@ -112,6 +167,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/03/25/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20170325_rat_na_nuea_sap_woon_sen.jpg</url>
+        <title>Rad Na Nuea Sap Woon Sen</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/03/25/</link>
+        </image>
     </item>
     
     <item>
@@ -121,6 +181,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/03/24/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2017/20170324_rat_na.jpg</url>
+        <title>Rad Na Mee Grob Reste</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/03/24/</link>
+        </image>
     </item>
     
     <item>
@@ -130,6 +195,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2017/03/07/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2020/20200307_goong_ob_woonsen.jpg</url>
+        <title>Goong Ob Woon Sen</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2017/03/07/</link>
+        </image>
     </item>
     
   </channel>

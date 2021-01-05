@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>elsass on Der Reiskoch</title>
+    <title>elsass auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/elsass/</link>
-    <description>Recent content in elsass on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in elsass  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 18 Apr 2018 07:08:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/elsass/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-au-pont-de-lill/</guid>
       <description>Und ganz plötzlich am Meer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0605/meeresfruechteplatte_le_royal.jpg</url>
+        <title>Restaurant au Pont de l&#39;Ill</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-au-pont-de-lill/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/momo-tibetain-in-strasbourg/</guid>
       <description>Leckere Teigtaschen aus dem Himalaya</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0516/momos_mit_sauce_und_salat.jpg</url>
+        <title>Momo Tibetain in Strasbourg</title>
+        <link>https://der.reisko.ch/restaurants/momo-tibetain-in-strasbourg/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-au-coin-des-pucelles/</guid>
       <description>Winstub (très) gourmand in Strasbourg</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0479/salade_strasbourgeoise.jpg</url>
+        <title>Restaurant au coin des pucelles</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-au-coin-des-pucelles/</link>
+        </image>
     </item>
     
   </channel>

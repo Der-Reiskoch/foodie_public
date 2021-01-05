@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kochbuch on Der Reiskoch</title>
+    <title>kochbuch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/kochbuch/</link>
-    <description>Recent content in kochbuch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in kochbuch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 27 Nov 2015 05:16:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/kochbuch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/das-buch-fadi-kocht-syrisch/</guid>
       <description>Kurz vorgestellt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0312/cover.jpg</url>
+        <title>Das Buch &#34;Fadi kocht syrisch&#34;</title>
+        <link>https://der.reisko.ch/dies-und-das/das-buch-fadi-kocht-syrisch/</link>
+        </image>
     </item>
     
   </channel>

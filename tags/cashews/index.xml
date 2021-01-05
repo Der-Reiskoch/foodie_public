@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cashews on Der Reiskoch</title>
+    <title>cashews auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/cashews/</link>
-    <description>Recent content in cashews on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in cashews  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 28 Nov 2019 06:14:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/cashews/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/sri-lanka-curry-aus-cashewnussen/</guid>
       <description>Ein sehr süßes Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0828/sri_lanka_curry_aus_cashewnuessen.jpg</url>
+        <title>Sri Lanka Curry aus Cashewnüssen</title>
+        <link>https://der.reisko.ch/rezepte/sri-lanka-curry-aus-cashewnussen/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-gai-phad-met-ma-muang/</guid>
       <description>Gebratenes Huhn mit Cashewnüssen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0731/teller.jpg</url>
+        <title>Thailändisches Gai Phad Met Mamuang</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-gai-phad-met-ma-muang/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thai-huhn-mit-pilzen-und-cashews/</guid>
       <description>Ein herbstlich schnelles Pfannengericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0547/thai_huhn_mit_pilzen_und_cashews.jpg</url>
+        <title>Thai Huhn mit Pilzen und Cashews</title>
+        <link>https://der.reisko.ch/rezepte/thai-huhn-mit-pilzen-und-cashews/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-zucchini-som-tam/</guid>
       <description>Eine Variante mit heimischen Zutaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0106/salat.jpg</url>
+        <title>Thailändischer Zucchini Som Tam</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-zucchini-som-tam/</link>
+        </image>
     </item>
     
   </channel>

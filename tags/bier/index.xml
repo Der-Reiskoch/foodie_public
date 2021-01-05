@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bier on Der Reiskoch</title>
+    <title>bier auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/bier/</link>
-    <description>Recent content in bier on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in bier  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 17 Mar 2019 10:25:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/bier/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/irisches-beef-and-guinness-stew/</guid>
       <description>Zum St. Patrick&amp;rsquo;s Day mal was Anderes</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0733/beef_and_guiness_stew.jpg</url>
+        <title>Irisches Beef and Guinness Stew</title>
+        <link>https://der.reisko.ch/rezepte/irisches-beef-and-guinness-stew/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/snacks-im-phono-in-der-oststadt/</guid>
       <description>Bier, Musik und kleine Snacks</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0641/suesskartoffelsalat.jpg</url>
+        <title>Snacks im Phono in der Oststadt</title>
+        <link>https://der.reisko.ch/restaurants/snacks-im-phono-in-der-oststadt/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/getranke/welde-jahrgangs-und-jubilaumsbiere/</guid>
       <description>Besondere Biere aus der Kurpfalz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0390/jahrgangsbier_no_9.jpg</url>
+        <title>Welde Jahrgangs- und Jubiläumsbiere</title>
+        <link>https://der.reisko.ch/getranke/welde-jahrgangs-und-jubilaumsbiere/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/restaurants/braugasthaus-erste-fracht/</guid>
       <description>Die neue Adresse am Karlsruher Hauptbahnhof</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0560/erste_fracht_burger.jpg</url>
+        <title>Braugasthaus Erste Fracht</title>
+        <link>https://der.reisko.ch/restaurants/braugasthaus-erste-fracht/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/getranke/museumsbier-aus-bad-windsheim/</guid>
       <description>Annes fränkische Mitbringsel</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0533/museumsbiere.jpg</url>
+        <title>Museumsbier aus Bad Windsheim</title>
+        <link>https://der.reisko.ch/getranke/museumsbier-aus-bad-windsheim/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/getranke/stadtguet-amber-und-hitzefrei/</guid>
       <description>Mein zweitliebstes Bier aus Winterthur</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0370/stadtguet_amber.jpg</url>
+        <title>Stadtguet Amber und Hitzefrei</title>
+        <link>https://der.reisko.ch/getranke/stadtguet-amber-und-hitzefrei/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/getranke/duchesse-anne-triple-hops/</guid>
       <description>Ein bretonisches Geburtstagsbier für Anne</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0502/duchesse_anne.jpg</url>
+        <title>Duchesse Anne Triple Hops</title>
+        <link>https://der.reisko.ch/getranke/duchesse-anne-triple-hops/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/restaurants/deliburgers-in-karlsruhe/</guid>
       <description>Sehr leckere Burger in der Innenstadt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0483/bacon_machine.jpg</url>
+        <title>DeliBurgers in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/deliburgers-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/getranke/biere-aus-der-brauerei-cclxxi/</guid>
       <description>Noch mehr Bier aus Winterthur</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0380/flaschen_und_glaeser.jpg</url>
+        <title>Biere aus der Brauerei CCLXXI</title>
+        <link>https://der.reisko.ch/getranke/biere-aus-der-brauerei-cclxxi/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/getranke/urban-monk-bier-aus-ulm/</guid>
       <description>Ein leckeres Craftbeer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0417/flaschen.jpg</url>
+        <title>Urban Monk Bier aus Ulm</title>
+        <link>https://der.reisko.ch/getranke/urban-monk-bier-aus-ulm/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/getranke/selbstgebrautes-silvesterbier-aus-winterthur/</guid>
       <description>Mr. Winterbottom und Admiral von Schneider</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0321/flaschen.jpg</url>
+        <title>Selbstgebrautes Silvesterbier aus Winterthur</title>
+        <link>https://der.reisko.ch/getranke/selbstgebrautes-silvesterbier-aus-winterthur/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/getranke/welde-craft-beer-edition/</guid>
       <description>Verrückte Biere aus der Kurpfalz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0307/vorne.jpg</url>
+        <title>Welde Craft Beer Edition</title>
+        <link>https://der.reisko.ch/getranke/welde-craft-beer-edition/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/getranke/le-village-de-la-biere/</guid>
       <description>Tolle Bierhandlung in Strasbuorg</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0292/vier_bier.jpg</url>
+        <title>Der Laden &#34;Le Village de la Bière&#34;</title>
+        <link>https://der.reisko.ch/getranke/le-village-de-la-biere/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/getranke/lager-bock-mit-hopfen-aus-neuseeland/</guid>
       <description>Welde Jahrgangsbier No. 6</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0095/lagerbock.jpg</url>
+        <title>Lager Bock mit Hopfen aus Neuseeland</title>
+        <link>https://der.reisko.ch/getranke/lager-bock-mit-hopfen-aus-neuseeland/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/getranke/bierpropierpakete-aus-tschechien/</guid>
       <description>Mitbringsel aus Prag</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0267/paket1.jpg</url>
+        <title>Bierpropierpakete aus Tschechien</title>
+        <link>https://der.reisko.ch/getranke/bierpropierpakete-aus-tschechien/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/getranke/spannende-biere-aus-schottland/</guid>
       <description>Beeindruckende Vielfalt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0240/ginger_beer.jpg</url>
+        <title>Spannende Biere aus Schottland</title>
+        <link>https://der.reisko.ch/getranke/spannende-biere-aus-schottland/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/getranke/belgische-biere-von-unserer-benelux-reise/</guid>
       <description>Urlaubsmitbringsel aus Belgien</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0071/koennick_bush_chouffe.jpg</url>
+        <title>Belgische Biere von unserer Benelux Reise</title>
+        <link>https://der.reisko.ch/getranke/belgische-biere-von-unserer-benelux-reise/</link>
+        </image>
     </item>
     
   </channel>

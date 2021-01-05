@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>teeblatt on Der Reiskoch</title>
+    <title>teeblatt auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/teeblatt/</link>
-    <description>Recent content in teeblatt on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in teeblatt  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 14 Feb 2017 06:45:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/teeblatt/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gebratener-reis-mit-teeblatt-aus-myanmar/</guid>
       <description>Reisreste auf burmesisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0474/gebratener_reis_mit_teeblatt.jpg</url>
+        <title>Gebratener Reis mit Teeblatt aus Myanmar</title>
+        <link>https://der.reisko.ch/rezepte/gebratener-reis-mit-teeblatt-aus-myanmar/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/burmesischer-lahpet-thoke/</guid>
       <description>Salat mit fermentierten Teeblättern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0315/teller.jpg</url>
+        <title>Burmesischer Lahpet Thoke</title>
+        <link>https://der.reisko.ch/rezepte/burmesischer-lahpet-thoke/</link>
+        </image>
     </item>
     
   </channel>

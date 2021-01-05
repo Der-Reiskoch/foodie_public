@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>italienisch on Der Reiskoch</title>
+    <title>italienisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/italienisch/</link>
-    <description>Recent content in italienisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in italienisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 09 Nov 2020 07:06:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/italienisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/saltimbocca-mit-waldpilzrisotto/</guid>
       <description>Kochcoaching mit Sternekoch Cornelius Speinle</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0946/salitmbocca_mit_waldpilz_risotto.jpg</url>
+        <title>Saltimbocca mit Waldpilzrisotto</title>
+        <link>https://der.reisko.ch/nachgekocht/saltimbocca-mit-waldpilzrisotto/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/italienische-pasta-carbonara/</guid>
       <description>So einfach und doch so lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0893/pasta_carbonara.jpg</url>
+        <title>Italienische Pasta Carbonara</title>
+        <link>https://der.reisko.ch/rezepte/italienische-pasta-carbonara/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/restaurants/mittagstisch-im-ristorante-borsalino/</guid>
       <description>Solide italienische Gerichte zum kleinen Preis</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0859/tortellini_alla_panna.jpg</url>
+        <title>Mittagstisch im Ristorante Borsalino</title>
+        <link>https://der.reisko.ch/restaurants/mittagstisch-im-ristorante-borsalino/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/restaurants/ristorante-la-dolce-vita-in-durlach/</guid>
       <description>Gute italienische Küche in der Altstadt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0853/rigatoni_arrabiata_mit_meeresfruechten.jpg</url>
+        <title>Ristorante La Dolce Vita in Durlach</title>
+        <link>https://der.reisko.ch/restaurants/ristorante-la-dolce-vita-in-durlach/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/restaurants/ristorante-sole-doro-in-karlsruhe/</guid>
       <description>Urige Pizzeria in der Karlstraße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0818/kleine_pizza_sole_doro_spezial.jpg</url>
+        <title>Ristorante Sole D´Oro in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/ristorante-sole-doro-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/restaurants/sizilianisches-restaurant-saf/</guid>
       <description>Ungewöhnliche Küche in gemütlicher Atmosphäre</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0729/tajine_mit_huhn.jpg</url>
+        <title>Restaurant SAF (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/sizilianisches-restaurant-saf/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/zutaten/ein-paar-worte-uber-fischsosse/</guid>
       <description>Das Salz des Ostens</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0680/mein_saucen_schrank.jpg</url>
+        <title>Ein paar Worte über Fischsoße</title>
+        <link>https://der.reisko.ch/zutaten/ein-paar-worte-uber-fischsosse/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pasta-con-colatura-di-alici/</guid>
       <description>Simpel aber so lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0693/pasta_con_colatura_di_alici.jpg</url>
+        <title>Pasta con colatura di alici</title>
+        <link>https://der.reisko.ch/rezepte/pasta-con-colatura-di-alici/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/italienischer-kochabend-mit-fischsosse/</guid>
       <description>Auf historischen Pfaden</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0692/fischsoßen.jpg</url>
+        <title>Italienischer Kochabend mit Fischsoße</title>
+        <link>https://der.reisko.ch/dies-und-das/italienischer-kochabend-mit-fischsosse/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/restaurants/ristorante-tropea-in-der-sudstadt/</guid>
       <description>Endlich ein guter Italiener in Laufweite</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0654/taglioni_aus_dem_parmesanlaib.jpg</url>
+        <title>Ristorante Tropea in der Südstadt</title>
+        <link>https://der.reisko.ch/restaurants/ristorante-tropea-in-der-sudstadt/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/restaurants/ristorante-adria-in-karlsruhe/</guid>
       <description>Eine Perle in Beiertheim</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0594/scaloppine_mit_steinpilzen.jpg</url>
+        <title>Ristorante Adria in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/ristorante-adria-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/italienisches-tacchino-tonnato/</guid>
       <description>Eine vereinfachte, schnelle Variante</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0123/angerichtet.jpg</url>
+        <title>Italienisches Tacchino Tonnato</title>
+        <link>https://der.reisko.ch/rezepte/italienisches-tacchino-tonnato/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/italienisches-uberraschungspaket/</guid>
       <description>Mein Gewinn von Amor &amp;amp; Kartoffelsack</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0273/gewinn.jpg</url>
+        <title>Italienisches Überraschungspaket</title>
+        <link>https://der.reisko.ch/dies-und-das/italienisches-uberraschungspaket/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/schneller-nudelsalat-italiano/</guid>
       <description>Ein schneller Salat für die Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0227/schneller_nudelsalat.jpg</url>
+        <title>Schneller Nudelsalat &#39;Italiano&#39;</title>
+        <link>https://der.reisko.ch/mittagspause/schneller-nudelsalat-italiano/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/uberbackene-rindersteaks-italiano/</guid>
       <description>Einfach und lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0094/steaks2.jpg</url>
+        <title>Überbackene Rindersteaks &#39;Italiano&#39;</title>
+        <link>https://der.reisko.ch/rezepte/uberbackene-rindersteaks-italiano/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/sauce-bolognese-fur-pasta/</guid>
       <description>Ein Klassiker, der immer wieder lecker ist</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0045/bolognese.jpg</url>
+        <title>Sauce Bolognese für Pasta</title>
+        <link>https://der.reisko.ch/rezepte/sauce-bolognese-fur-pasta/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/pasta-mit-pesto-und-geriebenem-saumerkase/</guid>
       <description>Schnell und lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0027/pasta.jpg</url>
+        <title>Pasta mit Pesto und geriebenem Säumerkäse</title>
+        <link>https://der.reisko.ch/rezepte/pasta-mit-pesto-und-geriebenem-saumerkase/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/inspirationen/buecher/das-kulinarische-manifest/</guid>
       <description>Meine liebsten Kochbücher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/das_kulinarische_manifest.jpg</url>
+        <title>Das kulinarische Manifest</title>
+        <link>https://der.reisko.ch/inspirationen/buecher/das-kulinarische-manifest/</link>
+        </image>
     </item>
     
   </channel>

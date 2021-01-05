@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fingerfood on Der Reiskoch</title>
+    <title>fingerfood auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/fingerfood/</link>
-    <description>Recent content in fingerfood on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in fingerfood  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 06 Dec 2020 14:23:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/fingerfood/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendische-tung-thong/</guid>
       <description>Lecker gefüllte frittierte Goldsäckchen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0955/tung_thong_mit_nam_gai.jpg</url>
+        <title>Thailändische Tung Thong</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendische-tung-thong/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendische-fruehlingsrollen/</guid>
       <description>Das erste Mal selbstgemacht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0786/thailaendische_fruhlingsrollen.jpg</url>
+        <title>Thailändische Frühlingsrollen</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendische-fruehlingsrollen/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendische-snack-chilis/</guid>
       <description>Eine verrückte Knabberei</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0928/snack-chilis.jpg</url>
+        <title>Thailändische Snack-Chilis</title>
+        <link>https://der.reisko.ch/rezepte/thailaendische-snack-chilis/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-moo-dad-deaw/</guid>
       <description>Frittiertes getrocknetes Schweinefleisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0916/moo_dad_deaw_und_nam_jim_jeaw.jpg</url>
+        <title>Thailändisches Moo Dad Deaw</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-moo-dad-deaw/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-snack-miang-kham/</guid>
       <description>Leckeres im wilden Betelpfefferblatt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0659/miang_kham.jpg</url>
+        <title>Thailändischer Snack Miang Kham</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-snack-miang-kham/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gefullte-tortilla-schnecken/</guid>
       <description>Ein leckerer Partysnack</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0230/tortillaschnecken.jpg</url>
+        <title>Gefüllte Tortilla-Schnecken</title>
+        <link>https://der.reisko.ch/rezepte/gefullte-tortilla-schnecken/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/frische-crevetten-als-hors-doeuvre/</guid>
       <description>Einfach und lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0048/crevetten.jpg</url>
+        <title>Frische Crevetten als Hors d&#39;oeuvre</title>
+        <link>https://der.reisko.ch/rezepte/frische-crevetten-als-hors-doeuvre/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/meine-party-samosas-im-blatterteig/</guid>
       <description>Indische Teigtaschen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0041/backblech.jpg</url>
+        <title>Meine Party Samosas im Blätterteig</title>
+        <link>https://der.reisko.ch/rezepte/meine-party-samosas-im-blatterteig/</link>
+        </image>
     </item>
     
   </channel>

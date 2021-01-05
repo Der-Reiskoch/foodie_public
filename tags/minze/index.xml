@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>minze on Der Reiskoch</title>
+    <title>minze auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/minze/</link>
-    <description>Recent content in minze on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in minze  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 23 Jul 2017 11:07:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/minze/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/syrisches-tabakh-ruhu/</guid>
       <description>Kalbsfleisch mit Gemüse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0521/syrisches_tabakh_ruhu.jpg</url>
+        <title>Syrisches Tabakh Ruhu</title>
+        <link>https://der.reisko.ch/nachgekocht/syrisches-tabakh-ruhu/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendischer-larb-plaa-salmon/</guid>
       <description>Auch Lachs geht als Salat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0423/teller.jpg</url>
+        <title>Thailändischer Larb Plaa Salmon</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendischer-larb-plaa-salmon/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa/</guid>
       <description>Salat aus gehacktem Fisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0353/teller.jpg</url>
+        <title>Thailändischer Larb Plaa</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hackfleisch-pfanne-mit-hummus/</guid>
       <description>Orientalisch angehaucht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0351/mit_hummus.jpg</url>
+        <title>Hackfleisch-Pfanne mit Hummus</title>
+        <link>https://der.reisko.ch/rezepte/hackfleisch-pfanne-mit-hummus/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/salat-aus-wassermelone-und-kase/</guid>
       <description>Ein erfrischender Sommertraum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0129/nah.jpg</url>
+        <title>Salat aus Wassermelone und Käse</title>
+        <link>https://der.reisko.ch/rezepte/salat-aus-wassermelone-und-kase/</link>
+        </image>
     </item>
     
   </channel>

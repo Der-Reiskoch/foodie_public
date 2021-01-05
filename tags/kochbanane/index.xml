@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kochbanane on Der Reiskoch</title>
+    <title>kochbanane auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/kochbanane/</link>
-    <description>Recent content in kochbanane on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in kochbanane  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 05 Aug 2018 10:59:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/kochbanane/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gaeng-gari-moo-gluay-dib/</guid>
       <description>Curry vom Schwein mit Kochbanane</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0650/gaeng_gari_moo_gluay_dib.jpg</url>
+        <title>Gaeng Gari Moo Gluay Dib</title>
+        <link>https://der.reisko.ch/rezepte/gaeng-gari-moo-gluay-dib/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/maharage-na-ndizi-aus-tansania/</guid>
       <description>Ein deftiger Eintopf der richtig satt macht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0443/maharage_na_ndizi.jpg</url>
+        <title>Maharage na Ndizi aus Tansania</title>
+        <link>https://der.reisko.ch/rezepte/maharage-na-ndizi-aus-tansania/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/zwei-curries-mit-kochbananen/</guid>
       <description>Curries aus Südafrika und Südindien</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0336/teller.jpg</url>
+        <title>Zwei Curries mit Kochbananen</title>
+        <link>https://der.reisko.ch/nachgekocht/zwei-curries-mit-kochbananen/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thaipause 2018 on Der Reiskoch</title>
+    <title>Thaipause 2018 auf Der Reiskoch</title>
     <link>https://der.reisko.ch/thaipause/fotos/2018/</link>
-    <description>Recent content in Thaipause 2018 on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Thaipause 2018  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/thaipause/fotos/2018/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/12/12/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20181212_pad_thai.jpg</url>
+        <title>Pad Thai</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/12/12/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/12/05/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20181205_gaeng_phed_gai.jpg</url>
+        <title>Gaeng Phed Gai</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/12/05/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/11/07/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20181107_gaeng_massaman_gai.jpg</url>
+        <title>Gaeng Massaman Gai</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/11/07/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/10/24/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20181024_gaeng_kiaw_wan_nuea.jpg</url>
+        <title>Gaeng Kiaw Wan Nuea</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/10/24/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/10/05/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20181005_curry_reste_als_khao_pad.jpg</url>
+        <title>Curry Reste als Khao Pad</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/10/05/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/08/28/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180828_pad_see_ew.jpg</url>
+        <title>Pad See Ew in der Mittagspause</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/08/28/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/07/24/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180724_curryreste_in_der_mittagspause.jpg</url>
+        <title>Curryreste In der Mittagspause</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/07/24/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/07/19/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180719_nudelcurry_aus_resten.jpg</url>
+        <title>Nudelcurry aus Resten</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/07/19/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/07/05/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180705_moo_kata_reste.jpg</url>
+        <title>Moo Kata Reste</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/07/05/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/07/04/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180704_moo_kata_abend.jpg</url>
+        <title>Moo Kata Abend bei Etecture</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/07/04/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/07/02/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180702_thai_salat_reste.jpg</url>
+        <title>Thai Salat Reste</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/07/02/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/06/19/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180619_gaeng_massaman_gai.jpg</url>
+        <title>Gaeng Massaman Gai</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/06/19/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/05/24/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180524_khao_pad_moo_sap.jpg</url>
+        <title>Khao Pad Moo Sap</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/05/24/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/05/23/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180523_pad_moo_sap2.jpg</url>
+        <title>Pad Moo Sap mit Reis und Ei</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/05/23/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/05/16/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180516_gaeng_kiaw_wan_gai.jpg</url>
+        <title>Gaeng Kiaw Wan Gai</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/05/16/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/03/21/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180321_fried_rice.jpg</url>
+        <title>Khao Pad Moo Thua</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/03/21/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/02/26/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180226_frische_vorraete.jpg</url>
+        <title>Frische Currypasten Vorräte</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/02/26/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/02/15/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180215_gaeng_massaman_gai.jpg</url>
+        <title>Gaeng Massaman Gai</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/02/15/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/01/25/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180125_gaeng_kiaw_wan_guea.jpg</url>
+        <title>Gaeng Kiaw Wan Gai </title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/01/25/</link>
+        </image>
     </item>
     
     <item>
@@ -185,6 +280,11 @@
       
       <guid>https://der.reisko.ch/thaipause/fotos/2018/01/24/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2018/20180124_khao_pad_kra_pao.jpg</url>
+        <title>Khao Pad Kra Pao</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2018/01/24/</link>
+        </image>
     </item>
     
   </channel>

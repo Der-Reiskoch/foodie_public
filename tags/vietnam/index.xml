@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vietnam on Der Reiskoch</title>
+    <title>vietnam auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/vietnam/</link>
-    <description>Recent content in vietnam on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in vietnam  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 04 Mar 2019 09:14:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/vietnam/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/stephans-leckere-pho-bo/</guid>
       <description>Außergewöhnliches in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0728/pho_bo.jpg</url>
+        <title>Stephans leckere Phở Bò</title>
+        <link>https://der.reisko.ch/mittagspause/stephans-leckere-pho-bo/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-leger-in-dusseldorf/</guid>
       <description>Leckeres vietnamesisches Essen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0393/goi_du_du.jpg</url>
+        <title>Restaurant Lé&#39;ger in Düsseldorf</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-leger-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/ph-bo-in-der-mittagspause/</guid>
       <description>Kräftige Suppe für kalte Tage</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0466/pho_bo_in_der_mittagspause.jpg</url>
+        <title>Phở Bò in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/ph-bo-in-der-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/reisen/essen-auf-meiner-reise-durch-vietnam/</guid>
       <description>Zu Land, zu Wasser und am Strand</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0403/halong_bay_boot2.jpg</url>
+        <title>Essen auf meiner Reise durch Vietnam</title>
+        <link>https://der.reisko.ch/reisen/essen-auf-meiner-reise-durch-vietnam/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/reisen/maerkte-auf-meiner-reise-durch-vietnam/</guid>
       <description>Buntes Treiben beim Einkaufen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0004/chilis.jpg</url>
+        <title>Märkte auf meiner Reise durch Vietnam</title>
+        <link>https://der.reisko.ch/reisen/maerkte-auf-meiner-reise-durch-vietnam/</link>
+        </image>
     </item>
     
   </channel>

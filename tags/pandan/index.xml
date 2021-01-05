@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pandan on Der Reiskoch</title>
+    <title>pandan auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/pandan/</link>
-    <description>Recent content in pandan on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in pandan  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 02 Sep 2020 06:13:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/pandan/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-gai-hor-bai-toey/</guid>
       <description>Hähnchen im Pandanblatt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0936/gai_hor_bai_toey.jpg</url>
+        <title>Thailändisches Gai Hor Bai Toey</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-gai-hor-bai-toey/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/selbstgebackener-pandan-kuchen/</guid>
       <description>Backsession mit Anne</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0837/pandan_kuchen.jpg</url>
+        <title>Selbstgebackener Pandan Kuchen</title>
+        <link>https://der.reisko.ch/rezepte/selbstgebackener-pandan-kuchen/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/sri-lanka-curry-aus-cashewnussen/</guid>
       <description>Ein sehr süßes Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0828/sri_lanka_curry_aus_cashewnuessen.jpg</url>
+        <title>Sri Lanka Curry aus Cashewnüssen</title>
+        <link>https://der.reisko.ch/rezepte/sri-lanka-curry-aus-cashewnussen/</link>
+        </image>
     </item>
     
   </channel>

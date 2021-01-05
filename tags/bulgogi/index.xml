@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bulgogi on Der Reiskoch</title>
+    <title>bulgogi auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/bulgogi/</link>
-    <description>Recent content in bulgogi on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in bulgogi  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 04 Feb 2018 09:33:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/bulgogi/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-seoul-in-dusseldorf/</guid>
       <description>Leckeres Barbecue auf der Klosterstraße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0542/tisch_von_oben.jpg</url>
+        <title>Restaurant Seoul in Düsseldorf</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-seoul-in-dusseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rindfleisch-bulgogi-mit-aubergine/</guid>
       <description>Ein koreanisches Kochexperiment</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0414/rindfleisch_bulgogi.jpg</url>
+        <title>Rindfleisch Bulgogi mit Aubergine</title>
+        <link>https://der.reisko.ch/rezepte/rindfleisch-bulgogi-mit-aubergine/</link>
+        </image>
     </item>
     
   </channel>

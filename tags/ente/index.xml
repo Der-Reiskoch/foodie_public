@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ente on Der Reiskoch</title>
+    <title>ente auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/ente/</link>
-    <description>Recent content in ente on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in ente  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 26 Nov 2019 08:45:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/ente/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-ped/</guid>
       <description>Salat mit gegrillter Ente</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0830/schuessel.jpg</url>
+        <title>Thailändischer Nam Tok Ped</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-ped/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/enten-curry-aus-trinidad/</guid>
       <description>Das typische River Lime Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0064/entencurry_aus_trinidad.jpg</url>
+        <title>Enten Curry aus Trinidad</title>
+        <link>https://der.reisko.ch/rezepte/enten-curry-aus-trinidad/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/jamaikanischer-enten-eintopf/</guid>
       <description>Eine neues karibisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0822/jamaikanischer_enten_eintopf.jpg</url>
+        <title>Jamaikanischer Enten Eintopf</title>
+        <link>https://der.reisko.ch/rezepte/jamaikanischer-enten-eintopf/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/pfefferblatter-und-zweimal-curry/</guid>
       <description>Ausgefallene Curries und Miang Kham</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0662/garnelencurry_mit_reisnudeln.jpg</url>
+        <title>Pfefferblätter und zweimal Curry</title>
+        <link>https://der.reisko.ch/nachgekocht/pfefferblatter-und-zweimal-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/restaurants/peking-ente-im-restaurant-5-sterne/</guid>
       <description>Mal wieder was anderes</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0628/peking_ente_im_5_sterne.jpg</url>
+        <title>Peking Ente im Restaurant 5 Sterne</title>
+        <link>https://der.reisko.ch/restaurants/peking-ente-im-restaurant-5-sterne/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/knusprige-ente-mit-pilzen/</guid>
       <description>Ein simples chinesisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0504/knuprisge_ente.jpg</url>
+        <title>Knusprige Ente mit Pilzen</title>
+        <link>https://der.reisko.ch/rezepte/knusprige-ente-mit-pilzen/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/restaurants/peking-ente-am-entenfang/</guid>
       <description>Aussergewöhnliches Menü im Niu</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0511/ente.jpg</url>
+        <title>Peking Ente am Entenfang</title>
+        <link>https://der.reisko.ch/restaurants/peking-ente-am-entenfang/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/teriyaki-ente-mit-grunen-bohnen/</guid>
       <description>Ein simples japanisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0489/teriyaki_ente_mit_bohnen.jpg</url>
+        <title>Teriyaki Ente mit grünen Bohnen</title>
+        <link>https://der.reisko.ch/rezepte/teriyaki-ente-mit-grunen-bohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-larb-ped/</guid>
       <description>Enten Larb selbstgemacht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0280/teller.jpg</url>
+        <title>Thailändischer Larb Ped</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-larb-ped/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/rotes-thai-curry-mit-gegrillter-ente/</guid>
       <description>Gaeng Phed Ped Yang</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0216/curry.jpg</url>
+        <title>Rotes Thai Curry mit gegrillter Ente</title>
+        <link>https://der.reisko.ch/nachgekocht/rotes-thai-curry-mit-gegrillter-ente/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/geschmorte-ente-in-mole-poblano/</guid>
       <description>Mexikanisch und sehr speziell</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0103/mole.jpg</url>
+        <title>Geschmorte Ente in Mole Poblano</title>
+        <link>https://der.reisko.ch/rezepte/geschmorte-ente-in-mole-poblano/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/ente-provencial-im-tontopf/</guid>
       <description>Wahnsinnig lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0093/ente.jpg</url>
+        <title>Ente Provencial im Tontopf</title>
+        <link>https://der.reisko.ch/rezepte/ente-provencial-im-tontopf/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/entenbrust-mit-grunen-linsen/</guid>
       <description>Ein klassisches Festtagsessen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0010/entenbrust_mit_linsen.jpg</url>
+        <title>Entenbrust mit grünen Linsen</title>
+        <link>https://der.reisko.ch/rezepte/entenbrust-mit-grunen-linsen/</link>
+        </image>
     </item>
     
   </channel>

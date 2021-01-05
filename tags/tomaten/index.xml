@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tomaten on Der Reiskoch</title>
+    <title>tomaten auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/tomaten/</link>
-    <description>Recent content in tomaten on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in tomaten  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 13 Sep 2020 06:13:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/tomaten/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-tomaten-salat/</guid>
       <description>Tam Makhuea Thet</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0938/thai_tomatensalat.jpg</url>
+        <title>Thailändischer Tomatensalat</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-tomaten-salat/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/burmesisches-kyet-thar-hin/</guid>
       <description>Curry mit Huhn, Tomaten und Limette</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0863/kyet_thar_hin.jpg</url>
+        <title>Burmesisches Kyet Thar Hin</title>
+        <link>https://der.reisko.ch/rezepte/burmesisches-kyet-thar-hin/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/tuerkische-manti-in-sahnesosse/</guid>
       <description>Ein Fusionsgericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0291/manti_in_sahnesosse.jpg</url>
+        <title>Türkische Manti in Sahnesoße</title>
+        <link>https://der.reisko.ch/rezepte/tuerkische-manti-in-sahnesosse/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/chinesische-rotgeschmorte-auberginen/</guid>
       <description>Hong Shao Qie Zi</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0535/rotgeschmorte_auberginen.jpg</url>
+        <title>Chinesische Rotgeschmorte Auberginen</title>
+        <link>https://der.reisko.ch/rezepte/chinesische-rotgeschmorte-auberginen/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/strassburger-wurstsalat/</guid>
       <description>Sommerliches Abendessen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0303/strassburger_wurstsalat.jpg</url>
+        <title>Straßburger Wurstsalat</title>
+        <link>https://der.reisko.ch/rezepte/strassburger-wurstsalat/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/syrisches-tabakh-ruhu/</guid>
       <description>Kalbsfleisch mit Gemüse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0521/syrisches_tabakh_ruhu.jpg</url>
+        <title>Syrisches Tabakh Ruhu</title>
+        <link>https://der.reisko.ch/nachgekocht/syrisches-tabakh-ruhu/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/garnelensalat-mit-tomaten-und-parmesan/</guid>
       <description>Ein schneller, leckerer Salat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0442/garnelensalat_mit_tomaten_und_parmesan.jpg</url>
+        <title>Garnelen-Salat mit Tomaten und Parmesan</title>
+        <link>https://der.reisko.ch/rezepte/garnelensalat-mit-tomaten-und-parmesan/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mango-tomaten-salat-aus-tansania/</guid>
       <description>Schneller Salat mit wenigen Zutaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0295/salat.jpg</url>
+        <title>Mango-Tomaten-Salat aus Tansania</title>
+        <link>https://der.reisko.ch/rezepte/mango-tomaten-salat-aus-tansania/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thai-garnelen-salat-mit-schlangenbohnen/</guid>
       <description>Thailändischer Yam Goong Thua</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0384/fertig.jpg</url>
+        <title>Garnelen-Salat mit Schlangenbohnen</title>
+        <link>https://der.reisko.ch/rezepte/thai-garnelen-salat-mit-schlangenbohnen/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/scharfe-thai-pfanne-mit-rindfleisch/</guid>
       <description>Nuea Pad Prik</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0379/teller.jpg</url>
+        <title>Scharfe Thai-Pfanne mit Rindfleisch</title>
+        <link>https://der.reisko.ch/rezepte/scharfe-thai-pfanne-mit-rindfleisch/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanischer-lachssalat/</guid>
       <description>Ganz schnell und super lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0377/salat.jpg</url>
+        <title>Japanischer Lachssalat</title>
+        <link>https://der.reisko.ch/rezepte/japanischer-lachssalat/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/philippinisches-adobo-mit-chorizo-und-huhn/</guid>
       <description>Gehaltvoller Eintopf mit vielen Zutaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0348/pfanne.jpg</url>
+        <title>Philippinisches Adobo mit Chorizo und Huhn</title>
+        <link>https://der.reisko.ch/rezepte/philippinisches-adobo-mit-chorizo-und-huhn/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/deftige-lasagne-mit-lauch/</guid>
       <description>Mit dem gewissen Etwas</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0255/lasagne.jpg</url>
+        <title>Deftige Lasagne mit Lauch</title>
+        <link>https://der.reisko.ch/rezepte/deftige-lasagne-mit-lauch/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/ratatouille-mediterran/</guid>
       <description>Leckeres Pfannengemüse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0278/mit_rosmarin.jpg</url>
+        <title>Das Ratatouille Mediterran</title>
+        <link>https://der.reisko.ch/rezepte/ratatouille-mediterran/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/indisches-gemuse-curry-aus-goa/</guid>
       <description>Kath Katha</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0287/teller.jpg</url>
+        <title>Indisches Gemüse Curry aus Goa</title>
+        <link>https://der.reisko.ch/nachgekocht/indisches-gemuse-curry-aus-goa/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/zucchini-spaghetti-arrabiata/</guid>
       <description>Pasta ohne Nudeln</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0275/schuessel.jpg</url>
+        <title>Zucchini Spaghetti Arrabiata</title>
+        <link>https://der.reisko.ch/rezepte/zucchini-spaghetti-arrabiata/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/calamari-mit-avocado-tomaten-gemuse/</guid>
       <description>Nochmal etwas Sommerliches</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0264/teller.jpg</url>
+        <title>Calamari mit Avocado-Tomaten-Gemüse</title>
+        <link>https://der.reisko.ch/rezepte/calamari-mit-avocado-tomaten-gemuse/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/in-unserem-kleinen-wintergarten/</guid>
       <description>Es wächst und gedeiht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0263/thai-chilis.jpg</url>
+        <title>In unserem kleinen Wintergarten</title>
+        <link>https://der.reisko.ch/dies-und-das/in-unserem-kleinen-wintergarten/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/turkischer-salat-mit-granatapfelsosse/</guid>
       <description>Was Frisches für den Sommer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0104/salat.jpg</url>
+        <title>Türkischer Salat mit Granatapfelsoße</title>
+        <link>https://der.reisko.ch/rezepte/turkischer-salat-mit-granatapfelsosse/</link>
+        </image>
     </item>
     
     <item>
@@ -185,141 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mediterrane-pfanne-mit-zucchini-und-pilzen/</guid>
       <description>Das macht Lust auf Urlaub</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Tintenfisch Salat</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-tintenfisch-salat/</link>
-      <pubDate>Tue, 05 May 2015 05:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-tintenfisch-salat/</guid>
-      <description>Eine Yam Plaa Muek Variation</description>
-    </item>
-    
-    <item>
-      <title>Thai Rindfleischsalat mit Tomaten und Mais</title>
-      <link>https://der.reisko.ch/rezepte/thai-rindfleischsalat-mit-tomaten-und-mais/</link>
-      <pubDate>Mon, 20 Apr 2015 08:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-rindfleischsalat-mit-tomaten-und-mais/</guid>
-      <description>Yam Nuea mal etwas anders</description>
-    </item>
-    
-    <item>
-      <title>Schneller Nudelsalat &#39;Italiano&#39;</title>
-      <link>https://der.reisko.ch/mittagspause/schneller-nudelsalat-italiano/</link>
-      <pubDate>Wed, 15 Apr 2015 08:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/schneller-nudelsalat-italiano/</guid>
-      <description>Ein schneller Salat für die Mittagspause</description>
-    </item>
-    
-    <item>
-      <title>Vegetarische gefüllte Aubergine</title>
-      <link>https://der.reisko.ch/rezepte/vegetarische-gefullte-aubergine/</link>
-      <pubDate>Wed, 11 Mar 2015 06:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/vegetarische-gefullte-aubergine/</guid>
-      <description>Schnell und lecker</description>
-    </item>
-    
-    <item>
-      <title>Mediterranes Gemüse Risotto</title>
-      <link>https://der.reisko.ch/rezepte/mediterranes-gemuserisotto/</link>
-      <pubDate>Thu, 21 Aug 2014 07:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/mediterranes-gemuserisotto/</guid>
-      <description>Sommerlich lecker und dazu noch vegetarisch</description>
-    </item>
-    
-    <item>
-      <title>Thai Salat mit Rinderhackfleisch</title>
-      <link>https://der.reisko.ch/rezepte/thai-salat-mit-rinderhackfleisch/</link>
-      <pubDate>Thu, 10 Jul 2014 07:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-salat-mit-rinderhackfleisch/</guid>
-      <description>Ein sehr einfacher Yam Nuea Sap</description>
-    </item>
-    
-    <item>
-      <title>Geflügelpfanne mit Tomaten und Oliven</title>
-      <link>https://der.reisko.ch/rezepte/geflugelpfanne-mit-tomaten-und-oliven/</link>
-      <pubDate>Thu, 06 Mar 2014 02:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/geflugelpfanne-mit-tomaten-und-oliven/</guid>
-      <description>Sommerlich bunt</description>
-    </item>
-    
-    <item>
-      <title>Würzige Tomatensuppe</title>
-      <link>https://der.reisko.ch/rezepte/wurzige-tomatensuppe/</link>
-      <pubDate>Fri, 08 Nov 2013 06:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/wurzige-tomatensuppe/</guid>
-      <description>Einfach und lecker</description>
-    </item>
-    
-    <item>
-      <title>Überbackener Lachsspieß im Tomatenbett</title>
-      <link>https://der.reisko.ch/rezepte/uberbackener-lachsspiess-im-tomatenbett/</link>
-      <pubDate>Fri, 13 Sep 2013 11:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/uberbackener-lachsspiess-im-tomatenbett/</guid>
-      <description>Leckerer Fisch am Spieß</description>
-    </item>
-    
-    <item>
-      <title>Mexikanische Huevos Rancheros</title>
-      <link>https://der.reisko.ch/rezepte/mexikanische-huevos-rancheros/</link>
-      <pubDate>Wed, 28 Aug 2013 09:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/mexikanische-huevos-rancheros/</guid>
-      <description>Ein deftiges Frühstück</description>
-    </item>
-    
-    <item>
-      <title>Überbackene Rindersteaks &#39;Italiano&#39;</title>
-      <link>https://der.reisko.ch/rezepte/uberbackene-rindersteaks-italiano/</link>
-      <pubDate>Thu, 18 Apr 2013 07:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/uberbackene-rindersteaks-italiano/</guid>
-      <description>Einfach und lecker</description>
-    </item>
-    
-    <item>
-      <title>Ente Provencial im Tontopf</title>
-      <link>https://der.reisko.ch/rezepte/ente-provencial-im-tontopf/</link>
-      <pubDate>Thu, 18 Apr 2013 07:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/ente-provencial-im-tontopf/</guid>
-      <description>Wahnsinnig lecker</description>
-    </item>
-    
-    <item>
-      <title>Reispfanne mit Hackfleisch und Gemüse</title>
-      <link>https://der.reisko.ch/rezepte/reispfanne-mit-hackfleisch-und-gemuse/</link>
-      <pubDate>Sat, 16 Mar 2013 12:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/reispfanne-mit-hackfleisch-und-gemuse/</guid>
-      <description>Ein Klassiker aus meiner Kindheit im neuen Gewand</description>
-    </item>
-    
-    <item>
-      <title>Sauce Bolognese für Pasta</title>
-      <link>https://der.reisko.ch/rezepte/sauce-bolognese-fur-pasta/</link>
-      <pubDate>Sun, 29 Jul 2012 09:22:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/sauce-bolognese-fur-pasta/</guid>
-      <description>Ein Klassiker, der immer wieder lecker ist</description>
-    </item>
-    
-    <item>
-      <title>Thai Style Salat mit Tomate und Gurke</title>
-      <link>https://der.reisko.ch/rezepte/thai-style-salat-mit-tomate-und-gurke/</link>
-      <pubDate>Tue, 10 Jan 2012 07:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-style-salat-mit-tomate-und-gurke/</guid>
-      <description>Schnell, einfach, lecker und selbstausgedacht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0239/teller.jpg</url>
+        <title>Mediterrane Pfanne mit Zucchini und Pilzen</title>
+        <link>https://der.reisko.ch/rezepte/mediterrane-pfanne-mit-zucchini-und-pilzen/</link>
+        </image>
     </item>
     
   </channel>

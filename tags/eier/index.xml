@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>eier on Der Reiskoch</title>
+    <title>eier auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/eier/</link>
-    <description>Recent content in eier on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in eier  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 02 Jan 2021 06:33:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/eier/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-see-ew-moo/</guid>
       <description>Ein schnelles Wok Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0971/pad_see_ew_moo.jpg</url>
+        <title>Thailändisches Pad See Ew Moo</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-see-ew-moo/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/romische-patina-de-piris/</guid>
       <description>Spannende Nachspeise mit Birne, Ei und Fischsoße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0899/fertig.jpg</url>
+        <title>Römische PATINA DE PIRIS</title>
+        <link>https://der.reisko.ch/rezepte/romische-patina-de-piris/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/italienische-pasta-carbonara/</guid>
       <description>So einfach und doch so lecker</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0893/pasta_carbonara.jpg</url>
+        <title>Italienische Pasta Carbonara</title>
+        <link>https://der.reisko.ch/rezepte/italienische-pasta-carbonara/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gefaktes-pad-see-ew-nuea/</guid>
       <description>Ein schnelles Wok Gericht mit falschen Zutaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0886/pad_see_ew.jpg</url>
+        <title>Gefaktes Pad See Ew Nuea</title>
+        <link>https://der.reisko.ch/rezepte/gefaktes-pad-see-ew-nuea/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/athiopischer-spinat-mit-ei/</guid>
       <description>Kosta Benqulal</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0813/spinat_mit_ei.jpg</url>
+        <title>Äthiopischer Spinat mit Ei</title>
+        <link>https://der.reisko.ch/rezepte/athiopischer-spinat-mit-ei/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/vegetarisches-pad-kra-pao/</guid>
       <description>Ein thailändisches Koch Experiment</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0815/vegetarisches_pad_kra_pao.jpg</url>
+        <title>Vegetarisches Pad Kra Pao</title>
+        <link>https://der.reisko.ch/rezepte/vegetarisches-pad-kra-pao/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-kimchi-pfanne-mit-ei/</guid>
       <description>Nach Art eines Shakshukas</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0791/kimchipfanne_mit_ei.jpg</url>
+        <title>Koreanische Kimchi Pfanne mit Ei</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-kimchi-pfanne-mit-ei/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/romische-vorspeise-ova-elixa/</guid>
       <description>Gefüllte hart gekochte Eier</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0781/angerichtet.jpg</url>
+        <title>Römische Vorspeise OVA ELIXA</title>
+        <link>https://der.reisko.ch/rezepte/romische-vorspeise-ova-elixa/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kantonesiches-hackfleisch-mit-ei/</guid>
       <description>Ein schnelles und einfaches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0734/kantonesisches_hackfleisch_mit_ei.jpg</url>
+        <title>Kantonesiches Hackfleisch mit Ei</title>
+        <link>https://der.reisko.ch/rezepte/kantonesiches-hackfleisch-mit-ei/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schwarzes-hackfleisch-mit-aubergine/</guid>
       <description>Koreanisches Pfannengericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0653/schwarzes_hackfleisch_mit_aubergine.jpg</url>
+        <title>Schwarzes Hackfleisch mit Aubergine</title>
+        <link>https://der.reisko.ch/rezepte/schwarzes-hackfleisch-mit-aubergine/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-khai-khon/</guid>
       <description>Eine schneller Rührei Salat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0562/yam_khai_khon.jpg</url>
+        <title>Thailändischer Yam Khai Khon</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-khai-khon/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-khai-dao/</guid>
       <description>Salat aus gebratenen Eiern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0620/yam_khai_dao.jpg</url>
+        <title>Thailändischer Yam Khai Dao</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-khai-dao/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gaeng-kiaw-wan-gai-khai-dao/</guid>
       <description>Thailändisches grünes Curry mit Spiegeleiern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0622/gruenes_curry_mit_ei.jpg</url>
+        <title>Gaeng Kiaw Wan Gai Khai Dao</title>
+        <link>https://der.reisko.ch/rezepte/gaeng-kiaw-wan-gai-khai-dao/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rinderhack-in-schwarzer-bohnensosse/</guid>
       <description>Schon wieder koreanisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0579/rinderhack_mit_schwarzer_bohnen_sosse.jpg</url>
+        <title>Rinderhack in Schwarzer Bohnensoße</title>
+        <link>https://der.reisko.ch/rezepte/rinderhack-in-schwarzer-bohnensosse/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-khao-pad-kra-pao/</guid>
       <description>Gebratener Reis mit Hackfleisch und Holy Basil</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0565/teller.jpg</url>
+        <title>Thailändischer Khao Pad Kra Pao</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-khao-pad-kra-pao/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/nudelsuppe-mit-moo-sam-chan-palo/</guid>
       <description>Äu­ßerst kräftige Resteverwertung</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0558/mit_viel_schweinebauch.jpg</url>
+        <title>Nudelsuppe mit Moo Sam Chan Palo</title>
+        <link>https://der.reisko.ch/rezepte/nudelsuppe-mit-moo-sam-chan-palo/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-moo-sam-chan-palo/</guid>
       <description>Schweinebauch in dunkler Fünf-Gewürz-Soße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0556/moo_palo.jpg</url>
+        <title>Thailändischer Moo Sam Chan Palo</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-moo-sam-chan-palo/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/kraftige-suppe-mit-ei/</guid>
       <description>Dreifach gekocht hält besser</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0458/kraeftige_suppe.jpg</url>
+        <title>Eine sehr kräftige Suppe mit Ei</title>
+        <link>https://der.reisko.ch/mittagspause/kraftige-suppe-mit-ei/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/miso-suppe-mit-garnelen-und-ei/</guid>
       <description>Schnelle Suppe für den Herbst</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0433/miso-suppe.jpg</url>
+        <title>Miso-Suppe mit Garnelen und Ei</title>
+        <link>https://der.reisko.ch/rezepte/miso-suppe-mit-garnelen-und-ei/</link>
+        </image>
     </item>
     
     <item>
@@ -185,150 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/ruhreier-mit-burgundertruffel/</guid>
       <description>Edler Pilz auf Bio Eiern</description>
-    </item>
-    
-    <item>
-      <title>Italienisches Tacchino Tonnato</title>
-      <link>https://der.reisko.ch/rezepte/italienisches-tacchino-tonnato/</link>
-      <pubDate>Fri, 14 Oct 2016 12:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/italienisches-tacchino-tonnato/</guid>
-      <description>Eine vereinfachte, schnelle Variante</description>
-    </item>
-    
-    <item>
-      <title>Szechuan Pfanne mit Aubergine und Ei</title>
-      <link>https://der.reisko.ch/rezepte/szechuan-pfanne-mit-aubergine-und-ei/</link>
-      <pubDate>Tue, 26 Apr 2016 10:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/szechuan-pfanne-mit-aubergine-und-ei/</guid>
-      <description>Noch eine vegetarische Variante</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Pad Fak Tong</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-pad-fak-tong/</link>
-      <pubDate>Mon, 02 Nov 2015 08:31:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-pad-fak-tong/</guid>
-      <description>Gebratener Kürbis mit Ei</description>
-    </item>
-    
-    <item>
-      <title>Ei-Burger zum Frühstück</title>
-      <link>https://der.reisko.ch/rezepte/ei-burger-zum-fruhstuck/</link>
-      <pubDate>Sun, 11 Oct 2015 01:27:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/ei-burger-zum-fruhstuck/</guid>
-      <description>Deftiges für den Morgen</description>
-    </item>
-    
-    <item>
-      <title>Spiegelei mit scharfer Chorizo</title>
-      <link>https://der.reisko.ch/rezepte/spiegelei-mit-scharfer-chorizo/</link>
-      <pubDate>Fri, 17 Jul 2015 08:32:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/spiegelei-mit-scharfer-chorizo/</guid>
-      <description>Kurz und gut</description>
-    </item>
-    
-    <item>
-      <title>Eier-Pfanne mit Merguez</title>
-      <link>https://der.reisko.ch/rezepte/eier-pfanne-mit-merguez/</link>
-      <pubDate>Tue, 14 Jul 2015 07:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/eier-pfanne-mit-merguez/</guid>
-      <description>Wurst und Ei, alles dabei</description>
-    </item>
-    
-    <item>
-      <title>Indisches Curry mit Eiern</title>
-      <link>https://der.reisko.ch/rezepte/indisches-curry-mit-eiern/</link>
-      <pubDate>Sat, 18 Apr 2015 11:49:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indisches-curry-mit-eiern/</guid>
-      <description>Eier mal anders</description>
-    </item>
-    
-    <item>
-      <title>Deftiger Eiersalat mit Bärlauch</title>
-      <link>https://der.reisko.ch/rezepte/eiersalat-mit-barlauch/</link>
-      <pubDate>Mon, 13 Apr 2015 09:03:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/eiersalat-mit-barlauch/</guid>
-      <description>Traditionelle Ostereierverwertung</description>
-    </item>
-    
-    <item>
-      <title>Omelette mit Garnelen</title>
-      <link>https://der.reisko.ch/rezepte/omelette-mit-garnelen/</link>
-      <pubDate>Fri, 10 Oct 2014 05:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/omelette-mit-garnelen/</guid>
-      <description>Schnell, lecker und ein klein wenig scharf</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Salat mit Ei</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-salat-mit-ei/</link>
-      <pubDate>Tue, 29 Apr 2014 08:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-salat-mit-ei/</guid>
-      <description>Ein einfaches Rezept für die Zeit nach Ostern</description>
-    </item>
-    
-    <item>
-      <title>Vegetarisches Shakshuka</title>
-      <link>https://der.reisko.ch/rezepte/vegetarisches-shakshuka/</link>
-      <pubDate>Wed, 11 Sep 2013 06:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/vegetarisches-shakshuka/</guid>
-      <description>Leckeres Pfannengericht mit Ei</description>
-    </item>
-    
-    <item>
-      <title>Mexikanische Huevos Rancheros</title>
-      <link>https://der.reisko.ch/rezepte/mexikanische-huevos-rancheros/</link>
-      <pubDate>Wed, 28 Aug 2013 09:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/mexikanische-huevos-rancheros/</guid>
-      <description>Ein deftiges Frühstück</description>
-    </item>
-    
-    <item>
-      <title>Frische Pfifferlinge mit Kräutern und Ei</title>
-      <link>https://der.reisko.ch/rezepte/frische-pfifferlinge-mit-krautern-und-ei/</link>
-      <pubDate>Tue, 06 Aug 2013 09:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/frische-pfifferlinge-mit-krautern-und-ei/</guid>
-      <description>Ein schnelles Pfannengericht</description>
-    </item>
-    
-    <item>
-      <title>Deftiges Shakshuka mit Bohnen</title>
-      <link>https://der.reisko.ch/rezepte/deftiges-shakshuka-zum-fruhstuck/</link>
-      <pubDate>Tue, 02 Apr 2013 07:57:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/deftiges-shakshuka-zum-fruhstuck/</guid>
-      <description>Die schnelle Multi-Kulti Pfanne</description>
-    </item>
-    
-    <item>
-      <title>Shakshuka mit Parmak-Sucuk</title>
-      <link>https://der.reisko.ch/rezepte/shakshuka-mit-parmak-sucuk/</link>
-      <pubDate>Wed, 21 Nov 2012 03:32:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/shakshuka-mit-parmak-sucuk/</guid>
-      <description>Ein Urlaubsmitbringsel aus Israel</description>
-    </item>
-    
-    <item>
-      <title>Palabok-Pfanne von den Philippinen</title>
-      <link>https://der.reisko.ch/rezepte/palabok-pfanne-von-den-philippinen/</link>
-      <pubDate>Thu, 02 Feb 2012 07:41:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/palabok-pfanne-von-den-philippinen/</guid>
-      <description>Grüne Bohnen mit Hackfleisch und Eiern</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0437/teller.jpg</url>
+        <title>Rühreier mit Burgundertrüffel</title>
+        <link>https://der.reisko.ch/rezepte/ruhreier-mit-burgundertruffel/</link>
+        </image>
     </item>
     
   </channel>

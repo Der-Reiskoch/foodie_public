@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>myanmar on Der Reiskoch</title>
+    <title>myanmar auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/myanmar/</link>
-    <description>Recent content in myanmar on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in myanmar  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 19 Mar 2016 04:50:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/myanmar/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/reisen/die-besten-kartoffelchips/</guid>
       <description>Eine Tüte Chips in Myanmar</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0345/chips.jpg</url>
+        <title>Die besten Kartoffelchips</title>
+        <link>https://der.reisko.ch/reisen/die-besten-kartoffelchips/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/reisen/die-bunten-markte-in-myanmar/</guid>
       <description>Immer wieder faszinierend</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0334/markt.jpg</url>
+        <title>Die bunten Märkte in Myanmar</title>
+        <link>https://der.reisko.ch/reisen/die-bunten-markte-in-myanmar/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/zutaten/einige-burmesische-zutaten/</guid>
       <description>Damit habe ich mir den Rucksack gefüllt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0308/pae_sone_kyaw_auf_dem_markt.jpg</url>
+        <title>Einige Burmesische Zutaten</title>
+        <link>https://der.reisko.ch/zutaten/einige-burmesische-zutaten/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/reisen/die-vielfaltige-shan-kuche/</guid>
       <description>Gerichte aus dem Shan-Staat in Myanmar</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0318/shan-nudel-suppe.jpg</url>
+        <title>Die vielfältige Shan-Küche</title>
+        <link>https://der.reisko.ch/reisen/die-vielfaltige-shan-kuche/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/reisen/verschiedene-burmesische-curries/</guid>
       <description>Ganz anders als in Indien oder Thailand</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0317/chicken-curry.jpg</url>
+        <title>Verschiedene burmesische Curries</title>
+        <link>https://der.reisko.ch/reisen/verschiedene-burmesische-curries/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/reisen/spannende-salate-in-myanmar/</guid>
       <description>Außergewöhnliche Geschmacksexplosionen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0314/ingwer-salat.jpg</url>
+        <title>Spannende Salate in Myanmar</title>
+        <link>https://der.reisko.ch/reisen/spannende-salate-in-myanmar/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/utensilien/neues-kuchenbeil-vom-inle-see/</guid>
       <description>Mein persönliches Weihnachtsgeschenk</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0316/beil.jpg</url>
+        <title>Neues Küchenbeil vom Inle-See</title>
+        <link>https://der.reisko.ch/utensilien/neues-kuchenbeil-vom-inle-see/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/reisen/zou-zous-cooking-class/</guid>
       <description>Mein burmesicher Kochkurs am Inle-See</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0313/kueche.jpg</url>
+        <title>Zou Zou´s Cooking Class</title>
+        <link>https://der.reisko.ch/reisen/zou-zous-cooking-class/</link>
+        </image>
     </item>
     
   </channel>

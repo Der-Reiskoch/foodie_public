@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bittergurke on Der Reiskoch</title>
+    <title>bittergurke auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/bittergurke/</link>
-    <description>Recent content in bittergurke on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in bittergurke  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 31 May 2020 06:47:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/bittergurke/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendische-gefullte-bittergurken/</guid>
       <description>Als Suppeneinlage oder auch einfach als Snack</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0906/gedaempfte_bittergurke.jpg</url>
+        <title>Thailändische gefüllte Bittergurken</title>
+        <link>https://der.reisko.ch/rezepte/thailaendische-gefullte-bittergurken/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-mara-goong/</guid>
       <description>Salat mit Bittergurke und Garnelen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0905/yam_mara_goong.jpg</url>
+        <title>Thailändischer Yam Mara Goong</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-mara-goong/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/yam-mara-goong-moo-sap/</guid>
       <description>Thai Salat mit Bittergurke, Hackfleisch und Garnelen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0805/yam_mala_goong.jpg</url>
+        <title>Yam Mara Goong Moo Sap</title>
+        <link>https://der.reisko.ch/rezepte/yam-mara-goong-moo-sap/</link>
+        </image>
     </item>
     
   </channel>

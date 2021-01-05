@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kartoffeln on Der Reiskoch</title>
+    <title>kartoffeln auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/kartoffeln/</link>
-    <description>Recent content in kartoffeln on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in kartoffeln  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 22 Dec 2020 05:14:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/kartoffeln/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/doenjang_jjigae-im-dolsot/</guid>
       <description>Eintopf mit Bohnenpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0957/doenjang-jjigae-dolsot.jpg</url>
+        <title>Doenjang JJigae im Dolsot</title>
+        <link>https://der.reisko.ch/rezepte/doenjang_jjigae-im-dolsot/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanisches-keema-curry/</guid>
       <description>Indisches Gericht japanisch interpretiert</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0958/japanisches_keema_curry.jpg</url>
+        <title>Japanisches Keema Curry</title>
+        <link>https://der.reisko.ch/rezepte/japanisches-keema-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/massaman-curry-mit-riesenkartoffeln/</guid>
       <description>So dumm kann gar kein Bauer sein</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0913/massaman_curry_mit_ofenkartoffel.jpg</url>
+        <title>Massaman Curry mit Riesenkartoffeln</title>
+        <link>https://der.reisko.ch/dies-und-das/massaman-curry-mit-riesenkartoffeln/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/perencah-kari-ayam-aus-malaysia/</guid>
       <description>Curry mit Hähnchenkeulen aus einer Instantpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0900/perencah_kari_ayam.jpg</url>
+        <title>Perencah Kari Ayam aus Malaysia</title>
+        <link>https://der.reisko.ch/rezepte/perencah-kari-ayam-aus-malaysia/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schabbat-eintopf-tscholent/</guid>
       <description>Ein jüdisches Traditionsgericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0864/tscholent.jpg</url>
+        <title>Schabbat Eintopf Tscholent</title>
+        <link>https://der.reisko.ch/rezepte/schabbat-eintopf-tscholent/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schwedische-kartoffeln-als-beilage/</guid>
       <description>Die olle Knolle im neuen Gewand</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0823/schwedische_kartoffeln.jpg</url>
+        <title>Schwedische Kartoffeln als Beilage</title>
+        <link>https://der.reisko.ch/rezepte/schwedische-kartoffeln-als-beilage/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/matjes-salat-mit-roter-beete/</guid>
       <description>Eine Variation in Rosa</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0820/matjes-salat_mit_kartoffeln.jpg</url>
+        <title>Matjes Salat mit roter Beete</title>
+        <link>https://der.reisko.ch/rezepte/matjes-salat-mit-roter-beete/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kartoffelpfanne-mit-guacamole/</guid>
       <description>Ein schnelles vegetarisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0780/kartoffelpfanne_mit_guacamole.jpg</url>
+        <title>Kartoffelpfanne mit Guacamole</title>
+        <link>https://der.reisko.ch/rezepte/kartoffelpfanne-mit-guacamole/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/szechuan-schweinebauch-mit-kartoffeln/</guid>
       <description>Deftig und scharf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0804/sichuan_schweinebauch.jpg</url>
+        <title>Szechuan Schweinebauch mit Kartoffeln</title>
+        <link>https://der.reisko.ch/rezepte/szechuan-schweinebauch-mit-kartoffeln/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/irisches-beef-and-guinness-stew/</guid>
       <description>Zum St. Patrick&amp;rsquo;s Day mal was Anderes</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0733/beef_and_guiness_stew.jpg</url>
+        <title>Irisches Beef and Guinness Stew</title>
+        <link>https://der.reisko.ch/rezepte/irisches-beef-and-guinness-stew/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rotgeschmortes-rindfleisch-mit-kartoffeln/</guid>
       <description>Gulasch mal ganz anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0667/rotgeschmortes_rindfleisch.jpg</url>
+        <title>Rotgeschmortes Rindfleisch mit Kartoffeln</title>
+        <link>https://der.reisko.ch/rezepte/rotgeschmortes-rindfleisch-mit-kartoffeln/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hang-lae-curry-mit-kartoffeln/</guid>
       <description>Gaeng Hang Lae Moo Manfrang</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0591/hang_lae_curry_mit_kartoffeln.jpg</url>
+        <title>Hang Lae Curry mit Kartoffeln</title>
+        <link>https://der.reisko.ch/rezepte/hang-lae-curry-mit-kartoffeln/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanische-jjajangmyeon/</guid>
       <description>Nudeln mit schwarzer Bohnenpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0578/koreanische_jjajangmyeon.jpg</url>
+        <title>Koreanische Jjajangmyeon</title>
+        <link>https://der.reisko.ch/rezepte/koreanische-jjajangmyeon/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/matjes-salat-norddeutsche-art/</guid>
       <description>Mal ganz was anderes</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0388/matjes_salat.jpg</url>
+        <title>Matjes Salat Norddeutsche Art</title>
+        <link>https://der.reisko.ch/rezepte/matjes-salat-norddeutsche-art/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/syrisches-tabakh-ruhu/</guid>
       <description>Kalbsfleisch mit Gemüse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0521/syrisches_tabakh_ruhu.jpg</url>
+        <title>Syrisches Tabakh Ruhu</title>
+        <link>https://der.reisko.ch/nachgekocht/syrisches-tabakh-ruhu/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/aloo-curry-aus-pakistan/</guid>
       <description>Trockenes Kartoffel-Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0428/pfanne.jpg</url>
+        <title>Aloo Curry aus Pakistan</title>
+        <link>https://der.reisko.ch/rezepte/aloo-curry-aus-pakistan/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/scharfes-karibisches-stew-mit-ofenkartoffeln/</guid>
       <description>Jamaikanischer Eintopf mit Rind und Okras</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0375/teller.jpg</url>
+        <title>Scharfes Karibisches Stew mit Ofenkartoffeln</title>
+        <link>https://der.reisko.ch/rezepte/scharfes-karibisches-stew-mit-ofenkartoffeln/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kari-mit-kartoffeln-und-kichererbsen/</guid>
       <description>Mit malayischer Currypaste aus der Tüte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0357/schuessel.jpg</url>
+        <title>Kari mit Kartoffeln und Kichererbsen</title>
+        <link>https://der.reisko.ch/rezepte/kari-mit-kartoffeln-und-kichererbsen/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/reisen/die-besten-kartoffelchips/</guid>
       <description>Eine Tüte Chips in Myanmar</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0345/chips.jpg</url>
+        <title>Die besten Kartoffelchips</title>
+        <link>https://der.reisko.ch/reisen/die-besten-kartoffelchips/</link>
+        </image>
     </item>
     
     <item>
@@ -185,132 +280,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/indisches-gemuse-curry-aus-goa/</guid>
       <description>Kath Katha</description>
-    </item>
-    
-    <item>
-      <title>Gaeng Phed Gai Manfrang</title>
-      <link>https://der.reisko.ch/rezepte/gaeng-phed-gai-manfrang/</link>
-      <pubDate>Mon, 27 Jul 2015 07:13:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gaeng-phed-gai-manfrang/</guid>
-      <description>Rotes Thai Curry mit Huhn und Kartoffeln</description>
-    </item>
-    
-    <item>
-      <title>Caldereta mit Chorizo und Rindergulasch</title>
-      <link>https://der.reisko.ch/rezepte/caldereta-mit-chorizo-und-rindergulasch/</link>
-      <pubDate>Sat, 11 Apr 2015 09:24:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/caldereta-mit-chorizo-und-rindergulasch/</guid>
-      <description>Philippinischer Eintopf</description>
-    </item>
-    
-    <item>
-      <title>Indisches Kartoffel-Erbsen Curry</title>
-      <link>https://der.reisko.ch/rezepte/indisches-kartoffel-erbsen-curry/</link>
-      <pubDate>Tue, 31 Mar 2015 11:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indisches-kartoffel-erbsen-curry/</guid>
-      <description>Ein vegetarisches Curry</description>
-    </item>
-    
-    <item>
-      <title>Bengalisches Chicken Dopiaza</title>
-      <link>https://der.reisko.ch/nachgekocht/bengalisches-chicken-dopiaza/</link>
-      <pubDate>Sat, 28 Mar 2015 08:21:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/bengalisches-chicken-dopiaza/</guid>
-      <description>Hähnchen mit Zwiebeln</description>
-    </item>
-    
-    <item>
-      <title>Indisches Kartoffel-Bohnen-Curry</title>
-      <link>https://der.reisko.ch/rezepte/indisches-kartoffel-bohnen-curry/</link>
-      <pubDate>Mon, 03 Nov 2014 08:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indisches-kartoffel-bohnen-curry/</guid>
-      <description>Leckeres vegetarisches Curry</description>
-    </item>
-    
-    <item>
-      <title>Lachs mit Ofenkartoffeln und Spinat</title>
-      <link>https://der.reisko.ch/rezepte/lachs-mit-ofenkartoffeln-und-spinat/</link>
-      <pubDate>Wed, 29 Oct 2014 09:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/lachs-mit-ofenkartoffeln-und-spinat/</guid>
-      <description>Eine tolle Kombination</description>
-    </item>
-    
-    <item>
-      <title>Chiang Mai Curry mit Kartoffeln und Speck</title>
-      <link>https://der.reisko.ch/rezepte/chiang-mai-curry-mit-kartoffeln-und-speck/</link>
-      <pubDate>Thu, 27 Mar 2014 07:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/chiang-mai-curry-mit-kartoffeln-und-speck/</guid>
-      <description>Noch ein deftiges Hang Lae Curry</description>
-    </item>
-    
-    <item>
-      <title>Eine scharfe und eine deftige Lende</title>
-      <link>https://der.reisko.ch/rezepte/eine-scharfe-und-eine-deftige-lende/</link>
-      <pubDate>Sat, 22 Mar 2014 11:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/eine-scharfe-und-eine-deftige-lende/</guid>
-      <description>Zweimal Schwein gehabt</description>
-    </item>
-    
-    <item>
-      <title>Thaistyle Muskatkürbis Suppe</title>
-      <link>https://der.reisko.ch/rezepte/thaistyle-muskatkurbis-suppe/</link>
-      <pubDate>Thu, 19 Dec 2013 07:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thaistyle-muskatkurbis-suppe/</guid>
-      <description>Eine Suppen-Fusion</description>
-    </item>
-    
-    <item>
-      <title>Mama Sita&#39;s Caldereta</title>
-      <link>https://der.reisko.ch/rezepte/mama-sitas-caldereta/</link>
-      <pubDate>Tue, 17 Sep 2013 07:48:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/mama-sitas-caldereta/</guid>
-      <description>Rindfleisch-Gemüse-Eintopf von den Philippinen</description>
-    </item>
-    
-    <item>
-      <title>Kartoffelsuppe mit Zwetschgenkuchen</title>
-      <link>https://der.reisko.ch/rezepte/kartoffelsuppe-mit-zwetschgenkuchen/</link>
-      <pubDate>Sun, 15 Sep 2013 09:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kartoffelsuppe-mit-zwetschgenkuchen/</guid>
-      <description>Diese Kombination ist nicht jedermanns Sache</description>
-    </item>
-    
-    <item>
-      <title>Markgräfler Grumbieresalat</title>
-      <link>https://der.reisko.ch/rezepte/markgrafler-grumbieresalat/</link>
-      <pubDate>Mon, 30 Jul 2012 10:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/markgrafler-grumbieresalat/</guid>
-      <description>Kartoffelsalat mit Löwenzahn</description>
-    </item>
-    
-    <item>
-      <title>Tikka Masala Curry mit Kartoffeln und Spinat</title>
-      <link>https://der.reisko.ch/rezepte/tikka-masala-curry-mit-kartoffeln-und-spinat/</link>
-      <pubDate>Sat, 19 Nov 2011 10:24:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/tikka-masala-curry-mit-kartoffeln-und-spinat/</guid>
-      <description>Ein vegetarisches indisches Curry</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Gaeng Massaman Nuea</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-gaeng-massaman-nuea/</link>
-      <pubDate>Wed, 09 Nov 2011 03:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-gaeng-massaman-nuea/</guid>
-      <description>Ein Curry aus dem Süden Thailands</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0287/teller.jpg</url>
+        <title>Indisches Gemüse Curry aus Goa</title>
+        <link>https://der.reisko.ch/nachgekocht/indisches-gemuse-curry-aus-goa/</link>
+        </image>
     </item>
     
   </channel>

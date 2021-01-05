@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>papaya on Der Reiskoch</title>
+    <title>papaya auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/papaya/</link>
-    <description>Recent content in papaya on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in papaya  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 07 Aug 2017 09:34:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/papaya/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/grunes-curry-und-som-tam-isaan/</guid>
       <description>Zwei Klassiker an einem Abend</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0526/curry.jpg</url>
+        <title>Grünes Curry und Som Tam Isaan</title>
+        <link>https://der.reisko.ch/nachgekocht/grunes-curry-und-som-tam-isaan/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/som-tam-als-pok-pok-event/</guid>
       <description>Thailändischer Papaya Salat</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0493/som_tam_kits.jpg</url>
+        <title>Som Tam als Pok-Pok-Event</title>
+        <link>https://der.reisko.ch/dies-und-das/som-tam-als-pok-pok-event/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-som-tam/</guid>
       <description>Papaya Salat nach Tuks Originalrezept</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0042/som_tam.jpg</url>
+        <title>Thailändischer Som Tam</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-som-tam/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/deftig-gefullte-papaya/</guid>
       <description>Einfach mal ganz anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0030/gefuellte_papaya.jpg</url>
+        <title>Papaya mit deftiger Füllung</title>
+        <link>https://der.reisko.ch/rezepte/deftig-gefullte-papaya/</link>
+        </image>
     </item>
     
   </channel>

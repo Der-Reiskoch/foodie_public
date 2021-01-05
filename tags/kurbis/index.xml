@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kürbis on Der Reiskoch</title>
+    <title>kürbis auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/kurbis/</link>
-    <description>Recent content in kürbis on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in kürbis  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 15 Nov 2020 20:23:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/kurbis/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendisches-gaeng-phed-fak-tong/</guid>
       <description>Rotes Curry mit Hokkaido und Hähnchen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0950/gaeng_phed_fak_tong.jpg</url>
+        <title>Thailändisches Gaeng Phed Fak Tong</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendisches-gaeng-phed-fak-tong/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/iranisches-kado-polo/</guid>
       <description>Reis mit Kürbis und Hackbällchen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0817/kuerbis_mit_reis.jpg</url>
+        <title>Reisgericht Kado Polo aus dem Iran</title>
+        <link>https://der.reisko.ch/nachgekocht/iranisches-kado-polo/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/herbstliches-massaman-curry/</guid>
       <description>Gaeng Massaman Fak Tong Gao Lad</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0408/herbstliches_massaman_curry.jpg</url>
+        <title>Herbstliches Massaman Curry</title>
+        <link>https://der.reisko.ch/rezepte/herbstliches-massaman-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/suedindisches-kuerbiscurry/</guid>
       <description>Ein herbstliches Gericht mit Kokosmilch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0809/suedindisches_kuerbiscurry.jpg</url>
+        <title>Südindisches Kürbiscurry</title>
+        <link>https://der.reisko.ch/rezepte/suedindisches-kuerbiscurry/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gaeng-panaeng-fak-tong-gao-lad/</guid>
       <description>Thai Curry mit Kürbis und Käschte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0814/gaeng_panaeng_fak_tong_gao_lad.jpg</url>
+        <title>Gaeng Panaeng Fak Tong Gao Lad</title>
+        <link>https://der.reisko.ch/rezepte/gaeng-panaeng-fak-tong-gao-lad/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/annes-hokkaido-suppe-mit-ingwer/</guid>
       <description>Herbstlicher Gesundmacher</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0669/hokaidoe_suppe.jpg</url>
+        <title>Annes Hokkaido Suppe mit Ingwer</title>
+        <link>https://der.reisko.ch/rezepte/annes-hokkaido-suppe-mit-ingwer/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kerala-chicken-curry-mit-kurbis/</guid>
       <description>Südindisches Gericht mit herbstlichen Zutaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0668/kerala_chicken_curry.jpg</url>
+        <title>Kerala Chicken Curry mit Kürbis</title>
+        <link>https://der.reisko.ch/rezepte/kerala-chicken-curry-mit-kurbis/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/massaman-curry-mit-rind-und-kurbis/</guid>
       <description>Gaeng Massaman Nuea Fak Tong</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0543/gaeng_massaman_nuea_fak_tong.jpg</url>
+        <title>Massaman Curry mit Rind und Kürbis</title>
+        <link>https://der.reisko.ch/rezepte/massaman-curry-mit-rind-und-kurbis/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/duba-wet-und-yehabesha-gomen-tips/</guid>
       <description>Kürbis und Grünkohl auf äthiopisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0478/duba_wet_und_yehabesha_gomen_tips.jpg</url>
+        <title>Duba Wet und Yehabesha Gomen Tips</title>
+        <link>https://der.reisko.ch/nachgekocht/duba-wet-und-yehabesha-gomen-tips/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-kurbis-bohnen-curry/</guid>
       <description>Mal wieder vegetarisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0221/schuessel.jpg</url>
+        <title>Indisches Kürbis-Bohnen Curry</title>
+        <link>https://der.reisko.ch/rezepte/indisches-kurbis-bohnen-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/spaghettikurbis-bolognese/</guid>
       <description>Pasta ohne Nudeln</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0197/teller.jpg</url>
+        <title>Spaghettikürbis Bolognese</title>
+        <link>https://der.reisko.ch/rezepte/spaghettikurbis-bolognese/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kasefondue-im-muskatkurbis/</guid>
       <description>Ein tolle Kombination</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0311/fertig.jpg</url>
+        <title>Käsefondue im Muskatkürbis</title>
+        <link>https://der.reisko.ch/rezepte/kasefondue-im-muskatkurbis/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kreolischer-kurbiseintopf-mit-garnelen/</guid>
       <description>Kürbis wie in der Karibik</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0302/teller.jpg</url>
+        <title>Kreolischer Kürbiseintopf mit Garnelen</title>
+        <link>https://der.reisko.ch/rezepte/kreolischer-kurbiseintopf-mit-garnelen/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendisches-gaeng-gari-fak-tong/</guid>
       <description>Kürbiscurry aus Thailand</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0300/topf.jpg</url>
+        <title>Thailändisches Gaeng Gari Fak Tong</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendisches-gaeng-gari-fak-tong/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-pad-fak-tong/</guid>
       <description>Gebratener Kürbis mit Ei</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0298/teller.jpg</url>
+        <title>Thailändischer Pad Fak Tong</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-pad-fak-tong/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/annes-muskatkurbis-suppe/</guid>
       <description>Kürbis trifft auf Orange</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0297/schuessel.jpg</url>
+        <title>Annes Muskatkürbis-Suppe</title>
+        <link>https://der.reisko.ch/rezepte/annes-muskatkurbis-suppe/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/cremige-suppe-aus-butternut-kurbis/</guid>
       <description>Herbst ist Suppen- und Kürbiszeit</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0293/schuessel.jpg</url>
+        <title>Cremige Suppe aus Butternut-Kürbis</title>
+        <link>https://der.reisko.ch/rezepte/cremige-suppe-aus-butternut-kurbis/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/leckeres-rosti-aus-spaghettikurbis/</guid>
       <description>Kürbis statt Kartoffel</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0198/teller.jpg</url>
+        <title>Leckeres Rösti aus Spaghettikürbis</title>
+        <link>https://der.reisko.ch/rezepte/leckeres-rosti-aus-spaghettikurbis/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thaistyle-muskatkurbis-suppe/</guid>
       <description>Eine Suppen-Fusion</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0142/thai-muskatkuerbis-suppe.jpg</url>
+        <title>Thaistyle Muskatkürbis Suppe</title>
+        <link>https://der.reisko.ch/rezepte/thaistyle-muskatkurbis-suppe/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>me­di­ter­ran on Der Reiskoch</title>
+    <title>me­di­ter­ran auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/mediterran/</link>
-    <description>Recent content in me­di­ter­ran on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in me­di­ter­ran  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 27 May 2019 10:55:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/mediterran/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-terra-mare/</guid>
       <description>Griechische und spanische Spezialitäten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0759/gemischte_vorspeisenplatte.jpg</url>
+        <title>Restaurant Terra Mare</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-terra-mare/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mediterraner-salat-mit-granatapfel/</guid>
       <description>Rezept inklusive Trick für eine saubere Küche</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0670/salat_mit_granatapfel.jpg</url>
+        <title>Mediterraner Salat mit Granatapfel</title>
+        <link>https://der.reisko.ch/rezepte/mediterraner-salat-mit-granatapfel/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mallorquinischer-arroz-brut/</guid>
       <description>Schmutziger Reis mit Meeresfenchel</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0584/mallorquinischer_arroz_brut.jpg</url>
+        <title>Mallorquinischer Arroz Brut</title>
+        <link>https://der.reisko.ch/rezepte/mallorquinischer-arroz-brut/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schweinelende-im-salbei-schinken-mantel/</guid>
       <description>Ein deftig-kräuteriger Sonntagsbraten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0452/schweinelende_im_salbei-schinken-mantel.jpg</url>
+        <title>Schweinelende im Salbei-Schinken-Mantel</title>
+        <link>https://der.reisko.ch/rezepte/schweinelende-im-salbei-schinken-mantel/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/risotto-mit-getrockneten-austernpilzen/</guid>
       <description>Deftiger Reis als Beilage oder Hauptgericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0451/risotto_mit_austernpilzen.jpg</url>
+        <title>Risotto mit getrockneten Austernpilzen</title>
+        <link>https://der.reisko.ch/rezepte/risotto-mit-getrockneten-austernpilzen/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/reissalat-mit-chorizo-und-bratpaprika/</guid>
       <description>Spanische Zutaten mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0373/salat.jpg</url>
+        <title>Reissalat mit Chorizo und Bratpaprika</title>
+        <link>https://der.reisko.ch/rezepte/reissalat-mit-chorizo-und-bratpaprika/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/deftige-lasagne-mit-lauch/</guid>
       <description>Mit dem gewissen Etwas</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0255/lasagne.jpg</url>
+        <title>Deftige Lasagne mit Lauch</title>
+        <link>https://der.reisko.ch/rezepte/deftige-lasagne-mit-lauch/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/ratatouille-mediterran/</guid>
       <description>Leckeres Pfannengemüse</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0278/mit_rosmarin.jpg</url>
+        <title>Das Ratatouille Mediterran</title>
+        <link>https://der.reisko.ch/rezepte/ratatouille-mediterran/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/deftig-gefullte-zucchini/</guid>
       <description>Mit Hackfleisch und Bohnen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0132/gebacken.jpg</url>
+        <title>Deftig gefüllte Zucchini</title>
+        <link>https://der.reisko.ch/rezepte/deftig-gefullte-zucchini/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mediterrane-pfanne-mit-zucchini-und-pilzen/</guid>
       <description>Das macht Lust auf Urlaub</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0239/teller.jpg</url>
+        <title>Mediterrane Pfanne mit Zucchini und Pilzen</title>
+        <link>https://der.reisko.ch/rezepte/mediterrane-pfanne-mit-zucchini-und-pilzen/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/schneller-nudelsalat-italiano/</guid>
       <description>Ein schneller Salat für die Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0227/schneller_nudelsalat.jpg</url>
+        <title>Schneller Nudelsalat &#39;Italiano&#39;</title>
+        <link>https://der.reisko.ch/mittagspause/schneller-nudelsalat-italiano/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/omelette-mit-garnelen/</guid>
       <description>Schnell, lecker und ein klein wenig scharf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0192/omelette.jpg</url>
+        <title>Omelette mit Garnelen</title>
+        <link>https://der.reisko.ch/rezepte/omelette-mit-garnelen/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hackfleisch-pfanne-mit-bratpaprika/</guid>
       <description>Das weckt Urlaubserinnerungen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0140/pfanne.jpg</url>
+        <title>Hackfleisch-Pfanne mit Bratpaprika</title>
+        <link>https://der.reisko.ch/rezepte/hackfleisch-pfanne-mit-bratpaprika/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mediterranes-gemuserisotto/</guid>
       <description>Sommerlich lecker und dazu noch vegetarisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0181/risotto.jpg</url>
+        <title>Mediterranes Gemüse Risotto</title>
+        <link>https://der.reisko.ch/rezepte/mediterranes-gemuserisotto/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/geflugelpfanne-mit-tomaten-und-oliven/</guid>
       <description>Sommerlich bunt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0080/pfanne4.jpg</url>
+        <title>Geflügelpfanne mit Tomaten und Oliven</title>
+        <link>https://der.reisko.ch/rezepte/geflugelpfanne-mit-tomaten-und-oliven/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/uberbackener-lachsspiess-im-tomatenbett/</guid>
       <description>Leckerer Fisch am Spieß</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0108/lachspiess1.jpg</url>
+        <title>Überbackener Lachsspieß im Tomatenbett</title>
+        <link>https://der.reisko.ch/rezepte/uberbackener-lachsspiess-im-tomatenbett/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/reispfanne-mit-hackfleisch-und-gemuse/</guid>
       <description>Ein Klassiker aus meiner Kindheit im neuen Gewand</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0081/reispfanne.jpg</url>
+        <title>Reispfanne mit Hackfleisch und Gemüse</title>
+        <link>https://der.reisko.ch/rezepte/reispfanne-mit-hackfleisch-und-gemuse/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/ratatouillegemuese-mit-hackfleisch/</guid>
       <description>Der Klassiker, nur deftiger</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0009/pfanne.jpg</url>
+        <title>Ratatouillegemüse mit Hackfleisch</title>
+        <link>https://der.reisko.ch/rezepte/ratatouillegemuese-mit-hackfleisch/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Übersicht meiner Karten on Der Reiskoch</title>
+    <title>Übersicht meiner Karten auf Der Reiskoch</title>
     <link>https://der.reisko.ch/karten/</link>
-    <description>Recent content in Übersicht meiner Karten on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Übersicht meiner Karten  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language><atom:link href="https://der.reisko.ch/karten/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Asialäden in Düsseldorf</title>
@@ -13,6 +13,11 @@
       
       <guid>https://der.reisko.ch/karten/einkaufen/asialaeden-duesseldorf/</guid>
       <description>Wo kann man asiatische Lebensmittel einkaufen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media</url>
+        <title>Asialäden in Düsseldorf</title>
+        <link>https://der.reisko.ch/karten/einkaufen/asialaeden-duesseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -22,6 +27,11 @@
       
       <guid>https://der.reisko.ch/karten/einkaufen/asialaeden-karlsruhe/</guid>
       <description>Wo kann man asiatische Lebensmittel einkaufen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media</url>
+        <title>Asialäden in Karlsruhe</title>
+        <link>https://der.reisko.ch/karten/einkaufen/asialaeden-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -31,6 +41,11 @@
       
       <guid>https://der.reisko.ch/karten/restaurants/duesseldorf/</guid>
       <description>Wo man gut Essen gehen kann</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media</url>
+        <title>Restaurant Karte für Düsseldorf</title>
+        <link>https://der.reisko.ch/karten/restaurants/duesseldorf/</link>
+        </image>
     </item>
     
     <item>
@@ -40,6 +55,11 @@
       
       <guid>https://der.reisko.ch/karten/restaurants/helsinki/</guid>
       <description>Wo man gut Essen gehen kann</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media</url>
+        <title>Restaurant Karte für Helsinki</title>
+        <link>https://der.reisko.ch/karten/restaurants/helsinki/</link>
+        </image>
     </item>
     
     <item>
@@ -49,6 +69,11 @@
       
       <guid>https://der.reisko.ch/karten/restaurants/karlsruhe/</guid>
       <description>Wo man gut Essen gehen kann</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media</url>
+        <title>Restaurant Karte für Karlsruhe</title>
+        <link>https://der.reisko.ch/karten/restaurants/karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -58,6 +83,11 @@
       
       <guid>https://der.reisko.ch/karten/restaurants/paris/</guid>
       <description>Wo man gut Essen gehen kann</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media</url>
+        <title>Restaurant Karte für Paris</title>
+        <link>https://der.reisko.ch/karten/restaurants/paris/</link>
+        </image>
     </item>
     
     <item>
@@ -67,6 +97,11 @@
       
       <guid>https://der.reisko.ch/karten/restaurants/strasbourg/</guid>
       <description>Wo man gut Essen gehen kann</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media</url>
+        <title>Restaurant Karte für Strasbourg</title>
+        <link>https://der.reisko.ch/karten/restaurants/strasbourg/</link>
+        </image>
     </item>
     
   </channel>

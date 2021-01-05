@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>birne on Der Reiskoch</title>
+    <title>birne auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/birne/</link>
-    <description>Recent content in birne on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in birne  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 22 May 2020 09:41:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/birne/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/romische-patina-de-piris/</guid>
       <description>Spannende Nachspeise mit Birne, Ei und Fischsoße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0899/fertig.jpg</url>
+        <title>Römische PATINA DE PIRIS</title>
+        <link>https://der.reisko.ch/rezepte/romische-patina-de-piris/</link>
+        </image>
     </item>
     
   </channel>

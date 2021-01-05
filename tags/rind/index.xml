@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rind on Der Reiskoch</title>
+    <title>rind auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/rind/</link>
-    <description>Recent content in rind on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in rind  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 03 Jan 2021 05:41:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/rind/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/het-khem-thong-phan-bacon-yang/</guid>
       <description>Leckere Hotpot Resteverwertung</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0973/teller.jpg</url>
+        <title>Het Khem Thong Phan Bacon Yang</title>
+        <link>https://der.reisko.ch/nachgekocht/het-khem-thong-phan-bacon-yang/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendisches-moo-kata-mit-tipps/</guid>
       <description>Hotpot mit Rezepten von Moriginal Thai</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0972/moo_kata.jpg</url>
+        <title>Moo Kata mit ein paar guten Tipps</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendisches-moo-kata-mit-tipps/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/koreanisches-bulgogi-im-dolsot/</guid>
       <description>Im Steintopf zubereitetes Rindfleisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0956/bulgogi_im_dolsot.jpg</url>
+        <title>Koreanisches Bulgogi im Dolsot</title>
+        <link>https://der.reisko.ch/rezepte/koreanisches-bulgogi-im-dolsot/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/entrecote-mit-buntem-salat/</guid>
       <description>Perfekte Steaks mit Vitaminen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0945/entrcote_mit_buntem_salat.jpg</url>
+        <title>Entrecôtes mit buntem Salat</title>
+        <link>https://der.reisko.ch/rezepte/entrecote-mit-buntem-salat/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gebratenes-rindfleisch-mit-pak-choy/</guid>
       <description>Ein schnelles chinesisches Wokgericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0246/chinesisches_rindfleisch_mit_pak_choy.jpg</url>
+        <title>Gebratenes Rindfleisch mit Pak Choy</title>
+        <link>https://der.reisko.ch/rezepte/gebratenes-rindfleisch-mit-pak-choy/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/herbstliches-massaman-curry/</guid>
       <description>Gaeng Massaman Fak Tong Gao Lad</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0408/herbstliches_massaman_curry.jpg</url>
+        <title>Herbstliches Massaman Curry</title>
+        <link>https://der.reisko.ch/rezepte/herbstliches-massaman-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-phla-nuea/</guid>
       <description>Rindleischsalat mit viel Zitronengras</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0247/phla_nuea.jpg</url>
+        <title>Thailändischer Phla Nuea</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-phla-nuea/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-nuea-toon/</guid>
       <description>Sehr aromatischer Rindereintopf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0907/thailaendisches_nuea_toon.jpg</url>
+        <title>Thailändischer Nuea Toon</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-nuea-toon/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/nuea-pad-phed-prik-thai-on/</guid>
       <description>Die Nummer 33 aus dem Bangkok Foodland</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0918/nuea_pad_phed_prik_thai_on.jpg</url>
+        <title>Nuea Pad Phed Prik Thai On</title>
+        <link>https://der.reisko.ch/rezepte/nuea-pad-phed-prik-thai-on/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/massaman-curry-mit-riesenkartoffeln/</guid>
       <description>So dumm kann gar kein Bauer sein</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0913/massaman_curry_mit_ofenkartoffel.jpg</url>
+        <title>Massaman Curry mit Riesenkartoffeln</title>
+        <link>https://der.reisko.ch/dies-und-das/massaman-curry-mit-riesenkartoffeln/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/indisches-madras-curry-mit-rind/</guid>
       <description>Das Curry das es so nicht gibt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0903/eine_schuessel_curry.jpg</url>
+        <title>Indisches Madras Curry mit Rind</title>
+        <link>https://der.reisko.ch/rezepte/indisches-madras-curry-mit-rind/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/marokkanischer-rindfleischeintopf/</guid>
       <description>Eine leckeres Gericht aus Nordafrika</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0888/marokkanischer_rindereintopf.jpg</url>
+        <title>Marokkanischer Rindfleischeintopf</title>
+        <link>https://der.reisko.ch/rezepte/marokkanischer-rindfleischeintopf/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gefaktes-pad-see-ew-nuea/</guid>
       <description>Ein schnelles Wok Gericht mit falschen Zutaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0886/pad_see_ew.jpg</url>
+        <title>Gefaktes Pad See Ew Nuea</title>
+        <link>https://der.reisko.ch/rezepte/gefaktes-pad-see-ew-nuea/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/jamaikanisches-curry-mit-rind/</guid>
       <description>Was aus unserer Scotch-Bonnet Ernte wurde</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0883/jamaikanisches_curry_mit_rind.jpg</url>
+        <title>Jamaikanisches Curry mit Rind</title>
+        <link>https://der.reisko.ch/rezepte/jamaikanisches-curry-mit-rind/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/athiopisches-zigni-mit-rindfleisch/</guid>
       <description>Ein deftiger Eintopf aus Ostafrika</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0872/zigni_mit_rindfleisch.jpg</url>
+        <title>Äthiopisches Zigni mit Rindfleisch</title>
+        <link>https://der.reisko.ch/rezepte/athiopisches-zigni-mit-rindfleisch/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/japanischer-hotpot-shogayaki-style/</guid>
       <description>Gegrilltes Ingwerfleisch und Miso Brühe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0878/hotpot_shogayaki.jpg</url>
+        <title>Japanischer Hotpot Shogayaki Style</title>
+        <link>https://der.reisko.ch/rezepte/japanischer-hotpot-shogayaki-style/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-seua-rong-hai/</guid>
       <description>Warum der Tiger weinen muss</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0865/seua_rong_hai.jpg</url>
+        <title>Thailändisches Seua Rong Hai</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-seua-rong-hai/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schabbat-eintopf-tscholent/</guid>
       <description>Ein jüdisches Traditionsgericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0864/tscholent.jpg</url>
+        <title>Schabbat Eintopf Tscholent</title>
+        <link>https://der.reisko.ch/rezepte/schabbat-eintopf-tscholent/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-panaeng-nuea/</guid>
       <description>Ein trockenes Panaeng Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0845/pad_panaeng_nuea.jpg</url>
+        <title>Thailändisches Pad Panaeng Nuea</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-panaeng-nuea/</link>
+        </image>
     </item>
     
     <item>
@@ -185,762 +280,11 @@
       
       <guid>https://der.reisko.ch/rezepte/laotischer-or-lam-mit-rind/</guid>
       <description>Ein Eintopf aus Luang Prabang</description>
-    </item>
-    
-    <item>
-      <title>Geschmortes Rindfleisch mit Pak Choy</title>
-      <link>https://der.reisko.ch/rezepte/geschmortes-rindfleisch-mit-pak-choy/</link>
-      <pubDate>Sat, 23 Nov 2019 11:26:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/geschmortes-rindfleisch-mit-pak-choy/</guid>
-      <description>Ein deftiges chinesisches Gericht</description>
-    </item>
-    
-    <item>
-      <title>Glühweinbraten mit Spätzle</title>
-      <link>https://der.reisko.ch/rezepte/gluhweinbraten-mit-spatzle/</link>
-      <pubDate>Wed, 20 Nov 2019 07:04:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gluhweinbraten-mit-spatzle/</guid>
-      <description>Etwas deftiges für die kalte Jahreszeit</description>
-    </item>
-    
-    <item>
-      <title>Sri Lanka Curry mit Schwein und Rind</title>
-      <link>https://der.reisko.ch/rezepte/sri-lanka-curry-mit-schwein-und-rind/</link>
-      <pubDate>Thu, 24 Oct 2019 06:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/sri-lanka-curry-mit-schwein-und-rind/</guid>
-      <description>Ein säuerliches Curry auf Pulver Basis</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Gaeng Paa Nuea</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-gaeng-paa-nuea/</link>
-      <pubDate>Thu, 03 Oct 2019 08:29:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-gaeng-paa-nuea/</guid>
-      <description>Jungle Curry mit Rindergulasch</description>
-    </item>
-    
-    <item>
-      <title>Jamaikanischer Eintopf mit Rinderbraten</title>
-      <link>https://der.reisko.ch/rezepte/jamaikanischer-eintopf-mit-rinderbraten/</link>
-      <pubDate>Sun, 25 Aug 2019 07:28:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/jamaikanischer-eintopf-mit-rinderbraten/</guid>
-      <description>Ein spontanes, sehr scharfes Gericht</description>
-    </item>
-    
-    <item>
-      <title>Einfaches trockenes Thai Curry</title>
-      <link>https://der.reisko.ch/rezepte/einfaches-trockenes-thai-curry/</link>
-      <pubDate>Mon, 15 Jul 2019 06:52:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/einfaches-trockenes-thai-curry/</guid>
-      <description>Nach Art eines malaysischen Rendangs</description>
-    </item>
-    
-    <item>
-      <title>Irisches Beef and Guinness Stew</title>
-      <link>https://der.reisko.ch/rezepte/irisches-beef-and-guinness-stew/</link>
-      <pubDate>Sun, 17 Mar 2019 10:25:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/irisches-beef-and-guinness-stew/</guid>
-      <description>Zum St. Patrick&amp;rsquo;s Day mal was Anderes</description>
-    </item>
-    
-    <item>
-      <title>Rindfleisch und Auberginen in Pfeffersoße</title>
-      <link>https://der.reisko.ch/rezepte/rindfleisch-und-auberginen-in-pfeffersosse/</link>
-      <pubDate>Thu, 14 Mar 2019 06:54:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rindfleisch-und-auberginen-in-pfeffersosse/</guid>
-      <description>Ein deftiges chinesisches Gericht</description>
-    </item>
-    
-    <item>
-      <title>Deftiges Bò Kho aus Vietnam</title>
-      <link>https://der.reisko.ch/rezepte/deftiges-bo-kho-aus-vietnam/</link>
-      <pubDate>Sun, 03 Mar 2019 07:47:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/deftiges-bo-kho-aus-vietnam/</guid>
-      <description>Rindfleischeintopf mit Karotten</description>
-    </item>
-    
-    <item>
-      <title>Kambodschanisches Loc Lac</title>
-      <link>https://der.reisko.ch/nachgekocht/kambodschanisches-loc-lac/</link>
-      <pubDate>Thu, 14 Feb 2019 07:06:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/kambodschanisches-loc-lac/</guid>
-      <description>Rindfleisch mit einer Pfeffersoße</description>
-    </item>
-    
-    <item>
-      <title>Gedämpfte Auberginen mit Rindersteaks</title>
-      <link>https://der.reisko.ch/rezepte/gedampfte-auberginen-mit-rindersteaks/</link>
-      <pubDate>Thu, 22 Nov 2018 06:24:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gedampfte-auberginen-mit-rindersteaks/</guid>
-      <description>Ein schnelles japanisches Gericht</description>
-    </item>
-    
-    <item>
-      <title>Rotgeschmortes Rindfleisch mit Kartoffeln</title>
-      <link>https://der.reisko.ch/rezepte/rotgeschmortes-rindfleisch-mit-kartoffeln/</link>
-      <pubDate>Sat, 27 Oct 2018 09:29:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rotgeschmortes-rindfleisch-mit-kartoffeln/</guid>
-      <description>Gulasch mal ganz anders</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Nuea</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-nuea/</link>
-      <pubDate>Tue, 07 Aug 2018 11:08:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-nuea/</guid>
-      <description>Salat mit gebratenem Rumpsteak</description>
-    </item>
-    
-    <item>
-      <title>Pad Nuea Sap Nor Mai Farang</title>
-      <link>https://der.reisko.ch/rezepte/pad-nuea-sap-nor-mai-farang/</link>
-      <pubDate>Thu, 17 May 2018 07:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/pad-nuea-sap-nor-mai-farang/</guid>
-      <description>Thailändisches Hackfleisch mit grünem Spargel</description>
-    </item>
-    
-    <item>
-      <title>Eintopf mit Rind, rote Beete und Habanero</title>
-      <link>https://der.reisko.ch/nachgekocht/eintopf-mit-rind-rote-beete-und-habanero/</link>
-      <pubDate>Sat, 05 May 2018 07:56:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/eintopf-mit-rind-rote-beete-und-habanero/</guid>
-      <description>Ein verrücktes Rezept von Yotam Ottolenghi</description>
-    </item>
-    
-    <item>
-      <title>Orientalische Hackfleischpfanne mit Bohnen</title>
-      <link>https://der.reisko.ch/rezepte/orientalische-hackfleischpfanne-mit-bohnen/</link>
-      <pubDate>Fri, 02 Mar 2018 06:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/orientalische-hackfleischpfanne-mit-bohnen/</guid>
-      <description>Ein leicht scharfes Gericht mir vielen Aromen</description>
-    </item>
-    
-    <item>
-      <title>Rinderhack in Schwarzer Bohnensoße</title>
-      <link>https://der.reisko.ch/rezepte/rinderhack-in-schwarzer-bohnensosse/</link>
-      <pubDate>Wed, 28 Feb 2018 08:47:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rinderhack-in-schwarzer-bohnensosse/</guid>
-      <description>Schon wieder koreanisch</description>
-    </item>
-    
-    <item>
-      <title>Jjajangmyeon mit Rind und Aubergine</title>
-      <link>https://der.reisko.ch/rezepte/jjajangmyeon-mit-rind-und-aubergine/</link>
-      <pubDate>Sat, 24 Feb 2018 07:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/jjajangmyeon-mit-rind-und-aubergine/</guid>
-      <description>Noch ein koreanisches Kochexperiment</description>
-    </item>
-    
-    <item>
-      <title>Thailändische Kuai Tiao Nuea Puai</title>
-      <link>https://der.reisko.ch/rezepte/thailaendische-kuai-tiao-nuea-puai/</link>
-      <pubDate>Sat, 10 Feb 2018 05:39:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendische-kuai-tiao-nuea-puai/</guid>
-      <description>Leckere Nudelsuppe mit zartem Rind</description>
-    </item>
-    
-    <item>
-      <title>Indisches Rindfleisch Vindaloo</title>
-      <link>https://der.reisko.ch/nachgekocht/indisches-rindfleisch-vindaloo/</link>
-      <pubDate>Fri, 09 Feb 2018 07:03:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/indisches-rindfleisch-vindaloo/</guid>
-      <description>Mal wieder ein indisches Gericht</description>
-    </item>
-    
-    <item>
-      <title>Rindfleisch Bulgogi mit Aubergine</title>
-      <link>https://der.reisko.ch/rezepte/rindfleisch-bulgogi-mit-aubergine/</link>
-      <pubDate>Fri, 02 Feb 2018 06:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rindfleisch-bulgogi-mit-aubergine/</guid>
-      <description>Ein koreanisches Kochexperiment</description>
-    </item>
-    
-    <item>
-      <title>Rindergulasch ungarische Art</title>
-      <link>https://der.reisko.ch/rezepte/rindergulasch-ungarische-art/</link>
-      <pubDate>Tue, 02 Jan 2018 08:23:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rindergulasch-ungarische-art/</guid>
-      <description>Mal wieder was deftiges</description>
-    </item>
-    
-    <item>
-      <title>Historischer römischer Eintopf mit Rind</title>
-      <link>https://der.reisko.ch/nachgekocht/historischer-romischer-eintopf-mit-rind/</link>
-      <pubDate>Sun, 03 Dec 2017 11:27:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/historischer-romischer-eintopf-mit-rind/</guid>
-      <description>Mal wieder eine kulinarische Zeitreise</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Khao Pad Kra Pao</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-khao-pad-kra-pao/</link>
-      <pubDate>Wed, 29 Nov 2017 06:01:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-khao-pad-kra-pao/</guid>
-      <description>Gebratener Reis mit Hackfleisch und Holy Basil</description>
-    </item>
-    
-    <item>
-      <title>Rindfleisch mit Ingwer und Knoblauch</title>
-      <link>https://der.reisko.ch/rezepte/rindfleisch-mit-ingwer-und-knoblauch/</link>
-      <pubDate>Fri, 10 Nov 2017 06:01:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rindfleisch-mit-ingwer-und-knoblauch/</guid>
-      <description>Thailändisches Pad Nuea Khing Gratiam</description>
-    </item>
-    
-    <item>
-      <title>Massaman Curry mit Rind und Kürbis</title>
-      <link>https://der.reisko.ch/rezepte/massaman-curry-mit-rind-und-kurbis/</link>
-      <pubDate>Tue, 03 Oct 2017 09:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/massaman-curry-mit-rind-und-kurbis/</guid>
-      <description>Gaeng Massaman Nuea Fak Tong</description>
-    </item>
-    
-    <item>
-      <title>Eintopf aus Kichererbsen und Rind</title>
-      <link>https://der.reisko.ch/rezepte/eintopf-aus-kichererbsen-und-rind/</link>
-      <pubDate>Mon, 18 Sep 2017 09:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/eintopf-aus-kichererbsen-und-rind/</guid>
-      <description>Gulasch trifft Hummus</description>
-    </item>
-    
-    <item>
-      <title>Restaurant Le Soleil in Zinnowitz</title>
-      <link>https://der.reisko.ch/restaurants/restaurant-le-soleil-in-zinnowitz/</link>
-      <pubDate>Fri, 18 Aug 2017 06:42:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/restaurant-le-soleil-in-zinnowitz/</guid>
-      <description>Deutsch-armenische Küche auf Usedom</description>
-    </item>
-    
-    <item>
-      <title>Grünes Curry und Som Tam Isaan</title>
-      <link>https://der.reisko.ch/nachgekocht/grunes-curry-und-som-tam-isaan/</link>
-      <pubDate>Mon, 07 Aug 2017 09:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/grunes-curry-und-som-tam-isaan/</guid>
-      <description>Zwei Klassiker an einem Abend</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Nuea Pad Thua</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-nuea-pad-thua/</link>
-      <pubDate>Wed, 26 Jul 2017 06:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-nuea-pad-thua/</guid>
-      <description>Mariniertes Kalbfleisch mit grünen Bohnen</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Country Style Red Curry</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-country-style-red-curry/</link>
-      <pubDate>Sat, 17 Jun 2017 07:27:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-country-style-red-curry/</guid>
-      <description>Eine neue Currypaste entdeckt</description>
-    </item>
-    
-    <item>
-      <title>Rindfleisch aus dem Bambusdämpfer</title>
-      <link>https://der.reisko.ch/rezepte/rindfleisch-aus-dem-bambusdampfer/</link>
-      <pubDate>Sun, 30 Apr 2017 09:21:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rindfleisch-aus-dem-bambusdampfer/</guid>
-      <description>Mein neues Küchenutensil im Einsatz</description>
-    </item>
-    
-    <item>
-      <title>Rotes Thai Curry mit Rindergulasch</title>
-      <link>https://der.reisko.ch/rezepte/rotes-thai-curry-mit-rindergulasch/</link>
-      <pubDate>Tue, 25 Apr 2017 06:49:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rotes-thai-curry-mit-rindergulasch/</guid>
-      <description>Gaeng Phed Nuea</description>
-    </item>
-    
-    <item>
-      <title>Karibisch angehauchte Tex-Mex-Pfanne</title>
-      <link>https://der.reisko.ch/rezepte/karibisch-angehauchte-tex-mex-pfanne/</link>
-      <pubDate>Sun, 09 Apr 2017 09:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/karibisch-angehauchte-tex-mex-pfanne/</guid>
-      <description>Die letzte Scotch-Bonnet Schote</description>
-    </item>
-    
-    <item>
-      <title>DeliBurgers in Karlsruhe</title>
-      <link>https://der.reisko.ch/restaurants/deliburgers-in-karlsruhe/</link>
-      <pubDate>Sun, 19 Mar 2017 07:54:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/deliburgers-in-karlsruhe/</guid>
-      <description>Sehr leckere Burger in der Innenstadt</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Rindercurry mit Reisnudeln</title>
-      <link>https://der.reisko.ch/nachgekocht/thailaendisches-rindercurry-mit-reisnudeln/</link>
-      <pubDate>Sat, 11 Feb 2017 11:04:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/thailaendisches-rindercurry-mit-reisnudeln/</guid>
-      <description>Guai Teow Gaeng</description>
-    </item>
-    
-    <item>
-      <title>Japanische Rindfleisch-Brokkoli-Pfanne</title>
-      <link>https://der.reisko.ch/rezepte/japanische-rindfleisch-brokkoli-pfanne/</link>
-      <pubDate>Sat, 04 Feb 2017 05:42:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanische-rindfleisch-brokkoli-pfanne/</guid>
-      <description>Schnell &amp;amp; Lecker</description>
-    </item>
-    
-    <item>
-      <title>Phở Bò in der Mittagspause</title>
-      <link>https://der.reisko.ch/mittagspause/ph-bo-in-der-mittagspause/</link>
-      <pubDate>Sat, 21 Jan 2017 07:58:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/ph-bo-in-der-mittagspause/</guid>
-      <description>Kräftige Suppe für kalte Tage</description>
-    </item>
-    
-    <item>
-      <title>Indisch-ostafrikanisches Rindercurry</title>
-      <link>https://der.reisko.ch/rezepte/indisch-ostafrikanisches-rindercurry/</link>
-      <pubDate>Sun, 08 Jan 2017 07:39:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indisch-ostafrikanisches-rindercurry/</guid>
-      <description>Scharfe Ostafrika Reprise</description>
-    </item>
-    
-    <item>
-      <title>Historisches Beef y-Stywyd</title>
-      <link>https://der.reisko.ch/rezepte/historisches-beef-y-stywyd/</link>
-      <pubDate>Sat, 24 Dec 2016 07:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/historisches-beef-y-stywyd/</guid>
-      <description>Ein Rezept aus der Mitte des 15. Jahrhunderts</description>
-    </item>
-    
-    <item>
-      <title>Vietnamesischer Hotpot</title>
-      <link>https://der.reisko.ch/rezepte/vietnamesischer-hotpot/</link>
-      <pubDate>Thu, 22 Dec 2016 06:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/vietnamesischer-hotpot/</guid>
-      <description>Lẩu thập cẩm</description>
-    </item>
-    
-    <item>
-      <title>Römischer Rinderbraten mit Rosmarin</title>
-      <link>https://der.reisko.ch/rezepte/roemischer-rinderbraten-mit-rosmarin/</link>
-      <pubDate>Sun, 04 Dec 2016 09:08:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/roemischer-rinderbraten-mit-rosmarin/</guid>
-      <description>Kochzeitreise mit frischen Kräutern</description>
-    </item>
-    
-    <item>
-      <title>Kichererbsensalat mit Pastırma</title>
-      <link>https://der.reisko.ch/rezepte/kichererbsensalat-mit-pastirma/</link>
-      <pubDate>Sun, 20 Nov 2016 10:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kichererbsensalat-mit-pastirma/</guid>
-      <description>Ein türkisches Salat Experiment</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Nam Tok Nuea</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-nuea/</link>
-      <pubDate>Mon, 17 Oct 2016 07:43:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-nam-tok-nuea/</guid>
-      <description>Waterfall Beef Salad</description>
-    </item>
-    
-    <item>
-      <title>Malaysisches Rendang Daging</title>
-      <link>https://der.reisko.ch/rezepte/malaysisches-rendang-daging/</link>
-      <pubDate>Wed, 05 Oct 2016 07:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/malaysisches-rendang-daging/</guid>
-      <description>Zartes Rindfleisch in Kokosmilch-Curry</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Larb Nuea aus der Tüte</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-larb-nuea-aus-der-tute/</link>
-      <pubDate>Sat, 01 Oct 2016 09:29:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-larb-nuea-aus-der-tute/</guid>
-      <description>Wenn es mal schnell gehen muss</description>
-    </item>
-    
-    <item>
-      <title>Gaeng Panaeng mit Rind und lila Bohnen</title>
-      <link>https://der.reisko.ch/rezepte/gaeng-panaeng-mit-rind-und-lila-bohnen/</link>
-      <pubDate>Thu, 08 Sep 2016 08:46:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gaeng-panaeng-mit-rind-und-lila-bohnen/</guid>
-      <description>Deftiges thailändisches Curry</description>
-    </item>
-    
-    <item>
-      <title>Scharfe Thai-Pfanne mit Rindfleisch</title>
-      <link>https://der.reisko.ch/rezepte/scharfe-thai-pfanne-mit-rindfleisch/</link>
-      <pubDate>Fri, 05 Aug 2016 06:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/scharfe-thai-pfanne-mit-rindfleisch/</guid>
-      <description>Nuea Pad Prik</description>
-    </item>
-    
-    <item>
-      <title>Thai-Style Rindersteaks mit Gurkensalat</title>
-      <link>https://der.reisko.ch/dies-und-das/thai-style-rindersteaks-mit-gurkensalat/</link>
-      <pubDate>Wed, 03 Aug 2016 08:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/thai-style-rindersteaks-mit-gurkensalat/</guid>
-      <description>Puang Prik und Singha inspiriert</description>
-    </item>
-    
-    <item>
-      <title>Scharfes Karibisches Stew mit Ofenkartoffeln</title>
-      <link>https://der.reisko.ch/rezepte/scharfes-karibisches-stew-mit-ofenkartoffeln/</link>
-      <pubDate>Wed, 20 Jul 2016 06:52:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/scharfes-karibisches-stew-mit-ofenkartoffeln/</guid>
-      <description>Jamaikanischer Eintopf mit Rind und Okras</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Rindfleischsalat</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-rindfleischsalat/</link>
-      <pubDate>Sun, 03 Jul 2016 10:28:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-rindfleischsalat/</guid>
-      <description>Noch eine Salat Variation aus Japan</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Khua Kling Salat</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-khua-kling-salat/</link>
-      <pubDate>Sun, 05 Jun 2016 08:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-khua-kling-salat/</guid>
-      <description>Ein Experiment aus der Tüte</description>
-    </item>
-    
-    <item>
-      <title>Grünes Thai Curry mit Rind und Aubergine</title>
-      <link>https://der.reisko.ch/rezepte/grunes-thai-curry-mit-rind-und-aubergine/</link>
-      <pubDate>Sun, 29 May 2016 06:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/grunes-thai-curry-mit-rind-und-aubergine/</guid>
-      <description>Gaeng Kiaw Wan Nuea Makeua</description>
-    </item>
-    
-    <item>
-      <title>Hackfleisch-Pfanne mit Hummus</title>
-      <link>https://der.reisko.ch/rezepte/hackfleisch-pfanne-mit-hummus/</link>
-      <pubDate>Mon, 18 Apr 2016 09:21:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/hackfleisch-pfanne-mit-hummus/</guid>
-      <description>Orientalisch angehaucht</description>
-    </item>
-    
-    <item>
-      <title>Gelbes Curry mit Rind und Zuckerschoten</title>
-      <link>https://der.reisko.ch/rezepte/gelbes-curry-mit-rind-und-zuckerschoten/</link>
-      <pubDate>Tue, 01 Mar 2016 07:42:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gelbes-curry-mit-rind-und-zuckerschoten/</guid>
-      <description>Gaeng Gari Nuea</description>
-    </item>
-    
-    <item>
-      <title>Thailändische Nam Ya Curry Suppe</title>
-      <link>https://der.reisko.ch/rezepte/thailaendische-nam-ya-curry-suppe/</link>
-      <pubDate>Mon, 09 Nov 2015 07:31:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendische-nam-ya-curry-suppe/</guid>
-      <description>Eine spontane Suppenkreation</description>
-    </item>
-    
-    <item>
-      <title>Rind Tajine mit Pflaumen und Aprikosen</title>
-      <link>https://der.reisko.ch/rezepte/rind-tajine-mit-pflaumen-und-aprikosen/</link>
-      <pubDate>Tue, 25 Aug 2015 07:18:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rind-tajine-mit-pflaumen-und-aprikosen/</guid>
-      <description>Ein Versuch mit frischen Früchten</description>
-    </item>
-    
-    <item>
-      <title>Tandoori Bällchen mit Curry-Ingwer-Reis</title>
-      <link>https://der.reisko.ch/rezepte/tandoori-ballchen-mit-curry-ingwer-reis/</link>
-      <pubDate>Tue, 18 Aug 2015 09:01:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/tandoori-ballchen-mit-curry-ingwer-reis/</guid>
-      <description>Nochmal Resteverwertung</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Khua Kling Nuea</title>
-      <link>https://der.reisko.ch/nachgekocht/thailaendisches-khua-kling-nuea/</link>
-      <pubDate>Tue, 04 Aug 2015 07:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/thailaendisches-khua-kling-nuea/</guid>
-      <description>Scharfes Rindercurry aus Südthailand</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Gaeng Panaeng Nuea</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-gaeng-panaeng-nuea/</link>
-      <pubDate>Tue, 30 Jun 2015 08:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-gaeng-panaeng-nuea/</guid>
-      <description>Panaeng Curry mit Rindfleisch</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Moo Kata BBQ</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-moo-kata-bbq/</link>
-      <pubDate>Mon, 22 Jun 2015 08:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-moo-kata-bbq/</guid>
-      <description>Fondue und Grillen auf einmal</description>
-    </item>
-    
-    <item>
-      <title>Thai Rindfleischsalat mit Tomaten und Mais</title>
-      <link>https://der.reisko.ch/rezepte/thai-rindfleischsalat-mit-tomaten-und-mais/</link>
-      <pubDate>Mon, 20 Apr 2015 08:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-rindfleischsalat-mit-tomaten-und-mais/</guid>
-      <description>Yam Nuea mal etwas anders</description>
-    </item>
-    
-    <item>
-      <title>Caldereta mit Chorizo und Rindergulasch</title>
-      <link>https://der.reisko.ch/rezepte/caldereta-mit-chorizo-und-rindergulasch/</link>
-      <pubDate>Sat, 11 Apr 2015 09:24:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/caldereta-mit-chorizo-und-rindergulasch/</guid>
-      <description>Philippinischer Eintopf</description>
-    </item>
-    
-    <item>
-      <title>Ramen Salat mit Rind und Garnelen</title>
-      <link>https://der.reisko.ch/rezepte/ramen-salat-mit-rind-und-garnelen/</link>
-      <pubDate>Wed, 25 Feb 2015 07:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/ramen-salat-mit-rind-und-garnelen/</guid>
-      <description>Lauwarmer Asia-Fusion-Nudelsalat</description>
-    </item>
-    
-    <item>
-      <title>Deftiges Saraman aus Kambodscha</title>
-      <link>https://der.reisko.ch/nachgekocht/deftiges-saraman-aus-kambodscha/</link>
-      <pubDate>Thu, 12 Feb 2015 10:01:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/deftiges-saraman-aus-kambodscha/</guid>
-      <description>Rindercurry mal anders</description>
-    </item>
-    
-    <item>
-      <title>Karibische Rindfleisch-Pfanne</title>
-      <link>https://der.reisko.ch/rezepte/karibische-rindfleisch-pfanne/</link>
-      <pubDate>Tue, 18 Nov 2014 10:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/karibische-rindfleisch-pfanne/</guid>
-      <description>Lass die Sonne rein</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Gyudon auf Reis</title>
-      <link>https://der.reisko.ch/nachgekocht/japanisches-gyudon-auf-reis/</link>
-      <pubDate>Thu, 11 Sep 2014 07:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/japanisches-gyudon-auf-reis/</guid>
-      <description>Rindfleisch mit Zwiebeln</description>
-    </item>
-    
-    <item>
-      <title>Würziges Jamaican Beef Stew</title>
-      <link>https://der.reisko.ch/rezepte/wurziges-jamaican-beef-stew/</link>
-      <pubDate>Sun, 31 Aug 2014 02:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/wurziges-jamaican-beef-stew/</guid>
-      <description>Rindfleisch, Rum und Reggae</description>
-    </item>
-    
-    <item>
-      <title>Japanischer Rindfleischsalat mit Gurke</title>
-      <link>https://der.reisko.ch/rezepte/japanischer-rindfleischsalat-mit-gurke/</link>
-      <pubDate>Thu, 14 Aug 2014 07:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanischer-rindfleischsalat-mit-gurke/</guid>
-      <description>Rind geht auch auf japanisch</description>
-    </item>
-    
-    <item>
-      <title>Thai Salat mit Rinderhackfleisch</title>
-      <link>https://der.reisko.ch/rezepte/thai-salat-mit-rinderhackfleisch/</link>
-      <pubDate>Thu, 10 Jul 2014 07:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-salat-mit-rinderhackfleisch/</guid>
-      <description>Ein sehr einfacher Yam Nuea Sap</description>
-    </item>
-    
-    <item>
-      <title>Vietnamesische Pak Choy Taschen</title>
-      <link>https://der.reisko.ch/rezepte/vietnamesische-pak-choy-taschen/</link>
-      <pubDate>Mon, 24 Mar 2014 08:17:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/vietnamesische-pak-choy-taschen/</guid>
-      <description>Ein leichtes, leckeres und schnelles Gericht</description>
-    </item>
-    
-    <item>
-      <title>Schmortopfgulasch mit Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/schmortopfgulasch-mit-pilzen/</link>
-      <pubDate>Sun, 23 Feb 2014 03:03:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/schmortopfgulasch-mit-pilzen/</guid>
-      <description>Was lange währt wird auch richtig gut</description>
-    </item>
-    
-    <item>
-      <title>Malaysisches Kari mit Rind</title>
-      <link>https://der.reisko.ch/rezepte/malaysisches-kari-mit-rind/</link>
-      <pubDate>Fri, 21 Feb 2014 09:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/malaysisches-kari-mit-rind/</guid>
-      <description>Rempah Kari Segera (&amp;lsquo;Curry spice Soon&amp;rsquo;)</description>
-    </item>
-    
-    <item>
-      <title>Ost-Javanischer Eintopf Rawon</title>
-      <link>https://der.reisko.ch/rezepte/ost-javanischer-eintopf-rawon/</link>
-      <pubDate>Fri, 20 Sep 2013 07:03:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/ost-javanischer-eintopf-rawon/</guid>
-      <description>Kochreise nach Indonesien</description>
-    </item>
-    
-    <item>
-      <title>Mama Sita&#39;s Caldereta</title>
-      <link>https://der.reisko.ch/rezepte/mama-sitas-caldereta/</link>
-      <pubDate>Tue, 17 Sep 2013 07:48:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/mama-sitas-caldereta/</guid>
-      <description>Rindfleisch-Gemüse-Eintopf von den Philippinen</description>
-    </item>
-    
-    <item>
-      <title>Buntes Thai Rinder-Curry</title>
-      <link>https://der.reisko.ch/rezepte/buntes-thai-rinder-curry/</link>
-      <pubDate>Wed, 11 Sep 2013 10:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/buntes-thai-rinder-curry/</guid>
-      <description>Nicht immer nur rot, grün oder gelb</description>
-    </item>
-    
-    <item>
-      <title>Überbackene Rindersteaks &#39;Italiano&#39;</title>
-      <link>https://der.reisko.ch/rezepte/uberbackene-rindersteaks-italiano/</link>
-      <pubDate>Thu, 18 Apr 2013 07:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/uberbackene-rindersteaks-italiano/</guid>
-      <description>Einfach und lecker</description>
-    </item>
-    
-    <item>
-      <title>Rinderbraten in Rotweinsoße</title>
-      <link>https://der.reisko.ch/rezepte/rinderbraten-in-rotweinsosse/</link>
-      <pubDate>Sat, 23 Mar 2013 10:15:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rinderbraten-in-rotweinsosse/</guid>
-      <description>Klassischer Sonntagsbraten</description>
-    </item>
-    
-    <item>
-      <title>Grünes Thai Curry mit Rindfleisch</title>
-      <link>https://der.reisko.ch/rezepte/grunes-thai-curry-mit-rindfleisch/</link>
-      <pubDate>Tue, 03 Apr 2012 05:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/grunes-thai-curry-mit-rindfleisch/</guid>
-      <description>Gaeng Kiaw Wan Nuea</description>
-    </item>
-    
-    <item>
-      <title>Thai Rindfleischsalat mit Gurke</title>
-      <link>https://der.reisko.ch/rezepte/thai-rindfleischsalat-mit-gurke/</link>
-      <pubDate>Thu, 05 Jan 2012 08:38:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-rindfleischsalat-mit-gurke/</guid>
-      <description>Yam Nuea Daeng Gwa</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Rindfleisch mit Brokkoli</title>
-      <link>https://der.reisko.ch/rezepte/japanisches-rindfleisch-mit-brokkoli/</link>
-      <pubDate>Thu, 22 Dec 2011 06:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanisches-rindfleisch-mit-brokkoli/</guid>
-      <description>Ein simpler Klassiker</description>
-    </item>
-    
-    <item>
-      <title>Minutensteaks mit Feldsalat und Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/minutensteaks-mit-feldsalat-und-pilzen/</link>
-      <pubDate>Mon, 19 Dec 2011 08:34:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/minutensteaks-mit-feldsalat-und-pilzen/</guid>
-      <description>Schnell und lecker</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Gaeng Massaman Nuea</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-gaeng-massaman-nuea/</link>
-      <pubDate>Wed, 09 Nov 2011 03:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-gaeng-massaman-nuea/</guid>
-      <description>Ein Curry aus dem Süden Thailands</description>
-    </item>
-    
-    <item>
-      <title>Pfannengerührtes Rind mit Thai-Spinat</title>
-      <link>https://der.reisko.ch/rezepte/pfannengeruhrtes-rind-mit-thai-spinat/</link>
-      <pubDate>Sat, 05 Nov 2011 05:32:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/pfannengeruhrtes-rind-mit-thai-spinat/</guid>
-      <description>Pad Pak Bung Nuea</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0842/or_lam_mit_rind.jpg</url>
+        <title>Laotischer Or Lam mit Rind</title>
+        <link>https://der.reisko.ch/rezepte/laotischer-or-lam-mit-rind/</link>
+        </image>
     </item>
     
   </channel>

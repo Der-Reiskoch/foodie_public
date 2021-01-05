@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tintenfisch on Der Reiskoch</title>
+    <title>tintenfisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/tintenfisch/</link>
-    <description>Recent content in tintenfisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in tintenfisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 30 Dec 2020 05:30:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/tintenfisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-plaa-muek-nam-prik-pao/</guid>
       <description>In Chilipaste gebratener Tintenfisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0969/plaa_muek_pad_nam_prik_pao.jpg</url>
+        <title>Thailändisches Plaa Muek Pad Nam Prik Pao</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-plaa-muek-nam-prik-pao/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/moo_grob-und-plaa-muek-abend/</guid>
       <description>Drei leckere Thai Gerichte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0941/zweimal_moo_grob_und_plaa_muek.jpg</url>
+        <title>Moo Grob und Plaa Muek Abend</title>
+        <link>https://der.reisko.ch/dies-und-das/moo_grob-und-plaa-muek-abend/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-plaa-muek/</guid>
       <description>Salat mit gebratenem Tintenfisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0644/yam_plaa_muek.jpg</url>
+        <title>Thailändischer Yam Plaa Muek</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-plaa-muek/</link>
+        </image>
     </item>
     
   </channel>

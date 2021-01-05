@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>currypaste on Der Reiskoch</title>
+    <title>currypaste auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/currypaste/</link>
-    <description>Recent content in currypaste on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in currypaste  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 03 Apr 2020 06:55:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/currypaste/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/selbstgemachte-massaman-currypaste/</guid>
       <description>Endlich mal gemacht und aufgeschrieben</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0887/massaman_curry_paste.jpg</url>
+        <title>Selbstgemachte Massaman Currypaste</title>
+        <link>https://der.reisko.ch/rezepte/selbstgemachte-massaman-currypaste/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/selbstgemachte-grune-currypaste/</guid>
       <description>Grüner wirds nicht mehr</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0621/zutaten.jpg</url>
+        <title>Selbstgemachte Grüne Currypaste</title>
+        <link>https://der.reisko.ch/rezepte/selbstgemachte-grune-currypaste/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thai-curry-mit-gerosteten-gewurzen/</guid>
       <description>Gaeng Pet Luk Thung Phak Tai</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0590/curry_mit_gerosteten_gewuerzen.jpg</url>
+        <title>Thai Curry mit gerösteten Gewürzen</title>
+        <link>https://der.reisko.ch/rezepte/thai-curry-mit-gerosteten-gewurzen/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gelbes-curry-mit-lachs-und-kabeljau/</guid>
       <description>Gaeng Gari Plaa</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0503/gelbes_curry_mit_lachs_und_kabeljau.jpg</url>
+        <title>Gelbes Curry mit Lachs und Kabeljau</title>
+        <link>https://der.reisko.ch/rezepte/gelbes-curry-mit-lachs-und-kabeljau/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/grunes-thai-curry-mit-kalbsbraten/</guid>
       <description>Gaeng Kiaw Wan Nuea</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0463/gruens_thai_curry_mit_kalbsfleisch.jpg</url>
+        <title>Grünes Thai Curry mit Kalbsbraten</title>
+        <link>https://der.reisko.ch/nachgekocht/grunes-thai-curry-mit-kalbsbraten/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/paste-fur-thailaendisches-gaeng-panaeng/</guid>
       <description>Und noch eine Currypaste selbstgemacht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0406/paste.jpg</url>
+        <title>Paste für thailändisches Gaeng Panaeng</title>
+        <link>https://der.reisko.ch/rezepte/paste-fur-thailaendisches-gaeng-panaeng/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/fischcurry-mit-selbstgemachter-paste/</guid>
       <description>Thailändisches Gaeng Gari Plaa</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0378/fertig.jpg</url>
+        <title>Fischcurry mit selbstgemachter Paste</title>
+        <link>https://der.reisko.ch/rezepte/fischcurry-mit-selbstgemachter-paste/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/selbstgemachte-gelbe-thai-currypaste/</guid>
       <description>Viel besser als fertig gekaufte</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0331/paste.jpg</url>
+        <title>Selbstgemachte Gelbe Thai Currypaste</title>
+        <link>https://der.reisko.ch/rezepte/selbstgemachte-gelbe-thai-currypaste/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rote-currypaste-fur-thai-jungle-curry/</guid>
       <description>Eine schärfere Variante der roten Paste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0326/paste.jpg</url>
+        <title>Rote Currypaste für Thai Jungle Curry</title>
+        <link>https://der.reisko.ch/rezepte/rote-currypaste-fur-thai-jungle-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rote-thai-curry-paste/</guid>
       <description>Selbstgemacht schmeckt besser</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0116/paste.jpg</url>
+        <title>Rote Thai Curry Paste</title>
+        <link>https://der.reisko.ch/rezepte/rote-thai-curry-paste/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/grune-currypaste-fur-hahnchencurry/</guid>
       <description>Jetzt wird&amp;rsquo;s bunt &amp;hellip; äh grün</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0212/curry.jpg</url>
+        <title>Grüne Currypaste für Hähnchencurry</title>
+        <link>https://der.reisko.ch/nachgekocht/grune-currypaste-fur-hahnchencurry/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/grune-currypaste-fur-thai-curry/</guid>
       <description>Selbstgemacht schmeckt&amp;rsquo;s besser</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0180/zutaten.jpg</url>
+        <title>Grüne Currypaste für Thai Curry</title>
+        <link>https://der.reisko.ch/nachgekocht/grune-currypaste-fur-thai-curry/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/chiang-mai-currypaste/</guid>
       <description>Selbstgemachte Paste für Hang Lae Curries</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0150/zutaten.jpg</url>
+        <title>Chiang Mai Currypaste</title>
+        <link>https://der.reisko.ch/rezepte/chiang-mai-currypaste/</link>
+        </image>
     </item>
     
   </channel>

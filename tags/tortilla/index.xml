@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tortilla on Der Reiskoch</title>
+    <title>tortilla auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/tortilla/</link>
-    <description>Recent content in tortilla on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in tortilla  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 25 Nov 2018 09:46:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/tortilla/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/mexikanischer-abend-mit-der-moovita/</guid>
       <description>Tortillas, Mais, Bohnen und Chilis</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0686/moovita_mit_tortilla.jpg</url>
+        <title>Mexikanischer Abend mit der MooVita</title>
+        <link>https://der.reisko.ch/dies-und-das/mexikanischer-abend-mit-der-moovita/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/tortillas-mit-susskartoffeln-und-quinoa/</guid>
       <description>Leckere vegetarische Variante</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0097/tortilla.jpg</url>
+        <title>Tortillas mit Süßkartoffeln und Quinoa</title>
+        <link>https://der.reisko.ch/rezepte/tortillas-mit-susskartoffeln-und-quinoa/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dessert on Der Reiskoch</title>
+    <title>dessert auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/dessert/</link>
-    <description>Recent content in dessert on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in dessert  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 30 May 2020 09:33:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-som-tam-strawberry/</guid>
       <description>Nach dem Video von Phayao</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0911/som_tam_strawberry.jpg</url>
+        <title>Thailändischer Som Tam Strawberry</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-som-tam-strawberry/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/romische-patina-de-piris/</guid>
       <description>Spannende Nachspeise mit Birne, Ei und Fischsoße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0899/fertig.jpg</url>
+        <title>Römische PATINA DE PIRIS</title>
+        <link>https://der.reisko.ch/rezepte/romische-patina-de-piris/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/selbstgebackener-pandan-kuchen/</guid>
       <description>Backsession mit Anne</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0837/pandan_kuchen.jpg</url>
+        <title>Selbstgebackener Pandan Kuchen</title>
+        <link>https://der.reisko.ch/rezepte/selbstgebackener-pandan-kuchen/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/drei-igel-nach-maister-hannsen/</guid>
       <description>Eine Süßspeise aus dem 15. Jahrhundert</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0645/drei_sorten_igel.jpg</url>
+        <title>Drei Igel nach Maister Hannsen</title>
+        <link>https://der.reisko.ch/nachgekocht/drei-igel-nach-maister-hannsen/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/chinesische-mondkuchen/</guid>
       <description>Süßes zum Mondfest</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0544/mondkuchen.jpg</url>
+        <title>Chinesische Mondkuchen</title>
+        <link>https://der.reisko.ch/dies-und-das/chinesische-mondkuchen/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/waffelstand-lieblingswaffel/</guid>
       <description>Jedem seine Waffel</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0519/erdbeer_pistazie.jpg</url>
+        <title>Waffelstand Lieblingswaffel</title>
+        <link>https://der.reisko.ch/dies-und-das/waffelstand-lieblingswaffel/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/restaurants/ein-dorayaki-aus-der-patisserie-tomo/</guid>
       <description>Ein japanisches Dessert in Paris</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0510/dorayaki.jpg</url>
+        <title>Ein Dorayaki aus der Pâtisserie Tomo</title>
+        <link>https://der.reisko.ch/restaurants/ein-dorayaki-aus-der-patisserie-tomo/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/sommerliches-melonen-tortchen/</guid>
       <description>Ohne zu backen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0250/torte.jpg</url>
+        <title>Sommerliches Melonen Törtchen</title>
+        <link>https://der.reisko.ch/rezepte/sommerliches-melonen-tortchen/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/annes-matcha-pralines/</guid>
       <description>Weiße Schokolade in Grün</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0115/matcha_schokolade.jpg</url>
+        <title>Annes Matcha Pralinés</title>
+        <link>https://der.reisko.ch/rezepte/annes-matcha-pralines/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/melone-mit-gewurztraminer/</guid>
       <description>Einfach und lecker für den Sommer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0038/gewurzmelone.jpg</url>
+        <title>Melone mit Gewürztraminer</title>
+        <link>https://der.reisko.ch/rezepte/melone-mit-gewurztraminer/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ulm on Der Reiskoch</title>
+    <title>ulm auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/ulm/</link>
-    <description>Recent content in ulm on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in ulm  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 11 Sep 2016 08:30:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/ulm/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/getranke/urban-monk-bier-aus-ulm/</guid>
       <description>Ein leckeres Craftbeer</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0417/flaschen.jpg</url>
+        <title>Urban Monk Bier aus Ulm</title>
+        <link>https://der.reisko.ch/getranke/urban-monk-bier-aus-ulm/</link>
+        </image>
     </item>
     
   </channel>

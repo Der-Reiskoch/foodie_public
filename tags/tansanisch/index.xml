@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tansanisch on Der Reiskoch</title>
+    <title>tansanisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/tansanisch/</link>
-    <description>Recent content in tansanisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in tansanisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 15 Jun 2020 08:10:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/tansanisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/ostafrikanischer-ugali-aus-maismehl/</guid>
       <description>Fischis Brei-Trauma endlich therapiert</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0052/ugali.jpg</url>
+        <title>Ostafrikanischer Ugali aus Maismehl</title>
+        <link>https://der.reisko.ch/rezepte/ostafrikanischer-ugali-aus-maismehl/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/maharage-na-ndizi-aus-tansania/</guid>
       <description>Ein deftiger Eintopf der richtig satt macht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0443/maharage_na_ndizi.jpg</url>
+        <title>Maharage na Ndizi aus Tansania</title>
+        <link>https://der.reisko.ch/rezepte/maharage-na-ndizi-aus-tansania/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kuku-wa-mchuzi-na-karanga/</guid>
       <description>Hähnchen-Kokos-Curry aus Tansania</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0439/fertig.jpg</url>
+        <title>Kuku Wa Mchuzi Na Karanga</title>
+        <link>https://der.reisko.ch/rezepte/kuku-wa-mchuzi-na-karanga/</link>
+        </image>
     </item>
     
   </channel>

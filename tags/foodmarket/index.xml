@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>foodmarket on Der Reiskoch</title>
+    <title>foodmarket auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/foodmarket/</link>
-    <description>Recent content in foodmarket on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in foodmarket  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 06 Feb 2019 06:18:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/foodmarket/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/reisen/die-beiden-markte-in-trang/</guid>
       <description>Günstiges Essen im Regen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0701/anstehen_am_gai_yang_stand.jpg</url>
+        <title>Die beiden Märkte in Trang</title>
+        <link>https://der.reisko.ch/reisen/die-beiden-markte-in-trang/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/reisen/auf-dem-nightfoodmarket-in-krabi/</guid>
       <description>Open Air Restaurants am Hafen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0696/tische.jpg</url>
+        <title>Auf dem Nightfoodmarket in Krabi</title>
+        <link>https://der.reisko.ch/reisen/auf-dem-nightfoodmarket-in-krabi/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/thailaendischer-markt-im-kurpark/</guid>
       <description>Impressionen vom Amazing Thailand Festival</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0639/sossen_stand.jpg</url>
+        <title>Thailändischer Markt im Kurpark</title>
+        <link>https://der.reisko.ch/dies-und-das/thailaendischer-markt-im-kurpark/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/thailaendisch-schlemmen-in-bad-homburg/</guid>
       <description>Amazing Thailand im Kurpark</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0640/som_tam_thai.jpg</url>
+        <title>Thailändisch Schlemmen in Bad Homburg</title>
+        <link>https://der.reisko.ch/dies-und-das/thailaendisch-schlemmen-in-bad-homburg/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/asian-street-food-festival-in-baden-baden/</guid>
       <description>Fernöstliches Essen in der Kurstadt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0627/banh_hoi_heo_quay.jpg</url>
+        <title>Asian Street Food Festival in Baden-Baden</title>
+        <link>https://der.reisko.ch/dies-und-das/asian-street-food-festival-in-baden-baden/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/asian-street-food-festival-in-speyer/</guid>
       <description>Familiäre Atmosphäre in der Halle 101</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0531/bibimbap.jpg</url>
+        <title>Asian Street Food Festival in Speyer</title>
+        <link>https://der.reisko.ch/dies-und-das/asian-street-food-festival-in-speyer/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/amazing-thailand-festival/</guid>
       <description>Kurzurlaub in Bad Homburg</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0525/gemuese.jpg</url>
+        <title>Amazing Thailand Festival 2017</title>
+        <link>https://der.reisko.ch/dies-und-das/amazing-thailand-festival/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/thai-food-in-bad-homburg/</guid>
       <description>Leckeres Essen im Kurpark</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0524/larb_ped_mii.jpg</url>
+        <title>Thai Food in Bad Homburg</title>
+        <link>https://der.reisko.ch/dies-und-das/thai-food-in-bad-homburg/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/leckeres-essen-auf-der-thaiwiese/</guid>
       <description>Streetfood wie in Bangkok</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0500/11_suppe_mit_moo_daeng.jpg</url>
+        <title>Leckeres Essen auf der Thaiwiese</title>
+        <link>https://der.reisko.ch/dies-und-das/leckeres-essen-auf-der-thaiwiese/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/besuch-auf-der-thaiwiese-in-berlin/</guid>
       <description>Wie ein Kurzurlaub in Thailand</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0499/13_salatstand.jpg</url>
+        <title>Besuch auf der Thaiwiese in Berlin</title>
+        <link>https://der.reisko.ch/dies-und-das/besuch-auf-der-thaiwiese-in-berlin/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/reisen/nightfoodmarket-in-ayutthaya/</guid>
       <description>Urlaubserinnerungen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0374/staende.jpg</url>
+        <title>Nightfoodmarket in Ayutthaya</title>
+        <link>https://der.reisko.ch/reisen/nightfoodmarket-in-ayutthaya/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/reisen/sukhumvit-soi-38-foodmarket/</guid>
       <description>Eine kleine Fressmeile in Bangkok</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0320/suppenstand.jpg</url>
+        <title>Sukhumvit Soi 38 Foodmarket</title>
+        <link>https://der.reisko.ch/reisen/sukhumvit-soi-38-foodmarket/</link>
+        </image>
     </item>
     
   </channel>

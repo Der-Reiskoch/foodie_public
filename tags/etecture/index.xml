@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>etecture on Der Reiskoch</title>
+    <title>etecture auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/etecture/</link>
-    <description>Recent content in etecture on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in etecture  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 25 Jun 2020 02:07:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/etecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/fotos/ueber-dieses-album/</guid>
       <description>Kochen in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0178/20170208_schnitzel_mit_curryreis.jpg</url>
+        <title>Mittagspause - Über dieses Album</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/ueber-dieses-album/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/khao-man-gai-zum-abschied/</guid>
       <description>Stephan kocht zum letzten Mal Thai</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0394/khao_man_gai.jpg</url>
+        <title>Khao Man Gai zum Abschied</title>
+        <link>https://der.reisko.ch/dies-und-das/khao-man-gai-zum-abschied/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/khao-kha-moo-in-der-mittagspause/</guid>
       <description>Thailändische Schweinshaxe im Büro</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0821/khao_kha_moo.jpg</url>
+        <title>Khao Kha Moo in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/khao-kha-moo-in-der-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/thaipause/ueber-dieses-album/</guid>
       <description>Thaifood in der Mittagspause</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2019/20190829_18kg_reissack.jpg</url>
+        <title>Thaipause - Über dieses Album</title>
+        <link>https://der.reisko.ch/thaipause/ueber-dieses-album/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/thai-street-food-abend-bei-etecture/</guid>
       <description>Leckeres Thai Food zum Feierabend</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0656/gemischter_thai_teller.jpg</url>
+        <title>Thai Street Food Abend bei Etecture</title>
+        <link>https://der.reisko.ch/dies-und-das/thai-street-food-abend-bei-etecture/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/cherry-ribs-in-der-mittagspause/</guid>
       <description>Stephan hat mal wieder am Grill gezaubert</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0589/cherry_ribs.jpg</url>
+        <title>Cherry Ribs in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/cherry-ribs-in-der-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/thai-bbq-in-der-mittagspause/</guid>
       <description>Moo Ping, Gai Yang, Som Tam und Khao Niao</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0513/thai_bbq.jpg</url>
+        <title>Thai BBQ in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/thai-bbq-in-der-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/kesselgulasch-in-der-mittagspause/</guid>
       <description>Mal was ganz besonderes</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0501/kesselgulasch.jpg</url>
+        <title>Kesselgulasch in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/kesselgulasch-in-der-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/stephans-rad-na-mee-grob/</guid>
       <description>Frittierte Nudeln mit dicker Soße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0487/rad_na_mee_grob.jpg</url>
+        <title>Stephans Rad Na Mee Grob</title>
+        <link>https://der.reisko.ch/mittagspause/stephans-rad-na-mee-grob/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/schneller-khao-pad-gunchiang/</guid>
       <description>Gebratener Reis mit chinesischer Wurst</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0476/gebratener_reis_mit_chinesischer_wurst.jpg</url>
+        <title>Schneller Khao Pad Gunchiang</title>
+        <link>https://der.reisko.ch/mittagspause/schneller-khao-pad-gunchiang/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/ph-bo-in-der-mittagspause/</guid>
       <description>Kräftige Suppe für kalte Tage</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0466/pho_bo_in_der_mittagspause.jpg</url>
+        <title>Phở Bò in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/ph-bo-in-der-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/hahnchen-gong-bao-in-der-mittagspause/</guid>
       <description>Mal wieder was Schnelles aus dem Wok</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0461/gong_bao_chicken.jpg</url>
+        <title>Hähnchen Gong Bao in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/hahnchen-gong-bao-in-der-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/kraftige-suppe-mit-ei/</guid>
       <description>Dreifach gekocht hält besser</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0458/kraeftige_suppe.jpg</url>
+        <title>Eine sehr kräftige Suppe mit Ei</title>
+        <link>https://der.reisko.ch/mittagspause/kraftige-suppe-mit-ei/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/khao-moo-daeng-in-der-mittagspause/</guid>
       <description>Mal was neues gelernt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0454/khao_moo_daeng.jpg</url>
+        <title>Khao Moo Daeng in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/khao-moo-daeng-in-der-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/pad-kra-pao-in-der-mittagspause/</guid>
       <description>Die neu entdeckte Paste macht&amp;rsquo;s möglich</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0444/khao_pad_kra_pao.jpg</url>
+        <title>Pad Kra Pao in der Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/pad-kra-pao-in-der-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/mittagspause/ein-wok-fur-die-mittagspause/</guid>
       <description>Neues Equipment bei der Arbeit</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0440/rotes_curry.jpg</url>
+        <title>Ein Wok für die Mittagspause</title>
+        <link>https://der.reisko.ch/mittagspause/ein-wok-fur-die-mittagspause/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/die-schnelle-mittagspausen-kocherei/</guid>
       <description>Über meine neue Kategorie &amp;lsquo;Mittagspause&amp;rsquo;</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0381/herd.jpg</url>
+        <title>Die schnelle Mittagspausen-Kocherei</title>
+        <link>https://der.reisko.ch/dies-und-das/die-schnelle-mittagspausen-kocherei/</link>
+        </image>
     </item>
     
   </channel>

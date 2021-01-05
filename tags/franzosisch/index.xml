@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>französisch on Der Reiskoch</title>
+    <title>französisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/franzosisch/</link>
-    <description>Recent content in französisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in französisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 06 Feb 2020 07:33:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/franzosisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/moules-frites-au-roquefort/</guid>
       <description>Wie im Urlaub in der Normandie</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0848/moules-frites_au_roquefort.jpg</url>
+        <title>Moules-frites au Roquefort</title>
+        <link>https://der.reisko.ch/rezepte/moules-frites-au-roquefort/</link>
+        </image>
     </item>
     
   </channel>

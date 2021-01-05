@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chinesisch on Der Reiskoch</title>
+    <title>Chinesisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/chinesisch/</link>
-    <description>Recent content in Chinesisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Chinesisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 29 Dec 2020 16:09:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/chinesisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/chinesisches-hackfleisch-in-bohnensosse/</guid>
       <description>Ein schnelles Umami Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0968/hackfleisch_in_bohnensosse.jpg</url>
+        <title>Chinesisches Hackfleisch in Bohnensoße</title>
+        <link>https://der.reisko.ch/rezepte/chinesisches-hackfleisch-in-bohnensosse/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-china-bao-im-passagehof/</guid>
       <description>Dampfnudeln, Teigtaschen und mehr</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0774/bao_mit_chili_sosse.jpg</url>
+        <title>Restaurant China Bao (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-china-bao-im-passagehof/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/gebratenes-rindfleisch-mit-pak-choy/</guid>
       <description>Ein schnelles chinesisches Wokgericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0200/0246/chinesisches_rindfleisch_mit_pak_choy.jpg</url>
+        <title>Gebratenes Rindfleisch mit Pak Choy</title>
+        <link>https://der.reisko.ch/rezepte/gebratenes-rindfleisch-mit-pak-choy/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/rezepte/wasserspinat-sichuan-art/</guid>
       <description>Ein schnelles chinesisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0120/wasserspinat_sichuan_art.jpg</url>
+        <title>Wasserspinat Sichuan Art</title>
+        <link>https://der.reisko.ch/rezepte/wasserspinat-sichuan-art/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/bunte-chinesische-gemuesepfanne/</guid>
       <description>Ein schnelles Gericht aus dem Wok</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0125/chinesische_gemuesepfanne.jpg</url>
+        <title>Bunte chinesische Gemüsepfanne</title>
+        <link>https://der.reisko.ch/rezepte/bunte-chinesische-gemuesepfanne/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/chinesische-ma-yi-shang-shu/</guid>
       <description>Ein Gericht mit einem seltsamen Namen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0188/na_yi_shang_shu.jpg</url>
+        <title>Chinesische Ma Yi Shang Shu</title>
+        <link>https://der.reisko.ch/rezepte/chinesische-ma-yi-shang-shu/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/restaurants/mala-tang-chinese-streetfood/</guid>
       <description>Ein Suppen-Imbiss in Karlsruhe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0824/suppe_mit_mala-bruehe.jpg</url>
+        <title>Mala Tang Chinese Streetfood</title>
+        <link>https://der.reisko.ch/restaurants/mala-tang-chinese-streetfood/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/restaurants/sichuan-restaurant-tianfu-in-berlin/</guid>
       <description>Hervorragende Szechuan Küche in der Hauptstadt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0871/sanxianjiao_und_schweinebauch.jpg</url>
+        <title>Sichuan Restaurant Tianfu in Berlin</title>
+        <link>https://der.reisko.ch/restaurants/sichuan-restaurant-tianfu-in-berlin/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/sichuan-tofu-mit-knoblauchgrun/</guid>
       <description>Eine Thai-chinesische Fusion</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0869/sichuan-tofu_mit_knoblauchgruen.jpg</url>
+        <title>Sichuan Tofu mit Knoblauchgrün</title>
+        <link>https://der.reisko.ch/rezepte/sichuan-tofu-mit-knoblauchgrun/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mongolisches-lamm-mit-pak-choy/</guid>
       <description>Eine sehr schnelles chinesisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0839/lamm_mit_pak_choy.jpg</url>
+        <title>Mongolisches Lamm mit Pak Choy</title>
+        <link>https://der.reisko.ch/rezepte/mongolisches-lamm-mit-pak-choy/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/zutaten/xiong-di-asia-supermarkt-in-karlsruhe/</guid>
       <description>Chinesisch Einkaufen am Kronenplatz</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0832/tiefkueltruhen.jpg</url>
+        <title>Xiong Di Asia Supermarkt in Karlsruhe</title>
+        <link>https://der.reisko.ch/zutaten/xiong-di-asia-supermarkt-in-karlsruhe/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/rezepte/schweinebauch-mit-grunen-chilis/</guid>
       <description>Ein schnelles, scharfes Szechuan Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0819/schweinebauch_mit_chilis.jpg</url>
+        <title>Schweinebauch mit grünen Chilis</title>
+        <link>https://der.reisko.ch/rezepte/schweinebauch-mit-grunen-chilis/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/geschmortes-rindfleisch-mit-pak-choy/</guid>
       <description>Ein deftiges chinesisches Gericht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0400/0409/geschmortes_rindfleisch_mit_pal_choy.jpg</url>
+        <title>Geschmortes Rindfleisch mit Pak Choy</title>
+        <link>https://der.reisko.ch/rezepte/geschmortes-rindfleisch-mit-pak-choy/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/chinesischer-hotpot-abend/</guid>
       <description>Zwei Kessel Buntes</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0110/chinesischer_hotpot_abend.jpg</url>
+        <title>Chinesischer Hotpot Abend</title>
+        <link>https://der.reisko.ch/dies-und-das/chinesischer-hotpot-abend/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/szechuan-auberginen-mit-schweinebauch/</guid>
       <description>Noch ein Schweinebauch Experiment</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0807/auberginen_mit_schweinebauch.jpg</url>
+        <title>Szechuan Auberginen mit Schweinebauch</title>
+        <link>https://der.reisko.ch/rezepte/szechuan-auberginen-mit-schweinebauch/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/szechuan-schweinebauch-mit-kartoffeln/</guid>
       <description>Deftig und scharf</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0804/sichuan_schweinebauch.jpg</url>
+        <title>Szechuan Schweinebauch mit Kartoffeln</title>
+        <link>https://der.reisko.ch/rezepte/szechuan-schweinebauch-mit-kartoffeln/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hackfleisch-und-pilze-in-mala-sauce/</guid>
       <description>Meine neue Pfanne eingeweiht</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0790/hackfleisch_und_pilze_in_mala_sauce.jpg</url>
+        <title>Hackfleisch und Pilze in Mala Sauce</title>
+        <link>https://der.reisko.ch/rezepte/hackfleisch-und-pilze-in-mala-sauce/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/rotgeschmorte-schweinelende/</guid>
       <description>Chinesisches Hóng Shao Ròu</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0766/mit_reis_und_aubergine.jpg</url>
+        <title>Rotgeschmorte Schweinelende</title>
+        <link>https://der.reisko.ch/rezepte/rotgeschmorte-schweinelende/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/chinesische-gedampfte-auberginen/</guid>
       <description>Eine sehr einfache Beilage</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0765/gedaempfte_auberginen.jpg</url>
+        <title>Chinesische gedämpfte Auberginen</title>
+        <link>https://der.reisko.ch/rezepte/chinesische-gedampfte-auberginen/</link>
+        </image>
     </item>
     
     <item>
@@ -185,429 +280,11 @@
       
       <guid>https://der.reisko.ch/restaurants/neue-karte-im-yangda-stammhaus/</guid>
       <description>Vielfalt und spannende Spezialitäten</description>
-    </item>
-    
-    <item>
-      <title>Hackfleisch und Spargel in Pfeffersoße</title>
-      <link>https://der.reisko.ch/rezepte/hackfleisch-und-spargel-in-pfeffersosse/</link>
-      <pubDate>Tue, 28 May 2019 06:51:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/hackfleisch-und-spargel-in-pfeffersosse/</guid>
-      <description>Ein schnelles chinesisches Gericht</description>
-    </item>
-    
-    <item>
-      <title>Auberginen und Tofu Sichuan Art</title>
-      <link>https://der.reisko.ch/rezepte/auberginen-und-tofu-sichuan-art/</link>
-      <pubDate>Wed, 22 May 2019 06:07:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/auberginen-und-tofu-sichuan-art/</guid>
-      <description>Ein schnelles, vegetarisches Gericht aus China</description>
-    </item>
-    
-    <item>
-      <title>Chinesischer Pak Choy mit Hackfleisch</title>
-      <link>https://der.reisko.ch/rezepte/chinesischer-pak-choy-mit-hackfleisch/</link>
-      <pubDate>Sun, 14 Apr 2019 09:09:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/chinesischer-pak-choy-mit-hackfleisch/</guid>
-      <description>Ein leckeres und schnelles Gericht</description>
-    </item>
-    
-    <item>
-      <title>Austernpilze und Pak Choy in Pfeffersoße</title>
-      <link>https://der.reisko.ch/rezepte/austernpilze-und-pak-choy-in-pfeffersosse/</link>
-      <pubDate>Sun, 31 Mar 2019 08:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/austernpilze-und-pak-choy-in-pfeffersosse/</guid>
-      <description>Ein schnelles chinesisches Gericht</description>
-    </item>
-    
-    <item>
-      <title>Kantonesiches Hackfleisch mit Ei</title>
-      <link>https://der.reisko.ch/rezepte/kantonesiches-hackfleisch-mit-ei/</link>
-      <pubDate>Fri, 29 Mar 2019 06:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kantonesiches-hackfleisch-mit-ei/</guid>
-      <description>Ein schnelles und einfaches Gericht</description>
-    </item>
-    
-    <item>
-      <title>Rindfleisch und Auberginen in Pfeffersoße</title>
-      <link>https://der.reisko.ch/rezepte/rindfleisch-und-auberginen-in-pfeffersosse/</link>
-      <pubDate>Thu, 14 Mar 2019 06:54:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rindfleisch-und-auberginen-in-pfeffersosse/</guid>
-      <description>Ein deftiges chinesisches Gericht</description>
-    </item>
-    
-    <item>
-      <title>Restaurant Great Wall in Köln</title>
-      <link>https://der.reisko.ch/restaurants/restaurant-great-wall-in-koln/</link>
-      <pubDate>Wed, 05 Dec 2018 06:02:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/restaurant-great-wall-in-koln/</guid>
-      <description>Außergewöhnliche chinesische Gerichte</description>
-    </item>
-    
-    <item>
-      <title>Chinesische süße Auberginen</title>
-      <link>https://der.reisko.ch/rezepte/chinesische-susse-auberginen/</link>
-      <pubDate>Mon, 12 Nov 2018 07:02:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/chinesische-susse-auberginen/</guid>
-      <description>Eine leckere Beilage</description>
-    </item>
-    
-    <item>
-      <title>Rotgeschmortes Rindfleisch mit Kartoffeln</title>
-      <link>https://der.reisko.ch/rezepte/rotgeschmortes-rindfleisch-mit-kartoffeln/</link>
-      <pubDate>Sat, 27 Oct 2018 09:29:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/rotgeschmortes-rindfleisch-mit-kartoffeln/</guid>
-      <description>Gulasch mal ganz anders</description>
-    </item>
-    
-    <item>
-      <title>Mein Reisdämpfer aus Bambus</title>
-      <link>https://der.reisko.ch/utensilien/mein-reisdampfer-aus-bambus/</link>
-      <pubDate>Wed, 24 Oct 2018 06:06:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/utensilien/mein-reisdampfer-aus-bambus/</guid>
-      <description>Schön anzuschauen, aber nicht so praktisch</description>
-    </item>
-    
-    <item>
-      <title>Yangda Nudelspezialitäten in Karlsruhe</title>
-      <link>https://der.reisko.ch/restaurants/yangda-nudelspezialitaten-in-karlsruhe/</link>
-      <pubDate>Mon, 01 Oct 2018 06:39:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/yangda-nudelspezialitaten-in-karlsruhe/</guid>
-      <description>Ein neues uigurisches Restaurant</description>
-    </item>
-    
-    <item>
-      <title>Peking Ente im Restaurant 5 Sterne</title>
-      <link>https://der.reisko.ch/restaurants/peking-ente-im-restaurant-5-sterne/</link>
-      <pubDate>Wed, 20 Jun 2018 07:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/peking-ente-im-restaurant-5-sterne/</guid>
-      <description>Mal wieder was anderes</description>
-    </item>
-    
-    <item>
-      <title>China Schnellimbiss Yin-Yang in Karlsruhe</title>
-      <link>https://der.reisko.ch/restaurants/china-schnellimbiss-yin-yang-in-karlsruhe/</link>
-      <pubDate>Wed, 06 Jun 2018 06:02:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/china-schnellimbiss-yin-yang-in-karlsruhe/</guid>
-      <description>Lange gemieden aber gut</description>
-    </item>
-    
-    <item>
-      <title>Moo Kata trifft auf Korean BBQ</title>
-      <link>https://der.reisko.ch/dies-und-das/moo-kata-trifft-auf-korean-bbq/</link>
-      <pubDate>Sun, 20 May 2018 01:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/moo-kata-trifft-auf-korean-bbq/</guid>
-      <description>Wildes Fusion BBQ mit zwei Hotpots</description>
-    </item>
-    
-    <item>
-      <title>Asiatische Foodie Tour mit Valerie</title>
-      <link>https://der.reisko.ch/restaurants/asiatische-foodie-tour-mit-valerie/</link>
-      <pubDate>Mon, 14 May 2018 08:58:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/asiatische-foodie-tour-mit-valerie/</guid>
-      <description>Wir essen uns durch Karlsruhe</description>
-    </item>
-    
-    <item>
-      <title>Asiatische Restaurants in Helsinki</title>
-      <link>https://der.reisko.ch/reisen/asiatische-restaurants-in-helsinki/</link>
-      <pubDate>Tue, 01 May 2018 09:23:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/reisen/asiatische-restaurants-in-helsinki/</guid>
-      <description>Fernöstliches Essen im hohen Norden</description>
-    </item>
-    
-    <item>
-      <title>Restaurant Yangda in Dammerstock</title>
-      <link>https://der.reisko.ch/restaurants/restaurant-yangda-in-dammerstock/</link>
-      <pubDate>Sun, 07 Jan 2018 10:59:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/restaurant-yangda-in-dammerstock/</guid>
-      <description>Die Filiale im Vereinsheim des FC Südstern</description>
-    </item>
-    
-    <item>
-      <title>Uigurisches Restaurant Kroran (geschlossen)</title>
-      <link>https://der.reisko.ch/restaurants/uigurisches-restaurant-kroran-geschlossen/</link>
-      <pubDate>Wed, 03 Jan 2018 08:09:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/uigurisches-restaurant-kroran-geschlossen/</guid>
-      <description>Eine bisher unbekannte Küche in Karlsruhe</description>
-    </item>
-    
-    <item>
-      <title>Chinesische Aubergine mit Hackfleisch</title>
-      <link>https://der.reisko.ch/rezepte/chinesische-aubergine-mit-hackfleisch/</link>
-      <pubDate>Wed, 08 Nov 2017 05:02:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/chinesische-aubergine-mit-hackfleisch/</guid>
-      <description>Yu Xiang Qie Zi Zhūjiǎoròu</description>
-    </item>
-    
-    <item>
-      <title>Chinesische Maronen mit Auberginen</title>
-      <link>https://der.reisko.ch/rezepte/chinesische-maronen-mit-auberginen/</link>
-      <pubDate>Fri, 06 Oct 2017 06:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/chinesische-maronen-mit-auberginen/</guid>
-      <description>Ein herbstliches Pfannengericht</description>
-    </item>
-    
-    <item>
-      <title>Chinesische Mondkuchen</title>
-      <link>https://der.reisko.ch/dies-und-das/chinesische-mondkuchen/</link>
-      <pubDate>Wed, 04 Oct 2017 06:53:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/dies-und-das/chinesische-mondkuchen/</guid>
-      <description>Süßes zum Mondfest</description>
-    </item>
-    
-    <item>
-      <title>Xia Garden in Schwetzingen</title>
-      <link>https://der.reisko.ch/restaurants/xia-garden-in-schwetzingen/</link>
-      <pubDate>Sun, 01 Oct 2017 09:31:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/xia-garden-in-schwetzingen/</guid>
-      <description>Reichhaltiges Buffet zu fairen Preisen</description>
-    </item>
-    
-    <item>
-      <title>Chinesischer Hotpot im Yangda</title>
-      <link>https://der.reisko.ch/restaurants/chinesischer-hotpot-im-yangda/</link>
-      <pubDate>Sat, 30 Sep 2017 09:38:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/chinesischer-hotpot-im-yangda/</guid>
-      <description>Steamboat in Dammerstock</description>
-    </item>
-    
-    <item>
-      <title>Taiwanesische Danzai Nudelsuppe</title>
-      <link>https://der.reisko.ch/nachgekocht/taiwanesische-danzai-nudelsuppe/</link>
-      <pubDate>Sat, 16 Sep 2017 11:58:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/taiwanesische-danzai-nudelsuppe/</guid>
-      <description>Leckere Suppe aus Schweinebrühe</description>
-    </item>
-    
-    <item>
-      <title>Doppelt gegarter Schweinebauch</title>
-      <link>https://der.reisko.ch/rezepte/doppelt-gegarter-schweinebauch/</link>
-      <pubDate>Tue, 12 Sep 2017 05:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/doppelt-gegarter-schweinebauch/</guid>
-      <description>Chinesischer Hui Guo Rou</description>
-    </item>
-    
-    <item>
-      <title>Chinesische Rotgeschmorte Auberginen</title>
-      <link>https://der.reisko.ch/rezepte/chinesische-rotgeschmorte-auberginen/</link>
-      <pubDate>Sun, 10 Sep 2017 09:53:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/chinesische-rotgeschmorte-auberginen/</guid>
-      <description>Hong Shao Qie Zi</description>
-    </item>
-    
-    <item>
-      <title>Chinaimbiss Rhein Wok</title>
-      <link>https://der.reisko.ch/restaurants/chinaimbiss-rhein-wok/</link>
-      <pubDate>Fri, 25 Aug 2017 07:05:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/chinaimbiss-rhein-wok/</guid>
-      <description>Leckerer Imbiss in Mühlburg</description>
-    </item>
-    
-    <item>
-      <title>Knusprige Ente mit Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/knusprige-ente-mit-pilzen/</link>
-      <pubDate>Sat, 27 May 2017 08:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/knusprige-ente-mit-pilzen/</guid>
-      <description>Ein simples chinesisches Gericht</description>
-    </item>
-    
-    <item>
-      <title>Peking Ente am Entenfang</title>
-      <link>https://der.reisko.ch/restaurants/peking-ente-am-entenfang/</link>
-      <pubDate>Thu, 25 May 2017 10:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/peking-ente-am-entenfang/</guid>
-      <description>Aussergewöhnliches Menü im Niu</description>
-    </item>
-    
-    <item>
-      <title>Hähnchen Gong Bao in der Mittagspause</title>
-      <link>https://der.reisko.ch/mittagspause/hahnchen-gong-bao-in-der-mittagspause/</link>
-      <pubDate>Fri, 06 Jan 2017 11:39:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/hahnchen-gong-bao-in-der-mittagspause/</guid>
-      <description>Mal wieder was Schnelles aus dem Wok</description>
-    </item>
-    
-    <item>
-      <title>China Restaurant Niu in Mühlburg</title>
-      <link>https://der.reisko.ch/restaurants/china-restaurant-niu/</link>
-      <pubDate>Tue, 27 Sep 2016 07:31:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/china-restaurant-niu/</guid>
-      <description>Leckeres Essen in Mühlburg</description>
-    </item>
-    
-    <item>
-      <title>Restaurant Yangda im Passagehof</title>
-      <link>https://der.reisko.ch/restaurants/restaurant-yangda-im-passagehof/</link>
-      <pubDate>Mon, 13 Jun 2016 10:06:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/restaurant-yangda-im-passagehof/</guid>
-      <description>Authentisches chinesisches Essen</description>
-    </item>
-    
-    <item>
-      <title>Szechuan Pfanne mit Aubergine und Ei</title>
-      <link>https://der.reisko.ch/rezepte/szechuan-pfanne-mit-aubergine-und-ei/</link>
-      <pubDate>Tue, 26 Apr 2016 10:30:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/szechuan-pfanne-mit-aubergine-und-ei/</guid>
-      <description>Noch eine vegetarische Variante</description>
-    </item>
-    
-    <item>
-      <title>Szechuan Pfanne mit Huhn und Aubergine</title>
-      <link>https://der.reisko.ch/rezepte/szechuan-pfanne-mit-huhn-und-aubergine/</link>
-      <pubDate>Sat, 09 Apr 2016 08:38:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/szechuan-pfanne-mit-huhn-und-aubergine/</guid>
-      <description>Leckeres aus China</description>
-    </item>
-    
-    <item>
-      <title>Vegetarisches Mapo Doufu</title>
-      <link>https://der.reisko.ch/rezepte/vegetarisches-mapo-doufu/</link>
-      <pubDate>Tue, 15 Mar 2016 06:41:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/vegetarisches-mapo-doufu/</guid>
-      <description>Eine Variation des Gerichts aus Szechuan</description>
-    </item>
-    
-    <item>
-      <title>Original Chinesischer Hotpot</title>
-      <link>https://der.reisko.ch/utensilien/original-chinesischer-hotpot/</link>
-      <pubDate>Fri, 05 Feb 2016 07:51:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/utensilien/original-chinesischer-hotpot/</guid>
-      <description>Ein unerwartetes Geschenk</description>
-    </item>
-    
-    <item>
-      <title>China Restaurant 5 Sterne in Karlsruhe</title>
-      <link>https://der.reisko.ch/restaurants/china-restaurant-5-sterne-in-karlsruhe/</link>
-      <pubDate>Sat, 14 Nov 2015 11:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/restaurants/china-restaurant-5-sterne-in-karlsruhe/</guid>
-      <description>Die besten Dim Sums</description>
-    </item>
-    
-    <item>
-      <title>Auberginen nach Szechuan Art</title>
-      <link>https://der.reisko.ch/rezepte/auberginen-nach-szechuan-art/</link>
-      <pubDate>Sun, 13 Sep 2015 10:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/auberginen-nach-szechuan-art/</guid>
-      <description>Schnelles, vegetarisches Gericht aus China</description>
-    </item>
-    
-    <item>
-      <title>Zitronig-scharfe Tintenfischringe</title>
-      <link>https://der.reisko.ch/rezepte/zitronig-scharfe-tintenfischringe/</link>
-      <pubDate>Fri, 04 Sep 2015 07:08:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/zitronig-scharfe-tintenfischringe/</guid>
-      <description>Ein schnelles Gericht</description>
-    </item>
-    
-    <item>
-      <title>Asia-Pfanne mit Garnelen und Kaiserschoten</title>
-      <link>https://der.reisko.ch/rezepte/asia-pfanne-mit-garnelen-und-kaiserschoten/</link>
-      <pubDate>Sat, 08 Aug 2015 07:33:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/asia-pfanne-mit-garnelen-und-kaiserschoten/</guid>
-      <description>Eine chineschische Eigenkreation</description>
-    </item>
-    
-    <item>
-      <title>Chinesische Pilzpfanne mit Pak Choy</title>
-      <link>https://der.reisko.ch/rezepte/chinesische-pilzpfanne-mit-pak-choy/</link>
-      <pubDate>Sat, 13 Jun 2015 10:07:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/chinesische-pilzpfanne-mit-pak-choy/</guid>
-      <description>Buntes aus dem Wok</description>
-    </item>
-    
-    <item>
-      <title>Sojasprossensalat mit Tofu</title>
-      <link>https://der.reisko.ch/rezepte/sojasprossensalat-mit-tofu/</link>
-      <pubDate>Sun, 03 May 2015 04:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/sojasprossensalat-mit-tofu/</guid>
-      <description>Tofu mal anders</description>
-    </item>
-    
-    <item>
-      <title>Pak Choy Pfanne mit Pilzen</title>
-      <link>https://der.reisko.ch/rezepte/pak-choy-pfanne-mit-pilzen/</link>
-      <pubDate>Wed, 06 Nov 2013 08:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/pak-choy-pfanne-mit-pilzen/</guid>
-      <description>Leckeres asiatisches Pfannengericht</description>
-    </item>
-    
-    <item>
-      <title>Glänzend-Schwarze Hähnchenkeulen</title>
-      <link>https://der.reisko.ch/rezepte/glanzend-schwarze-haehnchenkeulen/</link>
-      <pubDate>Tue, 03 Jul 2012 09:42:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/glanzend-schwarze-haehnchenkeulen/</guid>
-      <description>Farblich ungewohnt, aber sehr lecker</description>
-    </item>
-    
-    <item>
-      <title>Das große Buch der asiatischen Küche</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/das-grosse-buch-der-asiatischen-kueche/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/das-grosse-buch-der-asiatischen-kueche/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>Das kulinarische Manifest</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/das-kulinarische-manifest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/das-kulinarische-manifest/</guid>
-      <description>Meine liebsten Kochbücher</description>
-    </item>
-    
-    <item>
-      <title>The Woks of Life Blog</title>
-      <link>https://der.reisko.ch/inspirationen/blogs/the-woks-of-life/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/blogs/the-woks-of-life/</guid>
-      <description>Meine liebsten Blogs</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0763/scharfer_meeresfruechte_hotpot.jpg</url>
+        <title>Neue Karte im Yangda Stammhaus</title>
+        <link>https://der.reisko.ch/restaurants/neue-karte-im-yangda-stammhaus/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>basel on Der Reiskoch</title>
+    <title>basel auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/basel/</link>
-    <description>Recent content in basel on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in basel  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 10 Oct 2020 09:20:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/basel/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/thai-restaurant-boo-in-basel/</guid>
       <description>Gute thailändische Küche in Basel</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0970/todt_man_plaa.jpg</url>
+        <title>Thai Restaurant Boo an der Messe</title>
+        <link>https://der.reisko.ch/restaurants/thai-restaurant-boo-in-basel/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/restaurants/ramenbar-namamen-in-basel/</guid>
       <description>Stylische japanische Ramenbar</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0166/ramen.jpg</url>
+        <title>Ramenbar Namamen in Basel</title>
+        <link>https://der.reisko.ch/restaurants/ramenbar-namamen-in-basel/</link>
+        </image>
     </item>
     
   </channel>

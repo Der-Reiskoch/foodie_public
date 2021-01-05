@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>huhn on Der Reiskoch</title>
+    <title>huhn auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/huhn/</link>
-    <description>Recent content in huhn on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in huhn  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 28 Dec 2020 06:04:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/huhn/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/tortillas-nach-al-pastor-art/</guid>
       <description>Mexikanisch auf der MooVita</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0963/taco_al_pastor.jpg</url>
+        <title>Tortillas nach Al-Pastor Art</title>
+        <link>https://der.reisko.ch/rezepte/tortillas-nach-al-pastor-art/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/buldak-haehnchenkeulen/</guid>
       <description>Koreanisches Feuerhuhn aus dem Backofen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0944/buldak-haehnchenschenkel.jpg</url>
+        <title>Buldak Hähnchenkeulen</title>
+        <link>https://der.reisko.ch/rezepte/buldak-haehnchenkeulen/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-gai-hor-bai-toey/</guid>
       <description>Hähnchen im Pandanblatt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0936/gai_hor_bai_toey.jpg</url>
+        <title>Thailändisches Gai Hor Bai Toey</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-gai-hor-bai-toey/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/rotes-thai-curry-mit-buntem-gemuese/</guid>
       <description>Mit dem Thai Mix aus dem Supermarkt</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0935/20200814_rotes_curry_viel_gemuese.jpg</url>
+        <title>Rotes Curry mit buntem Gemüse</title>
+        <link>https://der.reisko.ch/dies-und-das/rotes-thai-curry-mit-buntem-gemuese/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/rezepte/perencah-kari-ayam-aus-malaysia/</guid>
       <description>Curry mit Hähnchenkeulen aus einer Instantpaste</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0900/perencah_kari_ayam.jpg</url>
+        <title>Perencah Kari Ayam aus Malaysia</title>
+        <link>https://der.reisko.ch/rezepte/perencah-kari-ayam-aus-malaysia/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-gaeng-kua-gai-sapparot/</guid>
       <description>Scharfes Curry mit gebackenem Huhn und Ananas</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0894/gaeng_kua_gai_sapparot.jpg</url>
+        <title>Thailändisches Gaeng Kua Gai Sapparot</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-gaeng-kua-gai-sapparot/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/rezepte/mexikanisches-pollo-mole-poblano/</guid>
       <description>Hähnchenkeulen mit Schoko-Chili-Soße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0891/pollo_mole_poblano.jpg</url>
+        <title>Mexikanisches Pollo Mole Poblano</title>
+        <link>https://der.reisko.ch/rezepte/mexikanisches-pollo-mole-poblano/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/rezepte/burmesisches-kyet-thar-hin/</guid>
       <description>Curry mit Huhn, Tomaten und Limette</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0863/kyet_thar_hin.jpg</url>
+        <title>Burmesisches Kyet Thar Hin</title>
+        <link>https://der.reisko.ch/rezepte/burmesisches-kyet-thar-hin/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/rezepte/scharfer-koreanischer-kimchi-jjigae/</guid>
       <description>Ein schneller Eintopf mit Kimchi und Huhn</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0847/kimchi_jjigae_mit_huhn.jpg</url>
+        <title>Scharfer koreanischer Kimchi Jjigae</title>
+        <link>https://der.reisko.ch/rezepte/scharfer-koreanischer-kimchi-jjigae/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/dies-und-das/khao-man-gai-zum-abschied/</guid>
       <description>Stephan kocht zum letzten Mal Thai</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0300/0394/khao_man_gai.jpg</url>
+        <title>Khao Man Gai zum Abschied</title>
+        <link>https://der.reisko.ch/dies-und-das/khao-man-gai-zum-abschied/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/rezepte/hahnchensalat-mit-zitronengras/</guid>
       <description>Nach Art eines thailändischen Phla Gai</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0777/salat_und_sosse.jpg</url>
+        <title>Hähnchensalat mit Zitronengras</title>
+        <link>https://der.reisko.ch/rezepte/hahnchensalat-mit-zitronengras/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/thailaendisches-gaeng-paa-gai/</guid>
       <description>Sehr scharfes Jungle Curry</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0776/fertiges_gaeng_paa_gai.jpg</url>
+        <title>Thailändisches Gaeng Paa Gai</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendisches-gaeng-paa-gai/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-huhn-mit-wasserspinat/</guid>
       <description>Eine Pad Pak Bung Variante</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0758/huhn_mit_wasserspinat.jpg</url>
+        <title>Thailändisches Huhn mit Wasserspinat</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-huhn-mit-wasserspinat/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/rezepte/kare-raisu-mit-huhn-und-pilzen/</guid>
       <description>Japanisches Curry mal anders</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0756/kare_raisu_mit_pilzen.jpg</url>
+        <title>Karē Raisu mit Huhn und Pilzen</title>
+        <link>https://der.reisko.ch/rezepte/kare-raisu-mit-huhn-und-pilzen/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/rezepte/vietnamesischer-ga-tron-mam/</guid>
       <description>Salat mit Huhn und Rau Răm</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0755/ga_tron_mam.jpg</url>
+        <title>Vietnamesischer Gà Trộn Mắm</title>
+        <link>https://der.reisko.ch/rezepte/vietnamesischer-ga-tron-mam/</link>
+        </image>
     </item>
     
     <item>
@@ -149,6 +224,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-gai-phad-met-ma-muang/</guid>
       <description>Gebratenes Huhn mit Cashewnüssen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0731/teller.jpg</url>
+        <title>Thailändisches Gai Phad Met Mamuang</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-gai-phad-met-ma-muang/</link>
+        </image>
     </item>
     
     <item>
@@ -158,6 +238,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/indisches-murgh-makhani/</guid>
       <description>Hähnchenkeulen in Tomaten-Butter-Soße</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0717/murgh_makhani.jpg</url>
+        <title>Indisches Murgh Makhani</title>
+        <link>https://der.reisko.ch/nachgekocht/indisches-murgh-makhani/</link>
+        </image>
     </item>
     
     <item>
@@ -167,6 +252,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendische-tom-yam-gai/</guid>
       <description>Sauer-Scharfe Suppe mit Huhn</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0725/tom_yam_gai.jpg</url>
+        <title>Thailändische Tom Yam Gai</title>
+        <link>https://der.reisko.ch/rezepte/thailaendische-tom-yam-gai/</link>
+        </image>
     </item>
     
     <item>
@@ -176,6 +266,11 @@
       
       <guid>https://der.reisko.ch/rezepte/vietnamesischer-salat-mit-huhn/</guid>
       <description>Eine Variation mit Petersilienwurzeln</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0700/0719/vietnamesischer_salat_mit_huhn.jpg</url>
+        <title>Vietnamesischer Salat mit Huhn</title>
+        <link>https://der.reisko.ch/rezepte/vietnamesischer-salat-mit-huhn/</link>
+        </image>
     </item>
     
     <item>
@@ -185,312 +280,11 @@
       
       <guid>https://der.reisko.ch/nachgekocht/panaeng-curry-mit-hahnchenschlegeln/</guid>
       <description>Selbstgemachte Paste aus dem Food-Processor</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Gaeng Panaeng Gai</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-gaeng-panaeng-gai/</link>
-      <pubDate>Sun, 04 Nov 2018 09:17:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-gaeng-panaeng-gai/</guid>
-      <description>Curry mit Huhn, Süßkartoffeln und Pfeffer</description>
-    </item>
-    
-    <item>
-      <title>Kerala Chicken Curry mit Kürbis</title>
-      <link>https://der.reisko.ch/rezepte/kerala-chicken-curry-mit-kurbis/</link>
-      <pubDate>Sun, 14 Oct 2018 10:14:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kerala-chicken-curry-mit-kurbis/</guid>
-      <description>Südindisches Gericht mit herbstlichen Zutaten</description>
-    </item>
-    
-    <item>
-      <title>Marokkanisches Huhn mit Salzzitrone</title>
-      <link>https://der.reisko.ch/rezepte/marokkanisches-huhn-mit-salzzitrone/</link>
-      <pubDate>Tue, 11 Sep 2018 07:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/marokkanisches-huhn-mit-salzzitrone/</guid>
-      <description>Fischis fermentierte Zitrusfrüchte im Einsatz</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Gai</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-gai/</link>
-      <pubDate>Tue, 24 Jul 2018 10:09:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-gai/</guid>
-      <description>Salat aus gebratener Pute</description>
-    </item>
-    
-    <item>
-      <title>Gaeng Kiaw Wan Gai Khai Dao</title>
-      <link>https://der.reisko.ch/rezepte/gaeng-kiaw-wan-gai-khai-dao/</link>
-      <pubDate>Thu, 31 May 2018 10:35:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gaeng-kiaw-wan-gai-khai-dao/</guid>
-      <description>Thailändisches grünes Curry mit Spiegeleiern</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Pad Phed Gai</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-pad-phed-gai/</link>
-      <pubDate>Wed, 23 May 2018 06:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-phed-gai/</guid>
-      <description>Trockenes Curry mit Putenbrust</description>
-    </item>
-    
-    <item>
-      <title>Hähnchenbrust in Gai Ping Marinade</title>
-      <link>https://der.reisko.ch/rezepte/hahnchenbrust-in-gai-ping-marinade/</link>
-      <pubDate>Mon, 23 Apr 2018 06:01:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/hahnchenbrust-in-gai-ping-marinade/</guid>
-      <description>Lecker eingelegt zum Grillen</description>
-    </item>
-    
-    <item>
-      <title>Saratanmen-Ramen mit Huhn</title>
-      <link>https://der.reisko.ch/nachgekocht/saratanmen-ramen-mit-huhn/</link>
-      <pubDate>Tue, 06 Mar 2018 07:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/saratanmen-ramen-mit-huhn/</guid>
-      <description>Die zweite Runde selbstgemachte Ramen</description>
-    </item>
-    
-    <item>
-      <title>Mallorquinischer Arroz Brut</title>
-      <link>https://der.reisko.ch/rezepte/mallorquinischer-arroz-brut/</link>
-      <pubDate>Tue, 20 Feb 2018 06:12:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/mallorquinischer-arroz-brut/</guid>
-      <description>Schmutziger Reis mit Meeresfenchel</description>
-    </item>
-    
-    <item>
-      <title>Thai Huhn mit Pilzen und Cashews</title>
-      <link>https://der.reisko.ch/rezepte/thai-huhn-mit-pilzen-und-cashews/</link>
-      <pubDate>Sun, 08 Oct 2017 09:01:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thai-huhn-mit-pilzen-und-cashews/</guid>
-      <description>Ein herbstlich schnelles Pfannengericht</description>
-    </item>
-    
-    <item>
-      <title>Gaeng Paa Gai Sapparot</title>
-      <link>https://der.reisko.ch/rezepte/gaeng-paa-gai-sapparot/</link>
-      <pubDate>Sat, 29 Jul 2017 07:44:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gaeng-paa-gai-sapparot/</guid>
-      <description>Jungle Curry mit Huhn und Ananas</description>
-    </item>
-    
-    <item>
-      <title>Japanisches Karē Raisu</title>
-      <link>https://der.reisko.ch/rezepte/japanisches-kare-raisu/</link>
-      <pubDate>Wed, 19 Jul 2017 06:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/japanisches-kare-raisu/</guid>
-      <description>Curry mit Huhn auf japanisch</description>
-    </item>
-    
-    <item>
-      <title>Hähnchen Gong Bao in der Mittagspause</title>
-      <link>https://der.reisko.ch/mittagspause/hahnchen-gong-bao-in-der-mittagspause/</link>
-      <pubDate>Fri, 06 Jan 2017 11:39:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/hahnchen-gong-bao-in-der-mittagspause/</guid>
-      <description>Mal wieder was Schnelles aus dem Wok</description>
-    </item>
-    
-    <item>
-      <title>Thailändisches Gaeng Massaman Gai</title>
-      <link>https://der.reisko.ch/rezepte/thailaendisches-gaeng-massaman-gai/</link>
-      <pubDate>Sat, 12 Nov 2016 09:04:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendisches-gaeng-massaman-gai/</guid>
-      <description>Mal wieder ein Massaman Curry</description>
-    </item>
-    
-    <item>
-      <title>Kuku Wa Mchuzi Na Karanga</title>
-      <link>https://der.reisko.ch/rezepte/kuku-wa-mchuzi-na-karanga/</link>
-      <pubDate>Sun, 30 Oct 2016 08:05:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kuku-wa-mchuzi-na-karanga/</guid>
-      <description>Hähnchen-Kokos-Curry aus Tansania</description>
-    </item>
-    
-    <item>
-      <title>Kenyanisches Kuku Paka</title>
-      <link>https://der.reisko.ch/rezepte/kenyanisches-kuku-paka/</link>
-      <pubDate>Sat, 22 Oct 2016 11:11:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/kenyanisches-kuku-paka/</guid>
-      <description>Scharfes ostafrikanisches Curry mit Huhn</description>
-    </item>
-    
-    <item>
-      <title>Zitronenhuhn aus dem Backofen</title>
-      <link>https://der.reisko.ch/rezepte/zitronenhuhn-aus-dem-backofen/</link>
-      <pubDate>Wed, 24 Aug 2016 08:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/zitronenhuhn-aus-dem-backofen/</guid>
-      <description>Ein Klassiker aus Annes Familie</description>
-    </item>
-    
-    <item>
-      <title>Schnelle Kimchi Nudelpfanne mit Huhn</title>
-      <link>https://der.reisko.ch/rezepte/schnelle-kimchi-nudelpfanne-mit-huhn/</link>
-      <pubDate>Wed, 13 Jul 2016 06:20:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/schnelle-kimchi-nudelpfanne-mit-huhn/</guid>
-      <description>Das Thai Soi Kimchi im Kocheinsatz</description>
-    </item>
-    
-    <item>
-      <title>Philippinisches Adobo mit Chorizo und Huhn</title>
-      <link>https://der.reisko.ch/rezepte/philippinisches-adobo-mit-chorizo-und-huhn/</link>
-      <pubDate>Sat, 16 Apr 2016 07:10:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/philippinisches-adobo-mit-chorizo-und-huhn/</guid>
-      <description>Gehaltvoller Eintopf mit vielen Zutaten</description>
-    </item>
-    
-    <item>
-      <title>Indisches Tandoori-Chicken Curry</title>
-      <link>https://der.reisko.ch/rezepte/indisches-tandoori-chicken-curry/</link>
-      <pubDate>Wed, 13 Apr 2016 09:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indisches-tandoori-chicken-curry/</guid>
-      <description>Tandoori meets Curry</description>
-    </item>
-    
-    <item>
-      <title>Scharfes Bombay Chicken Curry</title>
-      <link>https://der.reisko.ch/nachgekocht/scharfes-bombay-chicken-curry/</link>
-      <pubDate>Thu, 10 Mar 2016 07:42:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/scharfes-bombay-chicken-curry/</guid>
-      <description>Ein indisches Curry mit Huhn</description>
-    </item>
-    
-    <item>
-      <title>Grünes Thai Curry mit Huhn und Brokkoli</title>
-      <link>https://der.reisko.ch/rezepte/grunes-thai-curry-mit-huhn-und-broccoli/</link>
-      <pubDate>Tue, 19 Jan 2016 07:06:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/grunes-thai-curry-mit-huhn-und-broccoli/</guid>
-      <description>Gaeng Kiaw Wan Gai</description>
-    </item>
-    
-    <item>
-      <title>Huhn in dicker Kokosnuss-Soße</title>
-      <link>https://der.reisko.ch/nachgekocht/huhn-in-dicker-kokosnuss-sosse/</link>
-      <pubDate>Sat, 03 Oct 2015 09:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/huhn-in-dicker-kokosnuss-sosse/</guid>
-      <description>Kori Gashi aus Mangalore</description>
-    </item>
-    
-    <item>
-      <title>Indisches Chicken Vindaloo</title>
-      <link>https://der.reisko.ch/nachgekocht/indisches-chicken-vindaloo/</link>
-      <pubDate>Mon, 28 Sep 2015 07:45:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/indisches-chicken-vindaloo/</guid>
-      <description>Schön scharf</description>
-    </item>
-    
-    <item>
-      <title>Gaeng Phed Gai Manfrang</title>
-      <link>https://der.reisko.ch/rezepte/gaeng-phed-gai-manfrang/</link>
-      <pubDate>Mon, 27 Jul 2015 07:13:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/gaeng-phed-gai-manfrang/</guid>
-      <description>Rotes Thai Curry mit Huhn und Kartoffeln</description>
-    </item>
-    
-    <item>
-      <title>Javanisches Opor Ayam</title>
-      <link>https://der.reisko.ch/rezepte/javanisches-opor-ayam/</link>
-      <pubDate>Fri, 01 May 2015 08:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/javanisches-opor-ayam/</guid>
-      <description>Hähnchen Curry aus Indonesien</description>
-    </item>
-    
-    <item>
-      <title>Bengalisches Chicken Dopiaza</title>
-      <link>https://der.reisko.ch/nachgekocht/bengalisches-chicken-dopiaza/</link>
-      <pubDate>Sat, 28 Mar 2015 08:21:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/nachgekocht/bengalisches-chicken-dopiaza/</guid>
-      <description>Hähnchen mit Zwiebeln</description>
-    </item>
-    
-    <item>
-      <title>Indisches Curry mit Hähnchenbrust und Spinat</title>
-      <link>https://der.reisko.ch/rezepte/indisches-curry-mit-hahnchenbrust-und-spinat/</link>
-      <pubDate>Sun, 13 Jul 2014 08:55:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indisches-curry-mit-hahnchenbrust-und-spinat/</guid>
-      <description>Eine spannende Kombination</description>
-    </item>
-    
-    <item>
-      <title>Indonesisches weißes Curry</title>
-      <link>https://der.reisko.ch/rezepte/indonesisches-weisses-curry/</link>
-      <pubDate>Sun, 29 Jun 2014 11:29:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/indonesisches-weisses-curry/</guid>
-      <description>Opor aus der Tüte</description>
-    </item>
-    
-    <item>
-      <title>Tandoorispieße mit Joghurt-Koriander-Dip</title>
-      <link>https://der.reisko.ch/rezepte/tandoorispiesse-mit-joghurt-koriander-dip/</link>
-      <pubDate>Sun, 15 Sep 2013 03:24:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/tandoorispiesse-mit-joghurt-koriander-dip/</guid>
-      <description>Lecker gegrilltes Hähnchen</description>
-    </item>
-    
-    <item>
-      <title>Glänzend-Schwarze Hähnchenkeulen</title>
-      <link>https://der.reisko.ch/rezepte/glanzend-schwarze-haehnchenkeulen/</link>
-      <pubDate>Tue, 03 Jul 2012 09:42:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/glanzend-schwarze-haehnchenkeulen/</guid>
-      <description>Farblich ungewohnt, aber sehr lecker</description>
-    </item>
-    
-    <item>
-      <title>Tandoori Chicken mit Gajar Matar</title>
-      <link>https://der.reisko.ch/rezepte/tandoori-chicken-mit-gajar-matar/</link>
-      <pubDate>Sun, 18 Dec 2011 07:50:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/tandoori-chicken-mit-gajar-matar/</guid>
-      <description>Ein Rezept mit etwas Vorlaufzeit</description>
-    </item>
-    
-    <item>
-      <title>Reisnudel Pfanne mit Pad-Thai-Sauce</title>
-      <link>https://der.reisko.ch/rezepte/reisnudel-pfanne-mit-pad-thai-sauce/</link>
-      <pubDate>Tue, 06 Dec 2011 07:32:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/reisnudel-pfanne-mit-pad-thai-sauce/</guid>
-      <description>Eine lange Tradition</description>
-    </item>
-    
-    <item>
-      <title>Thailändischer Yam Khuen Chai Gai</title>
-      <link>https://der.reisko.ch/rezepte/thailaendischer-yam-khuen-chai-gai/</link>
-      <pubDate>Fri, 11 Nov 2011 08:41:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-khuen-chai-gai/</guid>
-      <description>Ein leichter Salat mit Thai-Sellerie und Huhn</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0600/0690/geang_panaeng_gai.jpg</url>
+        <title>Panaeng Curry mit Hähnchenschlegeln</title>
+        <link>https://der.reisko.ch/nachgekocht/panaeng-curry-mit-hahnchenschlegeln/</link>
+        </image>
     </item>
     
   </channel>

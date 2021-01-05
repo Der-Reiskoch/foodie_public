@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fotoalbum 2016 on Der Reiskoch</title>
+    <title>Fotoalbum 2016 auf Der Reiskoch</title>
     <link>https://der.reisko.ch/fotoalbum/2016/</link>
-    <description>Recent content in Fotoalbum 2016 on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Fotoalbum 2016  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 15 Dec 2016 00:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/fotoalbum/2016/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/12/15/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20161215_scotch_bonnet_spaetlese.jpg</url>
+        <title>Scotch Bonnet Spätlese</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/12/15/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/11/26/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20161126_wolfsbraeu_pulled_pork.jpg</url>
+        <title>Pulled Pork</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/11/26/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/11/04/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20161104_salbei_lachs_mit_meeresfenchel.jpg</url>
+        <title>Salbei Lachs mit Meeresfenchel</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/11/04/</link>
+        </image>
     </item>
     
     <item>
@@ -41,6 +56,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/10/26/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20161026_laphet.jpg</url>
+        <title>Lahpet aus Myamnar</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/10/26/</link>
+        </image>
     </item>
     
     <item>
@@ -50,6 +70,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/10/17/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20161017_fisch_salate.jpg</url>
+        <title>Fang von der Fischtheke</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/10/17/</link>
+        </image>
     </item>
     
     <item>
@@ -59,6 +84,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/10/15/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20161015_paella.jpg</url>
+        <title>Paella im Badalona</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/10/15/</link>
+        </image>
     </item>
     
     <item>
@@ -68,6 +98,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/10/11/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20161011_markgraefler_scharwaie.jpg</url>
+        <title>Markgräfler Scharwaie</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/10/11/</link>
+        </image>
     </item>
     
     <item>
@@ -77,6 +112,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/09/22/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20160922_crousty_crab.jpg</url>
+        <title>Crousty Crab Fischburger</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/09/22/</link>
+        </image>
     </item>
     
     <item>
@@ -86,6 +126,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/09/05/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20160905_gemuesepfanne_mit_birnen.jpg</url>
+        <title>Gemüsepfanne mit Birnen</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/09/05/</link>
+        </image>
     </item>
     
     <item>
@@ -95,6 +140,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/09/03/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20160903_indischens_schweine_vindaloo.jpg</url>
+        <title>Indisches Schweinefleisch Vindaloo</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/09/03/</link>
+        </image>
     </item>
     
     <item>
@@ -104,6 +154,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/08/21/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20160821_crevetten.jpg</url>
+        <title>Sommerrollen mit Crevetten</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/08/21/</link>
+        </image>
     </item>
     
     <item>
@@ -113,6 +168,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/07/29/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20160729_chli-ernte_zuhause.jpg</url>
+        <title>Chili Ernte</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/07/29/</link>
+        </image>
     </item>
     
     <item>
@@ -122,6 +182,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/03/27/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20160327_osterbrunch_bei_meiner_tante.jpg</url>
+        <title>Osterbrunch bei meiner Tante</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/03/27/</link>
+        </image>
     </item>
     
     <item>
@@ -131,6 +196,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/02/21/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20160221_schokolade.jpg</url>
+        <title>Leckere Schokolade aus Erfurt</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/02/21/</link>
+        </image>
     </item>
     
     <item>
@@ -140,6 +210,11 @@
       
       <guid>https://der.reisko.ch/fotoalbum/2016/01/08/</guid>
       <description>Foodie’s Fotoalbum</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2016/20160108_burmesischer_imgwersalat.jpg</url>
+        <title>Burmesischer Ingwersalat</title>
+        <link>https://der.reisko.ch/fotoalbum/2016/01/08/</link>
+        </image>
     </item>
     
   </channel>

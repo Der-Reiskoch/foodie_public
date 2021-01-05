@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thaifood 2016 on Der Reiskoch</title>
+    <title>Thaifood 2016 auf Der Reiskoch</title>
     <link>https://der.reisko.ch/thaifood/fotos/2016/</link>
-    <description>Recent content in Thaifood 2016 on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Thaifood 2016  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language><atom:link href="https://der.reisko.ch/thaifood/fotos/2016/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grünes Curry mit Bohnen</title>
@@ -13,6 +13,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2016/08/05/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2016/20160805_gruenes_curry_mit_bohnen.jpg</url>
+        <title>Grünes Curry mit Bohnen</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2016/08/05/</link>
+        </image>
     </item>
     
     <item>
@@ -22,6 +27,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2016/06/23/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2016/20160623_chilly_chilis.jpg</url>
+        <title>Chilly Chilis</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2016/06/23/</link>
+        </image>
     </item>
     
     <item>
@@ -31,6 +41,11 @@
       
       <guid>https://der.reisko.ch/thaifood/fotos/2016/01/22/</guid>
       <description>Thailändisches Gericht des Tages</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2016/20160122_yam_woon_sen_bei_arek.jpg</url>
+        <title>Yam Woon Sen bei Arek</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2016/01/22/</link>
+        </image>
     </item>
     
   </channel>

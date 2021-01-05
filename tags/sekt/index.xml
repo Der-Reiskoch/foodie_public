@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sekt on Der Reiskoch</title>
+    <title>sekt auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/sekt/</link>
-    <description>Recent content in sekt on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in sekt  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 14 Mar 2013 06:39:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/sekt/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/victoria-barsch-in-sekt-dill-sosse/</guid>
       <description>Nicht nur Freitags</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0000/0072/barsch.jpg</url>
+        <title>Victoria Barsch in Sekt-Dill-Soße</title>
+        <link>https://der.reisko.ch/rezepte/victoria-barsch-in-sekt-dill-sosse/</link>
+        </image>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>portugisisch on Der Reiskoch</title>
+    <title>portugisisch auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/portugisisch/</link>
-    <description>Recent content in portugisisch on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in portugisisch  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 27 Aug 2017 09:30:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/portugisisch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/restaurants/restaurant-casa-do-jose/</guid>
       <description>Leckere portugiesische Küche in Karlsruhe</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0500/0530/vorspeisenteller_fuer_zwei.jpg</url>
+        <title>Restaurant Casa do José</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-casa-do-jose/</link>
+        </image>
     </item>
     
   </channel>

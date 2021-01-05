@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>getrocknet on Der Reiskoch</title>
+    <title>getrocknet auf Der Reiskoch</title>
     <link>https://der.reisko.ch/tags/getrocknet/</link>
-    <description>Recent content in getrocknet on Der Reiskoch</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in getrocknet  auf Der Reiskoch</description>
+    <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 29 Sep 2020 07:00:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/tags/getrocknet/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +14,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-moo-sawan/</guid>
       <description>Süßliches Fleisch aus dem Dörrautomaten</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0100/0122/moo_sawan.jpg</url>
+        <title>Thailändisches Moo Sawan</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-moo-sawan/</link>
+        </image>
     </item>
     
     <item>
@@ -23,6 +28,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendischer-plaa-salmon-dad-deaw/</guid>
       <description>Auch Lachs lässt sich trocknen</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0925/plaa_salmom_dad_daew_mit_nam_jim_seafood.jpg</url>
+        <title>Thailändischer Plaa Salmon Dad Deaw</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-plaa-salmon-dad-deaw/</link>
+        </image>
     </item>
     
     <item>
@@ -32,6 +42,11 @@
       
       <guid>https://der.reisko.ch/rezepte/thailaendisches-moo-dad-deaw/</guid>
       <description>Frittiertes getrocknetes Schweinefleisch</description>
+      <image>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0916/moo_dad_deaw_und_nam_jim_jeaw.jpg</url>
+        <title>Thailändisches Moo Dad Deaw</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-moo-dad-deaw/</link>
+        </image>
     </item>
     
   </channel>
