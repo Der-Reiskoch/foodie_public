@@ -1,291 +1,2049 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" >
   <channel>
     <title>Der Reiskoch</title>
     <link>https://der.reisko.ch/</link>
-    <description>Recent content  auf Der Reiskoch</description>
+    <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 06 Jan 2021 06:55:00 +0200</lastBuildDate><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Das Buch &#34;Asia Street Bowls&#34;</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</guid>
-      <description>Meine liebsten Kochbücher</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/asia_street_bowls.jpg</url>
-        <title>Das Buch &#34;Asia Street Bowls&#34;</title>
-        <link>https://der.reisko.ch/inspirationen/buecher/asia-street-bowls/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Bücher</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/</guid>
-      <description>Meine liebsten Kochbücher</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/asia_street_bowls.jpg</url>
-        <title>Bücher</title>
-        <link>https://der.reisko.ch/inspirationen/buecher/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Thai Küche und ihre Rezepte</title>
-      <link>https://der.reisko.ch/inspirationen/gruppen/thai-kueche-und-ihre-rezepte/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/gruppen/thai-kueche-und-ihre-rezepte/</guid>
-      <description>Meine liebsten Facebookgruppen</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/thai_kueche_und_ihre_rezepte.jpg</url>
-        <title>Thai Küche und ihre Rezepte</title>
-        <link>https://der.reisko.ch/inspirationen/gruppen/thai-kueche-und-ihre-rezepte/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Das Buch &#34;Asia Street Food&#34;</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</guid>
-      <description>Meine liebsten Kochbücher</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/asia_street_food.jpg</url>
-        <title>Das Buch &#34;Asia Street Food&#34;</title>
-        <link>https://der.reisko.ch/inspirationen/buecher/asia-street-food/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Blogs</title>
-      <link>https://der.reisko.ch/inspirationen/blogs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/blogs/</guid>
-      <description>Meine liebsten Blogs</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/asia-street-food.jpg</url>
-        <title>Blogs</title>
-        <link>https://der.reisko.ch/inspirationen/blogs/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Das Buch &#34;Basic Thai&#34;</title>
-      <link>https://der.reisko.ch/inspirationen/buecher/basic-thai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/buecher/basic-thai/</guid>
-      <description>Meine liebsten Kochbücher</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_kochbuch/basic_thai.jpg</url>
-        <title>Das Buch &#34;Basic Thai&#34;</title>
-        <link>https://der.reisko.ch/inspirationen/buecher/basic-thai/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Dokumentationen</title>
-      <link>https://der.reisko.ch/inspirationen/dokus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/dokus/</guid>
-      <description>Dokus und Serien</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/eating-thailand.jpg</url>
-        <title>Dokumentationen</title>
-        <link>https://der.reisko.ch/inspirationen/dokus/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Facebookgruppen</title>
-      <link>https://der.reisko.ch/inspirationen/gruppen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/inspirationen/gruppen/</guid>
-      <description>Meine liebsten Facebookgruppen</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_links/thai_kueche_und_ihre_rezepte.jpg</url>
-        <title>Facebookgruppen</title>
-        <link>https://der.reisko.ch/inspirationen/gruppen/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Fotoalbum 2021</title>
-      <link>https://der.reisko.ch/fotoalbum/2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2021/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-      <image>
+    <lastBuildDate>Wed, 06 Jan 2021 06:55:00 +0200</lastBuildDate>
+    <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg</url>
-        <title>Fotoalbum 2021</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Thaifood 2021</title>
-      <link>https://der.reisko.ch/thaifood/fotos/2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaifood/fotos/2021/</guid>
-      <description>Thailändisches Gericht des Tages</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210104/pad_goong_und_chu_chee_plaa.jpg</url>
-        <title>Thaifood 2021</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Fotoalbum 2020</title>
-      <link>https://der.reisko.ch/fotoalbum/2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2020/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20200101_beer_lao.jpg</url>
-        <title>Fotoalbum 2020</title>
-        <link>https://der.reisko.ch/fotoalbum/2020/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Mittagspause 2020</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2020/</guid>
-      <description>Heute in der Mittagspause</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2020/20200107_udon_nudeln_mit_hack_und_gemuese.jpg</url>
-        <title>Mittagspause 2020</title>
-        <link>https://der.reisko.ch/mittagspause/fotos/2020/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Thaifood 2020</title>
-      <link>https://der.reisko.ch/thaifood/fotos/2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaifood/fotos/2020/</guid>
-      <description>Thailändisches Gericht des Tages</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2020/20200208_gaeng_massaman_nuea_bei_freunden.jpg</url>
-        <title>Thaifood 2020</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2020/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Thaipause 2020</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2020/</guid>
-      <description>Thaifood in der Mittagspause</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20200320_kuai_tiao_sen_mi_hed.jpg</url>
-        <title>Thaipause 2020</title>
-        <link>https://der.reisko.ch/thaipause/fotos/2020/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Thailändisches Gericht des Tages</title>
-      <link>https://der.reisko.ch/thaifood/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://der.reisko.ch/thaifood/</guid>
-      <description>Leckeres Thai Food ohne Rezept</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/0800/0877/20190916_larb_moo.jpg</url>
-        <title>Thailändisches Gericht des Tages</title>
-        <link>https://der.reisko.ch/thaifood/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Fotoalbum 2019</title>
-      <link>https://der.reisko.ch/fotoalbum/2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2019/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2019/20190119_coquilles_saint-jacques_de_normandie.jpg</url>
-        <title>Fotoalbum 2019</title>
-        <link>https://der.reisko.ch/fotoalbum/2019/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Mittagspause 2019</title>
-      <link>https://der.reisko.ch/mittagspause/fotos/2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/mittagspause/fotos/2019/</guid>
-      <description>Heute in der Mittagspause</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2019/20190123_chicken_gong_bao.jpg</url>
-        <title>Mittagspause 2019</title>
-        <link>https://der.reisko.ch/mittagspause/fotos/2019/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Thaifood 2019</title>
-      <link>https://der.reisko.ch/thaifood/fotos/2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaifood/fotos/2019/</guid>
-      <description>Thailändisches Gericht des Tages</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2019/20190328_miang_kham.jpg</url>
-        <title>Thaifood 2019</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2019/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Thaipause 2019</title>
-      <link>https://der.reisko.ch/thaipause/fotos/2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/thaipause/fotos/2019/</guid>
-      <description>Thaifood in der Mittagspause</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2019/20190411_schnelles_pad_see_ew.jpg</url>
-        <title>Thaipause 2019</title>
-        <link>https://der.reisko.ch/thaipause/fotos/2019/</link>
-        </image>
-    </item>
-    
-    <item>
-      <title>Fotoalbum 2018</title>
-      <link>https://der.reisko.ch/fotoalbum/2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://der.reisko.ch/fotoalbum/2018/</guid>
-      <description>Foodie&amp;rsquo;s Fotoalbum</description>
-      <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2018/20180111_auberginen-huhn-turm.jpg</url>
-        <title>Fotoalbum 2018</title>
-        <link>https://der.reisko.ch/fotoalbum/2018/</link>
-        </image>
-    </item>
-    
+        <title>Der Reiskoch</title>
+    </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Geschmorte Pilze mit Pak Choy</title>
+        <link>https://der.reisko.ch/rezepte/geschmorte-pilze-mit-pak-choy/</link>
+        <pubDate>Wed, 06 Jan 2021 06:55:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/geschmorte-pilze-mit-pak-choy/</guid>
+        <description>Ein leckeres chinesisches Gericht: Geschmorte Pilze mit Pak Choy</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0977/geschmorte_pilze_mit_pak_choy.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0977/geschmorte_pilze_mit_pak_choy.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Dwaejigogi Bulgogi im Dolsot</title>
+        <link>https://der.reisko.ch/rezepte/dwaejigogi-bulgogi-im-dolsot/</link>
+        <pubDate>Tue, 05 Jan 2021 06:41:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/dwaejigogi-bulgogi-im-dolsot/</guid>
+        <description>Schweinebauch im Steintopf: Dwaejigogi Bulgogi im Dolsot</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0962/dwaejigogi_bulgogi.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0962/dwaejigogi_bulgogi.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Chu Chee Plaa und Pad Goong</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/01/04/</link>
+        <pubDate>Mon, 04 Jan 2021 00:00:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/01/04/</guid>
+        <description>Thailändisches Gericht des Tages: Chu Chee Plaa und Pad Goong</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210104/pad_goong_und_chu_chee_plaa.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210104/pad_goong_und_chu_chee_plaa.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Dicke Nudelsuppe aus Resten</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/01/04/</link>
+        <pubDate>Mon, 04 Jan 2021 00:00:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/01/04/</guid>
+        <description>Foodie’s Fotoalbum: Dicke Nudelsuppe aus Resten</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Hoi Lai Pad Nam Prik Pao &#34;Chao Wang&#34;</title>
+        <link>https://der.reisko.ch/rezepte/hoi-lay-nam-prik-pao-chao-wang/</link>
+        <pubDate>Sun, 03 Jan 2021 11:30:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/hoi-lay-nam-prik-pao-chao-wang/</guid>
+        <description>In thailändischer Chilipaste gebratene Jakobsmuscheln: Hoi Lai Pad Nam Prik Pao &#34;Chao Wang&#34;</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0974/hoi_lay_nam_prik_pao_chao_wang.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0974/hoi_lay_nam_prik_pao_chao_wang.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Het Khem Thong Phan Bacon Yang</title>
+        <link>https://der.reisko.ch/nachgekocht/het-khem-thong-phan-bacon-yang/</link>
+        <pubDate>Sun, 03 Jan 2021 05:41:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/nachgekocht/het-khem-thong-phan-bacon-yang/</guid>
+        <description>Leckere Hotpot Resteverwertung: Het Khem Thong Phan Bacon Yang</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0973/teller.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0973/teller.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Gaeng Panaeng Gai</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/01/03/</link>
+        <pubDate>Sun, 03 Jan 2021 00:00:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/01/03/</guid>
+        <description>Thailändisches Gericht des Tages: Gaeng Panaeng Gai</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210103_gaeng_panaeng_gai_3.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210103_gaeng_panaeng_gai_3.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Thailändisches Pad See Ew Moo</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-pad-see-ew-moo/</link>
+        <pubDate>Sat, 02 Jan 2021 06:33:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/thailaendisches-pad-see-ew-moo/</guid>
+        <description>Ein schnelles Wok Gericht: Thailändisches Pad See Ew Moo</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0971/pad_see_ew_moo.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0971/pad_see_ew_moo.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Moo Kata mit ein paar guten Tipps</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendisches-moo-kata-mit-tipps/</link>
+        <pubDate>Fri, 01 Jan 2021 06:41:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/nachgekocht/thailaendisches-moo-kata-mit-tipps/</guid>
+        <description>Hotpot mit Rezepten von Moriginal Thai: Moo Kata mit ein paar guten Tipps</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0972/moo_kata.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0972/moo_kata.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Moo Dad Deaw mit Nam Jim Jaew</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2020/12/30/</link>
+        <pubDate>Wed, 30 Dec 2020 19:24:09 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2020/12/30/</guid>
+        <description>Thailändisches Gericht des Tages: Moo Dad Deaw mit Nam Jim Jaew</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2020/20201230_moo_dad_deaw_mit_nam_jim_jaew.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2020/20201230_moo_dad_deaw_mit_nam_jim_jaew.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Thailändisches Plaa Muek Pad Nam Prik Pao</title>
+        <link>https://der.reisko.ch/rezepte/thailaendisches-plaa-muek-nam-prik-pao/</link>
+        <pubDate>Wed, 30 Dec 2020 05:30:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/thailaendisches-plaa-muek-nam-prik-pao/</guid>
+        <description>In Chilipaste gebratener Tintenfisch: Thailändisches Plaa Muek Pad Nam Prik Pao</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0969/plaa_muek_pad_nam_prik_pao.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0969/plaa_muek_pad_nam_prik_pao.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Chinesisches Hackfleisch in Bohnensoße</title>
+        <link>https://der.reisko.ch/rezepte/chinesisches-hackfleisch-in-bohnensosse/</link>
+        <pubDate>Tue, 29 Dec 2020 16:09:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/chinesisches-hackfleisch-in-bohnensosse/</guid>
+        <description>Ein schnelles Umami Gericht: Chinesisches Hackfleisch in Bohnensoße</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0968/hackfleisch_in_bohnensosse.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0968/hackfleisch_in_bohnensosse.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Meine Foodblog Bilanz 2020</title>
+        <link>https://der.reisko.ch/dies-und-das/die-foodblog-bilanz-2020/</link>
+        <pubDate>Tue, 29 Dec 2020 06:21:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/dies-und-das/die-foodblog-bilanz-2020/</guid>
+        <description>Ein Blick auf ein verrücktes Jahr: Meine Foodblog Bilanz 2020</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0967/collage.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0967/collage.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Spinat-Pfanne mit Sucuk und Ei</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/12/28/</link>
+        <pubDate>Mon, 28 Dec 2020 20:03:09 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2020/12/28/</guid>
+        <description>Foodie&amp;rsquo;s Fotoalbum: Spinat-Pfanne mit Sucuk und Ei</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201228_spinat_pfanne.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201228_spinat_pfanne.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Tortillas nach Al-Pastor Art</title>
+        <link>https://der.reisko.ch/rezepte/tortillas-nach-al-pastor-art/</link>
+        <pubDate>Mon, 28 Dec 2020 06:04:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/tortillas-nach-al-pastor-art/</guid>
+        <description>Mexikanisch auf der MooVita: Tortillas nach Al-Pastor Art</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0963/taco_al_pastor.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0963/taco_al_pastor.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Mexikanische Guacamole</title>
+        <link>https://der.reisko.ch/rezepte/mexikanische-guacamole/</link>
+        <pubDate>Sun, 27 Dec 2020 10:14:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/mexikanische-guacamole/</guid>
+        <description>Leckerer Avocado Dip: Mexikanische Guacamole</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0966/guacamole_fertig.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0966/guacamole_fertig.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Lachs mit Kartoffeln</title>
+        <link>https://der.reisko.ch/fotoalbum/2020/12/26/</link>
+        <pubDate>Sat, 26 Dec 2020 20:03:09 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2020/12/26/</guid>
+        <description>Foodie&amp;rsquo;s Fotoalbum: Lachs mit Kartoffeln</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201226_lachs_mit_kartoffeln.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201226_lachs_mit_kartoffeln.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Gaeng Kiaw Wan Plaa</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2020/12/23/</link>
+        <pubDate>Wed, 23 Dec 2020 19:24:09 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2020/12/23/</guid>
+        <description>Thailändisches Gericht des Tages: Gaeng Kiaw Wan Plaa</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2020/20201223_gaeng_kiaw_wan_plaa.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2020/20201223_gaeng_kiaw_wan_plaa.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Pad Kra Pao Plaa Muek Hed</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2020/12/23/</link>
+        <pubDate>Wed, 23 Dec 2020 13:00:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaipause/fotos/2020/12/23/</guid>
+        <description>Thailändisches Gericht des Tages: Pad Kra Pao Plaa Muek Hed</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20201223_pad_kra_pao_plaa_muek_hed.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2020/20201223_pad_kra_pao_plaa_muek_hed.jpg" length="10000" type="image/jpeg" />
+      </item>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
   </channel>
 </rss>
