@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 06 Jan 2021 16:44:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 13:33:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Thailändisches Khai Khon Mara</title>
+        <link>https://der.reisko.ch/rezepte/0978_thailaendisches-khai-khon-mara/</link>
+        <pubDate>Thu, 07 Jan 2021 13:33:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/0978_thailaendisches-khai-khon-mara/</guid>
+        <description>Schnelles Rührei mit Bittergurke: Thailändisches Khai Khon Mara</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0978/khai_khon_mara.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0978/khai_khon_mara.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Drei Hefe Könige zu Besuch</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201226_lachs_mit_kartoffeln.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Gaeng Kiaw Wan Plaa</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2020/12/23/</link>
-        <pubDate>Wed, 23 Dec 2020 19:24:09 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2020/12/23/</guid>
-        <description>Thailändisches Gericht des Tages: Gaeng Kiaw Wan Plaa</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2020/20201223_gaeng_kiaw_wan_plaa.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2020/20201223_gaeng_kiaw_wan_plaa.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
