@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Pad Kra Pao Moo Sap</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/01/07/</link>
+        <pubDate>Thu, 07 Jan 2021 22:24:09 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/01/07/</guid>
+        <description>Thailändisches Gericht des Tages: Pad Kra Pao Moo Sap</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210107_pad_kra_pao_moo_sap.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210107_pad_kra_pao_moo_sap.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Thailändisches Khai Khon Mara</title>
         <link>https://der.reisko.ch/rezepte/thailaendisches-khai-khon-mara/</link>
         <pubDate>Thu, 07 Jan 2021 13:33:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0966/guacamole_fertig.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Lachs mit Kartoffeln</title>
-        <link>https://der.reisko.ch/fotoalbum/2020/12/26/</link>
-        <pubDate>Sat, 26 Dec 2020 20:03:09 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2020/12/26/</guid>
-        <description>Foodie&amp;rsquo;s Fotoalbum: Lachs mit Kartoffeln</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201226_lachs_mit_kartoffeln.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201226_lachs_mit_kartoffeln.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
