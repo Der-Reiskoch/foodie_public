@@ -6,7 +6,7 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 09 Jan 2021 08:13:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jan 2021 06:21:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg</url>
         <title>Der Reiskoch</title>
@@ -29,6 +29,25 @@
           height="450"
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210110_gaeng_phed_moo_sap.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Thai Menü zu meinem Geburtstag</title>
+        <link>https://der.reisko.ch/dies-und-das/thai-menu-zu-meinem-geburtstag/</link>
+        <pubDate>Sun, 10 Jan 2021 06:21:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/dies-und-das/thai-menu-zu-meinem-geburtstag/</guid>
+        <description>Drei Gerichte in kleinster Runde: Thai Menü zu meinem Geburtstag</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0979/geschenke.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0979/geschenke.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0967/collage.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Spinat-Pfanne mit Sucuk und Ei</title>
-        <link>https://der.reisko.ch/fotoalbum/2020/12/28/</link>
-        <pubDate>Mon, 28 Dec 2020 20:03:09 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2020/12/28/</guid>
-        <description>Foodie&amp;rsquo;s Fotoalbum: Spinat-Pfanne mit Sucuk und Ei</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201228_spinat_pfanne.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2020/20201228_spinat_pfanne.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
