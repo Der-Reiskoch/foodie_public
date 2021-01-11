@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 11 Jan 2021 06:21:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 14:55:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Nudelpfanne mit Gemüse</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2021/01/11/</link>
+        <pubDate>Mon, 11 Jan 2021 14:55:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/fotos/2021/01/11/</guid>
+        <description>Heute in der Mittagspause: Nudelpfanne mit Gemüse</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210111_nudelpfanne_mit_gemuese.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210111_nudelpfanne_mit_gemuese.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Thai Geschenke zu meinem Geburtstag</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0968/hackfleisch_in_bohnensosse.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Meine Foodblog Bilanz 2020</title>
-        <link>https://der.reisko.ch/dies-und-das/die-foodblog-bilanz-2020/</link>
-        <pubDate>Tue, 29 Dec 2020 06:21:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/dies-und-das/die-foodblog-bilanz-2020/</guid>
-        <description>Ein Blick auf ein verrücktes Jahr: Meine Foodblog Bilanz 2020</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0967/collage.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0967/collage.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
