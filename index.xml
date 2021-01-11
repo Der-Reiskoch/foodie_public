@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 10 Jan 2021 06:21:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 06:21:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Thai Menü zu meinem Geburtstag</title>
+        <link>https://der.reisko.ch/dies-und-das/thai-menu-zu-meinem-geburtstag/</link>
+        <pubDate>Mon, 11 Jan 2021 06:21:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/dies-und-das/thai-menu-zu-meinem-geburtstag/</guid>
+        <description>Drei Gerichte in kleinster Runde: Thai Menü zu meinem Geburtstag</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0979/geschenke.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0979/geschenke.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Gaeng Phed Moo Sap</title>
@@ -29,25 +48,6 @@
           height="450"
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210110_gaeng_phed_moo_sap.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
-        <title>Thai Menü zu meinem Geburtstag</title>
-        <link>https://der.reisko.ch/dies-und-das/thai-menu-zu-meinem-geburtstag/</link>
-        <pubDate>Sun, 10 Jan 2021 06:21:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/dies-und-das/thai-menu-zu-meinem-geburtstag/</guid>
-        <description>Drei Gerichte in kleinster Runde: Thai Menü zu meinem Geburtstag</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0979/geschenke.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0979/geschenke.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
