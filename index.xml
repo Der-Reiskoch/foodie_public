@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Yam Woon Sen</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/01/12/</link>
+        <pubDate>Tue, 12 Jan 2021 19:24:09 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/01/12/</guid>
+        <description>Thailändisches Gericht des Tages: Yam Woon Sen</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210112_yam_woon_sen.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210112_yam_woon_sen.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Nudelpfanne mit Gemüse</title>
         <link>https://der.reisko.ch/mittagspause/fotos/2021/01/11/</link>
         <pubDate>Mon, 11 Jan 2021 14:55:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0969/plaa_muek_pad_nam_prik_pao.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Chinesisches Hackfleisch in Bohnensoße</title>
-        <link>https://der.reisko.ch/rezepte/chinesisches-hackfleisch-in-bohnensosse/</link>
-        <pubDate>Tue, 29 Dec 2020 16:09:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/chinesisches-hackfleisch-in-bohnensosse/</guid>
-        <description>Ein schnelles Umami Gericht: Chinesisches Hackfleisch in Bohnensoße</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0968/hackfleisch_in_bohnensosse.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0968/hackfleisch_in_bohnensosse.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
