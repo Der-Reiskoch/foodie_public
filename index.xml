@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 11 Jan 2021 06:21:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jan 2021 06:48:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Jungle Curry mit Kräutern</title>
+        <link>https://der.reisko.ch/rezepte/jungle-curry-mit-kraeutern/</link>
+        <pubDate>Thu, 14 Jan 2021 06:48:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/jungle-curry-mit-kraeutern/</guid>
+        <description>Ohne Kokosmilch und trotzdem lecker: Jungle Curry mit Kräutern</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0980/jungle_curry_mit_kraeutern.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0980/jungle_curry_mit_kraeutern.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Chinesische gebratene Nudeln</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0972/moo_kata.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Moo Dad Deaw mit Nam Jim Jaew</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2020/12/30/</link>
-        <pubDate>Wed, 30 Dec 2020 19:24:09 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2020/12/30/</guid>
-        <description>Thailändisches Gericht des Tages: Moo Dad Deaw mit Nam Jim Jaew</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2020/20201230_moo_dad_deaw_mit_nam_jim_jaew.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2020/20201230_moo_dad_deaw_mit_nam_jim_jaew.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
