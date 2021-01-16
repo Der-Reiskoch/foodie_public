@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Ova Elixa und Khai Luk Koei</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/01/16/</link>
+        <pubDate>Sat, 16 Jan 2021 21:48:09 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/01/16/</guid>
+        <description>Thailändisches Gericht des Tages: Ova Elixa und Khai Luk Koei</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210116_ova_elixa_und_khai_luk_koei.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210116_ova_elixa_und_khai_luk_koei.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Rotes Thai Curry mit Gemüse</title>
         <link>https://der.reisko.ch/rezepte/rotes-thai-curry-mit-gemuese/</link>
         <pubDate>Sat, 16 Jan 2021 10:41:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0973/teller.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Gaeng Panaeng Gai</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/01/03/</link>
-        <pubDate>Sun, 03 Jan 2021 00:00:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/01/03/</guid>
-        <description>Thailändisches Gericht des Tages: Gaeng Panaeng Gai</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210103_gaeng_panaeng_gai_3.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210103_gaeng_panaeng_gai_3.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
