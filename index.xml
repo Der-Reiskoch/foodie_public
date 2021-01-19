@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Pad Thua Tao Hu Tao Jiew</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2021/01/19/</link>
+        <pubDate>Tue, 19 Jan 2021 20:00:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaipause/fotos/2021/01/19/</guid>
+        <description>Thaifood in der Mittagspause: Pad Thua Tao Hu Tao Jiew</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210119_bohnen_und_tofu.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210119_bohnen_und_tofu.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Gebratene japanische Auberginen</title>
         <link>https://der.reisko.ch/rezepte/gebratene-japanische-auberginen/</link>
         <pubDate>Tue, 19 Jan 2021 06:33:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210104/pad_goong_und_chu_chee_plaa.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Dicke Nudelsuppe aus Resten</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/01/04/</link>
-        <pubDate>Mon, 04 Jan 2021 00:00:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/01/04/</guid>
-        <description>Foodie’s Fotoalbum: Dicke Nudelsuppe aus Resten</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
