@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 17 Jan 2021 13:09:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 06:33:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Gebratene japanische Auberginen</title>
+        <link>https://der.reisko.ch/rezepte/gebratene-japanische-auberginen/</link>
+        <pubDate>Tue, 19 Jan 2021 06:33:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/gebratene-japanische-auberginen/</guid>
+        <description>Ein schnelles und einfaches Gericht: Gebratene japanische Auberginen</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0959/gebratene_japanische_auberginen.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0959/gebratene_japanische_auberginen.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Khao Pad Goong nach Maureena</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Hoi Lai Pad Nam Prik Pao &#34;Chao Wang&#34;</title>
-        <link>https://der.reisko.ch/rezepte/hoi-lay-nam-prik-pao-chao-wang/</link>
-        <pubDate>Sun, 03 Jan 2021 11:30:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/hoi-lay-nam-prik-pao-chao-wang/</guid>
-        <description>In thailändischer Chilipaste gebratene Jakobsmuscheln: Hoi Lai Pad Nam Prik Pao &#34;Chao Wang&#34;</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0974/hoi_lay_nam_prik_pao_chao_wang.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0974/hoi_lay_nam_prik_pao_chao_wang.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
