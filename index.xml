@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 19 Jan 2021 06:33:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 05:18:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Rad Na Mee Udon Grob</title>
+        <link>https://der.reisko.ch/mittagspause/rad-na-mee-udon-grob/</link>
+        <pubDate>Fri, 22 Jan 2021 05:18:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/rad-na-mee-udon-grob/</guid>
+        <description>Dicke Soße auf frittierten Nudeln: Rad Na Mee Udon Grob</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0984/rad_na_mee_udon_grob.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0984/rad_na_mee_udon_grob.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Pad Thua Tao Hu Tao Jiew</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0962/dwaejigogi_bulgogi.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Chu Chee Plaa und Pad Goong</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/01/04/</link>
-        <pubDate>Mon, 04 Jan 2021 00:00:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/01/04/</guid>
-        <description>Thailändisches Gericht des Tages: Chu Chee Plaa und Pad Goong</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210104/pad_goong_und_chu_chee_plaa.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210104/pad_goong_und_chu_chee_plaa.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
