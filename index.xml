@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 23 Jan 2021 09:41:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 14:41:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Thailändischer Larb Gai Tord</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendischer-larb-gai-tord/</link>
+        <pubDate>Sun, 24 Jan 2021 14:41:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/nachgekocht/thailaendischer-larb-gai-tord/</guid>
+        <description>Der leckere Salat in Frikadellen Form: Thailändischer Larb Gai Tord</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0985/larb_gai_tord.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0985/larb_gai_tord.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Nam Ya Gai und Pad Kra Pao</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0920/khanom_jeeb_moo_sap_kra_pao.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Pad Kra Pao Moo Sap</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/01/07/</link>
-        <pubDate>Thu, 07 Jan 2021 22:24:09 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/01/07/</guid>
-        <description>Thailändisches Gericht des Tages: Pad Kra Pao Moo Sap</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210107_pad_kra_pao_moo_sap.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210107_pad_kra_pao_moo_sap.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
