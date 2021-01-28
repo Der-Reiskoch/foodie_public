@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Som Tam Moo Yor</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/01/28/</link>
+        <pubDate>Thu, 28 Jan 2021 19:48:09 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/01/28/</guid>
+        <description>Thailändisches Gericht des Tages: Som Tam Moo Yor</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210128_som_tam_moo_yor.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210128_som_tam_moo_yor.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Foodie Mittagessen mit Thai Food</title>
         <link>https://der.reisko.ch/thaipause/fotos/2021/01/28/</link>
         <pubDate>Thu, 28 Jan 2021 14:00:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0980/jungle_curry_mit_kraeutern.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Chinesische gebratene Nudeln</title>
-        <link>https://der.reisko.ch/mittagspause/fotos/2021/01/13/</link>
-        <pubDate>Wed, 13 Jan 2021 12:55:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/mittagspause/fotos/2021/01/13/</guid>
-        <description>Heute in der Mittagspause: Chinesische gebratene Nudeln</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210113_chinesische_nudeln.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210113_chinesische_nudeln.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
