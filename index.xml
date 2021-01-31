@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 31 Jan 2021 06:21:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 16:04:09 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Khanom Bang Na Moo Goong</title>
+        <link>https://der.reisko.ch/nachgekocht/khanom_bang_na_moo_goong/</link>
+        <pubDate>Sun, 31 Jan 2021 16:04:09 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/nachgekocht/khanom_bang_na_moo_goong/</guid>
+        <description>Frittierter Thai Toast als Snack: Khanom Bang Na Moo Goong</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0989/khanom_bang_na_moo_goong.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0989/khanom_bang_na_moo_goong.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Pandemische Geburtstagsfeier</title>
@@ -341,7 +360,7 @@
         <pubDate>Sun, 17 Jan 2021 13:09:00 +0200</pubDate>
         
         <guid>https://der.reisko.ch/nachgekocht/khao-pad-goong-nach-maureena/</guid>
-        <description>Das erste Livecooking 2021: Khao Pad Goong nach Maureena</description>
+        <description>Das erste Live Cooking 2021: Khao Pad Goong nach Maureena</description>
         <content>Blub</content>
         <media:content 
           xmlns:media="http://search.yahoo.com/mrss/" 
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0983/khai_pad_goog_mit_khai_dao.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Ova Elixa und Khai Luk Koei</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/01/16/</link>
-        <pubDate>Sat, 16 Jan 2021 21:48:09 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/01/16/</guid>
-        <description>Thailändisches Gericht des Tages: Ova Elixa und Khai Luk Koei</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210116_ova_elixa_und_khai_luk_koei.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210116_ova_elixa_und_khai_luk_koei.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
