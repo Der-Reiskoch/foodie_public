@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Grünes Curry und Som Tam Mamuang</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/01/31/</link>
+        <pubDate>Sun, 31 Jan 2021 21:48:09 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/01/31/</guid>
+        <description>Thailändisches Gericht des Tages: Grünes Curry und Som Tam Mamuang</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210131_som_tam_und_gruenes_curry.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210131_som_tam_und_gruenes_curry.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Khanom Bang Na Moo Goong</title>
         <link>https://der.reisko.ch/nachgekocht/khanom_bang_na_moo_goong/</link>
         <pubDate>Sun, 31 Jan 2021 16:04:09 +0200</pubDate>
@@ -51,12 +70,12 @@
       </item>
 				
       <item>
-        <title>Som Tam Mamuang und Nam Ya Gai </title>
+        <title>Som Tam Mamuang und Nam Ya Gai</title>
         <link>https://der.reisko.ch/thaifood/fotos/2021/01/29/</link>
         <pubDate>Fri, 29 Jan 2021 21:48:09 +0200</pubDate>
         
         <guid>https://der.reisko.ch/thaifood/fotos/2021/01/29/</guid>
-        <description>Thailändisches Gericht des Tages: Som Tam Mamuang und Nam Ya Gai </description>
+        <description>Thailändisches Gericht des Tages: Som Tam Mamuang und Nam Ya Gai</description>
         <content>Blub</content>
         <media:content 
           xmlns:media="http://search.yahoo.com/mrss/" 
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0959/gebratene_japanische_auberginen.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Khao Pad Goong nach Maureena</title>
-        <link>https://der.reisko.ch/nachgekocht/khao-pad-goong-nach-maureena/</link>
-        <pubDate>Sun, 17 Jan 2021 13:09:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/nachgekocht/khao-pad-goong-nach-maureena/</guid>
-        <description>Das erste Live Cooking 2021: Khao Pad Goong nach Maureena</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0983/khai_pad_goog_mit_khai_dao.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0983/khai_pad_goog_mit_khai_dao.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
