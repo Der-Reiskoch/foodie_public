@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 03 Feb 2021 05:21:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 17:55:00 +0200</lastBuildDate>
     <image>
-        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210104_dicke_nudelsuppe.jpg</url>
+        <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Sichuan-Pfanne mit Pilzen</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2021/02/03/</link>
+        <pubDate>Wed, 03 Feb 2021 17:55:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/fotos/2021/02/03/</guid>
+        <description>Heute in der Mittagspause: Sichuan-Pfanne mit Pilzen</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210203_sichuan-pfanne.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210203_sichuan-pfanne.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Selbstgemachte Tacos bei Arek</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210122_gebratene_chilinudeln.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Rad Na Mee Udon Grob</title>
-        <link>https://der.reisko.ch/mittagspause/rad-na-mee-udon-grob/</link>
-        <pubDate>Fri, 22 Jan 2021 05:18:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/mittagspause/rad-na-mee-udon-grob/</guid>
-        <description>Dicke Soße auf frittierten Nudeln: Rad Na Mee Udon Grob</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0984/rad_na_mee_udon_grob.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0984/rad_na_mee_udon_grob.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			

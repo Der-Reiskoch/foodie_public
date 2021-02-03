@@ -185,7 +185,27 @@
   
   <url>
     <loc>https://der.reisko.ch/</loc>
-    <lastmod>2021-02-03T05:21:00+02:00</lastmod>
+    <lastmod>2021-02-03T17:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/mittagspause/</loc>
+    <lastmod>2021-02-03T17:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/mittagspause/fotos/</loc>
+    <lastmod>2021-02-03T17:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/mittagspause/fotos/2021/</loc>
+    <lastmod>2021-02-03T17:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/mittagspause/fotos/2021/02/03/</loc>
+    <lastmod>2021-02-03T17:55:00+02:00</lastmod>
   </url>
   
   <url>
@@ -284,6 +304,21 @@
   </url>
   
   <url>
+    <loc>https://der.reisko.ch/thaipause/</loc>
+    <lastmod>2021-01-29T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/thaipause/fotos/</loc>
+    <lastmod>2021-01-29T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/thaipause/fotos/2021/</loc>
+    <lastmod>2021-01-29T18:21:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/thaifood/fotos/2021/01/28/</loc>
     <lastmod>2021-01-28T19:48:09+02:00</lastmod>
   </url>
@@ -296,6 +331,16 @@
   <url>
     <loc>https://der.reisko.ch/thaipause/fotos/2021/01/26/</loc>
     <lastmod>2021-01-26T14:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/fotoalbum/</loc>
+    <lastmod>2021-01-25T21:04:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/fotoalbum/2021/</loc>
+    <lastmod>2021-01-25T21:04:09+02:00</lastmod>
   </url>
   
   <url>
@@ -351,11 +396,6 @@
   <url>
     <loc>https://der.reisko.ch/mittagspause/fotos/2021/01/22/</loc>
     <lastmod>2021-01-22T13:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/mittagspause/</loc>
-    <lastmod>2021-01-22T05:18:00+02:00</lastmod>
   </url>
   
   <url>
@@ -604,21 +644,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/fotoalbum/</loc>
-    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/mittagspause/fotos/</loc>
-    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/thaipause/</loc>
-    <lastmod>2021-01-01T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/thaifood/</loc>
     <lastmod>2021-01-01T00:00:00+02:00</lastmod>
   </url>
@@ -690,11 +715,6 @@
   
   <url>
     <loc>https://der.reisko.ch/thaipause/fotos/2020/</loc>
-    <lastmod>2020-12-23T13:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/thaipause/fotos/</loc>
     <lastmod>2020-12-23T13:00:00+02:00</lastmod>
   </url>
   
@@ -10689,26 +10709,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/fotoalbum/2021/01/</loc>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/mittagspause/fotos/2021/01/</loc>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/mittagspause/fotos/2021/02/</loc>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/thaifood/fotos/2021/01/</loc>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/thaipause/fotos/2021/01/</loc>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/nicht-gefunden/</loc>
   </url>
   
@@ -11038,6 +11038,10 @@
   
   <url>
     <loc>https://der.reisko.ch/thaifood/fotos/2020/</loc>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/thaifood/fotos/2021/</loc>
   </url>
   
   <url>
