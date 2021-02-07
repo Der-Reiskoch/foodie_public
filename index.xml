@@ -51,25 +51,6 @@
       </item>
 				
       <item>
-        <title>Großer Mörser für Currypasten</title>
-        <link>https://der.reisko.ch/utensilien/grosser-moerser-fur-currypasten/</link>
-        <pubDate>Fri, 05 Feb 2021 07:23:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/utensilien/grosser-moerser-fur-currypasten/</guid>
-        <description>Mörsern in der Schwergewichtsklasse: Großer Mörser für Currypasten</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0982/grosser_moerser.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0982/grosser_moerser.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
         <title>Leckeres selbstgebackenes Brot</title>
         <link>https://der.reisko.ch/fotoalbum/2021/02/04/</link>
         <pubDate>Thu, 04 Feb 2021 13:55:00 +0200</pubDate>
@@ -372,7 +353,25 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0986/tashreeb.jpg" length="10000" type="image/jpeg" />
       </item>
-			
+				
+      <item>
+        <title>Thailändischer Larb Gai Tord</title>
+        <link>https://der.reisko.ch/nachgekocht/thailaendischer-larb-gai-tord/</link>
+        <pubDate>Sun, 24 Jan 2021 14:41:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/nachgekocht/thailaendischer-larb-gai-tord/</guid>
+        <description>Der leckere Salat in Frikadellen Form: Thailändischer Larb Gai Tord</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0985/larb_gai_tord.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0985/larb_gai_tord.jpg" length="10000" type="image/jpeg" />
+      </item>
 			
 			
 			
