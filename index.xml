@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 09 Feb 2021 12:52:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 15:55:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Khanom Jeen Nam Ya</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2021/02/09/</link>
+        <pubDate>Tue, 09 Feb 2021 15:55:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaipause/fotos/2021/02/09/</guid>
+        <description>Thaifood in der Mittagspause: Khanom Jeen Nam Ya</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210209_khanom_jeen_nam_ya.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210209_khanom_jeen_nam_ya.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Cocotte von Carote</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210128/drei_gerichte.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Pad Kra Pao Moo Sap</title>
-        <link>https://der.reisko.ch/thaipause/fotos/2021/01/26/</link>
-        <pubDate>Tue, 26 Jan 2021 14:00:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaipause/fotos/2021/01/26/</guid>
-        <description>Thaifood in der Mittagspause: Pad Kra Pao Moo Sap</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210126_pad_kra_pao_moo_sap.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210126_pad_kra_pao_moo_sap.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
