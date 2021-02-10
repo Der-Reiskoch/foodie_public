@@ -193,13 +193,13 @@
         <content>Blub</content>
         <media:content 
           xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20200203_scharfes_gebratenes_rindfleisch.jpg" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210203_scharfes_gebratenes_rindfleisch.jpg" 
           medium="image" 
           type="image/jpeg" 
           width="600" 
           height="450"
         />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20200203_scharfes_gebratenes_rindfleisch.jpg" length="10000" type="image/jpeg" />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210203_scharfes_gebratenes_rindfleisch.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
