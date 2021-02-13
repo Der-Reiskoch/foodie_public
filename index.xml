@@ -32,6 +32,25 @@
       </item>
 				
       <item>
+        <title>Jungle Curry mit Reis und Pak Choy</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2021/02/12/</link>
+        <pubDate>Fri, 12 Feb 2021 15:28:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaipause/fotos/2021/02/12/</guid>
+        <description>Thaifood in der Mittagspause: Jungle Curry mit Reis und Pak Choy</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210212_jungle_curry_mit_reis_und_pak_choy.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210212_jungle_curry_mit_reis_und_pak_choy.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Abtau Jungle Curry</title>
         <link>https://der.reisko.ch/thaifood/fotos/2021/02/11/</link>
         <pubDate>Thu, 11 Feb 2021 20:21:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210131_som_tam_und_gruenes_curry.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Khanom Bang Na Moo Goong</title>
-        <link>https://der.reisko.ch/nachgekocht/khanom_bang_na_moo_goong/</link>
-        <pubDate>Sun, 31 Jan 2021 16:04:09 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/nachgekocht/khanom_bang_na_moo_goong/</guid>
-        <description>Frittierter Thai Toast als Snack: Khanom Bang Na Moo Goong</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0989/khanom_bang_na_moo_goong.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0989/khanom_bang_na_moo_goong.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
