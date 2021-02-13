@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 11 Feb 2021 15:28:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Feb 2021 09:09:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Großer Mörser für Currypasten</title>
+        <link>https://der.reisko.ch/utensilien/grosser-moerser-fuer-currypasten/</link>
+        <pubDate>Fri, 12 Feb 2021 09:09:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/utensilien/grosser-moerser-fuer-currypasten/</guid>
+        <description>Mörsern in der Schwergewichtsklasse: Großer Mörser für Currypasten</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0982/grosser_moerser.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0982/grosser_moerser.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Abtau Jungle Curry</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0989/khanom_bang_na_moo_goong.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Pandemische Geburtstagsfeier</title>
-        <link>https://der.reisko.ch/dies-und-das/pandemisches_geburtstagsfeiern/</link>
-        <pubDate>Sun, 31 Jan 2021 06:21:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/dies-und-das/pandemisches_geburtstagsfeiern/</guid>
-        <description>Indisches Curry mit Pistazien und dazu Naan: Pandemische Geburtstagsfeier</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0987/curry_mit_pistazien_und_naan.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0987/curry_mit_pistazien_und_naan.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
