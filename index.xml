@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 13 Feb 2021 09:09:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 06:41:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Moo Grob nach Lung Priau</title>
+        <link>https://der.reisko.ch/nachgekocht/moo-grob-nach-lung-priau/</link>
+        <pubDate>Sun, 14 Feb 2021 06:41:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/nachgekocht/moo-grob-nach-lung-priau/</guid>
+        <description>Super Knusprig auch ohne Friteuse: Moo Grob nach Lung Priau</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0992/moo_grob_und_nam_jim_jaew.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0992/moo_grob_und_nam_jim_jaew.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Großer Mörser für Currypasten</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210201_tandoori_chicken_curry.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Grünes Curry und Som Tam Mamuang</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/01/31/</link>
-        <pubDate>Sun, 31 Jan 2021 21:48:09 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/01/31/</guid>
-        <description>Thailändisches Gericht des Tages: Grünes Curry und Som Tam Mamuang</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210131_som_tam_und_gruenes_curry.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210131_som_tam_und_gruenes_curry.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
