@@ -222,22 +222,22 @@
       </item>
 				
       <item>
-        <title>Cocotte von Carote</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/02/09/</link>
-        <pubDate>Tue, 09 Feb 2021 12:52:00 +0200</pubDate>
+        <title>Meine orangefarbene Cocotte</title>
+        <link>https://der.reisko.ch/utensilien/meine-orangefarbene-cocotte/</link>
+        <pubDate>Tue, 09 Feb 2021 10:27:00 +0200</pubDate>
         
-        <guid>https://der.reisko.ch/fotoalbum/2021/02/09/</guid>
-        <description>Foodie’s Fotoalbum: Cocotte von Carote</description>
+        <guid>https://der.reisko.ch/utensilien/meine-orangefarbene-cocotte/</guid>
+        <description>Zum Schmoren und Braten: Meine orangefarbene Cocotte</description>
         <content>Blub</content>
         <media:content 
           xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210209_cocotte_von_carote.jpg" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0994/cocotte_von_carote.jpg" 
           medium="image" 
           type="image/jpeg" 
           width="600" 
           height="450"
         />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210209_cocotte_von_carote.jpg" length="10000" type="image/jpeg" />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0994/cocotte_von_carote.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
