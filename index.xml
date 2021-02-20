@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Kleiner Yam Moo</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/02/20/</link>
+        <pubDate>Sat, 20 Feb 2021 17:48:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/02/20/</guid>
+        <description>Thailändisches Gericht des Tages: Kleiner Yam Moo</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210220_kleiner_yam_moo.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210220_kleiner_yam_moo.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Eingelegter Ingwer selbstgemacht</title>
         <link>https://der.reisko.ch/rezepte/eingelegter-ingwer-selbstgemacht/</link>
         <pubDate>Sat, 20 Feb 2021 09:41:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210208_plaa_muek_pad_nam_prik_pao.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Seua Rong Hai</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/02/07/</link>
-        <pubDate>Sun, 07 Feb 2021 20:21:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/02/07/</guid>
-        <description>Thailändisches Gericht des Tages: Seua Rong Hai</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210207_seua_rong_hai.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210207_seua_rong_hai.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
