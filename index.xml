@@ -32,6 +32,25 @@
       </item>
 				
       <item>
+        <title>Schneller Yam Nuea</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/02/23/</link>
+        <pubDate>Tue, 23 Feb 2021 17:48:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/02/23/</guid>
+        <description>Thailändisches Gericht des Tages: Schneller Yam Nuea</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210223_yam_nuea.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210223_yam_nuea.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Sucuk vom Metzger</title>
         <link>https://der.reisko.ch/fotoalbum/2021/02/22/</link>
         <pubDate>Mon, 22 Feb 2021 18:21:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210210_schweinefleisch_teriyaki.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Nam Tok Moo und Som Tam</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/02/09/</link>
-        <pubDate>Tue, 09 Feb 2021 20:21:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/02/09/</guid>
-        <description>Thailändisches Gericht des Tages: Nam Tok Moo und Som Tam</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210209_nam_tok_moo_und_karotten_som_tam.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210209_nam_tok_moo_und_karotten_som_tam.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
