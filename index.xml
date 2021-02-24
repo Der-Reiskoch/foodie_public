@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 22 Feb 2021 18:21:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2021 07:12:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Leckeres kreolisches Jambalaya</title>
+        <link>https://der.reisko.ch/rezepte/leckeres-kreolisches-jambalaya/</link>
+        <pubDate>Wed, 24 Feb 2021 07:12:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/leckeres-kreolisches-jambalaya/</guid>
+        <description>Deftiges Reisgericht aus dem Süden der USA: Leckeres kreolisches Jambalaya</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0996/kreolisches_jambalaya.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0996/kreolisches_jambalaya.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Sucuk vom Metzger</title>
@@ -51,22 +70,22 @@
       </item>
 				
       <item>
-        <title>Garbanzos con Acelgas</title>
-        <link>https://der.reisko.ch/rezepte/garbanzos-con-acelgas/</link>
-        <pubDate>Sun, 21 Feb 2021 09:12:00 +0200</pubDate>
+        <title>Eingelegter Ingwer selbstgemacht</title>
+        <link>https://der.reisko.ch/rezepte/eingelegter-ingwer-selbstgemacht/</link>
+        <pubDate>Sun, 21 Feb 2021 09:41:00 +0200</pubDate>
         
-        <guid>https://der.reisko.ch/rezepte/garbanzos-con-acelgas/</guid>
-        <description>Spanischer Eintopf mit Kichererbsen und Mangold: Garbanzos con Acelgas</description>
+        <guid>https://der.reisko.ch/rezepte/eingelegter-ingwer-selbstgemacht/</guid>
+        <description>Japanischer Gari im Glas: Eingelegter Ingwer selbstgemacht</description>
         <content>Blub</content>
         <media:content 
           xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0995/garbanzos_con_acelgas.jpg" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0976/gari.jpg" 
           medium="image" 
           type="image/jpeg" 
           width="600" 
           height="450"
         />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0995/garbanzos_con_acelgas.jpg" length="10000" type="image/jpeg" />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0976/gari.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
@@ -89,22 +108,22 @@
       </item>
 				
       <item>
-        <title>Eingelegter Ingwer selbstgemacht</title>
-        <link>https://der.reisko.ch/rezepte/eingelegter-ingwer-selbstgemacht/</link>
-        <pubDate>Sat, 20 Feb 2021 09:41:00 +0200</pubDate>
+        <title>Garbanzos con Acelgas</title>
+        <link>https://der.reisko.ch/rezepte/garbanzos-con-acelgas/</link>
+        <pubDate>Sat, 20 Feb 2021 09:12:00 +0200</pubDate>
         
-        <guid>https://der.reisko.ch/rezepte/eingelegter-ingwer-selbstgemacht/</guid>
-        <description>Japanischer Gari im Glas: Eingelegter Ingwer selbstgemacht</description>
+        <guid>https://der.reisko.ch/rezepte/garbanzos-con-acelgas/</guid>
+        <description>Spanischer Eintopf mit Kichererbsen und Mangold: Garbanzos con Acelgas</description>
         <content>Blub</content>
         <media:content 
           xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0976/gari.jpg" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0995/garbanzos_con_acelgas.jpg" 
           medium="image" 
           type="image/jpeg" 
           width="600" 
           height="450"
         />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0976/gari.jpg" length="10000" type="image/jpeg" />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0995/garbanzos_con_acelgas.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210209_nam_tok_moo_und_karotten_som_tam.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Khanom Jeen Nam Ya Kati</title>
-        <link>https://der.reisko.ch/thaipause/fotos/2021/02/09/</link>
-        <pubDate>Tue, 09 Feb 2021 15:55:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaipause/fotos/2021/02/09/</guid>
-        <description>Thaifood in der Mittagspause: Khanom Jeen Nam Ya Kati</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210209_khanom_jeen_nam_ya.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210209_khanom_jeen_nam_ya.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			

@@ -184,8 +184,43 @@
   </url>
   
   <url>
+    <loc>https://der.reisko.ch/tags/blogevent/</loc>
+    <lastmod>2021-02-24T07:12:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/</loc>
-    <lastmod>2021-02-22T18:21:00+02:00</lastmod>
+    <lastmod>2021-02-24T07:12:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/huhn/</loc>
+    <lastmod>2021-02-24T07:12:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/kreolisch/</loc>
+    <lastmod>2021-02-24T07:12:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/rezepte/leckeres-kreolisches-jambalaya/</loc>
+    <lastmod>2021-02-24T07:12:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/meeresfruchte/</loc>
+    <lastmod>2021-02-24T07:12:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/rezepte/</loc>
+    <lastmod>2021-02-24T07:12:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/</loc>
+    <lastmod>2021-02-24T07:12:00+02:00</lastmod>
   </url>
   
   <url>
@@ -224,48 +259,23 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/blogevent/</loc>
-    <lastmod>2021-02-21T09:12:00+02:00</lastmod>
+    <loc>https://der.reisko.ch/rezepte/eingelegter-ingwer-selbstgemacht/</loc>
+    <lastmod>2021-02-21T09:41:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/rezepte/garbanzos-con-acelgas/</loc>
-    <lastmod>2021-02-21T09:12:00+02:00</lastmod>
+    <loc>https://der.reisko.ch/tags/ingwer/</loc>
+    <lastmod>2021-02-21T09:41:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/kichererbsen/</loc>
-    <lastmod>2021-02-21T09:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/mangold/</loc>
-    <lastmod>2021-02-21T09:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/rezepte/</loc>
-    <lastmod>2021-02-21T09:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/spanisch/</loc>
-    <lastmod>2021-02-21T09:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/</loc>
-    <lastmod>2021-02-21T09:12:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/vegan/</loc>
-    <lastmod>2021-02-21T09:12:00+02:00</lastmod>
+    <loc>https://der.reisko.ch/tags/japanisch/</loc>
+    <lastmod>2021-02-21T09:41:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/tags/vegetarisch/</loc>
-    <lastmod>2021-02-21T09:12:00+02:00</lastmod>
+    <lastmod>2021-02-21T09:41:00+02:00</lastmod>
   </url>
   
   <url>
@@ -274,18 +284,28 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/rezepte/eingelegter-ingwer-selbstgemacht/</loc>
-    <lastmod>2021-02-20T09:41:00+02:00</lastmod>
+    <loc>https://der.reisko.ch/rezepte/garbanzos-con-acelgas/</loc>
+    <lastmod>2021-02-20T09:12:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/ingwer/</loc>
-    <lastmod>2021-02-20T09:41:00+02:00</lastmod>
+    <loc>https://der.reisko.ch/tags/kichererbsen/</loc>
+    <lastmod>2021-02-20T09:12:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/japanisch/</loc>
-    <lastmod>2021-02-20T09:41:00+02:00</lastmod>
+    <loc>https://der.reisko.ch/tags/mangold/</loc>
+    <lastmod>2021-02-20T09:12:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/spanisch/</loc>
+    <lastmod>2021-02-20T09:12:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/vegan/</loc>
+    <lastmod>2021-02-20T09:12:00+02:00</lastmod>
   </url>
   
   <url>
@@ -469,11 +489,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/meeresfruchte/</loc>
-    <lastmod>2021-02-07T07:04:09+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/tags/nudeln/</loc>
     <lastmod>2021-02-07T07:04:09+02:00</lastmod>
   </url>
@@ -555,11 +570,6 @@
   
   <url>
     <loc>https://der.reisko.ch/tags/foodiegruppe/</loc>
-    <lastmod>2021-01-31T06:21:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/huhn/</loc>
     <lastmod>2021-01-31T06:21:00+02:00</lastmod>
   </url>
   
