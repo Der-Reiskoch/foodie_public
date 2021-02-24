@@ -51,6 +51,25 @@
       </item>
 				
       <item>
+        <title>Leckeres kreolisches Jambalaya</title>
+        <link>https://der.reisko.ch/rezepte/leckeres-kreolisches-jambalaya/</link>
+        <pubDate>Mon, 22 Feb 2021 07:12:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/leckeres-kreolisches-jambalaya/</guid>
+        <description>Deftiges Reisgericht aus dem Süden der USA: Leckeres kreolisches Jambalaya</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0996/kreolisches_jambalaya.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0996/kreolisches_jambalaya.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Garbanzos con Acelgas</title>
         <link>https://der.reisko.ch/rezepte/garbanzos-con-acelgas/</link>
         <pubDate>Sun, 21 Feb 2021 09:12:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210209_nam_tok_moo_und_karotten_som_tam.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Khanom Jeen Nam Ya Kati</title>
-        <link>https://der.reisko.ch/thaipause/fotos/2021/02/09/</link>
-        <pubDate>Tue, 09 Feb 2021 15:55:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaipause/fotos/2021/02/09/</guid>
-        <description>Thaifood in der Mittagspause: Khanom Jeen Nam Ya Kati</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210209_khanom_jeen_nam_ya.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210209_khanom_jeen_nam_ya.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
