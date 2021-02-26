@@ -9,8 +9,7 @@ $dbpass = 'Anzbe64G';
 try {
   $pdo = new PDO(
     "mysql:host=$dbhost;dbname=$dbname;charset=$dbchar",
-    $dbuser, $dbpass, 
-    [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]
+    $dbuser, $dbpass
   );
 } catch (Exception $ex) {
   die($ex->getMessage());
