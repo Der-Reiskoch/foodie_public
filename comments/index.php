@@ -21,7 +21,7 @@ switch ($_POST['req']) {
     // (B1) GET ALL COMMENTS
     try {
       $stmt = $pdo->prepare("SELECT `name`, `timestamp`, `message` FROM `comments` WHERE `post_id`=? ORDER BY `timestamp` ASC");
-     $stmt->execute([$_POST['pid']]);
+     $stmt->execute($_POST['pid']);
     } catch (Exception $ex) {
       die($ex->getMessage());
     }
