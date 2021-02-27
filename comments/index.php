@@ -9,7 +9,8 @@ $dbpass = 'Anzbe64G';
 try {
   $pdo = new PDO(
     "mysql:host=$dbhost;dbname=$dbname;charset=$dbchar",
-    $dbuser, $dbpass
+    $dbuser, $dbpass, 
+    [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]
   );
 } catch (Exception $ex) {
   die($ex->getMessage());
@@ -21,7 +22,7 @@ switch ($_POST['req']) {
     // (B1) GET ALL COMMENTS
     try {
       $stmt = $pdo->prepare("SELECT `name`, `timestamp`, `message` FROM `comments` WHERE `post_id`=? ORDER BY `timestamp` ASC");
-     $stmt->execute($_POST['pid']);
+     $stmt->execute([$_POST['pid']]);
     } catch (Exception $ex) {
       die($ex->getMessage());
     }
