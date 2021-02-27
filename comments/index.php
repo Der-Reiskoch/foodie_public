@@ -16,7 +16,7 @@ try {
   die($ex->getMessage());
 }
 
-switch ($_POST['req']) {
+switch ($_REQUEST['req']) {
   // (B) SHOW COMMENTS
   case "show";
     // (B1) GET ALL COMMENTS
