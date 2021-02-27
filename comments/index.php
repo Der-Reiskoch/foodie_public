@@ -2,7 +2,7 @@
 // (A) CONNECT TO DATABASE
 // ! CHANGE SETTINGS TO YOUR OWN !
 $dbhost = 'localhost';
-$dbname = 'usr_web247_3';
+$dbname = 'usr_web247_1';
 $dbchar = 'utf8';
 $dbuser = 'web247';
 $dbpass = 'Anzbe64G';
@@ -22,7 +22,7 @@ switch ($_REQUEST['req']) {
     // (B1) GET ALL COMMENTS
     try {
       $stmt = $pdo->prepare("SELECT `name`, `timestamp`, `message` FROM `comments` WHERE `post_id`=? ORDER BY `timestamp` ASC");
-     $stmt->execute([$_POST['pid']]);
+     $stmt->execute([$_GET['pid']]);
     } catch (Exception $ex) {
       die($ex->getMessage());
     }
