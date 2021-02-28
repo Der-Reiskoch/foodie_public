@@ -12,10 +12,9 @@
 }
 #cwrap .ctime {
   color: #aaa;
-  font-size: 0.95em;
 }
 #cwrap .cmsg {
-  font-size: 1.1em;
+  margin-bottom: 10px;
 }
 
 #cadd {
@@ -23,9 +22,7 @@
   border: 1px solid #ccc;
   padding: 15px;
 }
-#cadd h1 {
-  font-size: 1.3em;
-}
+
 #cadd input[type="text"],
 #cadd textarea {
   box-sizing: border-box;
@@ -45,12 +42,4 @@
   color: #fff;
   padding: 10px;
   cursor: pointer;
-}
-
-/* (X) DOES NOT MATTER */
-html,
-body,
-input,
-textarea {
-  font-family: arial, sans-serif;
 }
