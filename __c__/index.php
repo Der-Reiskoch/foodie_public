@@ -1,4 +1,6 @@
 <?php
+// https://code-boxx.com/simple-php-comment-system/
+
 // (A) CONNECT TO DATABASE
 // ! CHANGE SETTINGS TO YOUR OWN !
 $dbhost = 'localhost';
@@ -16,13 +18,13 @@ try {
   die($ex->getMessage());
 }
 
-switch ($_REQUEST['req']) {
-  // (B) SHOW COMMENTS
-  case "show";
+
+// (B) SHOW COMMENTS
+if ($_GET['sid'] && ($_GET['pid'])) {
     // (B1) GET ALL COMMENTS
     try {
-      $stmt = $pdo->prepare("SELECT `name`, `timestamp`, `message` FROM `comments` WHERE `post_id`=? ORDER BY `timestamp` ASC");
-     $stmt->execute([$_GET['pid']]);
+      $stmt = $pdo->prepare("SELECT `name`, `timestamp`, `message` FROM `comments` WHERE `section_id`=? AND `post_id`=? ORDER BY `timestamp` ASC");
+     $stmt->execute([$_GET['sid'], $_GET['pid']]);
     } catch (Exception $ex) {
       die($ex->getMessage());
     }
@@ -37,10 +39,11 @@ switch ($_REQUEST['req']) {
 			<div class="cmsg"><?=$r['message']?></div>
     </div>
     <?php }
-    break;
-    
+}
+
+
   // (C) ADD COMMENT
-  case "add":
+if ($_POST['sid'] && ($_POST['pid'])) {
     // (C1) CHECKS
     if (!isset($_POST['pid']) || !isset($_POST['name']) || !isset($_POST['msg'])) {
       die("Please provide the Post ID, name, and message");
@@ -54,7 +57,7 @@ switch ($_REQUEST['req']) {
       die($ex->getMessage());
     }
     echo "OK";
-    break;
+  }
 }
 
 // (D) CLOSE DATABASE CONNECTION
