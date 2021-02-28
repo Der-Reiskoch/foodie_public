@@ -51,12 +51,11 @@ var comments = {
    
       {
         name : document.getElementById("cname").value,
-        email : document.getElementById("cemail").value,
+        email : document.getElementById("cmail").value,
         website : document.getElementById("cwebsite").value,
         msg : document.getElementById("cmsg").value
       },
       
-      // (C2) RELOAD COMMENTS AFTER ADD
       function(){
         if (this.response == "OK") {
           document.getElementById("cadd").reset();
