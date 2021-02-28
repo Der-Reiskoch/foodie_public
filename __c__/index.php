@@ -47,10 +47,29 @@ if ($_POST['sid'] && ($_POST['pid'])) {
         die("Bitte gib Deinen Namem und eine Nachricht ein.");
     }
 
-    // (C2) INSERT
     try {
         $stmt = $pdo->prepare("INSERT INTO `comments` (`section_id`, `post_id`, `name`, `email`, `website`,  `message`) VALUES (?,?,?,?,?,?)");
         $stmt->execute([$_POST['sid'], $_POST['pid'], htmlentities($_POST['name']), htmlentities($_POST['email']), htmlentities($_POST['website']), htmlentities($_POST['msg'])]);
+
+        $mailtext = print_r($_POST);
+
+        $to = "der@reisko.ch"; // Mailadresse
+        $from = "der@reisko.ch";
+        $subject = "Neuer Kommentar";
+        $reply = $_POST['email'];
+
+        $header = "MIME-Version: 1.0\r\n";
+        $header .= "Content-type: text/html; charset=utf-8\r\n";
+
+        $header .= "From: $from\r\n";
+        $header .= "Reply-To: $reply\r\n";
+        $header .= "X-Mailer: PHP " . phpversion();
+
+        mail($to,
+            $subject,
+            $mailtext,
+            $header);
+
     } catch (Exception $ex) {
         die($ex->getMessage());
     }
