@@ -1,8 +1,13 @@
-/* (A) COMMENTS */
 #cwrap .crow {
   margin: 10px 0;
   padding: 10px;
+  border-bottom: 1px solid #ccc;
 }
+
+#cwrap .crow:last-child {
+  border-bottom: none;
+}
+
 #cwrap .chead {
   margin-bottom: 10px;
 }
@@ -12,15 +17,6 @@
 }
 #cwrap .ctime {
   color: #aaa;
-}
-#cwrap .cmsg {
-  padding-bottom: 25px;
-  border-bottom: 1px solid #ccc;
-}
-
-#cwrap .cmsg:last-of-type {
-  padding-bottom: 25px;
-  border-bottom: none;
 }
 
 #cadd {
