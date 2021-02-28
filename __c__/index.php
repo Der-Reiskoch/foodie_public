@@ -22,17 +22,17 @@ try {
 if ($_GET['sid'] && ($_GET['pid'])) {
     // (B1) GET ALL COMMENTS
     try {
-        $stmt = $pdo->prepare("SELECT `name`, `timestamp`, `message` FROM `comments` WHERE `section_id`=? AND `post_id`=? ORDER BY `timestamp` ASC");
+        $stmt = $pdo->prepare("SELECT `name`, `website`, `timestamp`, `message` FROM `comments` WHERE `section_id`=? AND `post_id`=? AND `approved`=1 ORDER BY `timestamp` ASC");
         $stmt->execute([$_GET['sid'], $_GET['pid']]);
     } catch (Exception $ex) {
         die($ex->getMessage());
     }
 
-    // (B2) LOOP & GENERATE HTML
     while ($r = $stmt->fetch(PDO::FETCH_NAMED)) {?>
     <div class="crow">
       <div class="chead">
         <div class="cname"><?=$r['name']?></div>
+        <div class="cwebsite"><?=$r['website']?></div>
         <div class="ctime">[<?=$r['timestamp']?>]</div>
       </div>
 			<div class="cmsg"><?=$r['message']?></div>
@@ -44,13 +44,13 @@ if ($_GET['sid'] && ($_GET['pid'])) {
 if ($_POST['sid'] && ($_POST['pid'])) {
     // (C1) CHECKS
     if (!isset($_POST['sid']) || !isset($_POST['pid']) || !isset($_POST['name']) || !isset($_POST['msg'])) {
-        die("Please provide the Post ID, name, and message");
+        die("Bitte gib Deinen Namem und eine Nachricht ein.");
     }
 
     // (C2) INSERT
     try {
-        $stmt = $pdo->prepare("INSERT INTO `comments` (`section_id`, `post_id`, `name`, `message`) VALUES (?,?,?,?)");
-        $stmt->execute([$_POST['sid'], $_POST['pid'], htmlentities($_POST['name']), htmlentities($_POST['msg'])]);
+        $stmt = $pdo->prepare("INSERT INTO `comments` (`section_id`, `post_id`, `name`, `email`, `website`,  `message`) VALUES (?,?,?,?,?,?)");
+        $stmt->execute([$_POST['sid'], $_POST['pid'], htmlentities($_POST['name']), htmlentities($_POST['email']), htmlentities($_POST['website']), htmlentities($_POST['msg'])]);
     } catch (Exception $ex) {
         die($ex->getMessage());
     }

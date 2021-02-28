@@ -2,7 +2,7 @@ var comments = {
 
   get : function (data, after) {
     
-    var url = 'https://der.reisko.ch/__c__/'
+    var url = 'https://der.reisko.ch/__c__/';
 
     var params = new Object();
     params["sid"] = document.getElementById("sid").value;
