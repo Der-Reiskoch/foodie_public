@@ -18,11 +18,10 @@ try {
     die($ex->getMessage());
 }
 
-// (B) SHOW COMMENTS
 if ($_GET['sid'] && ($_GET['pid'])) {
-    // (B1) GET ALL COMMENTS
+
     try {
-        $stmt = $pdo->prepare("SELECT `name`, `website`, `timestamp`, `message` FROM `comments` WHERE `section_id`=? AND `post_id`=? AND `approved`=1 ORDER BY `timestamp` ASC");
+        $stmt = $pdo->prepare("SELECT `name`, `website`, `timestamp`, `message` FROM `comments` WHERE `section_id`=? AND `post_id`=? AND `approved`=1 ORDER BY `timestamp` DESC");
         $stmt->execute([$_GET['sid'], $_GET['pid']]);
     } catch (Exception $ex) {
         die($ex->getMessage());
@@ -40,9 +39,8 @@ if ($_GET['sid'] && ($_GET['pid'])) {
     <?php }
 }
 
-// (C) ADD COMMENT
 if ($_POST['sid'] && ($_POST['pid'])) {
-    // (C1) CHECKS
+
     if (!isset($_POST['sid']) || !isset($_POST['pid']) || !isset($_POST['name']) || !isset($_POST['msg'])) {
         die("Bitte gib Deinen Namem und eine Nachricht ein.");
     }
@@ -51,7 +49,7 @@ if ($_POST['sid'] && ($_POST['pid'])) {
         $stmt = $pdo->prepare("INSERT INTO `comments` (`section_id`, `post_id`, `name`, `email`, `website`,  `message`) VALUES (?,?,?,?,?,?)");
         $stmt->execute([$_POST['sid'], $_POST['pid'], htmlentities($_POST['name']), htmlentities($_POST['email']), htmlentities($_POST['website']), htmlentities($_POST['msg'])]);
 
-        $mailtext = print_r($_POST);
+        $mailtext = sprint_r($_POST);
 
         $to = "der@reisko.ch"; // Mailadresse
         $from = "der@reisko.ch";
