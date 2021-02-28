@@ -14,12 +14,12 @@
   color: #aaa;
 }
 #cwrap .cmsg {
-  padding-bottom: 20px;
+  padding-bottom: 25px;
   border-bottom: 1px solid #ccc;
 }
 
-#cwrap.cmsg:last-child {
-  padding-bottom: 20px;
+#cwrap .cmsg:last-child {
+  padding-bottom: 25px;
   border-bottom: none;
 }
 
