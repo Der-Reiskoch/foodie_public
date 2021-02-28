@@ -14,7 +14,13 @@
   color: #aaa;
 }
 #cwrap .cmsg {
+  padding-bottom: 10px;
   border-bottom: 1px solid #ccc;
+}
+
+#cwrap.cmsg:last-of-type {
+  padding-bottom: 10px;
+  border-bottom: none;
 }
 
 #cadd {
