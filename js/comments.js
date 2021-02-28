@@ -2,15 +2,24 @@ var comments = {
 
   get : function (data, after) {
     
-    var fdata = new FormData();
-    for (let k in data) { fdata.append(k, data[k]); }
-    fdata.append("sid", document.getElementById("sid").value);
-    fdata.append("pid", document.getElementById("pid").value);
+    var url = 'https://der.reisko.ch/__c__/'
+
+    var params = new Object();
+    params["sid"] = document.getElementById("sid").value;
+    params["pid"] = document.getElementById("pid").value;
+
+    var notFirst = false;
+    for (var key in params) {
+      if (params.hasOwnProperty(key)) {
+        url += (notFirst ? '&' : '') + key + "=" + params[key];
+      }
+    notFirst = true;
+    }
 
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', "https://der.reisko.ch/__c__/");
+    xhr.open('GET', url );
     xhr.onload = after;
-    xhr.send(fdata);
+    xhr.send();
   },
 
   post : function (data, after) {
