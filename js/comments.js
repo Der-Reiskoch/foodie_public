@@ -8,12 +8,12 @@ var comments = {
     params["sid"] = document.getElementById("sid").value;
     params["pid"] = document.getElementById("pid").value;
 
-    var notFirst = false;
+    var isFirstParam = true;
     for (var key in params) {
       if (params.hasOwnProperty(key)) {
-        url += (notFirst ? '&' : '') + key + "=" + params[key];
+        url += (isFirstParam ? '?' : '&') + key + "=" + params[key];
       }
-    notFirst = true;
+      isFirstParam = false;
     }
 
     var xhr = new XMLHttpRequest();
