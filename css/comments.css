@@ -1,0 +1,56 @@
+/* (A) COMMENTS */
+#cwrap .crow {
+  margin: 10px 0;
+  padding: 10px;
+}
+#cwrap .chead {
+  margin-bottom: 10px;
+}
+#cwrap .cname {
+  color: #9acd32;
+  font-weight: bold;
+}
+#cwrap .ctime {
+  color: #aaa;
+  font-size: 0.95em;
+}
+#cwrap .cmsg {
+  font-size: 1.1em;
+}
+
+#cadd {
+  background: #f2f2f2;
+  border: 1px solid #ccc;
+  padding: 15px;
+}
+#cadd h1 {
+  font-size: 1.3em;
+}
+#cadd input[type="text"],
+#cadd textarea {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 5px 0;
+  padding: 10px;
+  resize: none;
+}
+
+#cadd textarea {
+  height: 100px;
+}
+
+#cadd input[type="submit"] {
+  background: #9acd32;
+  border: 0;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+}
+
+/* (X) DOES NOT MATTER */
+html,
+body,
+input,
+textarea {
+  font-family: arial, sans-serif;
+}
