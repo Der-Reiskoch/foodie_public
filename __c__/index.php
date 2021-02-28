@@ -49,7 +49,7 @@ if ($_POST['sid'] && ($_POST['pid'])) {
         $stmt = $pdo->prepare("INSERT INTO `comments` (`section_id`, `post_id`, `name`, `email`, `website`,  `message`) VALUES (?,?,?,?,?,?)");
         $stmt->execute([$_POST['sid'], $_POST['pid'], htmlentities($_POST['name']), htmlentities($_POST['email']), htmlentities($_POST['website']), htmlentities($_POST['msg'])]);
 
-        $mailtext = mplode(",<br>", $_POST);
+        $mailtext = implode(",<br>", $_POST);
 
         $to = "der@reisko.ch"; // Mailadresse
         $from = "der@reisko.ch";
