@@ -29,7 +29,7 @@ if ($_GET['sid'] && ($_GET['pid'])) {
 
     while ($r = $stmt->fetch(PDO::FETCH_NAMED)) {
 
-        $website = '';
+        $name = $r['name'];
 
         if ($r['website'] !== '') {
 
@@ -37,7 +37,7 @@ if ($_GET['sid'] && ($_GET['pid'])) {
             $cleanedWebsite = $match[0][0];
 
             if (isset($cleanedWebsite) && $cleanedWebsite !== '') {
-                $website = sprintf('<a href="%s" target="_blank" rel="noopener">%s</a>', $cleanedWebsite, $cleanedWebsite);
+                $name = sprintf('<a href="%s" target="_blank" rel="noopener">%s</a>', $cleanedWebsite, $name);
             }
 
         }
@@ -48,8 +48,7 @@ if ($_GET['sid'] && ($_GET['pid'])) {
         ?>
     <div class="crow">
       <div class="chead">
-        <div class="cname"><?=$r['name']?></div>
-        <div class="cwebsite"><?=$website?></div>
+        <div class="cname"><?=$name?></div>
         <div class="ctime"><?=$formatedDate?></div>
       </div>
 			<div class="cmsg"><?=$r['message']?></div>

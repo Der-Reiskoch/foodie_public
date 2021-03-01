@@ -16,11 +16,7 @@
   font-weight: bold;
 }
 
-#cwrap .cwebsite a {
-  color: #aaa;
-}
-
-#cwrap .cwebsite a:hover {
+#cwrap .cname a:hover {
   color: #9acd32;
 }
 
