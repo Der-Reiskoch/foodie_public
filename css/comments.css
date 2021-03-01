@@ -16,7 +16,10 @@
   font-weight: bold;
 }
 
-#cwrap .cwebsite,
+#cwrap .cwebsite a {
+  color: #aaa;
+}
+
 #cwrap .ctime {
   color: #aaa;
 }

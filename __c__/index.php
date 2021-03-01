@@ -37,7 +37,7 @@ if ($_GET['sid'] && ($_GET['pid'])) {
             $cleanedWebsite = $match[0][0];
 
             if (isset($cleanedWebsite) && $cleanedWebsite !== '') {
-                $website = sprintf('&nbsp;|&nbsp;<a href="%s" target="_blank" rel="noopener">%s</a>', $cleanedWebsite, $cleanedWebsite);
+                $website = sprintf('<a href="%s" target="_blank" rel="noopener">%s</a>', $cleanedWebsite, $cleanedWebsite);
             }
 
         }
@@ -48,7 +48,7 @@ if ($_GET['sid'] && ($_GET['pid'])) {
         ?>
     <div class="crow">
       <div class="chead">
-        <div class="cname"><?=$r['name']?><?=$website?></div>
+        <div class="cname"><?=$r['name']?></div>
         <div class="cwebsite"><?=$website?></div>
         <div class="ctime"><?=$formatedDate?></div>
       </div>
