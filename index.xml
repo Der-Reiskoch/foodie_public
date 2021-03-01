@@ -32,25 +32,6 @@
       </item>
 				
       <item>
-        <title>Thailändisches Gaeng Massaman Gae</title>
-        <link>https://der.reisko.ch/nachgekocht/0999_thailaendisches-gaeng-massaman-gae/</link>
-        <pubDate>Sun, 28 Feb 2021 06:41:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/nachgekocht/0999_thailaendisches-gaeng-massaman-gae/</guid>
-        <description>Blas: Thailändisches Gaeng Massaman Gae</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0999/gaeng_massaman_gae.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0999/gaeng_massaman_gae.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
         <title>Thailändisches Chu Chee Talee</title>
         <link>https://der.reisko.ch/rezepte/thailaendisches-chu-chee-talee/</link>
         <pubDate>Sat, 27 Feb 2021 07:53:00 +0200</pubDate>
@@ -372,7 +353,25 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0992/moo_grob_und_nam_jim_jaew.jpg" length="10000" type="image/jpeg" />
       </item>
-			
+				
+      <item>
+        <title>Großer Mörser für Currypasten</title>
+        <link>https://der.reisko.ch/utensilien/grosser-moerser-fuer-currypasten/</link>
+        <pubDate>Sat, 13 Feb 2021 09:09:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/utensilien/grosser-moerser-fuer-currypasten/</guid>
+        <description>Mörsern in der Schwergewichtsklasse: Großer Mörser für Currypasten</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0982/grosser_moerser.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0982/grosser_moerser.jpg" length="10000" type="image/jpeg" />
+      </item>
 			
 			
 			
