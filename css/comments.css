@@ -30,8 +30,8 @@
 }
 
 #cadd {
+  margin-top: 10px;
   background: #f2f2f2;
-  border: 1px solid #ccc;
   padding: 15px;
 }
 
@@ -42,6 +42,7 @@
   margin: 5px 0;
   padding: 10px;
   resize: none;
+  font-size: 12px;
 }
 
 #cadd textarea {
@@ -49,9 +50,15 @@
 }
 
 #cadd input[type="submit"] {
+  margin-top: 10px;
   background: #9acd32;
   border: 0;
   color: #fff;
   padding: 10px;
   cursor: pointer;
+  text-transform: none;
+}
+
+#cadd input[type="submit"]:hover {
+  background: #5c7b1e;
 }
