@@ -36,7 +36,22 @@ if ($_GET['sid'] && ($_GET['pid'])) {
       </div>
 			<div class="cmsg"><?=$r['message']?></div>
     </div>
-    <?php }
+    <?}
+
+    try {
+        $stmt = $pdo->prepare("SELECT COUNT(*) FROM `comments` WHERE `section_id`=? AND `post_id`=? AND `approved`=0");
+        $stmt->execute([$_GET['sid'], $_GET['pid']]);
+    } catch (Exception $ex) {
+        die($ex->getMessage());
+    }
+
+    $r = $stmt->fetch(PDO::FETCH_NUM);
+
+    $countMessagesToApprove = $r[0];
+    $message = $countMessagesToApprove === '1' ? "Ein Kommentar wartet auf Freigabe" : sprintf("%s Kommentare wartet auf Freigabe", $countMessagesToApprove);
+
+    printf('<div class="cnote">%s</div>', $message);
+
 }
 
 if ($_POST['sid'] && ($_POST['pid'])) {
@@ -74,6 +89,5 @@ if ($_POST['sid'] && ($_POST['pid'])) {
     echo "OK";
 }
 
-// (D) CLOSE DATABASE CONNECTION
 $stmt = null;
 $pdo = null;

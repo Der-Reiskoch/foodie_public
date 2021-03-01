@@ -1,6 +1,6 @@
 #cwrap .crow {
   margin: 10px 0;
-  padding: 10px 0 15px 5px;
+  padding: 10px 0 15px 2px;
   border-bottom: 1px solid #ccc;
 }
 
@@ -17,6 +17,11 @@
 }
 #cwrap .ctime {
   color: #aaa;
+}
+
+#cwrap .cnote {
+  margin: 10px 0;
+  padding: 10px 0 15px 2px;
 }
 
 #cadd {
