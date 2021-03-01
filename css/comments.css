@@ -20,7 +20,7 @@
 }
 
 #cwrap .cname a:hover {
-  color: #5c7b1e;
+  text-decoration: underline;  
 }
 
 #cwrap .ctime {
