@@ -27,12 +27,30 @@ if ($_GET['sid'] && ($_GET['pid'])) {
         die($ex->getMessage());
     }
 
-    while ($r = $stmt->fetch(PDO::FETCH_NAMED)) {?>
+    while ($r = $stmt->fetch(PDO::FETCH_NAMED)) {
+
+        $website = '';
+
+        if ($r['website'] !== '') {
+
+            preg_match_all('#\bhttps?://[^,\s()<>]+(?:\([\w\d]+\)|([^,[:punct:]\s]|/))#', $r['website'], $match);
+            $cleanedWebsite = $match[0][0];
+
+            if (isset($cleanedWebsite) && $cleanedWebsite !== '') {
+                $website = sprintf('&nbsp;|&nbsp;<a href="%s" target="_blank" rel="noopener">%s</a>', $cleanedWebsite, $cleanedWebsite);
+            }
+
+        }
+
+        $phpdate = strtotime($r['timestamp']);
+        $formatedDate = date('d.m.Y H:i', $phpdate);
+
+        ?>
     <div class="crow">
       <div class="chead">
-        <div class="cname"><?=$r['name']?></div>
-        <div class="cwebsite"><?=$r['website']?></div>
-        <div class="ctime">[<?=$r['timestamp']?>]</div>
+        <div class="cname"><?=$r['name']?><?=$website?></div>
+        <div class="cwebsite"><?=$website?></div>
+        <div class="ctime"><?=$formatedDate?></div>
       </div>
 			<div class="cmsg"><?=$r['message']?></div>
     </div>
@@ -48,9 +66,13 @@ if ($_GET['sid'] && ($_GET['pid'])) {
     $r = $stmt->fetch(PDO::FETCH_NUM);
 
     $countMessagesToApprove = $r[0];
-    $message = $countMessagesToApprove === '1' ? "Ein Kommentar wartet auf Freigabe" : sprintf("%s Kommentare wartet auf Freigabe", $countMessagesToApprove);
 
-    printf('<div class="cnote">%s</div>', $message);
+    if ($countMessagesToApprove !== '0') {
+
+        $message = $countMessagesToApprove === '1' ? "Ein Kommentar wartet auf Freigabe" : sprintf("%s Kommentare warten auf Freigabe", $countMessagesToApprove);
+        printf('<div class="cnote">%s</div>', $message);
+
+    }
 
 }
 
