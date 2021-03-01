@@ -20,6 +20,10 @@
   color: #aaa;
 }
 
+#cwrap .cwebsite a:hover {
+  color: #9acd32;
+}
+
 #cwrap .ctime {
   color: #aaa;
 }
