@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 03 Mar 2021 12:55:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Mar 2021 12:55:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Nudeln mit Erdnusssoße</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2021/03/04/</link>
+        <pubDate>Thu, 04 Mar 2021 12:55:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/fotos/2021/03/04/</guid>
+        <description>Heute in der Mittagspause: Nudeln mit Erdnusssoße</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210304_nudeln-mit-erdnusssosse.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210304_nudeln-mit-erdnusssosse.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Khanom Jeen Nam Ya</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0910/drei_vorspeisen.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Bamia und Kuschari aus Ägypten</title>
-        <link>https://der.reisko.ch/nachgekocht/bamia-und-kuschari-aus-aegypten/</link>
-        <pubDate>Wed, 17 Feb 2021 06:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/nachgekocht/bamia-und-kuschari-aus-aegypten/</guid>
-        <description>Eine Kochreise ins Land der Pharonen: Bamia und Kuschari aus Ägypten</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0993/bamia.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0993/bamia.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
