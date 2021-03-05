@@ -8,7 +8,8 @@ Disallow: /fotoalbum/
 Disallow: /info/datenschutz/
 Disallow: /info/impressum/
 Disallow: /karlsmag/
-Disallow: /___/
+Disallow: /__l__/
+Disallow: /__c__/
 Disallow: /karten/
 Disallow: /mittagspause/fotos/
 Disallow: /speisekarten/
