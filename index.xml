@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Sai Ua und Gaeng Phed Ped</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/03/07/</link>
+        <pubDate>Sun, 07 Mar 2021 22:21:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/03/07/</guid>
+        <description>Thailändisches Gericht des Tages: Sai Ua und Gaeng Phed Ped</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210307/gaeng_phed_ped.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210307/gaeng_phed_ped.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Japanisches Karē Raisu im Dolsot</title>
         <link>https://der.reisko.ch/dies-und-das/japanisches-kare-raisu-im-dolsot/</link>
         <pubDate>Sun, 07 Mar 2021 08:35:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210220_kleiner_yam_moo.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Garbanzos con Acelgas</title>
-        <link>https://der.reisko.ch/rezepte/garbanzos-con-acelgas/</link>
-        <pubDate>Sat, 20 Feb 2021 09:12:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/garbanzos-con-acelgas/</guid>
-        <description>Spanischer Eintopf mit Kichererbsen und Mangold: Garbanzos con Acelgas</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0995/garbanzos_con_acelgas.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0995/garbanzos_con_acelgas.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
