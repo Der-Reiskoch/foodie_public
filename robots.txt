@@ -10,6 +10,7 @@ Disallow: /info/impressum/
 Disallow: /karlsmag/
 Disallow: /__l__/
 Disallow: /__c__/
+Disallow: /__m__/
 Disallow: /karten/
 Disallow: /mittagspause/fotos/
 Disallow: /speisekarten/
