@@ -49,6 +49,7 @@
   -moz-appearance: none;
   -webkit-appearance: none;
   appearance: none;
+  background: #ffffff;
 }
 
 #cadd textarea {
