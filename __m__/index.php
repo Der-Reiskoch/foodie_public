@@ -1,7 +1,7 @@
 <?php
 
 $title = $_GET['t'];
-$referer = base64_decode($_GET['r']);
+$referer = $_GET['r'];
 
 $_SERVER["HTTP_REFERER"] = $referer;
 
@@ -11,5 +11,10 @@ define("COUNTER", _BBCLONE_DIR . "mark_page.php");
 if (is_readable(COUNTER)) {
     include_once COUNTER;
 }
+
+header('Content-Type: image/jpeg');
+$im = imagecreatetruecolor(1, 1);
+imagejpeg($im);
+imagedestroy($im);
 
 php?>
