@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 10 Mar 2021 14:45:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 14:45:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Indonesisches Curry</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2021/03/11/</link>
+        <pubDate>Thu, 11 Mar 2021 14:45:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/fotos/2021/03/11/</guid>
+        <description>Heute in der Mittagspause: Indonesisches Curry</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210311_indonesisches_curry.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210311_indonesisches_curry.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Gebratene Nudeln</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0996/kreolisches_jambalaya.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Schneller Yam Nuea</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/02/23/</link>
-        <pubDate>Tue, 23 Feb 2021 17:48:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/02/23/</guid>
-        <description>Thailändisches Gericht des Tages: Schneller Yam Nuea</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210223_yam_nuea.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210223_yam_nuea.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
