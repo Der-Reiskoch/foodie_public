@@ -89,6 +89,25 @@
       </item>
 				
       <item>
+        <title>Uigurisches Da Pan Ji</title>
+        <link>https://der.reisko.ch/rezepte/uigurisches-da-pan-ji/</link>
+        <pubDate>Tue, 09 Mar 2021 07:02:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/uigurisches-da-pan-ji/</guid>
+        <description>Ein deftiges Gericht aus Xinjiang: Uigurisches Da Pan Ji</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1000/da_pan_ji.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1000/da_pan_ji.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Gai Pad Phed Prik Thai On</title>
         <link>https://der.reisko.ch/thaifood/fotos/2021/03/08/</link>
         <pubDate>Mon, 08 Mar 2021 18:58:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210224_kreolische_hackfleischpfanne.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Leckeres kreolisches Jambalaya</title>
-        <link>https://der.reisko.ch/rezepte/leckeres-kreolisches-jambalaya/</link>
-        <pubDate>Wed, 24 Feb 2021 07:12:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/leckeres-kreolisches-jambalaya/</guid>
-        <description>Deftiges Reisgericht aus dem Süden der USA: Leckeres kreolisches Jambalaya</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0996/kreolisches_jambalaya.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0996/kreolisches_jambalaya.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
