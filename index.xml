@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 11 Mar 2021 14:45:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 21:52:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Karibischer Eintopf mit Kartoffelbrei</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/03/14/</link>
+        <pubDate>Sun, 14 Mar 2021 21:52:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/03/14/</guid>
+        <description>Foodie’s Fotoalbum: Karibischer Eintopf mit Kartoffelbrei</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210314_mehr_sosse.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210314_mehr_sosse.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Indonesisches Curry</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210226_udon_mit_tofu_und_sellerie.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Kreolische Hackfleischpfanne</title>
-        <link>https://der.reisko.ch/mittagspause/fotos/2021/02/24/</link>
-        <pubDate>Wed, 24 Feb 2021 17:52:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/mittagspause/fotos/2021/02/24/</guid>
-        <description>Heute in der Mittagspause: Kreolische Hackfleischpfanne</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210224_kreolische_hackfleischpfanne.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210224_kreolische_hackfleischpfanne.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
