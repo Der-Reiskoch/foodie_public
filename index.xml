@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 16 Mar 2021 16:11:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 20 Mar 2021 09:36:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Schnelle Kokos-Erdnuss-Suppe</title>
+        <link>https://der.reisko.ch/rezepte/schnelle-kokos-erdnuss-suppe/</link>
+        <pubDate>Sat, 20 Mar 2021 09:36:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/schnelle-kokos-erdnuss-suppe/</guid>
+        <description>Sehr reichhaltig und lecker: Schnelle Kokos-Erdnuss-Suppe</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1002/schnelle_koko-erdnuss-suppe.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1002/schnelle_koko-erdnuss-suppe.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Bulgur Pfanne mit Huhn</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0998/praram_long_song.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Thailändisches Chu Chee Talee</title>
-        <link>https://der.reisko.ch/rezepte/thailaendisches-chu-chee-talee/</link>
-        <pubDate>Sat, 27 Feb 2021 07:53:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/thailaendisches-chu-chee-talee/</guid>
-        <description>Meeresfrüchte mit dicker Currysoße: Thailändisches Chu Chee Talee</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0997/chu_chee_talee.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0997/chu_chee_talee.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
