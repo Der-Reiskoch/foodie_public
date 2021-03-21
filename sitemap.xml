@@ -185,21 +185,46 @@
   
   <url>
     <loc>https://der.reisko.ch/</loc>
-    <lastmod>2021-03-20T09:36:00+02:00</lastmod>
+    <lastmod>2021-03-21T06:59:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/hackfleisch/</loc>
-    <lastmod>2021-03-20T09:36:00+02:00</lastmod>
+    <loc>https://der.reisko.ch/tags/konserven/</loc>
+    <lastmod>2021-03-21T06:59:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/koreanisch/</loc>
+    <lastmod>2021-03-21T06:59:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/rezepte/koreanischer-budae-jjigae-im-dolsot/</loc>
+    <lastmod>2021-03-21T06:59:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/rezepte/</loc>
-    <lastmod>2021-03-20T09:36:00+02:00</lastmod>
+    <lastmod>2021-03-21T06:59:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/tags/nudeln/</loc>
+    <lastmod>2021-03-21T06:59:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/pilze/</loc>
+    <lastmod>2021-03-21T06:59:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/</loc>
+    <lastmod>2021-03-21T06:59:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/hackfleisch/</loc>
     <lastmod>2021-03-20T09:36:00+02:00</lastmod>
   </url>
   
@@ -210,11 +235,6 @@
   
   <url>
     <loc>https://der.reisko.ch/tags/suppe/</loc>
-    <lastmod>2021-03-20T09:36:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/</loc>
     <lastmod>2021-03-20T09:36:00+02:00</lastmod>
   </url>
   
@@ -959,17 +979,7 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/pilze/</loc>
-    <lastmod>2021-01-06T08:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/rezepte/dwaejigogi-bulgogi-im-dolsot/</loc>
-    <lastmod>2021-01-05T06:41:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/koreanisch/</loc>
     <lastmod>2021-01-05T06:41:00+02:00</lastmod>
   </url>
   
@@ -4581,11 +4591,6 @@
   <url>
     <loc>https://der.reisko.ch/rezepte/hackfleisch-und-pilze-in-mala-sauce/</loc>
     <lastmod>2019-07-31T09:31:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/konserven/</loc>
-    <lastmod>2019-07-31T06:59:00+02:00</lastmod>
   </url>
   
   <url>

@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 20 Mar 2021 09:36:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 21 Mar 2021 06:59:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Koreanischer Budae Jjigae im Dolsot</title>
+        <link>https://der.reisko.ch/rezepte/koreanischer-budae-jjigae-im-dolsot/</link>
+        <pubDate>Sun, 21 Mar 2021 06:59:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/koreanischer-budae-jjigae-im-dolsot/</guid>
+        <description>Deftiger Armee Eintopf im Tontopf zubereitet: Koreanischer Budae Jjigae im Dolsot</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1003/budae_jjigae.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1003/budae_jjigae.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Schnelle Kokos-Erdnuss-Suppe</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210301_chu_chee_plaa_salmon.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Thailändisches Pra Ram Long Song</title>
-        <link>https://der.reisko.ch/rezepte/thailaendisches-praram-long-song/</link>
-        <pubDate>Sun, 28 Feb 2021 11:12:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/thailaendisches-praram-long-song/</guid>
-        <description>Badender Rama mit Erdnussoße: Thailändisches Pra Ram Long Song</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0998/praram_long_song.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0998/praram_long_song.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
