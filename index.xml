@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 23 Mar 2021 06:24:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 Mar 2021 16:11:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Stir Fry mit Lá Mơ Lông</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2021/03/23/</link>
+        <pubDate>Tue, 23 Mar 2021 16:11:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/fotos/2021/03/23/</guid>
+        <description>Heute in der Mittagspause: Stir Fry mit Lá Mơ Lông</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210323_stir_fry_mit_la_mo.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210323_stir_fry_mit_la_mo.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Vietnamesischer Kochabend</title>
@@ -67,6 +86,25 @@
           height="450"
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210321_sonntaegliche_resteverwertung.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Hackfleisch im Lá Mơ Blatt</title>
+        <link>https://der.reisko.ch/rezepte/1008_hackfleisch-im-la-mo-blatt/</link>
+        <pubDate>Sun, 21 Mar 2021 11:24:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/1008_hackfleisch-im-la-mo-blatt/</guid>
+        <description>Herzhafte Rollen mit Käsekraut: Hackfleisch im Lá Mơ Blatt</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1008/hackfleisch_im_la_mo_blatt.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1008/hackfleisch_im_la_mo_blatt.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
@@ -334,44 +372,8 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0999/teller.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Nudeln mit Erdnusssoße</title>
-        <link>https://der.reisko.ch/mittagspause/fotos/2021/03/04/</link>
-        <pubDate>Thu, 04 Mar 2021 12:55:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/mittagspause/fotos/2021/03/04/</guid>
-        <description>Heute in der Mittagspause: Nudeln mit Erdnusssoße</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210304_nudeln-mit-erdnusssosse.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210304_nudeln-mit-erdnusssosse.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
-        <title>Khanom Jeen Nam Ya</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/03/03/</link>
-        <pubDate>Wed, 03 Mar 2021 19:21:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/03/03/</guid>
-        <description>Thailändisches Gericht des Tages: Khanom Jeen Nam Ya</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210303_khanom_jeen_nam_ya.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210303_khanom_jeen_nam_ya.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
+			
 			
 			
 			
