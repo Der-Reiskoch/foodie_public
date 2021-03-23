@@ -89,25 +89,6 @@
       </item>
 				
       <item>
-        <title>Hackfleisch im Lá Mơ Blatt</title>
-        <link>https://der.reisko.ch/rezepte/1008_hackfleisch-im-la-mo-blatt/</link>
-        <pubDate>Sun, 21 Mar 2021 11:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/1008_hackfleisch-im-la-mo-blatt/</guid>
-        <description>Herzhafte Rollen mit Käsekraut: Hackfleisch im Lá Mơ Blatt</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1008/hackfleisch_im_la_mo_blatt.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1008/hackfleisch_im_la_mo_blatt.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
         <title>Koreanischer Budae Jjigae im Dolsot</title>
         <link>https://der.reisko.ch/rezepte/koreanischer-budae-jjigae-im-dolsot/</link>
         <pubDate>Sun, 21 Mar 2021 06:59:00 +0200</pubDate>
@@ -372,7 +353,25 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0999/teller.jpg" length="10000" type="image/jpeg" />
       </item>
-			
+				
+      <item>
+        <title>Nudeln mit Erdnusssoße</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2021/03/04/</link>
+        <pubDate>Thu, 04 Mar 2021 12:55:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/fotos/2021/03/04/</guid>
+        <description>Heute in der Mittagspause: Nudeln mit Erdnusssoße</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210304_nudeln-mit-erdnusssosse.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210304_nudeln-mit-erdnusssosse.jpg" length="10000" type="image/jpeg" />
+      </item>
 			
 			
 			
