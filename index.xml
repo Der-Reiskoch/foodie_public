@@ -32,6 +32,25 @@
       </item>
 				
       <item>
+        <title>Bihun Suppe aus der Dose</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/03/24/</link>
+        <pubDate>Wed, 24 Mar 2021 14:52:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/03/24/</guid>
+        <description>Foodie’s Fotoalbum: Bihun Suppe aus der Dose</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210324_bihun_suppe.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210324_bihun_suppe.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Stir Fry mit Lá Mơ Lông</title>
         <link>https://der.reisko.ch/mittagspause/fotos/2021/03/23/</link>
         <pubDate>Tue, 23 Mar 2021 16:11:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210305_gebratene_nudeln_mit_rind.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Thailändisches Gaeng Massaman Gae</title>
-        <link>https://der.reisko.ch/nachgekocht/thailaendisches-gaeng-massaman-gae/</link>
-        <pubDate>Fri, 05 Mar 2021 05:41:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/nachgekocht/thailaendisches-gaeng-massaman-gae/</guid>
-        <description>Aromatisches Curry mit Lamm: Thailändisches Gaeng Massaman Gae</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0999/teller.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0999/teller.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
