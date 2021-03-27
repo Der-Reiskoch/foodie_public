@@ -13,12 +13,12 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
-        <title>Burger Am Abend</title>
+        <title>Burger am Abend</title>
         <link>https://der.reisko.ch/fotoalbum/2021/03/26/</link>
         <pubDate>Fri, 26 Mar 2021 20:52:00 +0200</pubDate>
         
         <guid>https://der.reisko.ch/fotoalbum/2021/03/26/</guid>
-        <description>Foodie’s Fotoalbum: Burger Am Abend</description>
+        <description>Foodie’s Fotoalbum: Burger am Abend</description>
         <content>Blub</content>
         <media:content 
           xmlns:media="http://search.yahoo.com/mrss/" 
@@ -29,6 +29,25 @@
           height="450"
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210326_burger_am_abend.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Salat mit Schwein und Garnelen</title>
+        <link>https://der.reisko.ch/rezepte/salat-mit-schwein-und-garnelen/</link>
+        <pubDate>Fri, 26 Mar 2021 08:24:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/salat-mit-schwein-und-garnelen/</guid>
+        <description>Bunter Salat aus Vietnam: Salat mit Schwein und Garnelen</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1006/salat_mit_schwein_und_garnelen.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1006/salat_mit_schwein_und_garnelen.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210307/gaeng_phed_ped.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Japanisches Karē Raisu im Dolsot</title>
-        <link>https://der.reisko.ch/dies-und-das/japanisches-kare-raisu-im-dolsot/</link>
-        <pubDate>Sun, 07 Mar 2021 08:35:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/dies-und-das/japanisches-kare-raisu-im-dolsot/</guid>
-        <description>Curry mit Huhn im Tontopf: Japanisches Karē Raisu im Dolsot</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0975/kare_raisu_im_dolsot.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/0900/0975/kare_raisu_im_dolsot.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
