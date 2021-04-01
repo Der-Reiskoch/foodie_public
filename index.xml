@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 31 Mar 2021 20:11:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 14:55:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Frikadellen mit Pommes</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2021/04/01/</link>
+        <pubDate>Thu, 01 Apr 2021 14:55:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/fotos/2021/04/01/</guid>
+        <description>Heute in der Mittagspause: Frikadellen mit Pommes</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210401_frikadellen_mit_pommes.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210401_frikadellen_mit_pommes.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Glasnudelpfanne</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210309_gai_tod_mit_nam_jim_talee.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Rotes Reste Curry</title>
-        <link>https://der.reisko.ch/thaipause/fotos/2021/03/09/</link>
-        <pubDate>Tue, 09 Mar 2021 14:22:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaipause/fotos/2021/03/09/</guid>
-        <description>Thaifood in der Mittagspause: Rotes Reste Curry</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210309_rotes_reste_curry.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaipause/2021/20210309_rotes_reste_curry.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
