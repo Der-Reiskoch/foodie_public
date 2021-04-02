@@ -85,7 +85,7 @@ if ($_POST['sid'] && ($_POST['pid'])) {
         $stmt = $pdo->prepare("INSERT INTO `comments` (`section_id`, `post_id`, `name`, `email`, `website`,  `message`) VALUES (?,?,?,?,?,?)");
         $stmt->execute([$_POST['sid'], $_POST['pid'], htmlentities($_POST['name']), htmlentities($_POST['email']), htmlentities($_POST['website']), htmlentities($_POST['msg'])]);
 
-        $mailtext = implode(",<br>", $_POST) . '<br> see https://myadmin-alfa3097.alfahosting-server.de/';
+        $mailtext = implode(",<br>", $_POST) . sprintf('<br> Artikel https://der.reisko.ch/%s/%s', $_POST['sid'], $_POST['pid'] ) . '<br> Freischalten: https://myadmin-alfa3097.alfahosting-server.de/';
 
         $to = "der@reisko.ch"; // Mailadresse
         $from = "der@reisko.ch";
