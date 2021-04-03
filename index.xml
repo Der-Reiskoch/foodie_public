@@ -13,6 +13,44 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Pad Nam Prik Pao mit Bärlauch</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/04/02/</link>
+        <pubDate>Fri, 02 Apr 2021 18:58:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/04/02/</guid>
+        <description>Thailändisches Gericht des Tages: Pad Nam Prik Pao mit Bärlauch</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210402/plaa_muek_pad_nam_prik_pao.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210402/plaa_muek_pad_nam_prik_pao.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Gaeng Paa Hed Moo Sap</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/04/01/</link>
+        <pubDate>Thu, 01 Apr 2021 18:58:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/04/01/</guid>
+        <description>Thailändisches Gericht des Tages: Gaeng Paa Hed Moo Sap</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210401/gaeng_paa_hed.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210401/gaeng_paa_hed.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Frikadellen mit Pommes</title>
         <link>https://der.reisko.ch/mittagspause/fotos/2021/04/01/</link>
         <pubDate>Thu, 01 Apr 2021 14:55:00 +0200</pubDate>
@@ -334,44 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210311_indonesisches_curry.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Gebratene Nudeln</title>
-        <link>https://der.reisko.ch/mittagspause/fotos/2021/03/10/</link>
-        <pubDate>Wed, 10 Mar 2021 14:45:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/mittagspause/fotos/2021/03/10/</guid>
-        <description>Heute in der Mittagspause: Gebratene Nudeln</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210310_gebratene_nudeln.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210310_gebratene_nudeln.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
-        <title>Gaeng Paa Hed Moo Sap</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/04/01/</link>
-        <pubDate>Tue, 09 Mar 2021 18:58:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/04/01/</guid>
-        <description>Thailändisches Gericht des Tages: Gaeng Paa Hed Moo Sap</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210401/gaeng_paa_hed.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210401/gaeng_paa_hed.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
