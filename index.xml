@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Curry-Nudelsuppe</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/04/04/</link>
+        <pubDate>Sun, 04 Apr 2021 18:58:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/04/04/</guid>
+        <description>Thailändisches Gericht des Tages: Curry-Nudelsuppe</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210404_curry_nudelsuppe.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_thaifood/2021/20210404_curry_nudelsuppe.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Zweimal Curry Reste</title>
         <link>https://der.reisko.ch/thaifood/fotos/2021/04/03/</link>
         <pubDate>Sat, 03 Apr 2021 18:58:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210316_bulgur_pfanne_mit_huhn.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Karibischer Eintopf mit Kartoffelbrei</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/03/14/</link>
-        <pubDate>Sun, 14 Mar 2021 21:52:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/03/14/</guid>
-        <description>Foodie’s Fotoalbum: Karibischer Eintopf mit Kartoffelbrei</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210314_mehr_sosse.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210314_mehr_sosse.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
