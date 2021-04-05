@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 01 Apr 2021 14:55:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Apr 2021 23:52:00 +0200</lastBuildDate>
     <image>
         <url>https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Beef Stew und Potato Pottage</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/04/04/</link>
+        <pubDate>Sun, 04 Apr 2021 23:52:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/04/04/</guid>
+        <description>Foodie’s Fotoalbum: Beef Stew und Potato Pottage</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210404/potato_pottage_und_stew.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_fotoalbum/2021/20210404/potato_pottage_und_stew.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Curry-Nudelsuppe</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/1000/1002/schnelle_koko-erdnuss-suppe.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Bulgur Pfanne mit Huhn</title>
-        <link>https://der.reisko.ch/mittagspause/fotos/2021/03/16/</link>
-        <pubDate>Tue, 16 Mar 2021 16:11:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/mittagspause/fotos/2021/03/16/</guid>
-        <description>Heute in der Mittagspause: Bulgur Pfanne mit Huhn</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210316_bulgur_pfanne_mit_huhn.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://foodie_media.gitlab.io/foodie_hugo_media/media/_mittagspause/2021/20210316_bulgur_pfanne_mit_huhn.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
