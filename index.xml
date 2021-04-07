@@ -6,29 +6,29 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 06 Apr 2021 11:24:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 23:52:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
-        <title>Potato Pottage aus Nigeria</title>
-        <link>https://der.reisko.ch/rezepte/1011-potato-pottage-aus-nigeria/</link>
-        <pubDate>Tue, 06 Apr 2021 11:24:00 +0200</pubDate>
+        <title>Rumpsteak mit Mezeler</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/04/06/</link>
+        <pubDate>Tue, 06 Apr 2021 23:52:00 +0200</pubDate>
         
-        <guid>https://der.reisko.ch/rezepte/1011-potato-pottage-aus-nigeria/</guid>
-        <description>Herzhafte Beilage aus Kartoffeln: Potato Pottage aus Nigeria</description>
+        <guid>https://der.reisko.ch/fotoalbum/2021/04/06/</guid>
+        <description>Foodie’s Fotoalbum: Rumpsteak mit Mezeler</description>
         <content>Blub</content>
         <media:content 
           xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1011/potato_pottage.jpg" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210406_steak_mit_mezeler.jpg" 
           medium="image" 
           type="image/jpeg" 
           width="600" 
           height="450"
         />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1011/potato_pottage.jpg" length="10000" type="image/jpeg" />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210406_steak_mit_mezeler.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
