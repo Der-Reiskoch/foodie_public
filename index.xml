@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Khao Moo Daeng</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/04/11/</link>
+        <pubDate>Sun, 11 Apr 2021 18:44:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/04/11/</guid>
+        <description>Thailändisches Gericht des Tages: Khao Moo Daeng</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210411_khao_moo_daeng.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210411_khao_moo_daeng.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Potato Pottage aus Nigeria</title>
         <link>https://der.reisko.ch/rezepte/potato-pottage-aus-nigeria/</link>
         <pubDate>Sun, 11 Apr 2021 08:24:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1005/la_mo_long_omelette.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Bihun Suppe aus der Dose</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/03/24/</link>
-        <pubDate>Wed, 24 Mar 2021 14:52:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/03/24/</guid>
-        <description>Foodie’s Fotoalbum: Bihun Suppe aus der Dose</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210324_bihun_suppe.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210324_bihun_suppe.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
