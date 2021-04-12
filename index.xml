@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 11 Apr 2021 08:24:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 13:22:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Tom Yam Hed Moo Daeng</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2021/04/12/</link>
+        <pubDate>Mon, 12 Apr 2021 13:22:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaipause/fotos/2021/04/12/</guid>
+        <description>Thaifood in der Mittagspause: Tom Yam Hed Moo Daeng</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210412_tom_yam_hed_moo_daeng.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210412_tom_yam_hed_moo_daeng.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Khao Moo Daeng</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1006/salat_mit_schwein_und_garnelen.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Lá Mơ Omelette aus Vietnam</title>
-        <link>https://der.reisko.ch/rezepte/la-mo-long-omelette-aus-vietnam/</link>
-        <pubDate>Thu, 25 Mar 2021 05:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/la-mo-long-omelette-aus-vietnam/</guid>
-        <description>Das Käsekraut mit Ei: Lá Mơ Omelette aus Vietnam</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1005/la_mo_long_omelette.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1005/la_mo_long_omelette.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
