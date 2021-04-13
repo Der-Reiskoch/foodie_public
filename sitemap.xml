@@ -209,36 +209,6 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/rezepte/</loc>
-    <lastmod>2021-04-13T06:11:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/salat/</loc>
-    <lastmod>2021-04-13T06:11:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/schwein/</loc>
-    <lastmod>2021-04-13T06:11:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/</loc>
-    <lastmod>2021-04-13T06:11:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/vietnamesisch/</loc>
-    <lastmod>2021-04-13T06:11:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/rezepte/vietnamesischer-salat-mit-schwein/</loc>
-    <lastmod>2021-04-13T06:11:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://der.reisko.ch/thaifood/fotos/2021/04/12/</loc>
     <lastmod>2021-04-12T23:24:09+02:00</lastmod>
   </url>
@@ -264,12 +234,22 @@
   </url>
   
   <url>
+    <loc>https://der.reisko.ch/rezepte/</loc>
+    <lastmod>2021-04-11T08:24:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/tags/nigerianisch/</loc>
     <lastmod>2021-04-11T08:24:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://der.reisko.ch/rezepte/potato-pottage-aus-nigeria/</loc>
+    <lastmod>2021-04-11T08:24:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/</loc>
     <lastmod>2021-04-11T08:24:00+02:00</lastmod>
   </url>
   
@@ -434,6 +414,11 @@
   </url>
   
   <url>
+    <loc>https://der.reisko.ch/tags/vietnamesisch/</loc>
+    <lastmod>2021-03-28T08:24:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/fotoalbum/2021/03/26/</loc>
     <lastmod>2021-03-26T20:52:00+02:00</lastmod>
   </url>
@@ -444,7 +429,17 @@
   </url>
   
   <url>
+    <loc>https://der.reisko.ch/tags/salat/</loc>
+    <lastmod>2021-03-26T08:24:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://der.reisko.ch/rezepte/salat-mit-schwein-und-garnelen/</loc>
+    <lastmod>2021-03-26T08:24:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/schwein/</loc>
     <lastmod>2021-03-26T08:24:00+02:00</lastmod>
   </url>
   
