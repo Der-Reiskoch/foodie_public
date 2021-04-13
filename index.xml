@@ -6,11 +6,49 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 12 Apr 2021 13:22:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Apr 2021 13:22:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Yam Moo Daeng</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2021/04/13/</link>
+        <pubDate>Tue, 13 Apr 2021 13:22:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaipause/fotos/2021/04/13/</guid>
+        <description>Thaifood in der Mittagspause: Yam Moo Daeng</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210413_yam_moo_daeng_nah.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210413_yam_moo_daeng_nah.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Vietnamesischer Salat mit Schwein</title>
+        <link>https://der.reisko.ch/rezepte/vietnamesischer-salat-mit-schwein/</link>
+        <pubDate>Tue, 13 Apr 2021 06:11:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/vietnamesischer-salat-mit-schwein/</guid>
+        <description>Mit viel Zitronengras: Vietnamesischer Salat mit Schwein</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1007/salat_mit_schwein.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1007/salat_mit_schwein.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Yam Woon Sen &#34;Chao Wang&#34;</title>
@@ -334,44 +372,8 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1009/bee_hoon_ayam_soto.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Hackfleisch im Lá Mơ Blatt</title>
-        <link>https://der.reisko.ch/rezepte/hackfleisch-im-la-mo-blatt/</link>
-        <pubDate>Sun, 28 Mar 2021 08:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/hackfleisch-im-la-mo-blatt/</guid>
-        <description>Herzhafte Rollen mit Käsekraut: Hackfleisch im Lá Mơ Blatt</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1008/hackfleisch_im_la_mo_blatt.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1008/hackfleisch_im_la_mo_blatt.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
-        <title>Burger am Abend</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/03/26/</link>
-        <pubDate>Fri, 26 Mar 2021 20:52:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/03/26/</guid>
-        <description>Foodie’s Fotoalbum: Burger am Abend</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210326_burger_am_abend.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210326_burger_am_abend.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
+			
 			
 			
 			
