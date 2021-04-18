@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 17 Apr 2021 06:21:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Apr 2021 09:55:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Thailändisches Khao Moo Daeng</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-khao-moo-daeng/</link>
+        <pubDate>Sun, 18 Apr 2021 09:55:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/thailaendischer-khao-moo-daeng/</guid>
+        <description>Geröstetes Schweinefleisch auf Reis: Thailändisches Khao Moo Daeng</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1015/khao_moo_daeng.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1015/khao_moo_daeng.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Kartoffelsuppe in der Brotschale</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210404_curry_nudelsuppe.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Zweimal Curry Reste</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/04/03/</link>
-        <pubDate>Sat, 03 Apr 2021 18:58:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/04/03/</guid>
-        <description>Thailändisches Gericht des Tages: Zweimal Curry Reste</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210403/gelbes_und_jungle_curry.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210403/gelbes_und_jungle_curry.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
