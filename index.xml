@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 18 Apr 2021 09:55:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Apr 2021 07:55:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Thailändisches Gaeng Paa Nuea Khorat</title>
+        <link>https://der.reisko.ch/rezepte/1017_thailaendisches-gaeng-paa-nuea-khorat/</link>
+        <pubDate>Tue, 20 Apr 2021 07:55:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/1017_thailaendisches-gaeng-paa-nuea-khorat/</guid>
+        <description>Rinder Junglecurry mit viel Fingerwurz: Thailändisches Gaeng Paa Nuea Khorat</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1017/gaeng_nuea_korat.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1017/gaeng_nuea_korat.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Thailändisches Khao Moo Daeng</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210404/potato_pottage_und_stew.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Curry-Nudelsuppe</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/04/04/</link>
-        <pubDate>Sun, 04 Apr 2021 18:58:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/04/04/</guid>
-        <description>Thailändisches Gericht des Tages: Curry-Nudelsuppe</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210404_curry_nudelsuppe.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210404_curry_nudelsuppe.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
