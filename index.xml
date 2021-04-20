@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 20 Apr 2021 07:55:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Apr 2021 20:00:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Tortellini alla Panna</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2021/04/20/</link>
+        <pubDate>Tue, 20 Apr 2021 20:00:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/fotos/2021/04/20/</guid>
+        <description>Heute in der Mittagspause: Tortellini alla Panna</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210420_tortellini_alla_panna.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210420_tortellini_alla_panna.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Thailändisches Gaeng Paa Nuea Khorat</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1012/habeet_mit_kartoffeln_und_bohnen.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Beef Stew und Potato Pottage</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/04/04/</link>
-        <pubDate>Sun, 04 Apr 2021 23:52:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/04/04/</guid>
-        <description>Foodie’s Fotoalbum: Beef Stew und Potato Pottage</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210404/potato_pottage_und_stew.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210404/potato_pottage_und_stew.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
