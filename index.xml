@@ -22,13 +22,13 @@
         <content>Blub</content>
         <media:content 
           xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210422_yam_plaa_muek_mit_omelette.jpg" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210422_yam_plaa_muek_mit_thai_omelette.jpg" 
           medium="image" 
           type="image/jpeg" 
           width="600" 
           height="450"
         />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210422_yam_plaa_muek_mit_omelette.jpg" length="10000" type="image/jpeg" />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210422_yam_plaa_muek_mit_thai_omelette.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
