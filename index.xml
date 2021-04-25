@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Pad Kra Pao Nuea Hed</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/04/25/</link>
+        <pubDate>Sun, 25 Apr 2021 19:24:09 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/04/25/</guid>
+        <description>Thailändisches Gericht des Tages: Pad Kra Pao Nuea Hed</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210425_pad_kra_pao_nuea_hed.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210425_pad_kra_pao_nuea_hed.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Thai Menü am Samstagabend</title>
         <link>https://der.reisko.ch/thaifood/fotos/2021/04/24/</link>
         <pubDate>Sat, 24 Apr 2021 19:24:09 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210412_tom_yam_hed_moo_daeng.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Khao Moo Daeng</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/04/11/</link>
-        <pubDate>Sun, 11 Apr 2021 18:44:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/04/11/</guid>
-        <description>Thailändisches Gericht des Tages: Khao Moo Daeng</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media//media/_thaifood/2021/20210411_khao_moo_daeng.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media//media/_thaifood/2021/20210411_khao_moo_daeng.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
