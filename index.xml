@@ -41,13 +41,13 @@
         <content>Blub</content>
         <media:content 
           xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/2021027_jungle_curry_mit_nudeln.jpg" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210427_jungle_curry_mit_nudeln.jpg" 
           medium="image" 
           type="image/jpeg" 
           width="600" 
           height="450"
         />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/2021027_jungle_curry_mit_nudeln.jpg" length="10000" type="image/jpeg" />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210427_jungle_curry_mit_nudeln.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
