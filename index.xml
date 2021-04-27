@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Yam Hed Moo Yang</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/04/27/</link>
+        <pubDate>Tue, 27 Apr 2021 19:24:09 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/04/27/</guid>
+        <description>Thailändisches Gericht des Tages: Yam Hed Moo Yang</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210427_yam_hed_moo_yang.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210427_yam_hed_moo_yang.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Jungle Curry mit Nudeln</title>
         <link>https://der.reisko.ch/thaipause/fotos/2021/04/27/</link>
         <pubDate>Tue, 27 Apr 2021 16:11:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210414_yam_woon_sen_moo_daeng.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Vietnamesischer Salat mit Schwein</title>
-        <link>https://der.reisko.ch/rezepte/vietnamesischer-salat-mit-schwein/</link>
-        <pubDate>Wed, 14 Apr 2021 05:52:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/vietnamesischer-salat-mit-schwein/</guid>
-        <description>Mit viel Zitronengras: Vietnamesischer Salat mit Schwein</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1007/salat_mit_schwein.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1007/salat_mit_schwein.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
