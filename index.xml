@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 30 Apr 2021 06:41:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 11:02:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Einfache Nudeln aus Shaanxi</title>
+        <link>https://der.reisko.ch/rezepte/einfache-nudeln-aus-shaanxi/</link>
+        <pubDate>Sat, 01 May 2021 11:02:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/einfache-nudeln-aus-shaanxi/</guid>
+        <description>Mit der Schere geschnittene Teigwaren: Einfache Nudeln aus Shaanxi</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1019/shanxi_nudeln.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1019/shanxi_nudeln.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Yam Sai Bua und Gaeng Kiaw Wan Moo</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1015/khao_moo_daeng.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Kartoffelsuppe in der Brotschale</title>
-        <link>https://der.reisko.ch/dies-und-das/kartoffelsuppe-in-der-brotschale/</link>
-        <pubDate>Sat, 17 Apr 2021 06:21:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/dies-und-das/kartoffelsuppe-in-der-brotschale/</guid>
-        <description>Unsere Foodiegruppe backt und kocht: Kartoffelsuppe in der Brotschale</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1016/suppe_in_der_brotschale.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1016/suppe_in_der_brotschale.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
