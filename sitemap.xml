@@ -184,12 +184,27 @@
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/tags/chinesisch/</loc>
-    <lastmod>2021-05-01T11:02:00+02:00</lastmod>
+    <loc>https://der.reisko.ch/</loc>
+    <lastmod>2021-05-01T23:52:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://der.reisko.ch/</loc>
+    <loc>https://der.reisko.ch/fotoalbum/</loc>
+    <lastmod>2021-05-01T23:52:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/fotoalbum/2021/</loc>
+    <lastmod>2021-05-01T23:52:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/fotoalbum/2021/05/01/</loc>
+    <lastmod>2021-05-01T23:52:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/chinesisch/</loc>
     <lastmod>2021-05-01T11:02:00+02:00</lastmod>
   </url>
   
@@ -320,16 +335,6 @@
   
   <url>
     <loc>https://der.reisko.ch/fotoalbum/2021/04/25/</loc>
-    <lastmod>2021-04-25T23:52:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/fotoalbum/</loc>
-    <lastmod>2021-04-25T23:52:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/fotoalbum/2021/</loc>
     <lastmod>2021-04-25T23:52:00+02:00</lastmod>
   </url>
   
