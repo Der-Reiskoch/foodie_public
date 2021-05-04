@@ -1,4 +1,5 @@
 <?php
+header('Access-Control-Allow-Origin: http://localhost:1313');
 
 require_once('settings.php');
 
@@ -70,6 +71,7 @@ if ($_GET['sid'] && ($_GET['pid'])) {
 }
 
 if ($_POST['sid'] && ($_POST['pid'])) {
+    
 
     if (!isset($_POST['sid']) || !isset($_POST['pid']) || !isset($_POST['name']) || !isset($_POST['msg'])) {
         die("Bitte gib Deinen Namem und eine Nachricht ein.");
@@ -101,6 +103,8 @@ if ($_POST['sid'] && ($_POST['pid'])) {
     } catch (Exception $ex) {
         die($ex->getMessage());
     }
+
+    
     echo "OK";
 }
 
