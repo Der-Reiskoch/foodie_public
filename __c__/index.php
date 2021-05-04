@@ -1,13 +1,7 @@
 <?php
-// https://code-boxx.com/simple-php-comment-system/
 
-// (A) CONNECT TO DATABASE
-// ! CHANGE SETTINGS TO YOUR OWN !
-$dbhost = 'localhost';
-$dbname = 'usr_web247_1';
-$dbchar = 'utf8';
-$dbuser = 'web247';
-$dbpass = 'Anzbe64G';
+require_once('settings.php');
+
 try {
     $pdo = new PDO(
         "mysql:host=$dbhost;dbname=$dbname;charset=$dbchar",
@@ -85,9 +79,9 @@ if ($_POST['sid'] && ($_POST['pid'])) {
         $stmt = $pdo->prepare("INSERT INTO `comments` (`section_id`, `post_id`, `name`, `email`, `website`,  `message`) VALUES (?,?,?,?,?,?)");
         $stmt->execute([$_POST['sid'], $_POST['pid'], htmlentities($_POST['name']), htmlentities($_POST['email']), htmlentities($_POST['website']), htmlentities($_POST['msg'])]);
 
-        $mailtext = implode(",<br>", $_POST) . sprintf('<br> Artikel https://der.reisko.ch/%s/%s', $_POST['sid'], $_POST['pid'] ) . '<br> Freischalten: https://myadmin-alfa3097.alfahosting-server.de/';
+        $mailtext = implode(",<br>", $_POST) . sprintf('<br> Artikel https://der.reisko.ch/%s/%s', $_POST['sid'], $_POST['pid'] ) . sprintf('<br> Freischalten: %s', $managePostsUrl );     
 
-        $to = "der@reisko.ch"; // Mailadresse
+        $to = "der@reisko.ch";
         $from = "der@reisko.ch";
         $subject = "Neuer Kommentar";
         $reply = $_POST['email'];
