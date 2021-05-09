@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 08 May 2021 06:41:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 May 2021 06:21:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Grünes-Curry-Wochenende</title>
+        <link>https://der.reisko.ch/dies-und-das/1029_gruenes-curry-wochenende/</link>
+        <pubDate>Sun, 09 May 2021 06:21:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/dies-und-das/1029_gruenes-curry-wochenende/</guid>
+        <description>Eine schöne Kochidee: Grünes-Curry-Wochenende</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1029/gaeng_kiaw_wan_nuea.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1029/gaeng_kiaw_wan_nuea.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Pad Kra Pao Moo Sap</title>
@@ -67,6 +86,25 @@
           height="450"
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210507_nam_ya_plaa_muek.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Zuckerschoten mit Gun Chiang</title>
+        <link>https://der.reisko.ch/rezepte/1028_zuckerschoten-mit-gun-chiang/</link>
+        <pubDate>Fri, 07 May 2021 20:44:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/1028_zuckerschoten-mit-gun-chiang/</guid>
+        <description>Süße Wurst mit süßen Erbsen: Zuckerschoten mit Gun Chiang</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1028/zuckerschoten_mit_gun_chiang.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1028/zuckerschoten_mit_gun_chiang.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
@@ -334,44 +372,8 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210427_yam_hed_moo_yang.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Jungle Curry mit Nudeln</title>
-        <link>https://der.reisko.ch/thaipause/fotos/2021/04/27/</link>
-        <pubDate>Tue, 27 Apr 2021 16:11:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaipause/fotos/2021/04/27/</guid>
-        <description>Thaifood in der Mittagspause: Jungle Curry mit Nudeln</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210427_jungle_curry_mit_nudeln.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210427_jungle_curry_mit_nudeln.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
-        <title>Gebratener Spargel mit Eiersoße</title>
-        <link>https://der.reisko.ch/rezepte/gebratener-spargel-mit-eiersosse/</link>
-        <pubDate>Tue, 27 Apr 2021 06:09:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/gebratener-spargel-mit-eiersosse/</guid>
-        <description>Ungewöhnliches Gericht aus China: Gebratener Spargel mit Eiersoße</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1021/spargel_mit_eier-sosse.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1021/spargel_mit_eier-sosse.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
+			
 			
 			
 			
