@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 09 May 2021 06:21:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 May 2021 06:41:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Thailändischer Khao Pad Sapparot</title>
+        <link>https://der.reisko.ch/nachgekocht/thailandischer-khao-pad-sapparot/</link>
+        <pubDate>Mon, 10 May 2021 06:41:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/nachgekocht/thailandischer-khao-pad-sapparot/</guid>
+        <description>Gebratener Reis in der Ananas serviert: Thailändischer Khao Pad Sapparot</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1030/khao_pad_saparot.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1030/khao_pad_saparot.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Zweimal Curry in der Ananas</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1020/rindfleisch_mit_paprika.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Yam Hed Moo Yang</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/04/27/</link>
-        <pubDate>Tue, 27 Apr 2021 19:24:09 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/04/27/</guid>
-        <description>Thailändisches Gericht des Tages: Yam Hed Moo Yang</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210427_yam_hed_moo_yang.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210427_yam_hed_moo_yang.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
