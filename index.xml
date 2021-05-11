@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 10 May 2021 06:41:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 May 2021 21:52:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Annes indisches Geburtstagsmenü</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/05/10/</link>
+        <pubDate>Mon, 10 May 2021 21:52:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/05/10/</guid>
+        <description>Foodie’s Fotoalbum: Annes indisches Geburtstagsmenü</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210510/von_oben.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210510/von_oben.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Thailändischer Khao Pad Sapparot</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210429_reste-curry.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Chinesisches Rindfleisch mit Paprika</title>
-        <link>https://der.reisko.ch/rezepte/chinesisches-rindfleisch-mit-paprika/</link>
-        <pubDate>Thu, 29 Apr 2021 06:43:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/chinesisches-rindfleisch-mit-paprika/</guid>
-        <description>Schnelles pfannengerührtes Gericht: Chinesisches Rindfleisch mit Paprika</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1020/rindfleisch_mit_paprika.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1020/rindfleisch_mit_paprika.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
