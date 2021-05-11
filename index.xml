@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 10 May 2021 21:52:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 May 2021 13:22:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Bunte Thaifood Reste</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2021/05/11/</link>
+        <pubDate>Tue, 11 May 2021 13:22:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaipause/fotos/2021/05/11/</guid>
+        <description>Thaifood in der Mittagspause: Bunte Thaifood Reste</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210511_bunte_thai_reste.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210511_bunte_thai_reste.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Annes indisches Geburtstagsmenü</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1023/yam_gunchiang.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Buntes Reste Curry</title>
-        <link>https://der.reisko.ch/mittagspause/fotos/2021/04/29/</link>
-        <pubDate>Thu, 29 Apr 2021 17:00:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/mittagspause/fotos/2021/04/29/</guid>
-        <description>Heute in der Mittagspause: Buntes Reste Curry</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210429_reste-curry.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210429_reste-curry.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
