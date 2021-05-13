@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Khao Pad Reste</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/05/13/</link>
+        <pubDate>Thu, 13 May 2021 16:24:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/05/13/</guid>
+        <description>Thailändisches Gericht des Tages: Khao Pad Reste</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210513_khao_pad_reste.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210513_khao_pad_reste.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Khao Pad Sapparot</title>
         <link>https://der.reisko.ch/thaifood/fotos/2021/05/12/</link>
         <pubDate>Wed, 12 May 2021 22:24:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210501/fuenf_gerichte.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Einfache Nudeln aus Shaanxi</title>
-        <link>https://der.reisko.ch/rezepte/einfache-nudeln-aus-shaanxi/</link>
-        <pubDate>Sat, 01 May 2021 11:02:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/einfache-nudeln-aus-shaanxi/</guid>
-        <description>Mit der Schere geschnittene Teigwaren: Einfache Nudeln aus Shaanxi</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1019/shanxi_nudeln.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1019/shanxi_nudeln.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
