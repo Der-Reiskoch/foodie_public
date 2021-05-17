@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 15 May 2021 09:41:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 17 May 2021 06:12:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Thailändische Hed Khem Thong Pad Ney</title>
+        <link>https://der.reisko.ch/rezepte/thailaendische-hed-khem-thong-pad-ney/</link>
+        <pubDate>Mon, 17 May 2021 06:12:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/thailaendische-hed-khem-thong-pad-ney/</guid>
+        <description>In Butter gebratene Enoki Pilze: Thailändische Hed Khem Thong Pad Ney</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1032/hed_kem_tong_pad_ney.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1032/hed_kem_tong_pad_ney.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Fünf Thai Gerichte</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210503_khanom_jeen_panaeng.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Gaeng Panaeng Nuea</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/05/02/</link>
-        <pubDate>Sun, 02 May 2021 21:58:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/05/02/</guid>
-        <description>Thailändisches Gericht des Tages: Gaeng Panaeng Nuea</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210502_gaeng_panaeng_nuea.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210502_gaeng_panaeng_nuea.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
