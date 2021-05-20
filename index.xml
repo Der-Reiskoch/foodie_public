@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 19 May 2021 13:52:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 06:41:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Thailändischer Yam Sai Bua Moo</title>
+        <link>https://der.reisko.ch/rezepte/thailaendischer-yam-sai-bua-moo/</link>
+        <pubDate>Thu, 20 May 2021 06:41:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/thailaendischer-yam-sai-bua-moo/</guid>
+        <description>Salat mit Lotusstängeln und Schweinefleisch: Thailändischer Yam Sai Bua Moo</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1025/yam_sai_bua_moo.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1025/yam_sai_bua_moo.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Sichuan Tofu mit Bohnen</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210505_yam_gai_sap.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Frittierter Tofu mit Pak Choy</title>
-        <link>https://der.reisko.ch/rezepte/frittierter-tofu-mit-pak-choy/</link>
-        <pubDate>Wed, 05 May 2021 05:41:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/frittierter-tofu-mit-pak-choy/</guid>
-        <description>Ein schnelles vegetarisches Gericht: Frittierter Tofu mit Pak Choy</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1022/frittierter_tofu_mit_pak_choy.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1022/frittierter_tofu_mit_pak_choy.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
