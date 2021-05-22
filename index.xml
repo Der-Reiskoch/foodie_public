@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Larb Moo Hed Isaan</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/05/21/</link>
+        <pubDate>Fri, 21 May 2021 16:24:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/05/21/</guid>
+        <description>Thailändisches Gericht des Tages: Larb Moo Hed Isaan</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210521_larb_moo_hed_isaan.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210521_larb_moo_hed_isaan.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Thailändischer Yam Sai Bua Moo</title>
         <link>https://der.reisko.ch/rezepte/thailaendischer-yam-sai-bua-moo/</link>
         <pubDate>Thu, 20 May 2021 06:41:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210506_sucuk-reise-pfanne_mit_bohnen.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Schneller Yam Gai Sap</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/05/05/</link>
-        <pubDate>Wed, 05 May 2021 20:58:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/05/05/</guid>
-        <description>Thailändisches Gericht des Tages: Schneller Yam Gai Sap</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210505_yam_gai_sap.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210505_yam_gai_sap.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
