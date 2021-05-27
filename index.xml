@@ -32,6 +32,25 @@
       </item>
 				
       <item>
+        <title>Yam Plaa Muek und Massaman Curry</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/05/26/</link>
+        <pubDate>Wed, 26 May 2021 14:24:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/05/26/</guid>
+        <description>Thailändisches Gericht des Tages: Yam Plaa Muek und Massaman Curry</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210526_yam_plaa_muek_und_massaman_curry.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210526_yam_plaa_muek_und_massaman_curry.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Zwei Curries von Aroy Aroy</title>
         <link>https://der.reisko.ch/thaipause/fotos/2021/05/26/</link>
         <pubDate>Wed, 26 May 2021 13:22:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1030/khao_pad_saparot.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Zweimal Curry in der Ananas</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/05/09/</link>
-        <pubDate>Sun, 09 May 2021 21:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/05/09/</guid>
-        <description>Thailändisches Gericht des Tages: Zweimal Curry in der Ananas</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210509_zweimal_curry_in_der_ananas.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210509_zweimal_curry_in_der_ananas.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
