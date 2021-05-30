@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 29 May 2021 18:52:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 May 2021 23:52:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Zweimal Matjes</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/05/29-abends/</link>
+        <pubDate>Sat, 29 May 2021 23:52:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/05/29-abends/</guid>
+        <description>Foodie’s Fotoalbum: Zweimal Matjes</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210529_zweimal_matjes.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210529_zweimal_matjes.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Obazda mit Brezel</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1028/zuckerschoten_mit_gun_chiang.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Bunte Thaifood Reste</title>
-        <link>https://der.reisko.ch/thaipause/fotos/2021/05/11/</link>
-        <pubDate>Tue, 11 May 2021 13:22:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaipause/fotos/2021/05/11/</guid>
-        <description>Thaifood in der Mittagspause: Bunte Thaifood Reste</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210511_bunte_thai_reste.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210511_bunte_thai_reste.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
