@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 29 May 2021 23:52:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 06:50:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Thai-Tele-Kochen Teil 2</title>
+        <link>https://der.reisko.ch/nachgekocht/thai-tele-kochen-teil-2/</link>
+        <pubDate>Wed, 02 Jun 2021 06:50:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/nachgekocht/thai-tele-kochen-teil-2/</guid>
+        <description>Drei leckere Gerichte mit der Foodiegruppe: Thai-Tele-Kochen Teil 2</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_mediamedia/0000/0096/thai-tele-kochen.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_mediamedia/0000/0096/thai-tele-kochen.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Pfeffriges Seua Rong Hai</title>
@@ -29,6 +48,25 @@
           height="450"
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210601/seua_rong_hai.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Ocakbaşı Antalya</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/05/31/</link>
+        <pubDate>Mon, 31 May 2021 21:42:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/05/31/</guid>
+        <description>Foodie’s Fotoalbum: Ocakbaşı Antalya</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210531_hamsi_tava.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210531_hamsi_tava.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
@@ -67,25 +105,6 @@
           height="450"
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210529_obazda_mit_brezel.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
-        <title>Thai-Tele-Kochen Care Paket</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/05/28/</link>
-        <pubDate>Fri, 28 May 2021 17:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/05/28/</guid>
-        <description>Thailändisches Gericht des Tages: Thai-Tele-Kochen Care Paket</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210528_thai-tele-kochen.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210528_thai-tele-kochen.jpg" length="10000" type="image/jpeg" />
       </item>
 				
       <item>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210513_khao_pad_reste.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Khao Pad Sapparot</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/05/12/</link>
-        <pubDate>Wed, 12 May 2021 22:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/05/12/</guid>
-        <description>Thailändisches Gericht des Tages: Khao Pad Sapparot</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210512_khao_pad_sapparot.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210512_khao_pad_sapparot.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
