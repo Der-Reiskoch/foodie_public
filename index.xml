@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Nam Tok Nuea</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/06/03/</link>
+        <pubDate>Thu, 03 Jun 2021 14:24:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/06/03/</guid>
+        <description>Thailändisches Gericht des Tages: Nam Tok Nuea</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210603_nam_tok_nuea.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210603_nam_tok_nuea.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Thai-Tele-Kochen Teil 2</title>
         <link>https://der.reisko.ch/nachgekocht/thai-tele-kochen-teil-2/</link>
         <pubDate>Wed, 02 Jun 2021 06:50:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1031/linsensuppe_mit_sucuk.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Khao Pad Reste</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/05/13/</link>
-        <pubDate>Thu, 13 May 2021 16:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/05/13/</guid>
-        <description>Thailändisches Gericht des Tages: Khao Pad Reste</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210513_khao_pad_reste.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210513_khao_pad_reste.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
