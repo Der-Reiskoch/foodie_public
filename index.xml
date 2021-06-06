@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 04 Jun 2021 21:52:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 07:01:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Japanische Ramen mit Beilagen</title>
+        <link>https://der.reisko.ch/nachgekocht/japanische-ramen-mit-beilagen/</link>
+        <pubDate>Sun, 06 Jun 2021 07:01:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/nachgekocht/japanische-ramen-mit-beilagen/</guid>
+        <description>Ein kleines japanisches Menü: Japanische Ramen mit Beilagen</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1037/ramen_mit_chashu_und_pilzen.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1037/ramen_mit_chashu_und_pilzen.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Holunderblüten-Chüechli</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210518_nudelsuppe_mit_teigtaschen.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Thailändische Hed Khem Thong Pad Ney</title>
-        <link>https://der.reisko.ch/rezepte/thailaendische-hed-khem-thong-pad-ney/</link>
-        <pubDate>Mon, 17 May 2021 06:12:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/thailaendische-hed-khem-thong-pad-ney/</guid>
-        <description>In Butter gebratene Enoki Pilze: Thailändische Hed Khem Thong Pad Ney</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1032/hed_kem_tong_pad_ney.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1032/hed_kem_tong_pad_ney.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
