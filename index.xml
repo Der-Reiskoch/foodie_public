@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 06 Jun 2021 07:01:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 05:43:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Litte Thai in Interlaken</title>
+        <link>https://der.reisko.ch/restaurants/1038__little-thai-in-interlaken/</link>
+        <pubDate>Mon, 14 Jun 2021 05:43:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/restaurants/1038__little-thai-in-interlaken/</guid>
+        <description>Leckers Thai Foo zwischen den Seen: Litte Thai in Interlaken</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1038/vier_gerichte.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1038/vier_gerichte.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Rotes Curry im Urlaub</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1025/yam_sai_bua_moo.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Bunte vegetarische Pizza</title>
-        <link>https://der.reisko.ch/mittagspause/fotos/2021/05/25/</link>
-        <pubDate>Wed, 19 May 2021 13:52:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/mittagspause/fotos/2021/05/25/</guid>
-        <description>Heute in der Mittagspause: Bunte vegetarische Pizza</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210525_vegetarische_pizza.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210525_vegetarische_pizza.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
