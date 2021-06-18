@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 17 Jun 2021 21:45:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jun 2021 19:45:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Fisch in Montreux</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/06/18/</link>
+        <pubDate>Fri, 18 Jun 2021 19:45:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/06/18/</guid>
+        <description>Foodie’s Fotoalbum: Fisch in Montreux</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210618_plat_du_jour.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210618_plat_du_jour.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Huevos Rancheros</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210526_zwei_curries_von_aroy_aroy.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Larb mit Mama Nudeln</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/05/23/</link>
-        <pubDate>Sun, 23 May 2021 14:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/05/23/</guid>
-        <description>Thailändisches Gericht des Tages: Larb mit Mama Nudeln</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210523_larb_mit_mama_nudeln.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210523_larb_mit_mama_nudeln.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
