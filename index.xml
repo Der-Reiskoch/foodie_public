@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 18 Jun 2021 19:45:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jun 2021 22:45:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Lammfilets mit Kichererbsencurry</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/06/18_abends/</link>
+        <pubDate>Fri, 18 Jun 2021 22:45:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/06/18_abends/</guid>
+        <description>Foodie’s Fotoalbum: Lammfilets mit Kichererbsencurry</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210618_lamm_mit_kicherrbsencurry.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210618_lamm_mit_kicherrbsencurry.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Fisch in Montreux</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210526_yam_plaa_muek_und_massaman_curry.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Zwei Curries von Aroy Aroy</title>
-        <link>https://der.reisko.ch/thaipause/fotos/2021/05/26/</link>
-        <pubDate>Wed, 26 May 2021 13:22:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaipause/fotos/2021/05/26/</guid>
-        <description>Thaifood in der Mittagspause: Zwei Curries von Aroy Aroy</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210526_zwei_curries_von_aroy_aroy.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210526_zwei_curries_von_aroy_aroy.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
