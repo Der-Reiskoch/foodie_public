@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Endlich wieder Krua Thai</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/06/21/</link>
+        <pubDate>Mon, 21 Jun 2021 21:24:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/06/21/</guid>
+        <description>Thailändisches Gericht des Tages: Endlich wieder Krua Thai</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210621/tisch_von_oben.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210621/tisch_von_oben.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Aubergine mit Hackfleisch</title>
         <link>https://der.reisko.ch/mittagspause/fotos/2021/06/21/</link>
         <pubDate>Mon, 21 Jun 2021 14:52:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210529_zweimal_matjes.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Obazda mit Brezel</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/05/29-mittags/</link>
-        <pubDate>Sat, 29 May 2021 18:52:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/05/29-mittags/</guid>
-        <description>Foodie’s Fotoalbum: Obazda mit Brezel</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210529_obazda_mit_brezel.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210529_obazda_mit_brezel.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
