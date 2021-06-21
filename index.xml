@@ -32,25 +32,6 @@
       </item>
 				
       <item>
-        <title>Restaurant &#34;Le Tapis Rouge&#34;</title>
-        <link>https://der.reisko.ch/restaurants/1039_restaurant_le_tapis_rouge/</link>
-        <pubDate>Sun, 20 Jun 2021 09:02:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/restaurants/1039_restaurant_le_tapis_rouge/</guid>
-        <description>Fein dinieren im Grandhotel Giessbach: Restaurant &#34;Le Tapis Rouge&#34;</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1039/gruss_aus_der_kueche.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1039/gruss_aus_der_kueche.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
         <title>Lammfilets mit Kichererbsencurry</title>
         <link>https://der.reisko.ch/fotoalbum/2021/06/18_abends/</link>
         <pubDate>Fri, 18 Jun 2021 22:45:00 +0200</pubDate>
@@ -372,7 +353,25 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210529_obazda_mit_brezel.jpg" length="10000" type="image/jpeg" />
       </item>
-			
+				
+      <item>
+        <title>Hang Lae Curry nach David Thompson</title>
+        <link>https://der.reisko.ch/nachgekocht/hang-lea-curry-nach-david-thompson/</link>
+        <pubDate>Thu, 27 May 2021 05:40:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/nachgekocht/hang-lea-curry-nach-david-thompson/</guid>
+        <description>Selbstgemachte Paste aus dem Food-Processor: Hang Lae Curry nach David Thompson</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1033/hang_lea_curry_und_klebreis.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1033/hang_lea_curry_und_klebreis.jpg" length="10000" type="image/jpeg" />
+      </item>
 			
 			
 			
