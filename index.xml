@@ -6,11 +6,49 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 18 Jun 2021 22:45:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jun 2021 22:45:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Pizza Picante im Wolfsbräu</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/06/20/</link>
+        <pubDate>Sun, 20 Jun 2021 22:45:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/06/20/</guid>
+        <description>Foodie’s Fotoalbum: Pizza Picante im Wolfsbräu</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210620_pizza_picante.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210620_pizza_picante.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
+        <title>Restaurant &#34;Le Tapis Rouge&#34;</title>
+        <link>https://der.reisko.ch/restaurants/1039_restaurant_le_tapis_rouge/</link>
+        <pubDate>Sun, 20 Jun 2021 09:02:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/restaurants/1039_restaurant_le_tapis_rouge/</guid>
+        <description>Fein dinieren im Grandhotel Giessbach: Restaurant &#34;Le Tapis Rouge&#34;</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1039/gruss_aus_der_kueche.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1039/gruss_aus_der_kueche.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Lammfilets mit Kichererbsencurry</title>
@@ -334,44 +372,8 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210529_obazda_mit_brezel.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Hang Lae Curry nach David Thompson</title>
-        <link>https://der.reisko.ch/nachgekocht/hang-lea-curry-nach-david-thompson/</link>
-        <pubDate>Thu, 27 May 2021 05:40:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/nachgekocht/hang-lea-curry-nach-david-thompson/</guid>
-        <description>Selbstgemachte Paste aus dem Food-Processor: Hang Lae Curry nach David Thompson</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1033/hang_lea_curry_und_klebreis.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1033/hang_lea_curry_und_klebreis.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
-        <title>Yam Plaa Muek und Massaman Curry</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/05/26/</link>
-        <pubDate>Wed, 26 May 2021 14:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/05/26/</guid>
-        <description>Thailändisches Gericht des Tages: Yam Plaa Muek und Massaman Curry</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210526_yam_plaa_muek_und_massaman_curry.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210526_yam_plaa_muek_und_massaman_curry.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
+			
 			
 			
 			
