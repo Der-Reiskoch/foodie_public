@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 25 Jun 2021 06:12:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jun 2021 17:22:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Delicii Romanesti</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/06/25/</link>
+        <pubDate>Fri, 25 Jun 2021 17:22:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/06/25/</guid>
+        <description>Foodie’s Fotoalbum: Delicii Romanesti</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210625_delicii_romanesti.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210625_delicii_romanesti.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Rindfleisch-Giouvetsi aus Griechenland</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1034/pad_nor_mai_farang_goong.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Nam Tok Nuea</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/06/03/</link>
-        <pubDate>Thu, 03 Jun 2021 14:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/06/03/</guid>
-        <description>Thailändisches Gericht des Tages: Nam Tok Nuea</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210603_nam_tok_nuea.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210603_nam_tok_nuea.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
