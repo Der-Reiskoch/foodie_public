@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 23 Jun 2021 21:02:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jun 2021 06:12:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Rindfleisch-Giouvetsi aus Griechenland</title>
+        <link>https://der.reisko.ch/rezepte/rindfleisch-giouvetsi-aus-griechenland/</link>
+        <pubDate>Fri, 25 Jun 2021 06:12:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/rindfleisch-giouvetsi-aus-griechenland/</guid>
+        <description>Auflauf mit Nudeln, Fleisch und Käse: Rindfleisch-Giouvetsi aus Griechenland</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1001/giouvetsi.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1001/giouvetsi.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Restaurant &#34;Le Tapis Rouge&#34;</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210603_nam_tok_nuea.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Thai-Tele-Kochen Teil 2</title>
-        <link>https://der.reisko.ch/nachgekocht/thai-tele-kochen-teil-2/</link>
-        <pubDate>Wed, 02 Jun 2021 06:50:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/nachgekocht/thai-tele-kochen-teil-2/</guid>
-        <description>Drei leckere Gerichte mit der Foodiegruppe: Thai-Tele-Kochen Teil 2</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/0000/0096/thai-tele-kochen.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/0000/0096/thai-tele-kochen.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
