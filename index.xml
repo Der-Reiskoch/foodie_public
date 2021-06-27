@@ -32,6 +32,25 @@
       </item>
 				
       <item>
+        <title>Nochmal im Krua Thai</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/06/26/</link>
+        <pubDate>Sat, 26 Jun 2021 21:24:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/06/26/</guid>
+        <description>Thailändisches Gericht des Tages: Nochmal im Krua Thai</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210626/pad_thai_moo.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210626/pad_thai_moo.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Thailändischer Larb Plaa Matjes</title>
         <link>https://der.reisko.ch/rezepte/thailaendischer-larb-plaa-matjes/</link>
         <pubDate>Sat, 26 Jun 2021 06:50:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210608_larb_und_bohnen.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Japanische Ramen mit Beilagen</title>
-        <link>https://der.reisko.ch/nachgekocht/japanische-ramen-mit-beilagen/</link>
-        <pubDate>Sun, 06 Jun 2021 07:01:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/nachgekocht/japanische-ramen-mit-beilagen/</guid>
-        <description>Ein kleines japanisches Menü: Japanische Ramen mit Beilagen</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1037/ramen_mit_chashu_und_pilzen.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1037/ramen_mit_chashu_und_pilzen.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
