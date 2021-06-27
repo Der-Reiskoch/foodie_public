@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 26 Jun 2021 06:50:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jun 2021 09:34:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Tapasbar Toro in Karlsruhe</title>
+        <link>https://der.reisko.ch/restaurants/tapasbar-toro-in-karlsruhe/</link>
+        <pubDate>Sun, 27 Jun 2021 09:34:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/restaurants/tapasbar-toro-in-karlsruhe/</guid>
+        <description>Spanische Köstlichkeiten in gemütlicher Atmossphäre: Tapasbar Toro in Karlsruhe</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1040/07_boquerones_fritos.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1040/07_boquerones_fritos.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Thailändischer Larb Plaa Matjes</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1037/ramen_mit_chashu_und_pilzen.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Holunderblüten-Chüechli</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/06/04/</link>
-        <pubDate>Fri, 04 Jun 2021 21:52:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/06/04/</guid>
-        <description>Foodie’s Fotoalbum: Holunderblüten-Chüechli</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210604_holunderblueten-chuechli.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210604_holunderblueten-chuechli.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
