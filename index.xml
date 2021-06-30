@@ -32,6 +32,25 @@
       </item>
 				
       <item>
+        <title>Sichuan Nudelsuppe im Niu</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2021/06/30/</link>
+        <pubDate>Tue, 29 Jun 2021 14:52:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/fotos/2021/06/30/</guid>
+        <description>Heute in der Mittagspause: Sichuan Nudelsuppe im Niu</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210630_nudelsuppe_sichuan.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210630_nudelsuppe_sichuan.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Tapasbar Toro in Karlsruhe</title>
         <link>https://der.reisko.ch/restaurants/tapasbar-toro-in-karlsruhe/</link>
         <pubDate>Sun, 27 Jun 2021 09:34:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1038/vier_gerichte.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Rotes Curry im Urlaub</title>
-        <link>https://der.reisko.ch/thaifood/fotos/2021/06/09/</link>
-        <pubDate>Wed, 09 Jun 2021 21:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaifood/fotos/2021/06/09/</guid>
-        <description>Thailändisches Gericht des Tages: Rotes Curry im Urlaub</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210609_rotes_curry.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210609_rotes_curry.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
