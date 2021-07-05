@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 05 Jul 2021 16:15:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jul 2021 20:41:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Scharfer Zhoug aus dem Jemen</title>
+        <link>https://der.reisko.ch/rezepte/scharfes-zhoug-aus-dem-jemen/</link>
+        <pubDate>Mon, 05 Jul 2021 20:41:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/rezepte/scharfes-zhoug-aus-dem-jemen/</guid>
+        <description>Ein Nachruf auf unsere Blattpetersilie: Scharfer Zhoug aus dem Jemen</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1024/zhoug.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1024/zhoug.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Karē Udon</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210618_plat_du_jour.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Huevos Rancheros</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/06/17/</link>
-        <pubDate>Thu, 17 Jun 2021 21:45:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/06/17/</guid>
-        <description>Foodie’s Fotoalbum: Huevos Rancheros</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210617_huevos_rancheros.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210617_huevos_rancheros.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
