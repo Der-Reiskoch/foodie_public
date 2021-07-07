@@ -185,7 +185,22 @@
   
   <url>
     <loc>https://der.reisko.ch/</loc>
-    <lastmod>2021-07-06T13:40:00+02:00</lastmod>
+    <lastmod>2021-07-07T13:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/fotoalbum/</loc>
+    <lastmod>2021-07-07T13:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/fotoalbum/2021/</loc>
+    <lastmod>2021-07-07T13:45:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/fotoalbum/2021/07/07-mittags/</loc>
+    <lastmod>2021-07-07T13:45:00+02:00</lastmod>
   </url>
   
   <url>
@@ -266,16 +281,6 @@
   <url>
     <loc>https://der.reisko.ch/mittagspause/fotos/2021/07/01/</loc>
     <lastmod>2021-07-01T13:15:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/fotoalbum/</loc>
-    <lastmod>2021-06-30T14:52:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/fotoalbum/2021/</loc>
-    <lastmod>2021-06-30T14:52:00+02:00</lastmod>
   </url>
   
   <url>
