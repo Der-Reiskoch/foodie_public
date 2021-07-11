@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 09 Jul 2021 14:40:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jul 2021 08:22:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Koreanisches Restaurant Soban</title>
+        <link>https://der.reisko.ch/restaurants/koreanisches-restaurant-soban/</link>
+        <pubDate>Sun, 11 Jul 2021 08:22:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/restaurants/koreanisches-restaurant-soban/</guid>
+        <description>Bibimbap, Bulgogi und mehr in Karlsruhe: Koreanisches Restaurant Soban</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/0800/0855/galbi-jjim_mit_reis.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/0800/0855/galbi-jjim_mit_reis.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Pad Panaeng Luk Chin</title>
@@ -352,25 +371,6 @@
           height="450"
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210623_pad_panaeng_moo.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
-        <title>Salat mit Wassermelone</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/06/22/</link>
-        <pubDate>Tue, 22 Jun 2021 22:22:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/06/22/</guid>
-        <description>Foodie’s Fotoalbum: Salat mit Wassermelone</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210622_melonen-schafskase-salat.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210622_melonen-schafskase-salat.jpg" length="10000" type="image/jpeg" />
       </item>
 			
 			
