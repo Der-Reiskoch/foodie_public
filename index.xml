@@ -32,6 +32,25 @@
       </item>
 				
       <item>
+        <title>Gebratene Nudeln mit Pilzen</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2021/07/12/</link>
+        <pubDate>Sun, 11 Jul 2021 14:06:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/fotos/2021/07/12/</guid>
+        <description>Heute in der Mittagspause: Gebratene Nudeln mit Pilzen</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210712_gebratene_nudeln_mit_pilzen.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210712_gebratene_nudeln_mit_pilzen.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Koreanisches Restaurant Soban</title>
         <link>https://der.reisko.ch/restaurants/koreanisches-restaurant-soban/</link>
         <pubDate>Sun, 11 Jul 2021 08:22:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1001/giouvetsi.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Restaurant &#34;Le Tapis Rouge&#34;</title>
-        <link>https://der.reisko.ch/restaurants/restaurant-le-tapis-rouge/</link>
-        <pubDate>Wed, 23 Jun 2021 21:02:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/restaurants/restaurant-le-tapis-rouge/</guid>
-        <description>Zum Abschied im Grandhotel Giessbach: Restaurant &#34;Le Tapis Rouge&#34;</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1039/gruss_aus_der_kueche.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1039/gruss_aus_der_kueche.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
