@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 11 Jul 2021 08:22:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jul 2021 23:45:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Abendessen im Antalya</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/07/11/</link>
+        <pubDate>Sun, 11 Jul 2021 23:45:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/07/11/</guid>
+        <description>Foodie’s Fotoalbum: Abendessen im Antalya</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210711/hamsi_tava_und_kalamar.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210711/hamsi_tava_und_kalamar.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Koreanisches Restaurant Soban</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1039/gruss_aus_der_kueche.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Pad Panaeng Moo</title>
-        <link>https://der.reisko.ch/thaipause/fotos/2021/06/23/</link>
-        <pubDate>Wed, 23 Jun 2021 12:24:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaipause/fotos/2021/06/23/</guid>
-        <description>Thaifood in der Mittagspause: Pad Panaeng Moo</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210623_pad_panaeng_moo.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210623_pad_panaeng_moo.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
