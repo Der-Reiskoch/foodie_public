@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 11 Jul 2021 23:45:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 23:45:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Koreanisches Abendessen</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/07/12/</link>
+        <pubDate>Mon, 12 Jul 2021 23:45:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/07/12/</guid>
+        <description>Foodie’s Fotoalbum: Koreanisches Abendessen</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210712_koreanisches_abendessen.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210712_koreanisches_abendessen.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Abendessen im Antalya</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210625_delicii_romanesti.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Rindfleisch-Giouvetsi aus Griechenland</title>
-        <link>https://der.reisko.ch/rezepte/rindfleisch-giouvetsi-aus-griechenland/</link>
-        <pubDate>Fri, 25 Jun 2021 06:12:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/rindfleisch-giouvetsi-aus-griechenland/</guid>
-        <description>Auflauf mit Nudeln, Fleisch und Käse: Rindfleisch-Giouvetsi aus Griechenland</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1001/giouvetsi.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1001/giouvetsi.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
