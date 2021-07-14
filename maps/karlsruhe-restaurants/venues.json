@@ -612,6 +612,16 @@
          "address":"Am Mühlburger Bahnhof 16, 76189 Karlsruhe, Deutschland",
          "lat":"49.01911",
          "lng":"8.34970"
+      },
+      {
+         "uid":"1024",
+         "name":"Schuh\u00b4s Restaurant",
+         "url":"/restaurants/schuhs-restaurant-in-eggenstein/",
+         "imageName":"",
+         "website":null,
+         "address":"Siemensstraße 1, 76344 Eggenstein, Deutschland",
+         "lat":"49.07515",
+         "lng":"8.37887"
       }
     ],
     "india":[
