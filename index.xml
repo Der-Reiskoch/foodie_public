@@ -13,6 +13,25 @@
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
 				
       <item>
+        <title>Gratiam Prik Thai &amp; Rad Na</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/07/15/</link>
+        <pubDate>Thu, 15 Jul 2021 21:24:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/07/15/</guid>
+        <description>Thailändisches Gericht des Tages: Gratiam Prik Thai &amp; Rad Na</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210715_moo_gratiam_prik_thai.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210715_moo_gratiam_prik_thai.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Dan Dan Nudeln mit Pilzen</title>
         <link>https://der.reisko.ch/mittagspause/fotos/2021/07/15/</link>
         <pubDate>Thu, 15 Jul 2021 13:15:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210701_dan_dan_nudeln_mit_tofu.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Sichuan Nudelsuppe im Niu</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/06/30/</link>
-        <pubDate>Wed, 30 Jun 2021 14:52:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/06/30/</guid>
-        <description>Foodie’s Fotoalbum: Sichuan Nudelsuppe im Niu</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210630_nudelsuppe_sichuan.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210630_nudelsuppe_sichuan.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
