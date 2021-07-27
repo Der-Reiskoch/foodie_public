@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 26 Jul 2021 08:34:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jul 2021 19:22:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Schnelle gebratene Nudeln</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2021/07/27/</link>
+        <pubDate>Tue, 27 Jul 2021 19:22:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/fotos/2021/07/27/</guid>
+        <description>Heute in der Mittagspause: Schnelle gebratene Nudeln</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210727_gebratene_nudeln.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210727_gebratene_nudeln.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Restaurant Mai Sushi in Freiburg</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210712_gebratene_nudeln_mit_pilzen.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Koreanisches Restaurant Soban</title>
-        <link>https://der.reisko.ch/restaurants/koreanisches-restaurant-soban/</link>
-        <pubDate>Sun, 11 Jul 2021 08:22:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/restaurants/koreanisches-restaurant-soban/</guid>
-        <description>Bibimbap, Bulgogi und mehr in Karlsruhe: Koreanisches Restaurant Soban</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/0800/0855/galbi-jjim_mit_reis.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/0800/0855/galbi-jjim_mit_reis.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
