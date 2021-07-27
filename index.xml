@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 23 Jul 2021 21:44:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jul 2021 08:34:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Restaurant Mai Sushi in Freiburg</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-mai-wok-in-freiburg/</link>
+        <pubDate>Mon, 26 Jul 2021 08:34:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/restaurants/restaurant-mai-wok-in-freiburg/</guid>
+        <description>Fast-Food-Asia-Imbiss mit Spezialitäten aus Vietnam: Restaurant Mai Sushi in Freiburg</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/0100/0135/bun_bo_nuong_cha_gio.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/0100/0135/bun_bo_nuong_cha_gio.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Pizza-Abend bei Manuel</title>
@@ -352,25 +371,6 @@
           height="450"
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/0800/0855/galbi-jjim_mit_reis.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
-        <title>Pad Panaeng Luk Chin</title>
-        <link>https://der.reisko.ch/thaipause/fotos/2021/07/09/</link>
-        <pubDate>Fri, 09 Jul 2021 14:40:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/thaipause/fotos/2021/07/09/</guid>
-        <description>Thaifood in der Mittagspause: Pad Panaeng Luk Chin</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210709_pad_panaeng_luk_chin.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210709_pad_panaeng_luk_chin.jpg" length="10000" type="image/jpeg" />
       </item>
 			
 			
