@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 31 Jul 2021 21:22:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Aug 2021 06:02:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Mexikanisches Restaurant El Gallo</title>
+        <link>https://der.reisko.ch/restaurants/mexikanisches-restaurant-el-gallo/</link>
+        <pubDate>Tue, 03 Aug 2021 06:02:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/restaurants/mexikanisches-restaurant-el-gallo/</guid>
+        <description>Cocina Mexicana &amp;amp; Cocktailbar: Mexikanisches Restaurant El Gallo</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1045/plato_mexicano.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1045/plato_mexicano.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Persisch in der Markthalle</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210714_freiburger_lange_rote.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Schuh&#39;s Restaurant in Eggenstein</title>
-        <link>https://der.reisko.ch/restaurants/schuhs-restaurant-in-eggenstein/</link>
-        <pubDate>Wed, 14 Jul 2021 06:02:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/restaurants/schuhs-restaurant-in-eggenstein/</guid>
-        <description>Vorzügliches Essen in loungiger Atmosphere: Schuh&#39;s Restaurant in Eggenstein</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1042/02_wildburger.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1042/02_wildburger.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			

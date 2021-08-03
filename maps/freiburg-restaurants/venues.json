@@ -1,0 +1,34 @@
+{
+    "asia": [
+        {
+            "uid": "135",
+            "type": "asia",
+            "name": "Restaurant Mai Sushi",
+            "url": "/restaurants/restaurant-mai-wok-in-freiburg/",
+            "imageName": "",
+            "website": null,
+            "address": "Bertoldstraße 53, 79098 Freiburg im Breisgau, Deutschland",
+            "lat": "47.995965",
+            "lng": "7.843886"
+        }
+    ],
+    "misc": [
+        {
+            "uid": "1045",
+            "type": "divers",
+            "name": "Restaurant El Gallo",
+            "url": "/restaurants/mexikanisches-restaurant-el-gallo/",
+            "imageName": "",
+            "website": null,
+            "address": "Auf der Zinnen 12, 79098 Freiburg im Breisgau, Deutschland",
+            "lat": "47.997125",
+            "lng": "7.854317"
+        }
+    ]
+
+
+
+
+
+    
+}

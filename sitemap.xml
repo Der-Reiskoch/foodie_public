@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://der.reisko.ch/restaurants/</loc>
-    <lastmod>2021-07-26T08:34:00+02:00</lastmod>
+    <lastmod>2021-08-03T06:02:00+02:00</lastmod>
   </url>
   
   <url>
@@ -185,7 +185,27 @@
   
   <url>
     <loc>https://der.reisko.ch/</loc>
-    <lastmod>2021-07-31T21:22:00+02:00</lastmod>
+    <lastmod>2021-08-03T06:02:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/freiburg/</loc>
+    <lastmod>2021-08-03T06:02:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/mexikanisch/</loc>
+    <lastmod>2021-08-03T06:02:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/restaurants/mexikanisches-restaurant-el-gallo/</loc>
+    <lastmod>2021-08-03T06:02:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/tags/</loc>
+    <lastmod>2021-08-03T06:02:00+02:00</lastmod>
   </url>
   
   <url>
@@ -220,11 +240,6 @@
   
   <url>
     <loc>https://der.reisko.ch/zutaten/may-asia-supermarket/</loc>
-    <lastmod>2021-07-29T05:32:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/</loc>
     <lastmod>2021-07-29T05:32:00+02:00</lastmod>
   </url>
   
@@ -281,11 +296,6 @@
   <url>
     <loc>https://der.reisko.ch/mittagspause/fotos/2021/07/27/</loc>
     <lastmod>2021-07-27T19:22:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/freiburg/</loc>
-    <lastmod>2021-07-26T08:34:00+02:00</lastmod>
   </url>
   
   <url>
@@ -1621,11 +1631,6 @@
   <url>
     <loc>https://der.reisko.ch/mittagspause/fotos/2021/02/03/</loc>
     <lastmod>2021-02-03T17:55:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://der.reisko.ch/tags/mexikanisch/</loc>
-    <lastmod>2021-02-03T05:21:00+02:00</lastmod>
   </url>
   
   <url>
@@ -12009,6 +12014,10 @@
   
   <url>
     <loc>https://der.reisko.ch/karten/restaurants/duesseldorf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://der.reisko.ch/karten/restaurants/freiburg/</loc>
   </url>
   
   <url>
