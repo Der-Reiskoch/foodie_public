@@ -23,6 +23,17 @@
             "address": "Auf der Zinnen 12, 79098 Freiburg im Breisgau, Deutschland",
             "lat": "47.997125",
             "lng": "7.854317"
+        },
+        {
+            "uid": "1046",
+            "type": "divers",
+            "name": "Freiburger Markthalle",
+            "url": "/restaurants/die-markthalle-in-freiburg/",
+            "imageName": "",
+            "website": null,
+            "address": "Grünwälderstraße 4-6, 79098 Freiburg im Breisgau, Deutschland",
+            "lat": "47.99409",
+            "lng": "7.85031"
         }
     ]
 
