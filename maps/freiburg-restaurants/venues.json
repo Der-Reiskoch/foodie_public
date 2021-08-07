@@ -12,6 +12,19 @@
             "lng": "7.843886"
         }
     ],
+    "mediterran": [
+        {
+            "uid": "1047",
+            "type": "mediterran",
+            "name": "Ristorante Milano",
+            "url": "/restaurants/ristorante-milano-in-freiburg/",
+            "imageName": "",
+            "website": null,
+            "address": "Schusterstraße 7, 79098 Freiburg im Breisgau, Deutschland",
+            "lat": "47.99500",
+            "lng": "7.85151"
+        }
+    ],
     "misc": [
         {
             "uid": "1045",

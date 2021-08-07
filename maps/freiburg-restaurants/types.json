@@ -4,6 +4,11 @@
         "color": "#9acd32",
         "icon": "restaurant"
     },
+    "mediterran":{
+        "label":"Mediterran",
+        "color":"#9933cc",
+        "icon": "restaurant"
+     },
     "misc": {
         "label": "diverse",
         "color": "#ff9900",
