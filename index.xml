@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 08 Aug 2021 07:20:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Aug 2021 09:27:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Restaurant Jaipur in Freiburg</title>
+        <link>https://der.reisko.ch/restaurants/restaurant-jaipur-in-freiburg/</link>
+        <pubDate>Sun, 08 Aug 2021 09:27:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/restaurants/restaurant-jaipur-in-freiburg/</guid>
+        <description>Sehr gute indische Küche: Restaurant Jaipur in Freiburg</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1048/vorfreude.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1048/vorfreude.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Lao Gan Ma Mapo Doufu</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210718_reste_rad_na.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Das Freiburg Kochbuch</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/07/17/</link>
-        <pubDate>Sat, 17 Jul 2021 21:22:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/07/17/</guid>
-        <description>Foodie’s Fotoalbum: Das Freiburg Kochbuch</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210717_freiburg_kochbuch.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210717_freiburg_kochbuch.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			

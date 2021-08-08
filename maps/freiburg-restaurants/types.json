@@ -9,6 +9,11 @@
         "color":"#9933cc",
         "icon": "restaurant"
      },
+     "india":{
+        "label":"Indisch",
+        "color":"#BB2971",
+        "icon": "restaurant"
+     },
     "misc": {
         "label": "diverse",
         "color": "#ff9900",

@@ -22,6 +22,19 @@
             "website": null,
             "address": "Schusterstraße 7, 79098 Freiburg im Breisgau, Deutschland",
             "lat": "47.99500",
+            "lng": "7.85006"
+        }
+    ],
+    "india": [
+        {
+            "uid": "1048",
+            "type": "india",
+            "name": "Restaurant Jaipur",
+            "url": "/restaurants/restaurant-jaipur-in-freiburg/",
+            "imageName": "",
+            "website": null,
+            "address": "Gerberau 5, 79098 Freiburg im Breisgau, Deutschland",
+            "lat": "47.99357",
             "lng": "7.85151"
         }
     ],
