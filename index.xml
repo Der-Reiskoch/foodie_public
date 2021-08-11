@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 09 Aug 2021 22:22:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Aug 2021 22:22:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Fürstlich begrillt</title>
+        <link>https://der.reisko.ch/fotoalbum/2021/08/10/</link>
+        <pubDate>Tue, 10 Aug 2021 22:22:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/fotoalbum/2021/08/10/</guid>
+        <description>Foodie’s Fotoalbum: Fürstlich begrillt</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210810_fuerstlich_begrillt.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210810_fuerstlich_begrillt.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Thali im Karma Indian Palace</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210720_yam_woon_sen.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Dan Dan Nudeln mit Aubergine</title>
-        <link>https://der.reisko.ch/mittagspause/fotos/2021/07/19/</link>
-        <pubDate>Mon, 19 Jul 2021 15:22:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/mittagspause/fotos/2021/07/19/</guid>
-        <description>Heute in der Mittagspause: Dan Dan Nudeln mit Aubergine</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210719_dan_dan_nudeln_mit_aubergine.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210719_dan_dan_nudeln_mit_aubergine.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
