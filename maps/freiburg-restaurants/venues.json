@@ -10,7 +10,26 @@
             "address": "Bertoldstraße 53, 79098 Freiburg im Breisgau, Deutschland",
             "lat": "47.995965",
             "lng": "7.843886"
+        },
+        {
+            "uid": "1049",
+            "type": "asia",
+            "name": "Chada Thai Nudelsuppe",
+            "url": "/restaurants/chada-thai-nudelsuppe/",
+            "imageName": "",
+            "website": null,
+            "address": "Rempartstr. 5, 79098 Freiburg im Breisgau, Deutschland",
+            "lat": "47.99275",
+            "lng": "7.84806"
         }
+
+
+
+
+
+
+        
+
     ],
     "mediterran": [
         {
