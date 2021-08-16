@@ -21,15 +21,18 @@
             "address": "Rempartstr. 5, 79098 Freiburg im Breisgau, Deutschland",
             "lat": "47.99275",
             "lng": "7.84806"
+        },
+        {
+            "uid": "1050",
+            "type": "asia",
+            "name": "Banôi Streetfood",
+            "url": "/restaurants/banoi-streetfood-in-freiburg/",
+            "imageName": "",
+            "website": null,
+            "address": "Gerberau 9a, 79098 Freiburg im Breisgau, Deutschland",
+            "lat": "47.99359",
+            "lng": "7.85114"
         }
-
-
-
-
-
-
-        
-
     ],
     "mediterran": [
         {
@@ -41,7 +44,7 @@
             "website": null,
             "address": "Schusterstraße 7, 79098 Freiburg im Breisgau, Deutschland",
             "lat": "47.99500",
-            "lng": "7.85006"
+            "lng": "7.85151"
         }
     ],
     "india": [
@@ -54,7 +57,7 @@
             "website": null,
             "address": "Gerberau 5, 79098 Freiburg im Breisgau, Deutschland",
             "lat": "47.99357",
-            "lng": "7.85151"
+            "lng": "7.85006"
         }
     ],
     "misc": [
