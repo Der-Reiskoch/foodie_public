@@ -887,7 +887,43 @@
          "address":"Fasanenstraße 6, 76131 Karlsruhe, Deutschland",
          "lat":"49.00861",
          "lng":"8.41298"
-      },  
+      },
+      {
+         "uid":"1",
+         "map":"de-ka",
+         "type":"closed",
+         "name":"Sushi King (geschlossen)",
+         "url":"/restaurants/sushi-king-in-karlsruhe-geschlossen/",
+         "imageName":"",
+         "website":null,
+         "address":"Kaiserstraße 217, 76133 Karlsruhe, Deutschland",
+         "lat":"49.00936",
+         "lng":"8.39417"
+      },
+      {
+         "uid":"60",
+         "map":"de-ka",
+         "type":"closed",
+         "name":"Banna Thai (geschlossen)",
+         "url":"/restaurants/banna-thai-in-karlsruhe-geschlossen/",
+         "imageName":"",
+         "website":null,
+         "address":"Marie-Alexandra-Str. 15, 76135 Karlsruhe, Deutschland",
+         "lat":"48.99264",
+         "lng":"8.39193"
+      },
+      {
+         "uid":"84",
+         "map":"de-ka",
+         "type":"closed",
+         "name":"Abrahamh\u00b4s Cocktail (geschlossen)",
+         "url":"/restaurants/abrahams-cocktail-geschlossen/",
+         "imageName":"",
+         "website":null,
+         "address":"Am Künstlerhaus 45, 76131 Karlsruhe, Deutschland",
+         "lat":"49.00800",
+         "lng":"8.41420"
+      },    
       {
          "uid":"571",
          "map":"de-ka",
