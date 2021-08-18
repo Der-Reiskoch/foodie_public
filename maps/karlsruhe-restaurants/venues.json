@@ -481,19 +481,6 @@
           "lng":"8.40033"
        },
        {
-          "uid":"75",
-          "map":"de-ka",
-          "type":"german",
-          "pinColor":"#ff9900",
-          "name":"Jacques Meyers Culinarium",
-          "entryId":"810",
-          "imageName":"",
-          "website":null,
-          "address":"Friedrichstraße 17, 76229 Karlsruhe, Deutschland",
-          "lat":"49.0085",
-          "lng":"8.49836"
-       },
-       {
           "uid":"68",
           "map":"de-ka",
           "type":"german",
@@ -810,19 +797,6 @@
           "lng":"8.39603"
        },
        {
-          "uid":"88",
-          "map":"de-ka",
-          "type":"mediterran",
-          "pinColor":"#9933cc",
-          "name":"Restaurant SAF",
-          "entryId":"729",
-          "imageName":"",
-          "website":null,
-          "address":"Badenwerkstraße am Festplatz 1, 76137 Karlsruhe, Deutschland",
-          "lat":"49.0031",
-          "lng":"8.4012"
-       },
-       {
           "uid":"83",
           "map":"de-ka",
           "type":"mediterran",
@@ -900,5 +874,91 @@
           "lat":"49.0075",
           "lng":"8.39306"
        }
+    ],
+    "closed" : [
+      {
+         "uid":"571",
+         "map":"de-ka",
+         "type":"closed",
+         "name":"Firlefanz (geschlossen)",
+         "url":"/restaurants/firlefanz-in-karlsruhe-geschlossen/",
+         "imageName":"",
+         "website":null,
+         "address":"Fasanenstraße 6, 76131 Karlsruhe, Deutschland",
+         "lat":"49.00861",
+         "lng":"8.41298"
+      },  
+      {
+         "uid":"571",
+         "map":"de-ka",
+         "type":"closed",
+         "name":"Restaurant Kroran (geschlossen)",
+         "url":"/restaurants/uigurisches-restaurant-kroran-geschlossen/",
+         "imageName":"",
+         "website":null,
+         "address":"Englerstraße 14, 76131 Karlsruhe, Deutschland",
+         "lat":"49.01006",
+         "lng":"8.41116"
+      },  
+      {
+         "uid":"810",
+         "map":"de-ka",
+         "type":"closed",
+         "name":"Jacques Meyers Culinarium (geschlossen)",
+         "url":"/restaurants/jacques-meyers-culinarium-geschlossen/",
+         "imageName":"",
+         "website":null,
+         "address":"Friedrichstraße 17, 76229 Karlsruhe, Deutschland",
+         "lat":"49.0085",
+         "lng":"8.49836"
+      }, 
+      {
+         "uid":"88",
+         "map":"de-ka",
+         "type":"closed",
+         "name":"Restaurant SAF (geschlossen)",
+         "url": "/restaurants/sizilianisches-restaurant-saf/",
+         "imageName":"",
+         "website":null,
+         "address":"Badenwerkstraße am Festplatz 1, 76137 Karlsruhe, Deutschland",
+         "lat":"49.0031",
+         "lng":"8.4012"
+      },
+      {
+         "uid":"934",
+         "map":"de-ka",
+         "type":"closed",
+         "name":"Pelmeneria (geschlossen)",
+         "url": "/restaurants/pelmeneria-in-karlsruhe/",
+         "imageName":"",
+         "website":null,
+         "address":"Kaiserpassage 10, 76133 Karlsruhe, Deutschland",
+         "lat":"49.01083",
+         "lng":"8.39667"
+      },
+      {
+         "uid":"788",
+         "map":"de-ka",
+         "type":"closed",
+         "name":"Schnellrestaurant Hanoi (geschlossen)",
+         "url": "/restaurants/schnellrestaurant-hanoi-geschlossen/",
+         "imageName":"",
+         "website":null,
+         "address":"Hildebrandstraße 1, 76227 Karlsruhe-Durlach, Deutschland",
+         "lat":"48.99701",
+         "lng":"8.45943"
+      },
+      {
+         "uid":"774",
+         "map":"de-ka",
+         "type":"closed",
+         "name":"China Bao (geschlossen)",
+         "url": "/restaurants/restaurant-china-bao-im-passagehof/",
+         "imageName":"",
+         "website":null,
+         "address":"Kaiserstraße 132, 76133 Karlsruhe, Deutschland",
+         "lat":"49.01008",
+         "lng":"8.39631"
+      }
     ]
  }

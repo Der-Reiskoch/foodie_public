@@ -28,5 +28,10 @@
        "label":"Mediterran",
        "color":"#9933cc",
        "icon": "restaurant"
-    }
+    },
+    "closed":{
+      "label":"Geschlossen",
+      "color":"#808080",
+      "icon": "do_disturb_alt"
+   }
  }
