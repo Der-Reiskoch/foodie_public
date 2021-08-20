@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 18 Aug 2021 05:48:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Aug 2021 06:02:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Schuh&#39;s Restaurant in Eggenstein</title>
+        <link>https://der.reisko.ch/restaurants/schuhs-restaurant-in-eggenstein/</link>
+        <pubDate>Fri, 20 Aug 2021 06:02:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/restaurants/schuhs-restaurant-in-eggenstein/</guid>
+        <description>Vorzügliches Essen in loungiger Atmosphere: Schuh&#39;s Restaurant in Eggenstein</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1042/02_wildburger.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1042/02_wildburger.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Pelmeneria in Karlsruhe (geschlossen)</title>
@@ -352,25 +371,6 @@
           height="450"
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210729_chipotle_chili_con_carne.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
-        <title>Lao Gan Ma Pfanne mit Pak Choy</title>
-        <link>https://der.reisko.ch/rezepte/laoganma-pfanne-mit-pak-choy/</link>
-        <pubDate>Wed, 28 Jul 2021 05:44:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/rezepte/laoganma-pfanne-mit-pak-choy/</guid>
-        <description>Ein schnelles Wokgericht: Lao Gan Ma Pfanne mit Pak Choy</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1027/laoganma_pfanne_mit_pak_choy.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1027/laoganma_pfanne_mit_pak_choy.jpg" length="10000" type="image/jpeg" />
       </item>
 			
 			
