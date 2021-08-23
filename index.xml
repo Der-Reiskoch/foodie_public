@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 20 Aug 2021 06:02:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 14:22:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Endlich wieder Kochen</title>
+        <link>https://der.reisko.ch/mittagspause/fotos/2021/08/23/</link>
+        <pubDate>Mon, 23 Aug 2021 14:22:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/mittagspause/fotos/2021/08/23/</guid>
+        <description>Heute in der Mittagspause: Endlich wieder Kochen</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210823/scharfe_nudelsuppe.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_mittagspause/2021/20210823/scharfe_nudelsuppe.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Kurztrip nach Bangkok</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1046/persia_kichererbsen_mit_rindfleisch.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Pizza Carolina</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/07/30/</link>
-        <pubDate>Fri, 30 Jul 2021 21:22:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/07/30/</guid>
-        <description>Foodie’s Fotoalbum: Pizza Carolina</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210730_pizza_carolina.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210730_pizza_carolina.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
