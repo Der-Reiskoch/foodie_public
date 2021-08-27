@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 24 Aug 2021 06:23:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 05:43:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Bangkok Foodland Imbiss (geschlossen)</title>
+        <link>https://der.reisko.ch/restaurants/bangkok-foodland-imbiss/</link>
+        <pubDate>Fri, 27 Aug 2021 05:43:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/restaurants/bangkok-foodland-imbiss/</guid>
+        <description>Ein Ableger des Klassikers am Kronenplatz: Bangkok Foodland Imbiss (geschlossen)</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/0800/0825/moo_pad_med_mamuang.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/0800/0825/moo_pad_med_mamuang.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Chada Thai Nudelsuppe</title>
@@ -352,25 +371,6 @@
           height="450"
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1045/plato_mexicano.jpg" length="10000" type="image/jpeg" />
-      </item>
-				
-      <item>
-        <title>Persisch in der Markthalle</title>
-        <link>https://der.reisko.ch/fotoalbum/2021/07/31/</link>
-        <pubDate>Sat, 31 Jul 2021 21:22:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/fotoalbum/2021/07/31/</guid>
-        <description>Foodie’s Fotoalbum: Persisch in der Markthalle</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1046/persia_kichererbsen_mit_rindfleisch.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1046/persia_kichererbsen_mit_rindfleisch.jpg" length="10000" type="image/jpeg" />
       </item>
 			
 			

@@ -995,6 +995,18 @@
          "address":"Kaiserstraße 132, 76133 Karlsruhe, Deutschland",
          "lat":"49.01008",
          "lng":"8.39631"
+      },
+      {
+         "uid":"825",
+         "map":"de-ka",
+         "type":"closed",
+         "name":"Bangkok Foodland Imbiss (geschlossen)",
+         "url": "/restaurants/bangkok-foodland-imbiss/",
+         "imageName":"",
+         "website":null,
+         "address":"Kaiserstraße 32, 76131 Karlsruhe, Deutschland",
+         "lat":"49.00950",
+         "lng":"8.40903"
       }
     ]
  }
