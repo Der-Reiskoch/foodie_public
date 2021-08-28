@@ -70,6 +70,25 @@
       </item>
 				
       <item>
+        <title>Gaeng Kiaw Wan Gai Hed</title>
+        <link>https://der.reisko.ch/thaifood/fotos/2021/08/28/</link>
+        <pubDate>Sat, 21 Aug 2021 22:24:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaifood/fotos/2021/08/28/</guid>
+        <description>Thailändisches Gericht des Tages: Gaeng Kiaw Wan Gai Hed</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210828_gaeng_kiaw_wan_gai_hed.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210828_gaeng_kiaw_wan_gai_hed.jpg" length="10000" type="image/jpeg" />
+      </item>
+				
+      <item>
         <title>Kurztrip nach Bangkok</title>
         <link>https://der.reisko.ch/thaifood/fotos/2021/08/21/</link>
         <pubDate>Sat, 21 Aug 2021 22:24:00 +0200</pubDate>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaifood/2021/20210804_drei_gerichte_und_reis.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Mexikanisches Restaurant El Gallo</title>
-        <link>https://der.reisko.ch/restaurants/mexikanisches-restaurant-el-gallo/</link>
-        <pubDate>Tue, 03 Aug 2021 06:02:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/restaurants/mexikanisches-restaurant-el-gallo/</guid>
-        <description>Cocina Mexicana &amp;amp; Cocktailbar: Mexikanisches Restaurant El Gallo</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1045/plato_mexicano.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1045/plato_mexicano.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
