@@ -6,11 +6,30 @@
     <description>Die aktuellsten Beiträge  auf Der Reiskoch</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 29 Aug 2021 22:22:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 31 Aug 2021 13:40:00 +0200</lastBuildDate>
     <image>
         <url>https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210125_mango_garnelensalat.jpg</url>
         <title>Der Reiskoch</title>
     </image><atom:link href="https://der.reisko.ch/index.xml" rel="self" type="application/rss+xml" />
+				
+      <item>
+        <title>Kuai Tiao Geang Kiaw Wan</title>
+        <link>https://der.reisko.ch/thaipause/fotos/2021/08/31/</link>
+        <pubDate>Tue, 31 Aug 2021 13:40:00 +0200</pubDate>
+        
+        <guid>https://der.reisko.ch/thaipause/fotos/2021/08/31/</guid>
+        <description>Thaifood in der Mittagspause: Kuai Tiao Geang Kiaw Wan</description>
+        <content>Blub</content>
+        <media:content 
+          xmlns:media="http://search.yahoo.com/mrss/" 
+          url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210831_kuai_tiao_geang_kiaw_wan.jpg" 
+          medium="image" 
+          type="image/jpeg" 
+          width="600" 
+          height="450"
+        />
+        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_thaipause/2021/20210831_kuai_tiao_geang_kiaw_wan.jpg" length="10000" type="image/jpeg" />
+      </item>
 				
       <item>
         <title>Abendessen auf der Insel</title>
@@ -353,25 +372,7 @@
         />
         <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/_fotoalbum/2021/20210806_elsaesser_wurstsalat.jpg" length="10000" type="image/jpeg" />
       </item>
-				
-      <item>
-        <title>Die Markthalle in Freiburg</title>
-        <link>https://der.reisko.ch/restaurants/die-markthalle-in-freiburg/</link>
-        <pubDate>Fri, 06 Aug 2021 07:02:00 +0200</pubDate>
-        
-        <guid>https://der.reisko.ch/restaurants/die-markthalle-in-freiburg/</guid>
-        <description>Kulinarisch rund um die Welt: Die Markthalle in Freiburg</description>
-        <content>Blub</content>
-        <media:content 
-          xmlns:media="http://search.yahoo.com/mrss/" 
-          url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1046/markthalle_eingang_gruenwalderstrasse.jpg" 
-          medium="image" 
-          type="image/jpeg" 
-          width="600" 
-          height="450"
-        />
-        <enclosure url="https://der-reiskoch.github.io/foodie_hugo_media/media/1000/1046/markthalle_eingang_gruenwalderstrasse.jpg" length="10000" type="image/jpeg" />
-      </item>
+			
 			
 			
 			
