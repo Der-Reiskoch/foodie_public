@@ -29,4 +29,7 @@ RewriteRule ^fluessiges/(.*) /getranke/$1 [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /fluessiges
 RewriteRule ^fluessiges /getranke/ [L,R=301]
 
+RewriteCond %{THE_REQUEST} ^GET\ /zutaten/einkaufen
+RewriteRule ^zutaten/einkaufen/(.*) /zutaten/ [L,R=301]
+
 ErrorDocument 404 /nicht-gefunden/index.html
