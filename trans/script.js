@@ -1,0 +1,1 @@
+function transCallback(){new google.translate.TranslateElement({pageLanguage:'de'},'google_translate_element'),showWip(),setTimeout(hideWip,2500)}function showWip(){var a=document.getElementById("trans-wip");a.style.display="flex"}function hideWip(){var a=document.getElementById("trans-wip");a.style.display="none"}
