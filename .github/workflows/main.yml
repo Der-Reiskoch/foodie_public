@@ -13,4 +13,4 @@ jobs:
           user: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
           options:
-            remote-root: ${{ secrets.FTP_SERVER_DIR }}
+            - remote-root: ${{ secrets.FTP_SERVER_DIR }}
