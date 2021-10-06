@@ -1,1 +1,26 @@
-{"asia":[{"uid":"102","name":"Momo Tibetain","url":"/restaurants/momo-tibetain-in-strasbourg/","imageName":"","website":null,"address":"12 Grand'Rue, 67000 Strasbourg, Frankreich","lat":"48.5826","lng":"7.73956"}],"french":[{"uid":"103","name":"Restaurant au coin des pucelles","url":"/restaurants/restaurant-au-coin-des-pucelles/","imageName":"","website":null,"address":"12 rue des pucelles, 67000 Strasbourg, Frankreich","lat":"48.5842","lng":"7.75374"}]}
+{
+    "asia": [
+        {
+            "uid": "102",
+            "name": "Momo Tibetain",
+            "url": "/restaurants/momo-tibetain-in-strasbourg/",
+            "imageName": "",
+            "website": null,
+            "address": "12 Grand'Rue, 67000 Strasbourg, Frankreich",
+            "lat": "48.5826",
+            "lng": "7.73956"
+        }
+    ],
+    "french": [
+        {
+            "uid": "103",
+            "name": "Restaurant au coin des pucelles",
+            "url": "/restaurants/restaurant-au-coin-des-pucelles/",
+            "imageName": "",
+            "website": null,
+            "address": "12 rue des pucelles, 67000 Strasbourg, Frankreich",
+            "lat": "48.5842",
+            "lng": "7.75374"
+        }
+    ]
+}
