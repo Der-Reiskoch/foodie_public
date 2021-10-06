@@ -1,0 +1,16 @@
+name: Deploy via git-ftp
+on: push
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: git-ftp push --verbose
+        uses: sebastianpopp/git-ftp-action@releases/v3
+        with:
+          url: ${{ secrets.FTP_HOST }}
+          user: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          options: --remote-root ${{ secrets.FTP_SERVER_DIR }}
+
