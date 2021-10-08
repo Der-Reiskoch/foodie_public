@@ -7,16 +7,6 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v1
-      - name: HTML/CSS/JS Minifier    
-        uses: docker://devatherock/minify-js:latest
-        with:
-          directory: '.' 
-          add_suffix: false
-      - name: Auto commit minified files
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Minified files"
-          branch: ${{ github.ref }}
       - name: git-ftp push
         uses: sebastianpopp/git-ftp-action@releases/v3
         with:
