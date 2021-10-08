@@ -1,12 +1,1 @@
-{
-    "asia": {
-        "label": "asia",
-        "color": "#9acd32",
-        "icon": "restaurant"
-    },
-    "finland": {
-        "label": "finland",
-        "color": "#ff9900",
-        "icon": "restaurant"
-    }
-}
+{"asia":{"label":"asia","color":"#9acd32","icon":"restaurant"},"finland":{"label":"finland","color":"#ff9900","icon":"restaurant"}}
