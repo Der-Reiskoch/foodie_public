@@ -35,6 +35,7 @@ RewriteRule ^fluessiges /getranke/ [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /zutaten/einkaufen
 RewriteRule ^zutaten/einkaufen/(.*) /zutaten/ [L,R=301]
 
-
+RewriteCond %{REQUEST_URI}  ^/fotoalbum/2021/10/([^/]+)/? [NC]
+RewriteRule .* /fotoalbum/2021/10#%1  [R,NE,L]
 
 ErrorDocument 404 /nicht-gefunden/index.html
