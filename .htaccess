@@ -41,8 +41,8 @@ RewriteRule .* /fotos/allgemein/2021/10#%1  [R,NE,L]
 RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2021/10/([^/]+)/? [NC]
 RewriteRule .* /fotos/thaifood/2021/10#%1  [R,NE,L]
 
-RewriteCond %{REQUEST_URI}  ^/thaipause/fotos/2021/10/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaipause/2021/10#%1  [R,NE,L]
+RewriteCond %{REQUEST_URI}  ^/thaipause/fotos/2021/*/([^/]+)/? [NC]
+RewriteRule .* /fotos/thaipause/*/10#%1  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2021/10/([^/]+)/? [NC]
 RewriteRule .* /fotos/mittagspause/2021/10#%1  [R,NE,L]
