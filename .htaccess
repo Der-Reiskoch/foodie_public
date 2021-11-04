@@ -80,30 +80,6 @@ RewriteRule .* /fotos/foodie/2011/  [R,NE,L]
 
 #### THAIFOOD FOTO #################################################################################
 
-RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2021/10/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2021/10#%1  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2021/09/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2021/09#%1  [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaifood/fotos/2021/08/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2021/08/#%1  [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaifood/fotos/2021/07/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2021/07/#%1  [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaifood/fotos/2021/06/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2021/06/#%1  [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaifood/fotos/2021/05/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2021/05/#%1  [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaifood/fotos/2021/04/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2021/04/#%1  [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaifood/fotos/2021/03/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2021/03/#%1  [R,NE,L]
-
 RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2021/([^/]+)/? [NC]
 RewriteRule .* /fotos/thaifood/2021/  [R,NE,L]
 
