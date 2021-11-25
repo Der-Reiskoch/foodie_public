@@ -4,7 +4,6 @@ Disallow: /alt/
 Disallow: /nicht-gefunden/
 Disallow: /aktuell/
 Disallow: /feed/
-Disallow: /fotos/
 Disallow: /info/datenschutz/
 Disallow: /info/impressum/
 Disallow: /karlsmag/
