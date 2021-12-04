@@ -35,16 +35,13 @@ RewriteRule ^fluessiges /getranke/ [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /zutaten/einkaufen
 RewriteRule ^zutaten/einkaufen/(.*) /zutaten/ [L,R=301]
 
+RewriteCond %{THE_REQUEST} ^GET\ /fotos/
+RewriteRule ^fotos/(.*) /kurz-und-gut/$1 [L,R=301]
+
 #https://der.reisko.ch/thaipause/kurz-und-gut/2021/10/25/?fbclid=IwAR2podBLMAIkhlREuBv6cbjDJ8hXazuK60LH05pIvYezjZGVLWg_8AH4TI4
 #remove facebook fbclid qeuery param
 RewriteCond %{QUERY_STRING} ^(.*?)(&?fbclid=[a-zA-Z0-9_-]+)$
 RewriteRule ^(.*)$ /$1?%1 [L,NE,R=301]
-
-RewriteCond %{THE_REQUEST} ^GET\ /fotos
-RewriteRule ^kurz-und-gut /kurz-und-gut/ [L,R=301]
-
-RewriteCond %{THE_REQUEST} ^GET\ /fotos/
-RewriteRule ^kurz-und-gut /kurz-und-gut/ [L,R=301]
 
 #### FOODIE FOTO #################################################################################
 
