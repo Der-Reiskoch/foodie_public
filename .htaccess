@@ -35,125 +35,131 @@ RewriteRule ^fluessiges /getranke/ [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /zutaten/einkaufen
 RewriteRule ^zutaten/einkaufen/(.*) /zutaten/ [L,R=301]
 
-#https://der.reisko.ch/thaipause/fotos/2021/10/25/?fbclid=IwAR2podBLMAIkhlREuBv6cbjDJ8hXazuK60LH05pIvYezjZGVLWg_8AH4TI4
+#https://der.reisko.ch/thaipause/kurz-und-gut/2021/10/25/?fbclid=IwAR2podBLMAIkhlREuBv6cbjDJ8hXazuK60LH05pIvYezjZGVLWg_8AH4TI4
 #remove facebook fbclid qeuery param
 RewriteCond %{QUERY_STRING} ^(.*?)(&?fbclid=[a-zA-Z0-9_-]+)$
 RewriteRule ^(.*)$ /$1?%1 [L,NE,R=301]
 
+RewriteCond %{THE_REQUEST} ^GET\ /fotos
+RewriteRule ^kurz-und-gut /kurz-und-gut/ [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /fotos/
+RewriteRule ^kurz-und-gut /kurz-und-gut/ [L,R=301]
+
 #### FOODIE FOTO #################################################################################
 
 RewriteCond %{REQUEST_URI}  ^/fotoalbum/2021/10/([^/]+)/? [NC]
-RewriteRule .* /fotos/foodie/2021/10#%1  [R,NE,L]
+RewriteRule .* /kurz-und-gut/foodie/2021/10#%1  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/fotoalbum/2021/([^/]+)/? [NC]
-RewriteRule .* /fotos/foodie/2021/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/foodie/2021/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/fotoalbum/2020/([^/]+)/? [NC]
-RewriteRule .* /fotos/foodie/2020/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/foodie/2020/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/fotoalbum/2019/([^/]+)/? [NC]
-RewriteRule .* /fotos/foodie/2019/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/foodie/2019/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/fotoalbum/2018/([^/]+)/? [NC]
-RewriteRule .* /fotos/foodie/2018/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/foodie/2018/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/fotoalbum/2017/([^/]+)/? [NC]
-RewriteRule .* /fotos/foodie/2017/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/foodie/2017/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/fotoalbum/2016/([^/]+)/? [NC]
-RewriteRule .* /fotos/foodie/2016/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/foodie/2016/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/fotoalbum/2015/([^/]+)/? [NC]
-RewriteRule .* /fotos/foodie/2015/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/foodie/2015/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/fotoalbum/2014/([^/]+)/? [NC]
-RewriteRule .* /fotos/foodie/2014/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/foodie/2014/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/fotoalbum/2013/([^/]+)/? [NC]
-RewriteRule .* /fotos/foodie/2013/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/foodie/2013/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/fotoalbum/2012/([^/]+)/? [NC]
-RewriteRule .* /fotos/foodie/2012/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/foodie/2012/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/fotoalbum/2011/([^/]+)/? [NC]
-RewriteRule .* /fotos/foodie/2011/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/foodie/2011/  [R,NE,L]
 
 #### THAIFOOD FOTO #################################################################################
 
 RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2021/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2021/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaifood/2021/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2020/11/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2020/11#%1  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaifood/2020/11#%1  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2020/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2020/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaifood/2020/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2019/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2019/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaifood/2019/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2018/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2018/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaifood/2018/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2017/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2017/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaifood/2017/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2016/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaifood/2016/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaifood/2016/  [R,NE,L]
 
 #### THAIPAUSE #################################################################################
 
 RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2021/10/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaipause/2021/10/#%1 [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaipause/2021/10/#%1 [R,NE,L]
 
 RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2021/09/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaipause/2021/09/#%1  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaipause/2021/09/#%1  [R,NE,L]
 
 RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2021/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaipause/2021/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaipause/2021/  [R,NE,L]
 
 ## Generic 2021
 #RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2021/([0-9]{2})/([^/]+)?
-#RewriteRule ^(.*)$ /fotos/thaipause/2021/%1#%2 [R,NE,L]
+#RewriteRule ^(.*)$ /kurz-und-gut/thaipause/2021/%1#%2 [R,NE,L]
 
 RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2020/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaipause/2020/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaipause/2020/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2019/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaipause/2019/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaipause/2019/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2018/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaipause/2018/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaipause/2018/  [R,NE,L]
 
 RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2017/([^/]+)/? [NC]
-RewriteRule .* /fotos/thaipause/2017/  [R,NE,L]
+RewriteRule .* /kurz-und-gut/thaipause/2017/  [R,NE,L]
 
 ## Fully Generic
 #RewriteCond %{REQUEST_URI} ^/thaipause/fotos/([0-9]{4})/([0-9]{2})/([^/]+)?
-#RewriteRule ^(.*)$ /fotos/thaipause/%1/%2#%3 [R,NE,L]
+#RewriteRule ^(.*)$ /kurz-und-gut/thaipause/%1/%2#%3 [R,NE,L]
 
 ### mittagspause ##############################################################################
 
 RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2021/10/([^/]+)/? [NC]
-RewriteRule .* /fotos/mittagspause/2021/10#%1  [R,NE,L]
+RewriteRule .* /kurz-und-gut/mittagspause/2021/10#%1  [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2021/([^/]+)/? [NC]
-RewriteRule .* /fotos/mittagspause/2021 [R,NE,L]
+RewriteRule .* /kurz-und-gut/mittagspause/2021 [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2020/([^/]+)/? [NC]
-RewriteRule .* /fotos/mittagspause/2020 [R,NE,L]
+RewriteRule .* /kurz-und-gut/mittagspause/2020 [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2019/([^/]+)/? [NC]
-RewriteRule .* /fotos/mittagspause/2019 [R,NE,L]
+RewriteRule .* /kurz-und-gut/mittagspause/2019 [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2018/([^/]+)/? [NC]
-RewriteRule .* /fotos/mittagspause/2018 [R,NE,L]
+RewriteRule .* /kurz-und-gut/mittagspause/2018 [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2017/([^/]+)/? [NC]
-RewriteRule .* /fotos/mittagspause/2017 [R,NE,L]
+RewriteRule .* /kurz-und-gut/mittagspause/2017 [R,NE,L]
 
 RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2016/([^/]+)/? [NC]
-RewriteRule .* /fotos/mittagspause/2016 [R,NE,L]
+RewriteRule .* /kurz-und-gut/mittagspause/2016 [R,NE,L]
 
 
 ###############################################################################################
