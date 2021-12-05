@@ -106,6 +106,9 @@ RewriteRule .* /kurz-und-gut/thaifood/2016/  [R,NE,L]
 
 #### THAIPAUSE #################################################################################
 
+RewriteCond %{REQUEST_URI} ^/thaipause [NC]
+RewriteRule .* /kurz-und-gut/thaipause/ [R,NE,L]
+
 RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2021/10/([^/]+)/? [NC]
 RewriteRule .* /kurz-und-gut/thaipause/2021/10/#%1 [R,NE,L]
 
