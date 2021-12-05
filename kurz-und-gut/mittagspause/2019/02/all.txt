@@ -1,0 +1,30 @@
+---
+title: "Scharfer Fried Rice"
+summary: "Heute in der Mittagspause"
+date: 2019-02-06T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2019/20190206_scharfer_fried_rice_mit_paprika_und_erbsen.jpg"
+images: ["/media/_mittagspause/2019/20190206_scharfer_fried_rice_mit_paprika_und_erbsen.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute in der Mittagspause habe ich mit Reisresten, Paprikastreifen und ein paar Erbsen einen scharfen Fried Rice gebastelt.
+
+
+{{< adbanner/google >}}---
+title: "Stephans Rindfleisch Sichuan"
+summary: "Heute in der Mittagspause"
+date: 2019-02-28T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2019/20190228_sichuan_beef.jpg"
+images: ["/media/_mittagspause/2019/20190228_sichuan_beef.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Stephan hat heute in der Mittagspause mal wieder gezaubert: Rindfleisch Sichuan.
+
+{{< adbanner/google >}}

@@ -1,0 +1,43 @@
+---
+title: "Tortellini mit Tomatensauce"
+summary: "Heute in der Mittagspause"
+date: 2020-02-05T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200205_tortellini_mit_tomatensauce.jpg"
+images: ["/media/_mittagspause/2020/20200205_tortellini_mit_tomatensauce.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute mal etwas sehr Simples in der Mittagspause zubereitet: Tortellini mit Tomatensauce ...
+
+{{< adbanner/google >}}---
+title: "Reisnudeln mit Tofu und Spiegelei"
+summary: "Heute in der Mittagspause"
+date: 2020-02-19T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200220_reisnudeln_mit_tofu_und_spiegelei.jpg"
+images: ["/media/_mittagspause/2020/20200220_reisnudeln_mit_tofu_und_spiegelei.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es Reisnudeln mit Tofu und dazu ein Spiegelei.
+
+{{< adbanner/google >}}---
+title: "Gebratene Nudeln mit Surimi und Rind"
+summary: "Heute in der Mittagspause"
+date: 2020-02-21T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200221_gebratene_nudeln_mit_surimi_und_rind.jpg"
+images: ["/media/_mittagspause/2020/20200221_gebratene_nudeln_mit_surimi_und_rind.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Gestern in der Home-Office Mittagspause ...
+
+{{< adbanner/google >}}

@@ -1,0 +1,15 @@
+---
+title: "Stephans Chicken Gong Bao"
+summary: "Heute in der Mittagspause"
+date: 2019-01-23T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2019/20190123_chicken_gong_bao.jpg"
+images: ["/media/_mittagspause/2019/20190123_chicken_gong_bao.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Das Kochjahr fängt ja gut an. Danke Stephan für das leckere Chicken Gong Bao heute in der Mittagspause.
+
+{{< adbanner/google >}}

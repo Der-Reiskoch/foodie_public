@@ -1,0 +1,88 @@
+---
+title: "Mama-Nudeln in scharfer Hackfleischsoße"
+summary: "Heute in der Mittagspause"
+date: 2020-03-06T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200306_mamanudeln_in_scharfer_hackfleischsosse.jpg"
+images: ["/media/_mittagspause/2020/20200306_mamanudeln_in_scharfer_hackfleischsosse.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Endlich kann man unsere Küche bei der Arbeit wieder benutzen: Mama-Nudeln in scharfer Hackfleischsoße
+
+{{< adbanner/google >}}---
+title: "Hackfleisch-Bulgur-Pfanne mit Erbsen"
+summary: "Heute in der Mittagspause"
+date: 2020-03-11T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200311_hackfleisch-bulgur_pfanne_mit_erbsen.jpg"
+images: ["/media/_mittagspause/2020/20200311_hackfleisch-bulgur_pfanne_mit_erbsen.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es eine Hackfleisch-Bulgur-Pfanne mit Erbsen.
+
+{{< adbanner/google >}}---
+title: "Ragú di cervo"
+summary: "Heute in der Mittagspause"
+date: 2020-03-18T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200318_ragu_di_cervo_erasmusladen.jpg"
+images: ["/media/_mittagspause/2020/20200318_ragu_di_cervo_erasmusladen.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute in der Home-Office-Mittagspause: Ragú di cervo (Hirschragout) aus dem Erasmus Laden.  
+Das war mein Wichtelgeschenk vom Weihnachtsessen unserer [Foodiegruppe](/dies-und-das/unsere-foodiegruppe/).
+
+
+{{< adbanner/google >}}---
+title: "Schinkennudeln auf dem Sonnendeck"
+summary: "Heute in der Mittagspause"
+date: 2020-03-19T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200319_schinkennudeln.jpg"
+images: ["/media/_mittagspause/2020/20200319_schinkennudeln.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute gab es in der Mittagspause einen Klassiker, den es bei uns schon lange nicht mehr gab: Schinkennudeln.  
+Und das bei wunderbaren Wetter auf dem Sonnendeck.
+
+{{< adbanner/google >}}---
+title: "Tomaten-Gurken-Salat"
+summary: "Heute in der Mittagspause"
+date: 2020-03-30T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200330_tomaten-gurken-salat.jpg"
+images: ["/media/_mittagspause/2020/20200330_tomaten-gurken-salat.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es einfach einen schnellen Tomaten-Gurken-Salat.
+
+{{< adbanner/google >}}---
+title: "Spaghetti Bolognese"
+summary: "Heute in der Mittagspause"
+date: 2020-03-31T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200331_spaghetti_bolognese.jpg"
+images: ["/media/_mittagspause/2020/20200331_spaghetti_bolognese.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Pasta mit [Sauce Bolognese](/rezepte/sauce-bolognese-fur-pasta/) geht irgendwie immer.
+
+{{< adbanner/google >}}

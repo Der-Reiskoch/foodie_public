@@ -1,0 +1,73 @@
+---
+title: "Udon Nudeln mit Hack und Gemüse"
+summary: "Heute in der Mittagspause"
+date: 2020-01-07T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200107_udon_nudeln_mit_hack_und_gemuese.jpg"
+images: ["/media/_mittagspause/2020/20200107_udon_nudeln_mit_hack_und_gemuese.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Schnell in der Mittagspause zussammengewürfelt: Udon Nudeln mit Hackfleisch und Gemüse
+
+{{< adbanner/google >}}---
+title: "Pilz Ravioli Aglio e Olio"
+summary: "Heute in der Mittagspause"
+date: 2020-01-13T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200113_pilz_ravioli_aglio_e_olio.jpg"
+images: ["/media/_mittagspause/2020/20200113_pilz_ravioli_aglio_e_olio.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute gab es in der Mittagspause schnelle Pilz Ravioli Aglio e Olio mit einem Spritzer Fisch Soße.
+
+{{< adbanner/google >}}---
+title: "Gebratene Gemüse Nudeln in Mala Sauce"
+summary: "Heute in der Mittagspause"
+date: 2020-01-14T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200114_gebratene_gemuese_nudeln_in_mala_sosse.jpg"
+images: ["/media/_mittagspause/2020/20200114_gebratene_gemuese_nudeln_in_mala_sosse.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute in der Mittagspause: Schnelle gebratene Nudeln mit Gemüse in chinesischer Mala Soße.
+
+{{< adbanner/google >}}---
+title: "Erbshummus mit Paprika und Naan"
+summary: "Heute in der Mittagspause"
+date: 2020-01-15T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200115_erbshummus_mit_paprika_und_naan.jpg"
+images: ["/media/_mittagspause/2020/20200115_erbshummus_mit_paprika_und_naan.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Nicht wirklich gekocht, aber von meiner Geburtstagsparty waren noch sehr viele eingeweichte Kichererbsen und Erbsen übrig, aus denen ich ein [Hummus mit Erbsen](/rezepte/leckerer-hummus-mit-erbsen/) 
+gemacht habe. Dieses gab es heute in der Mittagspause mit ein paar Paprikastreifen und indischem Naan (das ist __kein__ Fahrradsattel!).
+
+{{< adbanner/google >}}---
+title: "Ravioli mit Paprikastückchen"
+summary: "Heute in der Mittagspause"
+date: 2020-01-16T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200116_raviolie_mit_paprikastuecken.jpg"
+images: ["/media/_mittagspause/2020/20200116_raviolie_mit_paprikastuecken.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+
+Heute in der Mittagspause: Ravioli mit in Olivenöl und Knoblauch geschwenkten Paprikastückchen.
+
+{{< adbanner/google >}}

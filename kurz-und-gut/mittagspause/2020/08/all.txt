@@ -1,0 +1,29 @@
+---
+title: "Reispfanne Mexikanischer Art"
+summary: "Heute in der Mittagspause"
+date: 2020-08-07T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200807_mexikanische_reispfanne.jpg"
+images: ["/media/_mittagspause/2020/20200807_mexikanische_reispfanne.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es eine schnelle Reispfanne Mexikanischer Art.
+
+{{< adbanner/google >}}---
+title: "Scharfe gebratene Nudeln"
+summary: "Heute in der Mittagspause"
+date: 2020-08-27T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200827_scharfe_gebratene_nudeln.jpg"
+images: ["/media/_mittagspause/2020/20200827_scharfe_gebratene_nudeln.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es scharfe gebratene Nudeln mit Tofu, Erbsen und Chilis.
+
+{{< adbanner/google >}}

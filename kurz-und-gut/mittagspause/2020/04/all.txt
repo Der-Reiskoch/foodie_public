@@ -1,0 +1,114 @@
+---
+title: "Schnelle Ingwer-Nudelsuppe"
+summary: "Heute in der Mittagspause"
+date: 2020-04-03T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200403_schnelle_ingwer_nudelsuppe.jpg"
+images: ["/media/_mittagspause/2020/20200403_schnelle_ingwer_nudelsuppe.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es eine schnelle Nudelsuppe mit sehr viel Ingwer. Irgendwie hat diese einen leichten Grünstich abbekommen.
+
+{{< adbanner/google >}}---
+title: "Sobanudeln mit Brühe"
+summary: "Heute in der Mittagspause"
+date: 2020-04-06T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200406_sobanudeln_mit_bruehe.jpg"
+images: ["/media/_mittagspause/2020/20200406_sobanudeln_mit_bruehe.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es Sobanudeln in einer Brühe mit Rindfleischrollen und Fishballs.
+
+{{< adbanner/google >}}---
+title: "Schnelle Szechuan Auberginen"
+summary: "Heute in der Mittagspause"
+date: 2020-04-07T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200407_auberginen_nach_szechuan_art.jpg"
+images: ["/media/_mittagspause/2020/20200407_auberginen_nach_szechuan_art.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es schnell [Auberginen nach Szechuan Art](/rezepte/auberginen-nach-szechuan-art/).
+
+{{< adbanner/google >}}---
+title: "Steak mit Mole Poblano"
+summary: "Heute in der Mittagspause"
+date: 2020-04-08T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200408_steak_mit_mole_poblano.jpg"
+images: ["/media/_mittagspause/2020/20200408_steak_mit_mole_poblano.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es ein Rindersteak mit Mole Poblano und dazu [Chipotle Reis](/rezepte/mexikanischer-chipotle-reis/).
+
+
+{{< adbanner/google >}}---
+title: "Instant Ramen mit Auberginen"
+summary: "Heute in der Mittagspause"
+date: 2020-04-09T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200409_instant_ramen_mit_auberginen.jpg"
+images: ["/media/_mittagspause/2020/20200409_instant_ramen_mit_auberginen.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+In der Home-Office-Mittagspause gab es heute Instant Ramen mit Auberginen.
+
+{{< adbanner/google >}}---
+title: "Rote-Linsen-Fusilli Aglio e olio"
+summary: "Heute in der Mittagspause"
+date: 2020-04-14T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200414_rote_linsen_fusilli_aglio_e_olio.jpg"
+images: ["/media/_mittagspause/2020/20200414_rote_linsen_fusilli_aglio_e_olio.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es Fusilli aus roten Linsen mit Aglio e olio.
+
+{{< adbanner/google >}}---
+title: "Annes Sucuk Pizza"
+summary: "Heute in der Mittagspause"
+date: 2020-04-23T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200423_annes_sucuk_pizza.jpg"
+images: ["/media/_mittagspause/2020/20200423_annes_sucuk_pizza.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Anne hat heute die Mittagspause übernommen und nochmal eine Pizza ohne Hefe gebacken, die man ja im Moment niergendwo bekommt.
+
+{{< adbanner/google >}} ---
+title: "Spaghetti con colatura di alici"
+summary: "Heute in der Mittagspause"
+date: 2020-04-24T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200424_spaghetti-con-colatura-di-alici.jpg"
+images: ["/media/_mittagspause/2020/20200424_spaghetti-con-colatura-di-alici.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Auch heute Mittag hat Anne das Kochen übenommen es gab sehr leckere [Pasta con colatura di alici](/rezepte/pasta-con-colatura-di-alici/).
+
+{{< adbanner/google >}}

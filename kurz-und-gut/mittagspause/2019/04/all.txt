@@ -1,0 +1,66 @@
+---
+title: "Dicke Suppe mit Karotten"
+summary: "Heute in der Mittagspause"
+date: 2019-04-18T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2019/20190418_dicke_suppe_mit_karotten_und_instantnudeln.jpg"
+images: ["/media/_mittagspause/2019/20190418_dicke_suppe_mit_karotten_und_instantnudeln.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute gab es in der Mittagspause eine kräftig eingedickte Brühe mit Karotten und Instantnudeln.
+
+{{< adbanner/google >}}---
+title: "Indisch mit der Lunch-Lotterie"
+summary: "Heute in der Mittagspause"
+date: 2019-04-23T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2019/20190423_drei_gerichte.jpg"
+images: ["/media/_mittagspause/2019/20190423_drei_gerichte.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Bei meinem Arbeitgeber ETECTURE gibt es eine Lunch-Lotterie, damit man auch mal mit anderen Kollegen in der Mittagspause essen geht. 
+Die Rechnung bezahlt dabei die Firma. Wir haben uns das indische Restaurant Moghul Mahal ausgesucht und hatten dort Lamm mit Spinat, Butter Chicken und Targa Daal.   
+
+{{< figure src="/media/_mittagspause/2019/20190423_lamm_mit_spinat.jpg" alt="Lamm mit Spinat" title="Lamm mit Spinat" caption="Lamm mit Spinat" >}}
+
+{{< figure src="/media/_mittagspause/2019/20190423_butter_chicken.jpg" alt="Butter Chicken" title="Butter Chicken" caption="Butter Chicken" >}}
+
+{{< figure src="/media/_mittagspause/2019/20190423_targa_daal.jpg" alt="Targa Daal" title="Targa Daal" caption="Targa Daal" >}}
+
+{{< adbanner/google >}}---
+title: "Koreanische Resteverwertung"
+summary: "Heute in der Mittagspause"
+date: 2019-04-25T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2019/20190425_koreanische_resteverwertung.jpg"
+images: ["/media/_mittagspause/2019/20190425_koreanische_resteverwertung.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Koreanische Resteverwertung mit Instantnudeln in der heutigen Mittagspause.
+
+
+{{< adbanner/google >}}---
+title: "Bengalische Resteverwertung"
+summary: "Heute in der Mittagspause"
+date: 2019-04-29T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2019/20190429_bengalische_resteverwertung.jpg"
+images: ["/media/_mittagspause/2019/20190429_bengalische_resteverwertung.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Die Reste vom [bengalischen Curry](/rezepte/bengalisches-curry-mit-schweinelende/ "Bengalisches Curry mit Schweinelende") gab es heute Mittag zusammen mit Instant-Basmati-Reis.
+
+
+{{< adbanner/google >}}

@@ -1,0 +1,116 @@
+---
+title: "Crispy Chicken Bowl"
+summary: "Meine kulinarischen Schnappschüsse"
+date: 2019-02-01T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_fotoalbum/2019/20190102_crispy_chicken_bowl_von_dean_and_david.jpg"
+images: ["/media/_fotoalbum/2019/20190102_crispy_chicken_bowl_von_dean_and_david.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Crispy Chicken Bowl bestellt bei Dean and David bei einem Etecture Business Lunch
+
+
+{{< adbanner/google >}}---
+title: "Meine Mutter hat aufgetischt"
+summary: "Meine kulinarischen Schnappschüsse"
+date: 2019-02-03T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_fotoalbum/2019/20190204_meine_mutter_hat_aufgetischt.jpg"
+images: ["/media/_fotoalbum/2019/20190204_meine_mutter_hat_aufgetischt.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Bevor wir gestern Essen gegangen sind um den Geburtstag meines Vaters zu feieren, hat meine Mutter noch einen "kleinen Snack" aufgetischt.
+
+{{< adbanner/google >}}---
+title: "Deftiges Frühstück"
+summary: "Meine kulinarischen Schnappschüsse"
+date: 2019-02-10T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_fotoalbum/2019/20190210_deftiges_fruehstueck_mit_curryresten.jpg"
+images: ["/media/_fotoalbum/2019/20190210_deftiges_fruehstueck_mit_curryresten.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Unser deftiges Frühstück am Sonntag mit Curryresten auf Weißbrot.
+
+{{< adbanner/google >}}---
+title: "Zwei Curries, Daal und Parathas"
+summary: "Meine kulinarischen Schnappschüsse"
+date: 2019-02-17T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_fotoalbum/2019/20190217_zwei_curries_daal_und_parathas.jpg"
+images: ["/media/_fotoalbum/2019/20190217_zwei_curries_daal_und_parathas.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Sonntäglicher Koch-Exzess mit zwei indischen Curries, einem Daal und selbstgebackenen Parathas
+
+{{< adbanner/google >}}---
+title: "Übrige Parathas zum Abendessen"
+summary: "Meine kulinarischen Schnappschüsse"
+date: 2019-02-18T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_fotoalbum/2019/20190218_uebrige_parathas_zum_abendessen.jpg"
+images: ["/media/_fotoalbum/2019/20190218_uebrige_parathas_zum_abendessen.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute gab es schlicht übrige Parathas von gestern zum Abendessen.
+
+{{< adbanner/google >}}---
+title: "Hot Chili Burger"
+summary: "Meine kulinarischen Schnappschüsse"
+date: 2019-02-21T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_fotoalbum/2019/20190221_hot_chili_burger.jpg"
+images: ["/media/_fotoalbum/2019/20190221_hot_chili_burger.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Vor dem Meute Konzert war ich jetzt das erste mal in Mandy's Railway Diner in Heidelberg.
+
+
+{{< adbanner/google >}}---
+title: "Pulled Pork Burger"
+summary: "Meine kulinarischen Schnappschüsse"
+date: 2019-02-22T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_fotoalbum/2019/20190222_pulled_pork_burger.jpg"
+images: ["/media/_fotoalbum/2019/20190222_pulled_pork_burger.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Bei unserem Jahres Kick-Off bei Etecture gab es unter anderem diese leckeren Pulled Pork Burger.
+
+
+{{< adbanner/google >}}---
+title: "Harissa Mitbringsel aus Tunesien"
+summary: "Meine kulinarischen Schnappschüsse"
+date: 2019-02-25T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_fotoalbum/2019/20190225_harissa_aus_tunesien.jpg"
+images: ["/media/_fotoalbum/2019/20190225_harissa_aus_tunesien.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Ich bin schon sehr gespannt auf dieses Mitbringsel aus Tunesien. Danke, Dali!
+
+{{< adbanner/google >}}

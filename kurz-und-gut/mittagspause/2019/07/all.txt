@@ -1,0 +1,60 @@
+---
+title: "Grillen im Hof"
+summary: "Heute in der Mittagspause"
+date: 2019-07-02T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2019/20190702_grillen.jpg"
+images: ["/media/_mittagspause/2019/20190702_grillen.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute haben wir in der Mittagspause in unserem Hof mal wieder den Grill angeworfen.
+
+{{< adbanner/google >}}---
+title: "Resteverwertung vom Wochenende"
+summary: "Heute in der Mittagspause"
+date: 2019-07-08T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2019/20190708_resteverwertung_vom_wochenende.jpg"
+images: ["/media/_mittagspause/2019/20190708_resteverwertung_vom_wochenende.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Resteverwertung vom Wochenende in der Mittagspause.
+
+{{< adbanner/google >}}---
+title: "Koreanische Reste mit Instant Ramen"
+summary: "Heute in der Mittagspause"
+date: 2019-07-29T14:12:09+02:00
+thumbnail: "/media/_mittagspause/2019/20190729_koreanische_reste_mit_instant_ramen.jpg"
+images: ["/media/_mittagspause/2019/20190729_koreanische_reste_mit_instant_ramen.jpg"]
+author: "Jens"
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute habe ich in der Mittagspause unsere neue Firmenküche mit einem koreanischen Gericht aus Resten eingweiht.
+
+{{< adbanner/google >}}
+
+---
+title: "Koreanische Nudelpfanne mit Gemüse"
+summary: "Heute in der Mittagspause"
+date: 2019-07-30T14:12:09+02:00
+thumbnail: "/media/_mittagspause/2019/20190730_nudelpfanne_mit_gemuese.jpg"
+images: ["/media/_mittagspause/2019/20190730_nudelpfanne_mit_gemuese.jpg"]
+author: "Jens"
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Mit der neuen Küchen haben wir auch neues, schickeres Geschirr bekommen.   
+Darin sah die koreanische Nudelpfanne, die es heute Mittag gab, gleich nochmal besser aus.
+
+{{< adbanner/google >}}

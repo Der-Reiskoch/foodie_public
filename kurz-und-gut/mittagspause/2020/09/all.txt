@@ -1,0 +1,75 @@
+---
+title: "Karibischer Eintopf mit Kroketten"
+summary: "Heute in der Mittagspause"
+date: 2020-09-09T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200909_karibischer_eintopf_mit_kroketten.jpg"
+images: ["/media/_mittagspause/2020/20200909_karibischer_eintopf_mit_kroketten.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es die Reste vom [Jamaican Chicken Stew](/kurz-und-gut/foodie/2020/09/#05) gestreckt mit ein paar Erbsen und dazu Kroketten.
+
+{{< adbanner/google >}}---
+title: "Nam Ya Reste mit Udon Nudeln"
+summary: "Heute in der Mittagspause"
+date: 2020-09-15T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200915_nam_ya_reste_mit_udon_nudeln.jpg"
+images: ["/media/_mittagspause/2020/20200915_nam_ya_reste_mit_udon_nudeln.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Die Reste vom gestrigen [Nam Ya Curry](/suchen/?q=nam+ya) gab es heute Mittag zusammen mit Udon Nudeln.
+
+{{< adbanner/google >}}
+---
+title: "Scharfe Kokos Restesuppe"
+summary: "Heute in der Mittagspause"
+date: 2020-09-16T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200916_scharfe_kokos_restesuppe.jpg"
+images: ["/media/_mittagspause/2020/20200916_scharfe_kokos_restesuppe.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es eine scharfe Suppe mit Kokosmilch und diversen Resten.
+
+{{< adbanner/google >}}
+
+
+---
+title: "Chili con Carne"
+summary: "Heute in der Mittagspause"
+date: 2020-09-24T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200924_chili_con_carne.jpg"
+images: ["/media/_mittagspause/2020/20200924_chili_con_carne.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es ein scharfes, schokoladiges Chili con Carne.
+
+{{< adbanner/google >}}---
+title: "Wasserspinat mit Udon Nudeln"
+summary: "Heute in der Mittagspause"
+date: 2020-09-25T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200925_wasserspinat_mit_udon_nudeln.jpg"
+images: ["/media/_mittagspause/2020/20200925_wasserspinat_mit_udon_nudeln.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute gab es in der Mittagspause ein sehr schnelles chinesisch-japanisches Gericht: Wasserspinat Sichuan Art mit Udon Nudeln.
+
+{{< adbanner/google >}}

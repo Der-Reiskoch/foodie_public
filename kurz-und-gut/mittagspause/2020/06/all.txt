@@ -1,0 +1,60 @@
+---
+title: "Toast Hawaii"
+summary: "Heute in der Mittagspause"
+date: 2020-06-06T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200606_toast_hawaii.jpg"
+images: ["/media/_mittagspause/2020/20200606_toast_hawaii.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Da Anne heute nochmal virtuell Studenten aus unserer Küche heraus betreuen muss und nur eine kurze Pause hatte, gab es heute Mittag noch mal eine schnelle kulinarische Zeitreise: Toast Hawaii.
+
+
+{{< adbanner/google >}}---
+title: "Ghanaisches Erdnusshuhn mit Ei"
+summary: "Heute in der Mittagspause"
+date: 2020-06-08T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200608_ghanaisches_erdnusshuhn_mit_ei_und_reis.jpg"
+images: ["/media/_mittagspause/2020/20200608_ghanaisches_erdnusshuhn_mit_ei_und_reis.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es die Reste vom [ghanaischen Erdnusshuhn](/rezepte/huhn-erdnuss-eintopf-aus-ghana/) mit Ei, Reis, [Ugali](/rezepte/ostafrikanischer-ugali-aus-maismehl/) und Fatalii Soße.
+
+
+{{< adbanner/google >}}---
+title: "Gepimpte TexMex Pizza"
+summary: "Heute in der Mittagspause"
+date: 2020-06-24T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200624_gepimpte_texmex_pizza.jpg"
+images: ["/media/_mittagspause/2020/20200624_gepimpte_texmex_pizza.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Kann man auch mal machen, wenn es in der Mittagspause schnell gehen muss: gepimpte TexMex Pizza.
+
+
+{{< adbanner/google >}}---
+title: "Rindersteak mit Joghurtsoße"
+summary: "Heute in der Mittagspause"
+date: 2020-06-25T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2020/20200625_rindersteak_mit_joghurtsoße_und_granatapfel.jpg"
+images: ["/media/_mittagspause/2020/20200625_rindersteak_mit_joghurtsoße_und_granatapfel.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Heute Mittag gab es ein Rindersteak mit einer Ras-el-Hanout-Joghurt-Soße und Granatapfelkernen.
+
+{{< adbanner/google >}}

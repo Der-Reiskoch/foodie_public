@@ -1,0 +1,15 @@
+---
+title: "Roberts Kesselgulasch"
+summary: "Heute in der Mittagspause"
+date: 2019-03-25T00:00:00+02:00
+auhor: "Jens"
+thumbnail: "/media/_mittagspause/2019/20190325_kesselgulasch.jpg"
+images: ["/media/_mittagspause/2019/20190325_kesselgulasch.jpg"]
+authorbox: false
+categories:
+- Kurz und Gut
+---
+
+Robert hat heute Vormittag mal wieder sein legendäres [Kesselgulasch](/dies-und-das/kesselgulasch-in-der-mittagspause/) in unserem Innenhof zubereitet und es in der Mittagspause serviert.
+
+{{< adbanner/google >}}
