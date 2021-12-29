@@ -14,7 +14,7 @@ jobs:
           user: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
           options: --remote-root ${{ secrets.FTP_SERVER_DIR }} --verbose
-      - name: Send mail
+      - name: send notification mail
         uses: dawidd6/action-send-mail@v3
         with:
           # Required mail server address:
@@ -44,5 +44,5 @@ jobs:
           # Optional converting Markdown to HTML (set content_type to text/html too):
           convert_markdown: true
           # Optional attachments:
-          priority: low       
+          priority: low           
 
