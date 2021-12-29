@@ -26,11 +26,11 @@ jobs:
           # Optional (recommended) mail server password:
           password: ${{secrets.MAIL_PASSWORD}}
           # Required mail subject:
-          subject: Github Auto-Depplo job result
+          subject: Der Reiskoch Auto-Deployment success!
           # Required recipients' addresses:
           to: der@reisko.ch
           # Required sender full name (address can be skipped):
-          from: Auto-Depploy # <der@reisko.ch>
+          from: der@reisko.ch # <der@reisko.ch>
           # Optional whether this connection use TLS (default is true if server_port is 465)
           secure: true
           # Optional plain body:
