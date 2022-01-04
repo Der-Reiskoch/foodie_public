@@ -1,1 +1,1 @@
-function loadRamdomItem(){fetch('/index.json',{method:'get'}).then(a=>a.json()).then(b=>{var c=b.length-1,d=Math.floor(Math.random()*c)+1,a;d<=c&&(a=b[d],a&&(window.location.href=a.u))}).catch(a=>{})}
+function loadRamdomItem(){fetch('/index.json',{method:'get'}).then(e=>e.json()).then(t=>{var n=t.length-1,s=Math.floor(Math.random()*n)+1,e;s<=n&&(e=t[s],e&&(window.location.href=e.u))}).catch(e=>{})}
