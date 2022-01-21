@@ -1,1 +1,0 @@
-function loadRamdomItem(){fetch('/index.json',{method:'get'}).then(e=>e.json()).then(t=>{var n=t.length-1,s=Math.floor(Math.random()*n)+1,e;n>=s&&(e=t[s],e&&(window.location.href=e.u))}).catch(e=>{})}
