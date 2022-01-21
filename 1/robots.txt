@@ -1,0 +1,20 @@
+User-agent: *
+
+Disallow: /alt/
+Disallow: /nicht-gefunden/
+Disallow: /aktuell/
+Disallow: /feed/
+Disallow: /info/datenschutz/
+Disallow: /info/impressum/
+Disallow: /karlsmag/
+Disallow: /__l__/
+Disallow: /karten/
+Disallow: /speisekarten/
+Disallow: /suchen/
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /zufall/
+Disallow: /zufallsrezept/
+Disallow: /instagram/
+
+Sitemap: https://der.reisko.ch/sitemap.xml
