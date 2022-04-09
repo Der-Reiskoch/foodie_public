@@ -37,8 +37,6 @@ jobs:
           body: FTP Upload of ${{github.repository}} completed successfully!
           # Optional recipient of the email response:
           reply_to: ci@der.reisko.ch
-          # Optional Message ID this message is replying to:
-          in_reply_to: <ci@der.reisko.ch>
           # Optional unsigned/invalid certificates allowance:
           ignore_cert: true
           # Optional converting Markdown to HTML (set content_type to text/html too):
