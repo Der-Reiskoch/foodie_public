@@ -41,128 +41,31 @@ RewriteRule ^zutaten/einkaufen/(.*) /zutaten/ [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /fotos/
 RewriteRule ^fotos/(.*) /kurz-und-gut/$1 [L,R=301]
 
+RewriteCond %{THE_REQUEST} ^GET\ /fotoalbum/
+RewriteRule ^fotoalbum/(.*) /kurz-und-gut/foodie/$1 [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /thaifood/fotos/
+RewriteRule ^thaifood/fotos/(.*) /kurz-und-gut/thaifood/$1 [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /thaifood/
+RewriteRule ^thaifood /kurz-und-gut/thaifood [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /thaipause/fotos/
+RewriteRule ^thaipause/fotos/(.*) /kurz-und-gut/thaipause/$1 [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /thaipause/
+RewriteRule ^thaipause /kurz-und-gut/thaipause [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /mittagspause/fotos/
+RewriteRule ^mittagspause/fotos/(.*) /kurz-und-gut/mittagspause/$1 [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /mittagspause/
+RewriteRule ^mittagspause /kurz-und-gut/mittagspause [L,R=301]
+
 #https://der.reisko.ch/thaipause/kurz-und-gut/2021/10/25/?fbclid=IwAR2podBLMAIkhlREuBv6cbjDJ8hXazuK60LH05pIvYezjZGVLWg_8AH4TI4
 #remove facebook fbclid qeuery param
 RewriteCond %{QUERY_STRING} ^(.*?)(&?fbclid=[a-zA-Z0-9_-]+)$
 RewriteRule ^(.*)$ /$1?%1 [L,NE,R=301]
-
-#### FOODIE FOTO #################################################################################
-
-RewriteCond %{REQUEST_URI}  ^/fotoalbum/2021/10/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/foodie/2021/10#%1  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/fotoalbum/2021/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/foodie/2021/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/fotoalbum/2020/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/foodie/2020/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/fotoalbum/2019/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/foodie/2019/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/fotoalbum/2018/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/foodie/2018/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/fotoalbum/2017/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/foodie/2017/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/fotoalbum/2016/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/foodie/2016/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/fotoalbum/2015/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/foodie/2015/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/fotoalbum/2014/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/foodie/2014/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/fotoalbum/2013/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/foodie/2013/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/fotoalbum/2012/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/foodie/2012/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/fotoalbum/2011/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/foodie/2011/  [R,NE,L]
-
-#### THAIFOOD FOTO #################################################################################
-
-RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2021/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaifood/2021/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2020/11/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaifood/2020/11#%1  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2020/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaifood/2020/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2019/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaifood/2019/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2018/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaifood/2018/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2017/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaifood/2017/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/thaifood/fotos/2016/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaifood/2016/  [R,NE,L]
-
-#### THAIPAUSE #################################################################################
-
-RewriteCond %{REQUEST_URI} ^/thaipause [NC]
-RewriteRule .* /kurz-und-gut/thaipause/ [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2021/10/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaipause/2021/10/#%1 [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2021/09/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaipause/2021/09/#%1  [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2021/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaipause/2021/  [R,NE,L]
-
-## Generic 2021
-#RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2021/([0-9]{2})/([^/]+)?
-#RewriteRule ^(.*)$ /kurz-und-gut/thaipause/2021/%1#%2 [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2020/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaipause/2020/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2019/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaipause/2019/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2018/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaipause/2018/  [R,NE,L]
-
-RewriteCond %{REQUEST_URI} ^/thaipause/fotos/2017/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/thaipause/2017/  [R,NE,L]
-
-## Fully Generic
-#RewriteCond %{REQUEST_URI} ^/thaipause/fotos/([0-9]{4})/([0-9]{2})/([^/]+)?
-#RewriteRule ^(.*)$ /kurz-und-gut/thaipause/%1/%2#%3 [R,NE,L]
-
-### mittagspause ##############################################################################
-
-RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2021/10/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/mittagspause/2021/10#%1  [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2021/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/mittagspause/2021 [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2020/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/mittagspause/2020 [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2019/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/mittagspause/2019 [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2018/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/mittagspause/2018 [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2017/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/mittagspause/2017 [R,NE,L]
-
-RewriteCond %{REQUEST_URI}  ^/mittagspause/fotos/2016/([^/]+)/? [NC]
-RewriteRule .* /kurz-und-gut/mittagspause/2016 [R,NE,L]
 
 ###############################################################################################
 
