@@ -3,7 +3,7 @@ RewriteEngine on
 RewriteCond %{HTTP_HOST} !^der.reisko.ch$
 RewriteRule ^(.*)$ https://der.reisko.ch/$1 [R=301,L]
 
-RewriteRule ^([0-9]+) /alt?e=$1 [L,R=301]
+RewriteRule ^([0-9]+) /suchen/id/?e=$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /rezept/
 RewriteRule ^rezept/(.*) /rezepte/$1 [L,R=301]
