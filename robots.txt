@@ -17,5 +17,6 @@ Disallow: /categories/
 Disallow: /zufall/
 Disallow: /zufallsrezept/
 Disallow: /instagram/
+Disallow: /system/
 
 Sitemap: https://der.reisko.ch/sitemap.xml
