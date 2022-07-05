@@ -76,6 +76,8 @@ RewriteRule ^(.*)$ /$1?%1 [L,NE,R=301]
 <IfModule mod_expires.c>
   ExpiresActive On
 
+  ExpiresByType text/html "access plus 1 day"
+
   # Images
   ExpiresByType image/jpeg "access plus 1 year"
   ExpiresByType image/gif "access plus 1 year"
@@ -105,6 +107,8 @@ RewriteRule ^(.*)$ /$1?%1 [L,NE,R=301]
   # Others
   ExpiresByType application/pdf "access plus 1 year"
   ExpiresByType image/vnd.microsoft.icon "access plus 1 year"
+
+  ExpiresDefault "access plus 1 year"
 </IfModule>
 
 ErrorDocument 404 /nicht-gefunden/index.html
