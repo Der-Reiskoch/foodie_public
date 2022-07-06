@@ -76,7 +76,7 @@ RewriteRule ^(.*)$ /$1?%1 [L,NE,R=301]
 <IfModule mod_expires.c>
   ExpiresActive On
 
-  ExpiresByType text/html "access plus 1 day"
+  ExpiresByType text/html "modification 4 hours"
 
   # Images
   ExpiresByType image/jpeg "access plus 1 year"
