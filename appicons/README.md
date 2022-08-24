@@ -1,4 +1,4 @@
-# Fav & App Icon
+# Fav & App Icons
 
 Generated with:
 
