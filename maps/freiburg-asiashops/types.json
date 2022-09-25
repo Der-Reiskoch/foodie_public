@@ -1,1 +1,7 @@
-{"asiashop":{"label":"asiashop","color":"#9acd32","icon":"shopping_cart"}}
+{
+    "asiashop": {
+        "label": "asiashop",
+        "color": "#9acd32",
+        "icon": "shopping_cart"
+    }
+}
