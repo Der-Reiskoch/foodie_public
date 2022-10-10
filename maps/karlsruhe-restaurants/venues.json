@@ -56,20 +56,6 @@
             "lng": "8.38951"
         },
         {
-            "uid": "49",
-            "map": "de-ka",
-            "type": "asia",
-            "pinColor": "#4B2971",
-            "name": "China Bao",
-            "entryId": "774",
-            "url": "/restaurants/restaurant-china-bao-im-passagehof/",
-            "imageName": "",
-            "website": null,
-            "address": "Kaiserpassage 132, 76133 Karlsruhe, Deutschland",
-            "lat": "49.0103",
-            "lng": "8.39661"
-        },
-        {
             "uid": "34",
             "map": "de-ka",
             "type": "asia",
