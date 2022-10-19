@@ -131,6 +131,17 @@
             "address": "Stefan-Meier-Straße 34, 79104 Freiburg im Breisgau, Deutschland",
             "lat": "48.00443",
             "lng": "7.84891"
+        },
+        {
+            "uid": "1165",
+            "type": "asia",
+            "name": "Restaurant Banôi",
+            "url": "/restaurants/restaurant-banoi-in-der-wiehre/",
+            "imageName": "",
+            "website": null,
+            "address": "Turnseestraße 13, 79102 Freiburg im Breisgau, Deutschland",
+            "lat": "47.98864",
+            "lng": "7.84988"
         }
     ],
     "mediterran": [
