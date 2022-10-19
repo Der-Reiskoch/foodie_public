@@ -179,6 +179,17 @@
             "address": "Gerberau 5, 79098 Freiburg im Breisgau, Deutschland",
             "lat": "47.99357",
             "lng": "7.85006"
+        },
+        {
+            "uid": "1166",
+            "type": "india",
+            "name": "Restaurant Mahatma Gandhi",
+            "url": "/restaurants/indisches-restaurant-mahatma-gandhi/",
+            "imageName": "",
+            "website": null,
+            "address": "Konviktstraße 33, 79098 Freiburg im Breisgau, Deutschland",
+            "lat": "47.99397",
+            "lng": "7.85465"
         }
     ],
     "german": [
