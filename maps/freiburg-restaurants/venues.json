@@ -212,6 +212,16 @@
             "address": "Metzgerau 4, 79098 Freiburg im Breisgau, Deutschland",
             "lat": "47.99313",
             "lng": "7.84800"
+        },
+        {
+            "uid": "1171",
+            "name": "Waldrestaurant St.Ottilien",
+            "url": "/restaurants/waldrestaraunt-sank-ottilien/",
+            "imageName": "",
+            "website": null,
+            "address": "Kartäuserstraße 135,79104 Freiburg im Breisgau, Deutschland",
+            "lat": "48.00293",
+            "lng": "7.89965"
         }
     ],
     "misc": [
