@@ -5,7 +5,7 @@ const BASE_CACHE_FILES = [
     '/index.json',
     '/manifest.json',
     '/favicon.ico',
-    '/img/avatar3.jpg',
+    '/img/avatar.jpg',
     'img/logo.svg',
     'img/lazy-loading.png',
     '/suchen/index.html',
@@ -61,12 +61,12 @@ const SUPPORTED_METHODS = ['GET'];
 function isBlacklisted(url) {
     return CACHE_BLACKLIST.length > 0
         ? !CACHE_BLACKLIST.filter((rule) => {
-              if (typeof rule === 'function') {
-                  return !rule(url);
-              } else {
-                  return false;
-              }
-          }).length
+            if (typeof rule === 'function') {
+                return !rule(url);
+            } else {
+                return false;
+            }
+        }).length
         : false;
 }
 
