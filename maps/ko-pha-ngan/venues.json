@@ -1,0 +1,26 @@
+{
+    "restaurants": [
+        {
+            "uid": "707",
+            "type": "markets",
+            "name": "Kokei & Fifa Thai BBQ",
+            "url": "/reisen/kokei-fifa-thai-bbq-in-thong-sala/",
+            "website": null,
+            "address": "Moo 1 161/5284280 Thongsala, Ko Pha-ngan, Thailand",
+            "lat": "9.708679679160685",
+            "lng": "99.9970207433013"
+        }
+    ],
+    "markets": [
+        {
+            "uid": "709",
+            "type": "markets",
+            "name": "Phangan Food Court",
+            "url": "/reisen/phangan-food-court-in-thong-sala/",
+            "website": null,
+            "address": "Moo 1, 84280 Thongsala, Ko Phangan, Thailand",
+            "lat": "9.70950112160784",
+            "lng": "99.99127678388892"
+        }
+    ]
+}
