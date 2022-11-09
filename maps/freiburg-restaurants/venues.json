@@ -222,6 +222,16 @@
             "address": "Kartäuserstraße 135,79104 Freiburg im Breisgau, Deutschland",
             "lat": "48.00293",
             "lng": "7.89965"
+        },
+        {
+            "uid": "1144",
+            "name": "Restaurant Deutsches Haus",
+            "url": "/restaurants/restaurant-deutsches-haus-in-freiburg/",
+            "imageName": "",
+            "website": null,
+            "address": "Schusterstraße 40, 79098 Freiburg im Breisgau, Deutschland",
+            "lat": "47.994564058961785",
+            "lng": "7.853004298945926"
         }
     ],
     "misc": [
