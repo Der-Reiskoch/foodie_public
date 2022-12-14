@@ -1,0 +1,15 @@
+{
+    "restaurants": [
+        {
+            "uid": "1175",
+            "name": "Samyan Food Legends",
+            "url": "/reisen/samyan-food-legends-im-mbk-center/",
+            "imageName": "",
+            "website": null,
+            "address": "Phaya Thai Road 444, 10330 Pathum Wan, Bangkok, Thailand",
+            "lat": "13.734996597332717",
+            "lng": "100.52813786961809"
+        }
+    ],
+    "foodmarkets": []
+}
