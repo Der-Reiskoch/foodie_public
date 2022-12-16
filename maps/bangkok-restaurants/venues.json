@@ -9,7 +9,18 @@
             "address": "Phaya Thai Road 444, 10330 Pathum Wan, Bangkok, Thailand",
             "lat": "13.734996597332717",
             "lng": "100.52813786961809"
+        },
+        {
+            "uid": "1176",
+            "name": "Phed Mark",
+            "url": "/reisen/phed-mark-in-bangkok/",
+            "imageName": "",
+            "website": null,
+            "address": "Sukhumvit Road 928, 10110 Khet Khlong Toei, Bangkok, Thailand",
+            "lat": "13.720269713462987",
+            "lng": "100.58406616137948"
         }
     ],
     "foodmarkets": []
 }
+
