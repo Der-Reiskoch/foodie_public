@@ -19,8 +19,28 @@
             "address": "Sukhumvit Road 928, 10110 Khet Khlong Toei, Bangkok, Thailand",
             "lat": "13.720269713462987",
             "lng": "100.58406616137948"
+        },
+        {
+            "uid": "1177",
+            "name": "Jack's Bar",
+            "url": "/reisen/jacks-bar-in-bangkok/",
+            "imageName": "",
+            "website": null,
+            "address": "Wat Suan Phlu Alley 62/1, 10500 Khet Bang Rak, Bangkok, Thailand",
+            "lat": "13.722368823712912",
+            "lng": "100.51357284076154"
         }
     ],
-    "foodmarkets": []
+    "foodmarkets": [
+        {
+            "uid": "320",
+            "name": "Sukhumvit Soi 38 Foodmarket",
+            "url": "/reisen/sukhumvit-soi-38-foodmarket/",
+            "imageName": "",
+            "website": null,
+            "address": "Sukhumvit Soi 38, 10110 Khlong Toei, Bangkok, Thailand",
+            "lat": "13.723676489403251",
+            "lng": "100.578980777726"
+        }
+    ]
 }
-
