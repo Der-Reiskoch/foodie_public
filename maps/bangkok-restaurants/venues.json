@@ -29,6 +29,16 @@
             "address": "Wat Suan Phlu Alley 62/1, 10500 Khet Bang Rak, Bangkok, Thailand",
             "lat": "13.722368823712912",
             "lng": "100.51357284076154"
+        },
+        {
+            "uid": "1193",
+            "name": "Khao (Ekkamai Branch)",
+            "url": "/reisen/restaurant-khao-in-bangkok/",
+            "imageName": "",
+            "website": null,
+            "address": "15 Ekkamai Road Soi 10, 10110 Khlongtun Nua, Bangkok, Thailand",
+            "lat": "13.729034029157361",
+            "lng": "100.58786130857898"
         }
     ],
     "foodmarkets": [
