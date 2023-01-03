@@ -12,7 +12,6 @@ Disallow: /__l__/
 Disallow: /karten/
 Disallow: /speisekarten/
 Disallow: /suchen/
-Disallow: /tags/
 Disallow: /categories/
 Disallow: /zufall/
 Disallow: /zufallsrezept/
