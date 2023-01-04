@@ -51,6 +51,16 @@
             "address": "Sukhumvit Soi 38, 10110 Khlong Toei, Bangkok, Thailand",
             "lat": "13.723676489403251",
             "lng": "100.578980777726"
+        },
+        {
+            "uid": "1194",
+            "name": "Chinatown",
+            "url": "/reisen/unterwegs-in-bangkoks-chinatown/",
+            "imageName": "",
+            "website": null,
+            "address": "Yaowarat Road, 10110 Samphanthawong, Bangkok, Thailand",
+            "lat": "13.737175559350918",
+            "lng": "100.51296849802276"
         }
     ]
 }
