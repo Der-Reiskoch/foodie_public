@@ -61,6 +61,16 @@
             "address": "Yaowarat Road, 10110 Samphanthawong, Bangkok, Thailand",
             "lat": "13.737175559350918",
             "lng": "100.51296849802276"
+        },
+        {
+            "uid": "1194",
+            "name": "Petchaburi Soi 5 Market",
+            "url": " /reisen/der-markt-in-der-petchaburi-soi-5/",
+            "imageName": "",
+            "website": null,
+            "address": "Petchaburi Soi 5, 10400 Thung Phaya Thai, Bangkok, Thailand",
+            "lat": "13.754551751434315",
+            "lng": "100.52838404897811"
         }
     ]
 }
