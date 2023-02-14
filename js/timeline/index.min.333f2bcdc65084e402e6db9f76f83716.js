@@ -1,0 +1,1 @@
+var scrollSelectedTimelineItemIntoView=function(e,t,n){var s,o,a,i=document.getElementById(n);i&&(s=i.clientWidth,o=e/t,o>.35&&(a=o<.7?s*o:s+s/2,i.scrollBy({top:0,left:a,behavior:"smooth"})))}
