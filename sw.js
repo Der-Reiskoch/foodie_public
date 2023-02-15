@@ -1,4 +1,4 @@
-const CACHE_VERSION = 1;
+const CACHE_VERSION = 1.1;
 
 const BASE_CACHE_FILES = [
     '/index.html',
@@ -6,21 +6,29 @@ const BASE_CACHE_FILES = [
     '/manifest.json',
     '/favicon.ico',
     '/img/avatar.jpg',
-    'img/logo.svg',
-    'img/lazy-loading.png',
+    '/img/logo.svg',
+    '/img/lazy-loading.png',
+    '/img/header-background.jpg',
+    '/fonts/open-sans-v26-latin-700.woff2',
+    '/fonts/open-sans-v26-latin-regular.woff2',
+    '/fonts/open-sans-v26-latin-italic.woff2',
+    '/svg/sprites/meta-sprite.svg',
+    '/svg/search-icon.svg',
+    '/svg/search-icon-bold.svg',
     '/suchen/index.html',
+    '/css/styles_v2_1.css',
 ];
 
 const OFFLINE_CACHE_FILES = [
     '/nicht-verbunden/index.html',
-    '/css/styles.css',
-    '/img/teller_leer.jpg',
+    '/img/offline.jpg',
+    '/css/styles_v2_1.css',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
     '/nicht-gefunden/index.html',
-    '/css/styles.css',
     '/img/teller_leer.jpg',
+    '/css/styles_v2_1.css',
 ];
 
 const OFFLINE_PAGE = '/nicht-verbunden/index.html';
@@ -61,12 +69,12 @@ const SUPPORTED_METHODS = ['GET'];
 function isBlacklisted(url) {
     return CACHE_BLACKLIST.length > 0
         ? !CACHE_BLACKLIST.filter((rule) => {
-            if (typeof rule === 'function') {
-                return !rule(url);
-            } else {
-                return false;
-            }
-        }).length
+              if (typeof rule === 'function') {
+                  return !rule(url);
+              } else {
+                  return false;
+              }
+          }).length
         : false;
 }
 
@@ -102,19 +110,23 @@ function getTTL(url) {
  * @returns {Promise}
  */
 function installServiceWorker() {
-    return Promise.all([
-        caches.open(CACHE_VERSIONS.assets).then((cache) => {
-            return cache.addAll(BASE_CACHE_FILES);
-        }),
-        caches.open(CACHE_VERSIONS.offline).then((cache) => {
-            return cache.addAll(OFFLINE_CACHE_FILES);
-        }),
-        caches.open(CACHE_VERSIONS.notFound).then((cache) => {
-            return cache.addAll(NOT_FOUND_CACHE_FILES);
-        }),
-    ]).then(() => {
-        return self.skipWaiting();
-    });
+    try {
+        return Promise.all([
+            caches.open(CACHE_VERSIONS.assets).then((cache) => {
+                return cache.addAll(BASE_CACHE_FILES);
+            }),
+            caches.open(CACHE_VERSIONS.offline).then((cache) => {
+                return cache.addAll(OFFLINE_CACHE_FILES);
+            }),
+            caches.open(CACHE_VERSIONS.notFound).then((cache) => {
+                return cache.addAll(NOT_FOUND_CACHE_FILES);
+            }),
+        ]).then(() => {
+            return self.skipWaiting();
+        });
+    } catch (exception) {
+        console.error(exception);
+    }
 }
 
 /**
@@ -292,7 +304,7 @@ self.addEventListener('fetch', (event) => {
                     }
                 })
                 .catch((error) => {
-                    console.error('  Error in fetch handler:', error);
+                    console.error('Error in fetch handler:', error);
                     throw error;
                 });
         })
