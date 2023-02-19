@@ -1,1 +1,1 @@
-var scrollSelectedTimelineItemIntoView=function(g,e,f){var a,b,d,c=document.getElementById(f);c&&(a=c.clientWidth,b=g/e,b>.35&&(d=b<.7?a*b:a+a/2,c.scrollBy({top:0,left:d,behavior:"smooth"})))}
+var scrollSelectedTimelineItemIntoView=function(e,t,n){var s,o,a,i=document.getElementById(n);i&&(s=i.clientWidth,o=e/t,o>.35&&(a=o<.7?s*o:s+s/2,i.scrollBy({top:0,left:a,behavior:"smooth"})))}

@@ -1,1 +1,76 @@
-{"restaurants":[{"uid":"1175","name":"Samyan Food Legends","url":"/reisen/samyan-food-legends-im-mbk-center/","imageName":"","website":null,"address":"Phaya Thai Road 444, 10330 Pathum Wan, Bangkok, Thailand","lat":"13.734996597332717","lng":"100.52813786961809"},{"uid":"1176","name":"Phed Mark","url":"/reisen/phed-mark-in-bangkok/","imageName":"","website":null,"address":"Sukhumvit Road 928, 10110 Khet Khlong Toei, Bangkok, Thailand","lat":"13.720269713462987","lng":"100.58406616137948"},{"uid":"1177","name":"Jack's Bar","url":"/reisen/jacks-bar-in-bangkok/","imageName":"","website":null,"address":"Wat Suan Phlu Alley 62/1, 10500 Khet Bang Rak, Bangkok, Thailand","lat":"13.722368823712912","lng":"100.51357284076154"},{"uid":"1193","name":"Khao (Ekkamai Branch)","url":"/reisen/restaurant-khao-in-bangkok/","imageName":"","website":null,"address":"15 Ekkamai Road Soi 10, 10110 Khlongtun Nua, Bangkok, Thailand","lat":"13.729034029157361","lng":"100.58786130857898"}],"foodmarkets":[{"uid":"320","name":"Sukhumvit Soi 38 Foodmarket","url":"/reisen/sukhumvit-soi-38-foodmarket/","imageName":"","website":null,"address":"Sukhumvit Soi 38, 10110 Khlong Toei, Bangkok, Thailand","lat":"13.723676489403251","lng":"100.578980777726"},{"uid":"1194","name":"Chinatown","url":"/reisen/unterwegs-in-bangkoks-chinatown/","imageName":"","website":null,"address":"Yaowarat Road, 10110 Samphanthawong, Bangkok, Thailand","lat":"13.737175559350918","lng":"100.51296849802276"},{"uid":"1194","name":"Petchaburi Soi 5 Market","url":" /reisen/der-markt-in-der-petchaburi-soi-5/","imageName":"","website":null,"address":"Petchaburi Soi 5, 10400 Thung Phaya Thai, Bangkok, Thailand","lat":"13.754551751434315","lng":"100.52838404897811"}]}
+{
+    "restaurants": [
+        {
+            "uid": "1175",
+            "name": "Samyan Food Legends",
+            "url": "/reisen/samyan-food-legends-im-mbk-center/",
+            "imageName": "",
+            "website": null,
+            "address": "Phaya Thai Road 444, 10330 Pathum Wan, Bangkok, Thailand",
+            "lat": "13.734996597332717",
+            "lng": "100.52813786961809"
+        },
+        {
+            "uid": "1176",
+            "name": "Phed Mark",
+            "url": "/reisen/phed-mark-in-bangkok/",
+            "imageName": "",
+            "website": null,
+            "address": "Sukhumvit Road 928, 10110 Khet Khlong Toei, Bangkok, Thailand",
+            "lat": "13.720269713462987",
+            "lng": "100.58406616137948"
+        },
+        {
+            "uid": "1177",
+            "name": "Jack's Bar",
+            "url": "/reisen/jacks-bar-in-bangkok/",
+            "imageName": "",
+            "website": null,
+            "address": "Wat Suan Phlu Alley 62/1, 10500 Khet Bang Rak, Bangkok, Thailand",
+            "lat": "13.722368823712912",
+            "lng": "100.51357284076154"
+        },
+        {
+            "uid": "1193",
+            "name": "Khao (Ekkamai Branch)",
+            "url": "/reisen/restaurant-khao-in-bangkok/",
+            "imageName": "",
+            "website": null,
+            "address": "15 Ekkamai Road Soi 10, 10110 Khlongtun Nua, Bangkok, Thailand",
+            "lat": "13.729034029157361",
+            "lng": "100.58786130857898"
+        }
+    ],
+    "foodmarkets": [
+        {
+            "uid": "320",
+            "name": "Sukhumvit Soi 38 Foodmarket",
+            "url": "/reisen/sukhumvit-soi-38-foodmarket/",
+            "imageName": "",
+            "website": null,
+            "address": "Sukhumvit Soi 38, 10110 Khlong Toei, Bangkok, Thailand",
+            "lat": "13.723676489403251",
+            "lng": "100.578980777726"
+        },
+        {
+            "uid": "1194",
+            "name": "Chinatown",
+            "url": "/reisen/unterwegs-in-bangkoks-chinatown/",
+            "imageName": "",
+            "website": null,
+            "address": "Yaowarat Road, 10110 Samphanthawong, Bangkok, Thailand",
+            "lat": "13.737175559350918",
+            "lng": "100.51296849802276"
+        },
+        {
+            "uid": "1194",
+            "name": "Petchaburi Soi 5 Market",
+            "url": " /reisen/der-markt-in-der-petchaburi-soi-5/",
+            "imageName": "",
+            "website": null,
+            "address": "Petchaburi Soi 5, 10400 Thung Phaya Thai, Bangkok, Thailand",
+            "lat": "13.754551751434315",
+            "lng": "100.52838404897811"
+        }
+    ]
+}
