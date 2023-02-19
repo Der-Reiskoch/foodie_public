@@ -1,12 +1,1 @@
-{
-    "restaurants": {
-        "label": "restaurants",
-        "color": "#9acd32",
-        "icon": "restaurant"
-    },
-    "markets": {
-        "label": "markets",
-        "color": "#ff9900",
-        "icon": "restaurant"
-    }
-}
+{"restaurants":{"label":"restaurants","color":"#9acd32","icon":"restaurant"},"markets":{"label":"markets","color":"#ff9900","icon":"restaurant"}}
