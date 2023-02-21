@@ -47,7 +47,7 @@
         {
             "uid": "7",
             "type": "asia",
-            "name": "Takumi Ramenbar",
+            "name": "Takumi 1st Ramenbar",
             "url": "/restaurants/takumi-ramenbar-in-dusseldorf/",
             "imageName": "",
             "website": null,
@@ -65,6 +65,17 @@
             "address": "Klosterstraße 72, 40211 Düsseldorf, Deutschland",
             "lat": "51.2247",
             "lng": "6.78895"
+        },
+        {
+            "uid": "1224",
+            "type": "asia",
+            "name": "Eat Tokyo Immermann",
+            "url": "/restaurants/eat-tokyo-immermann-in-duesseldorf/",
+            "imageName": "",
+            "website": null,
+            "address": "Immermannstraße 40, 40211 Düsseldorf, Deutschland",
+            "lat": "51.22328608250225",
+            "lng": "6.7900315275937615"
         }
     ]
 }
