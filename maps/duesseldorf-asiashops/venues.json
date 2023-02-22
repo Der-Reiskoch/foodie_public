@@ -6,7 +6,7 @@
             "url": "/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf#daeyang",
             "imageName": "dae_yang.jpg",
             "website": null,
-            "address": "Immermannstraße 21, 40210 Düsseldorf, Deutschland",
+            "address": "Immermannstraße 21, 40210 Düsseldorf",
             "lat": "51.224",
             "lng": "6.78673"
         },
@@ -16,7 +16,7 @@
             "url": "/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf#hanaro",
             "imageName": "hanaro_markt.jpg",
             "website": null,
-            "address": "Immermannstraße 45C, 40210 Düsseldorf, Deutschland",
+            "address": "Immermannstraße 45C, 40210 Düsseldorf",
             "lat": "51.2226",
             "lng": "6.78947"
         },
@@ -26,17 +26,17 @@
             "url": "/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf#shokshiku",
             "imageName": "shochiku.jpg",
             "website": null,
-            "address": "Immermannstraße 15, 40210 Düsseldorf, Deutschland",
+            "address": "Immermannstraße 15, 40210 Düsseldorf",
             "lat": "51.2243",
             "lng": "6.78619"
         },
         {
             "uid": "16",
-            "name": "Tains",
-            "url": "/zutaten/shoppen-im-japanischen-viertel-in-dusseldorf#tains",
+            "name": "Tains Asiamarkt",
+            "url": "/zutaten/zu-besuch-bei-tains-in-duesseldorf/",
             "imageName": "tains.jpg",
             "website": null,
-            "address": "Immermannstraße 50-52, 40210 Düsseldorf, Deutschland",
+            "address": "Immermannstraße 50-52, 40210 Düsseldorf",
             "lat": "51.2226",
             "lng": "6.79089"
         }
