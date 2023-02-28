@@ -16,19 +16,19 @@ const BASE_CACHE_FILES = [
     '/svg/search-icon.svg',
     '/svg/search-icon-bold.svg',
     '/suchen/index.html',
-    '/css/styles_v2_1.css',
+    '/css/styles_v2_3.css',
 ];
 
 const OFFLINE_CACHE_FILES = [
     '/nicht-verbunden/index.html',
     '/img/offline.jpg',
-    '/css/styles_v2_1.css',
+    '/css/styles_v2_3.css',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
     '/nicht-gefunden/index.html',
     '/img/teller_leer.jpg',
-    '/css/styles_v2_1.css',
+    '/css/styles_v2_3.css',
 ];
 
 const OFFLINE_PAGE = '/nicht-verbunden/index.html';
