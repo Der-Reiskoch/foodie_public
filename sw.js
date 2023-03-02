@@ -3,32 +3,33 @@ const CACHE_VERSION = 1.1;
 const BASE_CACHE_FILES = [
     '/index.html',
     '/index.json',
-    '/manifest.json',
+    '/site.webmanifest',
     '/favicon.ico',
-    '/img/avatar.jpg',
-    '/img/logo.svg',
+    '/img/avatar/avatar.jpg',
     '/img/lazy-loading.png',
+    '/img/not-found.png',
     '/img/header-background.jpg',
     '/fonts/open-sans-v26-latin-700.woff2',
     '/fonts/open-sans-v26-latin-regular.woff2',
     '/fonts/open-sans-v26-latin-italic.woff2',
+    '/svg/logo/logo.svg',
     '/svg/sprites/meta-sprite.svg',
     '/svg/search-icon.svg',
     '/svg/search-icon-bold.svg',
     '/suchen/index.html',
-    '/css/styles_v2_3.css',
+    '/css/styles_v2_4.css',
 ];
 
 const OFFLINE_CACHE_FILES = [
     '/nicht-verbunden/index.html',
     '/img/offline.jpg',
-    '/css/styles_v2_3.css',
+    '/css/styles_v2_4.css',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
     '/nicht-gefunden/index.html',
     '/img/teller_leer.jpg',
-    '/css/styles_v2_3.css',
+    '/css/styles_v2_4.css',
 ];
 
 const OFFLINE_PAGE = '/nicht-verbunden/index.html';
