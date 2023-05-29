@@ -1,0 +1,36 @@
+(()=>{var v="https://bebildere-den.reisko.ch",y="Leider nichts gefunden";var d={"asia shop":"asial\xE4den",asiashop:"asial\xE4den",banoi:"ban\xF4i",bittermelone:"bittergurke",bombai:"bombay",broccoli:"brokkoli",burma:"myanmar",coconut:"kokosnuss",currygericht:"curry","curry paste":"currypaste",enokipilze:"enoki",entensalat:"larb ped","fak thong":"fak tong",faschiertes:"hackfleisch",fingerwurz:"krachai",fischsauce:"fischso\xDFe",fishsauce:"fischso\xDFe",fisolen:"bohnen",fondue:"hotpot","fried rice":"khao pad",gambas:"garnelen",gaprau:"kra pao","ga prau":"kra pao",geang:"gaeng",g\u00E4ng:"gaeng",gem\u00FCsecurry:"curry",gew\u00FCrzst\u00E4nder:"gew\xFCrzkarussel",grapau:"kra pao","gra pau":"kra pao",gung:"goong",gochuyang:"gochujang","hot pot":"hotpot",huad:"lao pot","hang lay":"hang lea","hung lay":"hang lea",kai:"khai",kanom:"khanom",karlrsruhe:"karlsruhe","ka prao":"kra pao","konjak nudeln":"shirataki",krapao:"kra pao",krapau:"kra pao",krapow:"kra pao",laab:"larb",ladna:"rad na","la lot":"l\xE1 l\u1ED1t",laphet:"lahpet",larp:"larb",masaman:"massaman",massamann:"massaman",mexico:"mexikanisch","mii ":"mee",muu:"moo","moo krob":"moo grob",namtok:"nam tok",normai:"nor mai",n\u00FCa:"nuea",nuae:"nuea",obergin:"aubergin",orlam:"or lam",padthai:"pad thai","pak choy":"pak choi",pakchoy:"pak choi",pakchoi:"pak choi",palabog:"palabok",panang:"panaeng",pan\u00E4ng:"panaeng",paneng:"panaeng","papaya salat":"som tam","peking ente":"pekingente",phet:"phed",pla:"plaa","plaa muk":"plaa muek","plaa m\xFCk":"plaa muek",radna:"rad na","rat na":"rad na",ratna:"rad na",reisnudeln:"nudeln",rheinwok:"rhein wok","rice cake":"tteokbokki",schabu:"shabu",shakshouka:"shakshuka",szechuan:"sichuan",somtam:"som tam",sojasprosse:"mungbohnensprosse",soya:"soja",squid:"tintenfisch",teesalat:"lahpet","thai park":"thaiwiese",thaipark:"thaiwiese",thalee:"talee","tom kah":"tom kha",woonsen:"woon sen","yam nuea sap":"larb nuea",yamwoon:"yam woon",yum:"yam"};var _={die:{url:"/dies-und-das/",display:"Dies und das"},get:{url:"/getranke/",display:"Getr\xE4nke"},ins:{url:"/insirationen/",display:"Inspirationen"},mit:{url:"/mittagspause/",display:"Mittagspause"},aus:{url:"/ausprobiert/",display:"Ausprobiert"},rei:{url:"/reisen/",display:"Reisen"},res:{url:"/restaurants/",display:"Restaurants"},rez:{url:"/rezepte/",display:"Rezepte"},ute:{url:"/utensilien/",display:"Utensilien"},zut:{url:"/zutaten/",display:"Zutaten"}};var J=`<img
+    src="/svg/sprites/meta-sprite.svg#author"
+    alt="Jens"
+    title="Jens"
+    class="meta__icon icon-author"
+    width="18"
+    height="18"
+/>`,K=`<img
+    src="/svg/sprites/meta-sprite.svg#category"
+    alt="Kategorie"
+    title="Kategorie"
+    class="meta__icon icon-category"
+    width="18"
+    height="18"
+/>`,F=`<img
+    src="/svg/sprites/meta-sprite.svg#date"
+    alt="Datum"
+    title="Datum"
+    class="meta__icon icon-date"
+    width="18"
+    height="18"
+/>`,G={author:J,category:K,time:F},u=G;function N(e,a){let t={url:"",display:""};return a.hasOwnProperty(e)&&(t=a[e]),t}var b=N;function Q(e){var a="";if(e){let t=b(e.toLowerCase(),_);t.url!==""&&t.display!==""&&(a=`<div class="meta__item-categories meta__item">${u.category}<span class="meta__text"><a class="meta__link" href="${t.url}" rel="category" title="Kategorie ${t.display}">${t.display}</a>
+                    </span></div>`)}return a}var x=Q;function V(e,a,t,r){var n=r&&r.toLowerCase()==="ins"&&(e.indexOf("blogs")>-1||e.indexOf("videos")>-1||e.indexOf("gruppen"))?"image__flat js-lazy-img":"js-lazy-img";return`<figure class="list__thumbnail">
+    <a href="${e}" tabindex="-1"><img src="/img/lazy-loading.png" data-src="${a}" alt="${t}" title="${t}" class="${n}" /></a>
+    </figure>`}var w=V;function X(){var e=`<div class="list__meta meta"><div class="meta__item-author meta__item">${u.author}<span class="meta__text"><a class="meta__link" href="/info/ueber-mich/">Jens</a></span></div>`;return e}var $=X;var Z="01.01.0001";function W(e){let t=e!==Z?e:"05.01.2021";return`<div class="meta__item-datetime meta__item">${u.time}<time class="meta__text" datetime="">${t}</time></div>`}var z=W;function Y(e,a,t,r,n){return`<header class="list__header">    
+    <h2 class="list__title post__title ">
+    <a href="${a}">${e}</a>
+    </h2>
+    ${t}
+    ${r}
+    ${n}
+    </header>`}var I=Y;function ee(e){var a="";return e&&(a=`<div class="content list__excerpt post__content clearfix">${e}</div>`),a}var L=ee;function ae(e,a){return`<div class="list__content">
+    ${e}${a}
+    </div>`}var S=ae;var te=function(e,a){let t="";return e&&a&&(t=`<div class="list__item post">
+        ${e}${a}
+        </div>`),t},A=te;var re=function(e){e.hasAttribute("data-src")&&e.hasAttribute("data-src")!==""&&(e.src=e.dataset.src,e.removeAttribute("data-src"))},m=re;var se=function(e){var a=e.querySelector("img"),t=e.querySelectorAll("source");t.forEach(r=>{r.srcset=r.dataset.srcset,r.removeAttribute("data-srcset")}),m(a)},T=se;var ne=function(){for(var e=document.querySelectorAll(".js-lazy-img"),a=0;a<e.length;a++){var t=e[a];m(t)}if(window.IntersectionObserver){var r=function(s,h){s.forEach(c=>{c.isIntersecting&&(T(c.target),h.unobserve(c.target))})},n=new IntersectionObserver(r,{rootMargin:"0px 0px 420px 0px"});document.querySelectorAll(".js-lazy-modern-img").forEach(s=>{n.observe(s)});var i=new IntersectionObserver(r,{rootMargin:"0px 0px 220px 0px"});document.querySelectorAll(".js-summary-lazy-modern-img").forEach(s=>{i.observe(s)})}},g=ne;var f,o,p,l=null,E=[],oe=v,ie=20;function j(e){var a=p.value,t=0;if(e.length>0){l.innerHTML="";let r="";e.forEach(n=>{var i=n.ref;if((a==="alle"||i.indexOf("/"+a+"/")>-1)&&t++<=ie){var s=E[n.ref];let h=w(i,oe+s.image,s.title,s.category),c=$(),C=z(s.date),H=x(s.category),O=I(s.title,i,c,C,H),R=L(s.summary),D=S(O,R),U=A(h,D);r+=U}}),l.innerHTML=r,g!==void 0&&g()}t===0&&(l.innerHTML='<p class="search__no-results">'+y+"</p>")}function M(e){var a=e?e.toLowerCase():"",t=new RegExp(Object.keys(d).join("|"),"gi");a=a.replace(t,function(n){return d[n]});var r=a.length<5?"*":"~0.2";return a=a+r,a}function le(){var e=window.location.search;if(e&&URLSearchParams!==void 0){var a=new URLSearchParams(e),t="",r="";if(a.has("q")&&(t=a.get("q"),o.value=t),a.has("s")&&(r=a.get("s"),p.value=r),t){var n=f.search(M(t));j(n)}}}function ue(){le(),o.onkeyup=function(){var e=o.value;if(p.value==="id")e!==""&&typeof!isNaN(e)&&e.length===4?document.location.href="/suchen/id/?e="+parseInt(e,10):l.innerHTML="Bitte vierstellige ID eingeben (z.B. 0333)";else if(e!==""&&e.length>=3){var a=f.search(M(e));j(a)}else l.innerHTML=""},o.focus(),o.placeholder=""}function ce(){return!!window.navigator.userAgent.match(/iPad|iPhone/i)}function me(e){ce()&&e.classList.add("has-focus")}function pe(){o=document.getElementById("search-input"),p=document.getElementById("search-sections"),l=document.getElementById("search-results"),o&&me(o),fetch("/index.json",{method:"get"}).then(e=>e.json()).then(e=>{f=lunr(function(){this.ref("u"),this.field("t",{boost:20}),this.field("s",{boost:10}),this.field("ts"),e.forEach(function(a){this.add(a),E[a.u]={title:a.t,summary:a.s,date:a.d,tags:a.t,category:a.c,image:a.i}},this)}),ue()}).catch(e=>{l.innerHTML=`<p>${e}</p>`})}window.addEventListener("load",function(){pe()});})();
