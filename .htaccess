@@ -40,33 +40,33 @@ RewriteRule ^zutaten/einkaufen/(.*) /zutaten/ [L,R=301]
 
 
 RewriteCond %{THE_REQUEST} ^GET\ /thaipause/fotos/
-RewriteRule ^thaipause/fotos/(.*) /kurz-und-gut/thaipause/$1 [L,R=301]
+RewriteRule ^thaipause/fotos/(.*) /tagebuch/thaipause/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /inspirationen/vlogs/
 RewriteRule ^inspirationen/vlogs/(.*) /inspirationen/videos/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /fotoalbum/
-RewriteRule ^fotoalbum/(.*) /kurz-und-gut/foodie/$1 [L,R=301]
+RewriteRule ^fotoalbum/(.*) /tagebuch/foodie/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /thaifood/fotos/
-RewriteRule ^thaifood/fotos/(.*) /kurz-und-gut/thaifood/$1 [L,R=301]
+RewriteRule ^thaifood/fotos/(.*) /tagebuch/thaifood/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /thaifood/
-RewriteRule ^thaifood /kurz-und-gut/thaifood [L,R=301]
+RewriteRule ^thaifood /tagebuch/thaifood [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /thaipause/fotos/
-RewriteRule ^thaipause/fotos/(.*) /kurz-und-gut/thaipause/$1 [L,R=301]
+RewriteRule ^thaipause/fotos/(.*) /tagebuch/thaipause/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /thaipause/
-RewriteRule ^thaipause /kurz-und-gut/thaipause [L,R=301]
+RewriteRule ^thaipause /tagebuch/thaipause [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /mittagspause/fotos/
-RewriteRule ^mittagspause/fotos/(.*) /kurz-und-gut/mittagspause/$1 [L,R=301]
+RewriteRule ^mittagspause/fotos/(.*) /tagebuch/mittagspause/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /mittagspause/
-RewriteRule ^mittagspause /kurz-und-gut/mittagspause [L,R=301]
+RewriteRule ^mittagspause /tagebuch/mittagspause [L,R=301]
 
-#https://der.reisko.ch/thaipause/kurz-und-gut/2021/10/25/?fbclid=IwAR2podBLMAIkhlREuBv6cbjDJ8hXazuK60LH05pIvYezjZGVLWg_8AH4TI4
+#https://der.reisko.ch/thaipause/tagebuch/2021/10/25/?fbclid=IwAR2podBLMAIkhlREuBv6cbjDJ8hXazuK60LH05pIvYezjZGVLWg_8AH4TI4
 #remove facebook fbclid qeuery param
 RewriteCond %{QUERY_STRING} ^(.*?)(&?fbclid=[a-zA-Z0-9_-]+)$
 RewriteRule ^(.*)$ /$1?%1 [L,NE,R=301]
