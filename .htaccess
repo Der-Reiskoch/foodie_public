@@ -38,6 +38,8 @@ RewriteRule ^fluessiges /getranke/ [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /zutaten/einkaufen
 RewriteRule ^zutaten/einkaufen/(.*) /zutaten/ [L,R=301]
 
+RewriteCond %{THE_REQUEST} ^GET\ /kurz-und-gut/
+RewriteRule ^kurz-und-gut/(.*) /tagebuch/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /thaipause/fotos/
 RewriteRule ^thaipause/fotos/(.*) /tagebuch/thaipause/$1 [L,R=301]
