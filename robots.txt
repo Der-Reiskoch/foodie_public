@@ -19,4 +19,4 @@ Disallow: /zufallsrezept/
 Disallow: /instagram/
 Disallow: /system/
 
-Sitemap: https://der.reisko.ch/sitemap.xml
+Sitemap: https://www.der-reiskoch.de/sitemap.xml

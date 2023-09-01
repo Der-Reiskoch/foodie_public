@@ -1,7 +1,7 @@
 RewriteEngine on
 
-RewriteCond %{HTTP_HOST} !^der.reisko.ch$
-RewriteRule ^(.*)$ https://der.reisko.ch/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} !^www.der-reiskoch.de$
+RewriteRule ^(.*)$ https://www.der-reiskoch.de/$1 [R=301,L]
 
 RewriteRule ^([0-9]+) /suchen/id/?e=$1 [L,R=301]
 
@@ -68,7 +68,7 @@ RewriteRule ^mittagspause/fotos/(.*) /tagebuch/mittagspause/$1 [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /mittagspause/
 RewriteRule ^mittagspause /tagebuch/mittagspause [L,R=301]
 
-#https://der.reisko.ch/thaipause/tagebuch/2021/10/25/?fbclid=IwAR2podBLMAIkhlREuBv6cbjDJ8hXazuK60LH05pIvYezjZGVLWg_8AH4TI4
+#https://www.der-reiskoch.de/thaipause/tagebuch/2021/10/25/?fbclid=IwAR2podBLMAIkhlREuBv6cbjDJ8hXazuK60LH05pIvYezjZGVLWg_8AH4TI4
 #remove facebook fbclid qeuery param
 RewriteCond %{QUERY_STRING} ^(.*?)(&?fbclid=[a-zA-Z0-9_-]+)$
 RewriteRule ^(.*)$ /$1?%1 [L,NE,R=301]

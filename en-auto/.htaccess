@@ -1,5 +1,4 @@
 <IfModule mod_rewrite.c>
-  RewriteEngine On
-  RewriteCond %{HTTP_HOST} ^der.reisko.ch$
-  RewriteRule (.*)$ https://der.reisko.ch/$1?lang=en [R=301,L,QSA]
+    RewriteEngine On RewriteCond %{HTTP_HOST} ^www.der-reiskoch.de$ RewriteRule
+    (.*)$ https://www.der-reiskoch.de/$1?lang=en [R=301,L,QSA]
 </IfModule>
