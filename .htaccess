@@ -1,6 +1,7 @@
 RewriteEngine on
 
 RewriteCond %{HTTP_HOST} !^www.der-reiskoch.de$
+RewriteCond %{REQUEST_URI} !^\/ads\.txt$
 RewriteRule ^(.*)$ https://www.der-reiskoch.de/$1 [R=301,L]
 
 RewriteRule ^([0-9]+) /suchen/id/?e=$1 [L,R=301]
