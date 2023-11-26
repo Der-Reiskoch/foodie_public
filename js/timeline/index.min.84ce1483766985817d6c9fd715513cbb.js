@@ -1,1 +1,0 @@
-var scrollSelectedTimelineItemIntoView=function(e){var t=document.getElementById(e);if(t){const e=t.querySelector('[aria-selected="true"]');e&&e.scrollIntoView({behavior:"smooth",block:"nearest",inline:"center"})}}
