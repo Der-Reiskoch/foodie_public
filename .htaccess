@@ -43,31 +43,43 @@ RewriteCond %{THE_REQUEST} ^GET\ /kurz-und-gut/
 RewriteRule ^kurz-und-gut/(.*) /tagebuch/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /thaipause/fotos/
-RewriteRule ^thaipause/fotos/(.*) /tagebuch/thaipause/$1 [L,R=301]
+RewriteRule ^thaipause/fotos/(.*) /tagebuch/ [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /inspirationen/vlogs/
 RewriteRule ^inspirationen/vlogs/(.*) /inspirationen/videos/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /fotoalbum/
-RewriteRule ^fotoalbum/(.*) /tagebuch/foodie/$1 [L,R=301]
+RewriteRule ^fotoalbum/(.*) /tagebuch/ [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /tagebuch/foodie/
+RewriteRule ^tagebuch/foodie/(.*) /tagebuch/ [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /thaifood/fotos/
-RewriteRule ^thaifood/fotos/(.*) /tagebuch/thaifood/$1 [L,R=301]
+RewriteRule ^thaifood/fotos/(.*) /tagebuch/ [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /thaifood/
-RewriteRule ^thaifood /tagebuch/thaifood [L,R=301]
+RewriteRule ^thaifood /tagebuch/ [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /tagebuch/thaifood/
+RewriteRule ^tagebuch/thaifood/(.*) /tagebuch/ [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /thaipause/fotos/
-RewriteRule ^thaipause/fotos/(.*) /tagebuch/thaipause/$1 [L,R=301]
+RewriteRule ^thaipause/fotos/(.*) /tagebuch/ [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /thaipause/
-RewriteRule ^thaipause /tagebuch/thaipause [L,R=301]
+RewriteRule ^thaipause /tagebuch/ [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /tagebuch/thaipause/
+RewriteRule ^tagebuch/thaipause/(.*) /tagebuch/ [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /mittagspause/fotos/
-RewriteRule ^mittagspause/fotos/(.*) /tagebuch/mittagspause/$1 [L,R=301]
+RewriteRule ^mittagspause/fotos/(.*) /tagebuch/ [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /mittagspause/
-RewriteRule ^mittagspause /tagebuch/mittagspause [L,R=301]
+RewriteRule ^mittagspause /tagebuch/ [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /tagebuch/mittagspause/
+RewriteRule ^tagebuch/mittagspause/(.*) /tagebuch/ [L,R=301]
 
 #https://www.der-reiskoch.de/thaipause/tagebuch/2021/10/25/?fbclid=IwAR2podBLMAIkhlREuBv6cbjDJ8hXazuK60LH05pIvYezjZGVLWg_8AH4TI4
 #remove facebook fbclid qeuery param
