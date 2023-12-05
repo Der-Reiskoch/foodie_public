@@ -18,6 +18,5 @@ Disallow: /zufall/
 Disallow: /zufallsrezept/
 Disallow: /instagram/
 Disallow: /system/
-Disallow: /tagebuch/page/
 
 Sitemap: https://www.der-reiskoch.de/sitemap.xml
