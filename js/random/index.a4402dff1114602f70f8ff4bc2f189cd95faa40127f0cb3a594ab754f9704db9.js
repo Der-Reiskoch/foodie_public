@@ -1,0 +1,1 @@
+(()=>{var a=()=>{fetch("/index.json",{method:"get"}).then(o=>o.json()).then(o=>{let t=o.length-1,n=Math.floor(Math.random()*t)+1;if(n<=t){let e=o[n];e&&(window.location.href=e.u)}}).catch(o=>{console.error(o)})},m=a;m();})();
