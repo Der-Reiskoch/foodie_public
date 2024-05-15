@@ -1,0 +1,7 @@
+# These are supported funding model platforms
+
+custom:
+    [
+        'https://kurz.der-reiskoch.de/steadyMe',
+        'https://kurz.der-reiskoch.de/paypalMe',
+    ]
