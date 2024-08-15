@@ -1,0 +1,7 @@
+@import url(ubuntu/ubuntu.css);
+@import url(montserrat/montserrat.css);
+
+:root {
+  --khao-ref-typeface-default: Ubuntu;
+  --khao-ref-typeface-secondary: Montserrat;
+}
