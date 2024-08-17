@@ -27,4 +27,24 @@
   /* Outline */
   --khao-sys-color-outline: var(--khao-ref-palette-neutral50);
   --khao-sys-color-outline-variant: var(--khao-ref-palette-neutral80);
+
+  /* Neutral (Greys) */
+  --khao-sys-color-neutral10: var(--khao-ref-palette-neutral10);
+  --khao-sys-color-neutral30: var(--khao-ref-palette-neutral30);
+  --khao-sys-color-neutral50: var(--khao-ref-palette-neutral50);
+  --khao-sys-color-neutral80: var(--khao-ref-palette-neutral80);
+  --khao-sys-color-neutral100: var(--khao-ref-palette-neutral100);
+
+  /* Static */
+  --khao-sys-static-color-green: var(--khao-ref-palette-green-light);
+  --khao-sys-static-color-on-green: var(--khao-ref-palette-black);
+
+  --khao-sys-static-color-red: var(--khao-ref-palette-red);
+  --khao-sys-static-color-on-red: var(--khao-ref-palette-white);
+
+  --khao-sys-static-color-white: var(--khao-ref-palette-white);
+  --khao-sys-static-color-on-white: var(--khao-ref-palette-black);
+
+  --khao-sys-static-color-black: var(--khao-ref-palette-black);
+  --khao-sys-static-color-on-black: var(--khao-ref-palette-white);
 }
