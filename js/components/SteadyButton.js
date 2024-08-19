@@ -1,4 +1,4 @@
-import{c as h,S as c,i as L,f as r,s as g,a as f,e as b,q as u,d as s,j as v,k as l,n as d,o as k}from"./index.js";function m(C){f(C,"svelte-n7d0fi",`.button.svelte-n7d0fi{appearance:none;background:transparent;border:none;cursor:pointer;flex-grow:0;flex-shrink:0;font:inherit;padding:0;user-select:none;&:focus {
+import{c as h,S as c,i as L,f as r,s as g,a as f,e as b,z as u,d as s,g as v,h as l,x as d,n as k}from"./index.js";function m(C){f(C,"svelte-n7d0fi",`.button.svelte-n7d0fi{appearance:none;background:transparent;border:none;cursor:pointer;flex-grow:0;flex-shrink:0;font:inherit;padding:0;user-select:none;&:focus {
     outline: none !important;
   }}:host{--khao-button-steady-height:var(--khao-sys-size-regular-10);--khao-button-steady-container-shape:var(--khao-sys-shape-corner-medium);--khao-button-steady-width:130px;--khao-button-steady-background:linear-gradient(
       134deg,
