@@ -24,7 +24,7 @@
         <a class="list-thumbnail-link" href="${t}">
             <khao-image
                 src="${e}"
-                lazyloadSrc="/img/lazy-loading.png"
+                lazyloading="true"
                 title="${s}"
                 webp="true"
                 type="${n}"
