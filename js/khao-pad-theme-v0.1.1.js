@@ -1,9 +1,15 @@
-const loadKhaoUi = (id, version) => {
+let KHAO_UI_VERSION = "";
+
+const initKhaoUi = (version) => {
+  KHAO_UI_VERSION = version;
+};
+
+const loadKhaoUi = (id) => {
   const scripts = Array.from(document.querySelectorAll("script")).map(
     (scr) => scr.src
   );
 
-  const scriptPath = `/js/khao-ui-${id}-${version}.js`;
+  const scriptPath = `/js/khao-ui-${id}-${KHAO_UI_VERSION}.js`;
 
   if (!scripts.includes(scriptPath)) {
     var tag = document.createElement("script");
