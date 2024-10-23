@@ -1,4 +1,4 @@
-import{c as g,S as m,i as w,f as b,s as x,a as _,e as v,t as q,b as B,q as y,d as a,j as I,k as r,m as P,n as f,o as H}from"./svelte-chunk-D2PBfAEv.js";function Z(o){_(o,"svelte-ukqkl3",`.button.svelte-ukqkl3{appearance:none;background:transparent;border:none;cursor:pointer;flex-grow:0;flex-shrink:0;font:inherit;padding:0;user-select:none;&:focus {
+import{c as g,S as m,i as w,f as b,s as x,a as _,e as v,t as q,b as B,q as y,d as a,j as I,k as r,m as P,n as f,o as H}from"./svelte-chunk-vhzq62JZ.js";function Z(o){_(o,"svelte-ukqkl3",`.button.svelte-ukqkl3{appearance:none;background:transparent;border:none;cursor:pointer;flex-grow:0;flex-shrink:0;font:inherit;padding:0;user-select:none;&:focus {
     outline: none !important;
   }}:host{--khao-button-paypal-height:var(--khao-sys-size-regular-10);--khao-button-paypal-container-shape:var(--khao-sys-shape-corner-medium);--khao-button-paypal-container-color:rgb(255, 209, 64);--khao-button-paypal-state-layer-color:rgb(0, 0, 0);--khao-button-paypal-width:130px;--khao-button-paypal-hover-state-layer-opacity:var(
       --khao-sys-state-hover-state-layer-opacity

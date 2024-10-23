@@ -5,17 +5,16 @@ const initKhaoUi = (version) => {
 };
 
 const loadKhaoUi = (id) => {
-  const scripts = Array.from(document.querySelectorAll("script")).map(
-    (scr) => scr.src
-  );
-
   const scriptPath = `/js/khao-ui-${id}-${KHAO_UI_VERSION}.js`;
+  const scriptId = `js-khao-ui-${id}`;
 
-  if (!scripts.includes(scriptPath)) {
+  if (!document.getElementById(scriptId)) {
     var tag = document.createElement("script");
     tag.type = "module";
+    tag.id = scriptId;
     tag.src = scriptPath;
-    document.getElementsByTagName("head")[0].appendChild(tag);
-    console.log(`added module ${scriptPath}`);
+    document.getElementsByTagName("body")[0].appendChild(tag);
+
+    console.info(`loaded module khao-ui-${id}`);
   }
 };
