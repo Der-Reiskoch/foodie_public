@@ -1,22 +1,18 @@
 User-agent: *
 
-Disallow: /alt/
 Disallow: /nicht-gefunden/
-Disallow: /offline/
+Disallow: /nicht-verbunden/
 Disallow: /aktuell/
-Disallow: /feed/
+Disallow: /suchen/aktuell/
+Disallow: /index.xml
 Disallow: /info/datenschutz/
 Disallow: /info/impressum/
-Disallow: /karlsmag/
 Disallow: /__l__/
 Disallow: /__cl__/
 Disallow: /karten/
-Disallow: /speisekarten/
 Disallow: /suchen/
-Disallow: /categories/
 Disallow: /zufall/
-Disallow: /zufallsrezept/
-Disallow: /instagram/
+Disallow: /bio-link/
 Disallow: /system/
 
 Sitemap: https://www.der-reiskoch.de/sitemap.xml
