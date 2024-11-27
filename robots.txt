@@ -1,18 +1,20 @@
 User-agent: *
 
-Disallow: /nicht-gefunden/
-Disallow: /nicht-verbunden/
-Disallow: /aktuell/
-Disallow: /suchen/aktuell/
-Disallow: /index.xml
+
+Disallow: /karten/
 Disallow: /info/datenschutz/
 Disallow: /info/impressum/
-Disallow: /__l__/
-Disallow: /__cl__/
-Disallow: /karten/
 Disallow: /suchen/
-Disallow: /zufall/
+Disallow: /suchen/zufall/
+Disallow: /suchen/aktuell/
 Disallow: /bio-link/
+Disallow: /system/newsletter-confirm/
+Disallow: /system/newsletter-thank-you/
+Disallow: /nicht-verbunden/
+Disallow: /nicht-gefunden/
+Disallow: /__cl__/
+Disallow: /__l__/
 Disallow: /system/
+Disallow: /link/
 
 Sitemap: https://www.der-reiskoch.de/sitemap.xml
