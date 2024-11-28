@@ -2,8 +2,6 @@ User-agent: *
 
 
 Disallow: /karten/
-Disallow: /info/datenschutz/
-Disallow: /info/impressum/
 Disallow: /suchen/
 Disallow: /suchen/zufall/
 Disallow: /suchen/aktuell/
