@@ -16,5 +16,6 @@ Disallow: /__cl__/
 Disallow: /__l__/
 Disallow: /system/
 Disallow: /link/
+Disallow: /index.xml
 
 Sitemap: https://www.der-reiskoch.de/sitemap.xml
