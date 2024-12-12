@@ -1,9 +1,11 @@
 User-agent: *
 
 
+Disallow: /info/datenschutz/
 Disallow: /amazon-listen/
 Disallow: /amazon-listen/asiatische-kochbuecher/
 Disallow: /amazon-listen/asiatische-kochutensilien/
+Disallow: /info/impressum/
 Disallow: /suchen/
 Disallow: /suchen/zufall/
 Disallow: /suchen/aktuell/
