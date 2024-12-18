@@ -14,7 +14,6 @@ Disallow: /system/newsletter-confirm/
 Disallow: /system/newsletter-thank-you/
 Disallow: /nicht-verbunden/
 Disallow: /nicht-gefunden/
-Disallow: /suchen/uebersicht-nach-landeskuechen/
 Disallow: /__cl__/
 Disallow: /__l__/
 Disallow: /system/
