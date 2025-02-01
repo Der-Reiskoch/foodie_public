@@ -2,9 +2,7 @@ User-agent: *
 
 
 Disallow: /info/datenschutz/
-Disallow: /thai-festivals/archiv/2024/
 Disallow: /amazon-listen/
-Disallow: /thai-festivals/archiv/2023/
 Disallow: /info/impressum/
 Disallow: /suchen/
 Disallow: /suchen/zufall/
