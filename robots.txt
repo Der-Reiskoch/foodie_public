@@ -14,6 +14,7 @@ Disallow: /system/newsletter-confirm/
 Disallow: /system/newsletter-thank-you/
 Disallow: /nicht-verbunden/
 Disallow: /nicht-gefunden/
+Disallow: /inspirationen/videos/
 Disallow: /inspirationen/gruppen/
 Disallow: /inspirationen/blogs/
 Disallow: /inspirationen/websites/
