@@ -1,6 +1,5 @@
 User-agent: *
 
-
 Disallow: /tagebuch/
 Disallow: /tagebuch/2025-02/
 Disallow: /tagebuch/2025-01/
@@ -145,6 +144,22 @@ Disallow: /__cl__/
 Disallow: /__l__/
 Disallow: /system/
 Disallow: /link/
+Disallow: /en/diary/
+Disallow: /en/diary/diary-2025-02/
+Disallow: /en/diary/diary-2025-01/
+Disallow: /en/diary/diary-2024-12/
+Disallow: /en/diary/diary-2024-11/
+Disallow: /en/diary/diary-2024-10/
+Disallow: /en/diary/diary-2024-09/
+Disallow: /en/diary/diary-2024-08/
+Disallow: /en/diary/diary-2024-07/
+Disallow: /en/diary/diary-2024-06/
+Disallow: /en/diary/diary-2024-05/
+Disallow: /en/diary/diary-2024-04/
+Disallow: /en/diary/diary-2024-03/
+Disallow: /en/diary/diary-2024-02/
+Disallow: /en/diary/diary-2024-01/
+Disallow: /en/diary/diary-2023-12/
 Disallow: /index.xml
 
 Sitemap: https://www.der-reiskoch.de/sitemap.xml
