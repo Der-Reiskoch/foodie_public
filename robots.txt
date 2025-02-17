@@ -140,6 +140,7 @@ Disallow: /inspirationen/videos/
 Disallow: /inspirationen/gruppen/
 Disallow: /inspirationen/blogs/
 Disallow: /inspirationen/websites/
+Disallow: /ahaan-thai-laden/
 Disallow: /__cl__/
 Disallow: /__l__/
 Disallow: /system/
