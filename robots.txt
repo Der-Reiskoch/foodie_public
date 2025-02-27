@@ -146,7 +146,6 @@ Disallow: /__l__/
 Disallow: /system/
 Disallow: /link/
 Disallow: /en/diary/
-Disallow: /en/diary/diary-2025-02/
 Disallow: /en/diary/diary-2025-01/
 Disallow: /en/diary/diary-2024-12/
 Disallow: /en/diary/diary-2024-11/
