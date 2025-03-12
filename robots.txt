@@ -21,7 +21,6 @@ Disallow: /tagebuch/2024-02/
 Disallow: /tagebuch/2024-01/
 Disallow: /tagebuch/2023-12/
 Disallow: /empfehlungen/
-Disallow: /empfehlungen/produkte-von-yak-thai/
 Disallow: /tagebuch/2023-11/
 Disallow: /tagebuch/2023-10/
 Disallow: /tagebuch/2023-09/
