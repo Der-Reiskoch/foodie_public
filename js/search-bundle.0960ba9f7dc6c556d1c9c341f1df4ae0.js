@@ -16,7 +16,7 @@
         ${r}
         ${n}
     </div>
-    </header>`,X=tt;var st=(t,e=!1)=>{let s="";return t&&(s=`<div class="centered-flex-col ${e?"search__no-results":""}">${t}</div>`),s},O=st;var rt=t=>{let e="";return t&&(e=`<div class="content summary-excerpt post__content">${t}</div>`),e},Z=rt;var nt=t=>{let e="";if(t){let s=t.split(" "),r="";s.forEach(n=>{let a=`/tags/${at(n)}/`;r+=`
+    </header>`,X=tt;var st=(t,e=!1)=>{let s="";return t&&(s=`<div class="centered-flex-col centered-text ${e?"search__no-results":""}">${t}</div>`),s},O=st;var rt=t=>{let e="";return t&&(e=`<div class="content summary-excerpt post__content">${t}</div>`),e},Z=rt;var nt=t=>{let e="";if(t){let s=t.split(" "),r="";s.forEach(n=>{let a=`/tags/${at(n)}/`;r+=`
             <khao-chip href="${a}" rel="tag"><span>${ot(n)}</span></khao-chip>
              `}),e=`<div class="summary-tags"><div class="tag-list">
                     ${r}
