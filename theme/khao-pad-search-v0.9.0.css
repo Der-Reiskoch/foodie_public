@@ -1,0 +1,1 @@
+.search-form{font-family:$font-family-primary;margin:0 auto 3rem;padding:1rem;background-color:var(--khao-sys-color-surface-container);box-shadow:var(--khao-sys-elevation-level1-shadow);border-radius:var(--khao-sys-shape-corner-medium);max-width:95%;border:1px solid var(--khao-sys-color-surface-container);--khao-formfield-min-width: 100%}
