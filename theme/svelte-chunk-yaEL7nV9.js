@@ -1,1 +1,0 @@
-import{u as s}from"./svelte-chunk-i5w7oQmI.js";import{a as l}from"./svelte-chunk-ekTI-Bhm.js";function m(t,r,u,o){var i=t.__style;if(l||i!==r){var e=s(r);(!l||e!==t.getAttribute("style"))&&(e==null?t.removeAttribute("style"):t.style.cssText=e),t.__style=r}return o}export{m as a};
