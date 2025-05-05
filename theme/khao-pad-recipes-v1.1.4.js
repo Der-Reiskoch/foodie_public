@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill.js";import"./khao-pad-wake-lock-switch-v1.1.4.js";import"./khao-ui-svelte-dispatchRemoteControlEvent-4.7.0.js";import"./khao-ui-svelte-style-4.7.0.js";import"./khao-ui-icon-4.7.0.js";console.log("[INFO] khao-recipes: empty module loaded");

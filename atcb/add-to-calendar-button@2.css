@@ -30,7 +30,7 @@
     --btn-background: var(--khao-sys-color-primary);
     --btn-hover-background: #6a8b22;
     --btn-border: 1px solig var(--khao-sys-color-primary);
-    --btn-border-radius: var(--khao-sys-shape-corner-medium);
+    --btn-border-radius: var(--khao-sys-shape-corner-small);
     --btn-padding-x: 0.5rem;
     --btn-padding-y: 0.6rem;
     --btn-font-weight: 600;
@@ -248,7 +248,8 @@
 }
 
 .atcb-button:focus-visible {
-    outline: 2px solid var(--accent-color);
+    outline: 2px solid var(--khao-sys-color-primary);
+    outline-offset: 2px;
 }
 
 .atcb-button:not([disabled]):focus,
