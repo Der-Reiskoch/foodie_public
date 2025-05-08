@@ -169,8 +169,6 @@ Disallow: /inspirationen/blogs/thaitable-von-natty-und-peter/
 Disallow: /inspirationen/blogs/the-high-heel-gourmet/
 Disallow: /inspirationen/blogs/the-woks-of-life/
 Disallow: /inspirationen/blogs/try-thai/
-Disallow: /__cl__/
-Disallow: /__l__/
 Disallow: /system/
 Disallow: /link/
 Disallow: /inspirationen/videos/yings-thai-cooking-home/
