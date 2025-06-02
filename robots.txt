@@ -1,6 +1,7 @@
 User-agent: *
 
 Disallow: /tagebuch/
+Disallow: /tagebuch/2025-06/
 Disallow: /tagebuch/2025-05/
 Disallow: /tagebuch/2025-04/
 Disallow: /tagebuch/2025-03/
@@ -173,6 +174,7 @@ Disallow: /system/
 Disallow: /link/
 Disallow: /inspirationen/videos/yings-thai-cooking-home/
 Disallow: /en/diary/
+Disallow: /en/diary/diary-2025-06/
 Disallow: /en/diary/diary-2025-05/
 Disallow: /en/diary/diary-2025-04/
 Disallow: /en/diary/diary-2025-03/
