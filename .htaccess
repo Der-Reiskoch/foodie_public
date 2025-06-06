@@ -8,19 +8,19 @@ RewriteRule ^([0-9]+) /suchen/id/?e=$1 [L,R=301]
 # Wissenswert ###########################################################################
 
 RewriteCond %{THE_REQUEST} ^GET\ /nachgekocht/
-RewriteRule ^nachgekocht/(.*) /wissenswert/$1 [L,R=301]
+RewriteRule ^nachgekocht/(.*) /wissenswertes/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /ausprobiert/
-RewriteRule ^ausprobiert/(.*) /wissenswert/$1 [L,R=301]
+RewriteRule ^ausprobiert/(.*) /wissenswertes/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /dies-und-das/
-RewriteRule ^dies-und-das/(.*) /wissenswert/$1 [L,R=301]
+RewriteRule ^dies-und-das/(.*) /wissenswertes/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /fluessiges/t
-RewriteRule ^fluessiges/(.*) /wissenswert/$1 [L,R=301]
+RewriteRule ^fluessiges/(.*) /wissenswertes/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /fluessiges
-RewriteRule ^fluessiges /wissenswert/ [L,R=301]
+RewriteRule ^fluessiges /wissenswertes/ [L,R=301]
 
   
 
