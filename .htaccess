@@ -3,14 +3,33 @@ RewriteEngine on
 RewriteCond %{HTTP_HOST} !^www.der-reiskoch.de$
 RewriteCond %{REQUEST_URI} !^\/ads\.txt$
 RewriteRule ^(.*)$ https://www.der-reiskoch.de/$1 [R=301,L]
-
 RewriteRule ^([0-9]+) /suchen/id/?e=$1 [L,R=301]
+
+# Wissenswert ###########################################################################
+
+RewriteCond %{THE_REQUEST} ^GET\ /nachgekocht/
+RewriteRule ^nachgekocht/(.*) /wissenswert/$1 [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /ausprobiert/
+RewriteRule ^ausprobiert/(.*) /wissenswert/$1 [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /dies-und-das/
+RewriteRule ^dies-und-das/(.*) /wissenswert/$1 [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /fluessiges/t
+RewriteRule ^fluessiges/(.*) /wissenswert/$1 [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /fluessiges
+RewriteRule ^fluessiges /wissenswert/ [L,R=301]
+
+  
+
+# REZEPT ##################################################################################
 
 RewriteCond %{THE_REQUEST} ^GET\ /rezept/
 RewriteRule ^rezept/(.*) /rezepte/$1 [L,R=301]
 
-RewriteCond %{THE_REQUEST} ^GET\ /nachgekocht/
-RewriteRule ^nachgekocht/(.*) /ausprobiert/$1 [L,R=301]
+# Utensilien ###############################################################################
 
 RewriteCond %{THE_REQUEST} ^GET\ /tools/
 RewriteRule ^tools/(.*) /utensilien/$1 [L,R=301]
@@ -18,6 +37,9 @@ RewriteRule ^tools/(.*) /utensilien/$1 [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /tools
 RewriteRule ^tools /utensilien/ [L,R=301]
 
+# Tags ###############################################################################
+
+  
 RewriteCond %{THE_REQUEST} ^GET\ /categories/
 RewriteRule ^categories/(.*) /tags/$1 [L,R=301]
 
@@ -30,14 +52,12 @@ RewriteRule ^stichwort/(.*) /tags/$1 [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /stichwort
 RewriteRule ^stichwort /tags/ [L,R=301]
 
-RewriteCond %{THE_REQUEST} ^GET\ /fluessiges/t
-RewriteRule ^fluessiges/(.*) /dies-und-das/$1 [L,R=301]
-
-RewriteCond %{THE_REQUEST} ^GET\ /fluessiges
-RewriteRule ^fluessiges /dies-und-das/ [L,R=301]
+# Zutaten ###############################################################################
 
 RewriteCond %{THE_REQUEST} ^GET\ /zutaten/einkaufen
 RewriteRule ^zutaten/einkaufen/(.*) /zutaten/ [L,R=301]
+
+# Tagebuch ###############################################################################
 
 RewriteCond %{THE_REQUEST} ^GET\ /kurz-und-gut/
 RewriteRule ^kurz-und-gut/(.*) /tagebuch/$1 [L,R=301]
@@ -82,6 +102,7 @@ RewriteCond %{THE_REQUEST} ^GET\ /tagebuch/mittagspause/
 RewriteRule ^tagebuch/mittagspause/(.*) /tagebuch/ [L,R=301]
 
 #https://www.der-reiskoch.de/thaipause/tagebuch/2021/10/25/?fbclid=IwAR2podBLMAIkhlREuBv6cbjDJ8hXazuK60LH05pIvYezjZGVLWg_8AH4TI4
+
 #remove facebook fbclid qeuery param
 RewriteCond %{QUERY_STRING} ^(.*?)(&?fbclid=[a-zA-Z0-9_-]+)$
 RewriteRule ^(.*)$ /$1?%1 [L,NE,R=301]
@@ -89,41 +110,43 @@ RewriteRule ^(.*)$ /$1?%1 [L,NE,R=301]
 ###############################################################################################
 
 <IfModule mod_expires.c>
-  ExpiresActive On
 
-  ExpiresByType text/html "modification 4 hours"
+ExpiresActive On
 
-  # Images
-  ExpiresByType image/jpeg "access plus 1 year"
-  ExpiresByType image/gif "access plus 1 year"
-  ExpiresByType image/png "access plus 1 year"
-  ExpiresByType image/webp "access plus 1 year"
-  ExpiresByType image/svg+xml "access plus 1 year"
-  ExpiresByType image/x-icon "access plus 1 year"
+ExpiresByType text/html "modification 4 hours"
 
-  # Video
-  ExpiresByType video/webm "access plus 1 year"
-  ExpiresByType video/mp4 "access plus 1 year"
-  ExpiresByType video/mpeg "access plus 1 year"
+# Images
+ExpiresByType image/jpeg "access plus 1 year"
+ExpiresByType image/gif "access plus 1 year"
+ExpiresByType image/png "access plus 1 year"
+ExpiresByType image/webp "access plus 1 year"
+ExpiresByType image/svg+xml "access plus 1 year"
+ExpiresByType image/x-icon "access plus 1 year"
 
-  # Fonts
-  ExpiresByType font/ttf "access plus 1 year"
-  ExpiresByType font/otf "access plus 1 year"
-  ExpiresByType font/woff2 "access plus 1 year"
-  ExpiresByType font/woff "access plus 1 year"
-  ExpiresByType application/font-woff2 "access plus 1 year"
-  ExpiresByType application/font-woff "access plus 1 year"
+# Video
+ExpiresByType video/webm "access plus 1 year"
+ExpiresByType video/mp4 "access plus 1 year"
+ExpiresByType video/mpeg "access plus 1 year"
 
-  # CSS, JavaScript
-  ExpiresByType text/css "access plus 1 year"
-  ExpiresByType text/javascript "access plus 1 year"
-  ExpiresByType application/javascript "access plus 1 year"
+# Fonts
+ExpiresByType font/ttf "access plus 1 year"
+ExpiresByType font/otf "access plus 1 year"
+ExpiresByType font/woff2 "access plus 1 year"
+ExpiresByType font/woff "access plus 1 year"
+ExpiresByType application/font-woff2 "access plus 1 year"
+ExpiresByType application/font-woff "access plus 1 year"
 
-  # Others
-  ExpiresByType application/pdf "access plus 1 year"
-  ExpiresByType image/vnd.microsoft.icon "access plus 1 year"
+# CSS, JavaScript
+ExpiresByType text/css "access plus 1 year"
+ExpiresByType text/javascript "access plus 1 year"
+ExpiresByType application/javascript "access plus 1 year"
 
-  ExpiresDefault "access plus 1 year"
+# Others
+ExpiresByType application/pdf "access plus 1 year"
+ExpiresByType image/vnd.microsoft.icon "access plus 1 year"
+
+ExpiresDefault "access plus 1 year"
+
 </IfModule>
 
 ErrorDocument 404 /nicht-gefunden/index.html
