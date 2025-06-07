@@ -193,6 +193,7 @@ Disallow: /en/diary/diary-2024-03/
 Disallow: /en/diary/diary-2024-02/
 Disallow: /en/diary/diary-2024-01/
 Disallow: /en/diary/diary-2023-12/
+Disallow: /en/recommendations/
 Disallow: /en/search/
 Disallow: /tags/
 Disallow: /index.xml

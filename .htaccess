@@ -22,24 +22,27 @@ RewriteRule ^fluessiges/(.*) /wissenswertes/$1 [L,R=301]
 RewriteCond %{THE_REQUEST} ^GET\ /fluessiges
 RewriteRule ^fluessiges /wissenswertes/ [L,R=301]
 
-  
-
 # REZEPT ##################################################################################
 
 RewriteCond %{THE_REQUEST} ^GET\ /rezept/
 RewriteRule ^rezept/(.*) /rezepte/$1 [L,R=301]
 
-# Utensilien ###############################################################################
+# ZUBEHÖR ###############################################################################
+
+RewriteCond %{THE_REQUEST} ^GET\ /utensilien/
+RewriteRule ^utensilien/(.*) /zubehoer/$1 [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /utensilien
+RewriteRule ^utensilien /zubehoer/ [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /tools/
-RewriteRule ^tools/(.*) /utensilien/$1 [L,R=301]
+RewriteRule ^tools/(.*) /zubehoer/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /tools
-RewriteRule ^tools /utensilien/ [L,R=301]
+RewriteRule ^tools /zubehoer/ [L,R=301]
 
 # Tags ###############################################################################
 
-  
 RewriteCond %{THE_REQUEST} ^GET\ /categories/
 RewriteRule ^categories/(.*) /tags/$1 [L,R=301]
 
