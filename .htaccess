@@ -5,7 +5,7 @@ RewriteCond %{REQUEST_URI} !^\/ads\.txt$
 RewriteRule ^(.*)$ https://www.der-reiskoch.de/$1 [R=301,L]
 RewriteRule ^([0-9]+) /suchen/id/?e=$1 [L,R=301]
 
-# Wissenswert ###########################################################################
+# Wissenswerters ###########################################################################
 
 RewriteCond %{THE_REQUEST} ^GET\ /nachgekocht/
 RewriteRule ^nachgekocht/(.*) /wissenswertes/$1 [L,R=301]
@@ -21,6 +21,9 @@ RewriteRule ^fluessiges/(.*) /wissenswertes/$1 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^GET\ /fluessiges
 RewriteRule ^fluessiges /wissenswertes/ [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^GET\ /wissenswert/
+RewriteRule ^wissenswert/(.*) /wissenswertes/$1 [L,R=301]
 
 # REZEPT ##################################################################################
 
