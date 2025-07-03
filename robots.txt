@@ -1,6 +1,7 @@
 User-agent: *
 
 Disallow: /tagebuch/
+Disallow: /tagebuch/2025-07/
 Disallow: /tagebuch/2025-06/
 Disallow: /tagebuch/2025-05/
 Disallow: /tagebuch/2025-04/
