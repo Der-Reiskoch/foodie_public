@@ -175,6 +175,7 @@ Disallow: /system/
 Disallow: /link/
 Disallow: /inspirationen/videos/yings-thai-cooking-home/
 Disallow: /en/diary/
+Disallow: /en/diary/diary-2025-07/
 Disallow: /en/diary/diary-2025-06/
 Disallow: /en/diary/diary-2025-05/
 Disallow: /en/diary/diary-2025-04/
