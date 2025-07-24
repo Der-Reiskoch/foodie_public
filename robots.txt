@@ -163,6 +163,7 @@ Disallow: /inspirationen/blogs/reisehappen/
 Disallow: /inspirationen/blogs/ryukoch/
 Disallow: /inspirationen/blogs/she-simmers-thai-home-cooking/
 Disallow: /inspirationen/blogs/siam-sizzles-von-cherry-und-dan/
+Disallow: /api/thai-food-dictionary.json
 Disallow: /ahaan-thai-laden/
 Disallow: /inspirationen/blogs/thai-thaifood/
 Disallow: /inspirationen/blogs/thaifoodmaster/
