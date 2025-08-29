@@ -148,7 +148,6 @@ Disallow: /system/newsletter-confirm/
 Disallow: /system/newsletter-thank-you/
 Disallow: /inspirationen/blogs/eating-thai-food/
 Disallow: /inspirationen/blogs/einfach-chinesisch-kochen/
-Disallow: /api/
 Disallow: /inspirationen/blogs/foodina/
 Disallow: /inspirationen/blogs/hot-thai-kitchen/
 Disallow: /inspirationen/blogs/hungry-in-thailand-von-preaw/
