@@ -165,7 +165,6 @@ Disallow: /inspirationen/blogs/reisehappen/
 Disallow: /inspirationen/blogs/ryukoch/
 Disallow: /inspirationen/blogs/she-simmers-thai-home-cooking/
 Disallow: /inspirationen/blogs/siam-sizzles-von-cherry-und-dan/
-Disallow: /ahaan-thai-laden/
 Disallow: /inspirationen/blogs/thai-thaifood/
 Disallow: /inspirationen/blogs/thaifoodmaster/
 Disallow: /inspirationen/blogs/thaifreun_de/
@@ -173,6 +172,7 @@ Disallow: /inspirationen/blogs/thaitable-von-natty-und-peter/
 Disallow: /inspirationen/blogs/the-high-heel-gourmet/
 Disallow: /inspirationen/blogs/the-woks-of-life/
 Disallow: /inspirationen/blogs/try-thai/
+Disallow: /iframe-dialog-laden/
 Disallow: /system/
 Disallow: /link/
 Disallow: /inspirationen/videos/yings-thai-cooking-home/
