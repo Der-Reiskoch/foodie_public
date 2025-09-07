@@ -1,5 +1,6 @@
 User-agent: *
 
+Disallow: /system/
 Disallow: /tagebuch/
 Disallow: /tagebuch/2025-09/
 Disallow: /tagebuch/2025-08/
@@ -173,7 +174,6 @@ Disallow: /inspirationen/blogs/the-high-heel-gourmet/
 Disallow: /inspirationen/blogs/the-woks-of-life/
 Disallow: /inspirationen/blogs/try-thai/
 Disallow: /iframe-dialog-laden/
-Disallow: /system/
 Disallow: /link/
 Disallow: /inspirationen/videos/yings-thai-cooking-home/
 Disallow: /en/diary/
