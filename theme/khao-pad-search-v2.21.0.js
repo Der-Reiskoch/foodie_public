@@ -24,7 +24,7 @@ import"./modulepreload-polyfill.js";const _=()=>{let t={};const e=document.getEl
          ${o?cn(o):""}
     </div>
     </header>`,X=(t,e=!1)=>{let s="";return t&&(s=`<div class="centered-flex-col centered-text ${e?"search__no-results":""}">${t}</div>`),s},ln=t=>{let e="";return t&&(e=`<div class="summary-excerpt">${t}</div>`),e};function hn(t){return t==="work-and-wok"?"Work 'n' Wok":t==="suessspeise"?"Süßspeise":(t=t.replace(/-/g," "),t=t.replace(/_/g," "),t.split(" ").map(s=>s.length===0?"":s[0].toUpperCase()+s.slice(1).toLowerCase()).join(" "))}function gn(t){return t.replace(/ä/g,"a").replace(/ö/g,"o").replace(/ü/g,"u").replace(/&/g,"").toLowerCase().replace(/\s+/g,"-")}const dn=t=>{let e="";const n=z()==="de"?"/tags":"/en/tags";if(t){const a=t.split(" ");let r="";a.forEach(o=>{const i=`${n}/${gn(o)}/`;r+=`
-            <khao-chip href="${i}" rel="tag"><span>${hn(o)}</span></khao-chip>
+            <a class="khao-pad-tag" href="${i}" rel="tag"><span>${hn(o)}</span></a>
              `}),e=`<div class="summary-tags"><div class="tag-list">
                     ${r}
                   </div></div>`}return e},pn=(t,e,s,n)=>{const a=n&&n.toLowerCase()==="ins"&&(t.indexOf("blogs")>-1||t.indexOf("videos")>-1||t.indexOf("gruppen"))?"default":"elevated";return`
